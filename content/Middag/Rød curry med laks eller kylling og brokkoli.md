@@ -2,10 +2,10 @@
 created: 2021-01-15
 ---
 
-![[Bilder/Kristians røde cummy eller kylling med brokkoli.jpg|300]]
+![[Bilder/Rød curry med laks eller kylling og brokkoli.jpg|300]]
 Gjorde store endinger på originaloppskriften.
 
-Ungene var ikke så glad i sausen x 2. Jeg likte den. Trenger ikke bruke 600 gram laks akkurat.
+Sausen kan reduseres. Det er ikke nødvendig å bruke 600 gram laks.
 
 **Porsjoner**: 4 (4 porsjoner)  
 **Kilde**: [trinesmatblogg.no](https://trinesmatblogg.no/recipe/gronn-curry-med-torsk-brokkolini/)  

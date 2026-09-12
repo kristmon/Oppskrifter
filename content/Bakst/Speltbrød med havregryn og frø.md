@@ -7,8 +7,6 @@ Tre brød kan legges i to lange og en kort.
 
 Selv med smurte blanke former får jeg ikke brødet ut.
 
-Sandor er ikke fan.
-
 **Porsjoner**: 2
 
 ## Ingredienser

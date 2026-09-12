@@ -8,7 +8,6 @@ Denne gratengen lages i en rimelig stor form og er friggin god. Mengdene kan var
 Lag to!
 
 **Porsjoner**: 3  
-**Kilde**: [mongene.no](https://mongene.no/wikey/Oppskrifter/FarmorsFiskegrateng)  
 **Plan to Eat-tag**: Fisk, Kalorier
 
 ## Ingredienser

@@ -3,11 +3,10 @@ created: 2021-03-27
 ---
 
 ![[Bilder/Chairman Mjau's crockpot pastasaus.jpg|300]]
-Basert på denne: https://www.allrecipes.com/recipe/58854/slow-cooker-tomato-sauce/ men uten chili pga kidsa.
+Basert på denne: https://www.allrecipes.com/recipe/58854/slow-cooker-tomato-sauce/, men uten chili for en mildere variant.
 
 **Porsjoner**: 12 (4 runder til pastamiddag)  
 **Tid**: 570 min (30 prep + 540 cook)  
-**Original-kilde**: Mong  
 **Plan to Eat-tag**: Crock Pot, Kjøttdeig, Vegetar
 
 ## Ingredienser

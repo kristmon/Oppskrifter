@@ -3,7 +3,7 @@ created: 2020-11-25
 ---
 
 ![[Bilder/Jailhouse Chili.jpg|300]]
-Kjører den i crockpot, je. God. Ingeborg likte. Brukte ikke chili.
+Kjører den i crockpot. God. Brukte ikke chili.
 
 **Porsjoner**: 8  
 **Plan to Eat-tag**: Kjøttdeig

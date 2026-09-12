@@ -3,7 +3,7 @@ created: 2021-03-25
 ---
 
 ![[Bilder/Croque monsieur.jpg|300]]
-Ingeborg likte, Sandor ikke. Trenger ikke smøre så tykt med saus oppå, og lag den gjerne ikke altfor tykk.
+Trenger ikke smøre så tykt med saus oppå, og lag den gjerne ikke altfor tykk.
 
 **Porsjoner**: 8  
 **Tid**: 25 min (5 prep + 20 cook)  

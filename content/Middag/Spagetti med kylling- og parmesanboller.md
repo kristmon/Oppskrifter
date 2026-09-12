@@ -5,7 +5,7 @@ created: 2020-08-27
 ![[Bilder/Spagetti med kylling- og parmesanboller.jpg|300]]
 En sikker vinner blant store og små. Kjøttbollene kan lages med kjøttdeig av storfe, svin eller kylling. Server gjerne med grønn salat.
 
-Opphavet laget denne i august 2020. Ingeborg likte bollene, Sandor holdt seg til spaghetti. De laget den med hjemmelaget saus.
+Serverte den med hjemmelaget saus.
 
 **Porsjoner**: 4 (Antall personer: 4)  
 **Tid**: 60 min (30 prep + 30 cook)  

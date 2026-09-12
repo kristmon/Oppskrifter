@@ -1,7 +1,7 @@
 ---
 created: 2022-02-28
 ---
-Sandor liker. Torsk og hyse.
+Torsk og hyse fungerer fint.
 
 **Porsjoner**: 1  
 **Plan to Eat-tag**: Fisk

@@ -2,7 +2,7 @@
 created: 2020-08-28
 ---
 
-![[Bilder/Omelett ala Mong.jpg|300]]
+![[Bilder/Omelett med skinke og ost.jpg|300]]
 **Porsjoner**: 1  
 **Tid**: 900 min
 

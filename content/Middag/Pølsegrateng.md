@@ -3,9 +3,7 @@ created: 2021-08-12
 ---
 
 ![[Bilder/Pølsegrateng.jpg|300]]
-Ikke la den bade i saus. Sandor liker ikke så godt.
-
-Jo, 50/50 uten blomkål så spiste Sandor
+Ikke la den bade i saus.
 
 **Porsjoner**: 4 (4 porsjoner)  
 **Tid**: 45 min (25 prep + 20 cook)  

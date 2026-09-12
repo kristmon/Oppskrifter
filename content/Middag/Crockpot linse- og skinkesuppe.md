@@ -5,7 +5,7 @@ created: 2022-01-04
 ![[Bilder/Crockpot linse- og skinkesuppe.jpg|300]]
 Kom hjem til en kraftig krydret kraft fylt med linser, skinke og grønnsaker. Server med maismelmuffins for et bra måltid.
 
-Ungene elsket det ikke, men det var veldig godt. Opphavet var enige.
+Veldig godt.
 
 **Porsjoner**: 6  
 **Tid**: 680 min (20 prep + 660 cook)  

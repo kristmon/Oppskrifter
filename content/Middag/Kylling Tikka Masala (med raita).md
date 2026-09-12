@@ -3,7 +3,7 @@ created: 2020-08-11
 ---
 
 ![[Bilder/Kylling Tikka Masala (med raita).jpg|300]]
-Jeg var skeptisk til en norsk-indisk oppskrift, men denne retten var helt vilt god. Til og med ungene likte den. 
+Jeg var skeptisk til en norsk-indisk oppskrift, men denne retten var helt vilt god.
 
 Serverte den sammen med hjemmelagde naan-brød med masse smør på.
 

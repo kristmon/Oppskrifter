@@ -3,7 +3,7 @@ created: 2020-10-12
 ---
 
 ![[Bilder/San Francisco-koteletter.jpg|300]]
-NAM @ SAUSEN! Ungene likte ikke første gang, men likte pastaen med saus neste gang. Passet kjempebra med spaghetti. Funket greit med sous vide også, men tror at kotelettene blir mer saftige om de får kose seg i sausen en god stund.
+Nydelig saus! Passet kjempebra med spaghetti. Funket greit med sous vide også, men kotelettene blir trolig saftigere om de får kose seg i sausen en god stund.
 
 Møre koteletter i en deilig saus — fungerer godt over nudler eller tynn spaghetti.
 

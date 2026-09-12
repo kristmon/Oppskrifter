@@ -7,7 +7,7 @@ I langpanne. Bruk den dype, store i nederste skuff, med bakepapir, ikke -ark.
 
 Sausskålen er litt liten til å smelte det i starten med. 
 
-Meget moist og ikke altfor søt kake. Ungene elsker den.
+Meget saftig og ikke altfor søt kake.
 
 Best etter en natt i kjøleskapet imho
 

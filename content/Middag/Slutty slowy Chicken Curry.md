@@ -3,7 +3,7 @@ created: 2020-08-13
 ---
 
 ![[Bilder/Slutty slowy Chicken Curry.jpg|300]]
-Ikke så verst curry som kan tilpasses med ingredienser. Ingeborg likte så lenge det ikke var chili oppi. Husk at denne tar ganske lang tid å lage, det er ikke en hurry curry.
+Ikke så verst curry som kan tilpasses med ingredienser. Dropp chili for en mildere variant. Husk at denne tar ganske lang tid å lage; det er ikke en hurry curry.
 
 **Porsjoner**: 4  
 **Tid**: 75 min (15 prep + 60 cook)  

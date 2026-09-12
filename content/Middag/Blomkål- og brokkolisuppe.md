@@ -3,9 +3,9 @@ created: 2020-09-27
 ---
 
 ![[Bilder/Blomkål- og brokkolisuppe.jpg|300]]
-Denne er god! Ingeborg digget den. Kan koke lenge på "første" runde for å få maks smak.
+Denne er god! Kan koke lenge på første runde for å få mest mulig smak.
 
-Lite pepper! Ungene klagde. Og det er lett å ta for mye når man driver og krydrer.
+Bruk lite pepper; det er lett å ta for mye når man krydrer.
 
 Ta mer væske, det ble veldig lite selv til to.
 

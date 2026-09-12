@@ -3,7 +3,7 @@ created: 2020-09-02
 ---
 
 ![[Bilder/Crockpot toscansk kylling.jpg|300]]
-God! Køl på med kylling. Begge ungene likte det. Gang nr 2 likte ikke Sandor. Kokte i ca 5 timer på low. Gang nr 2 var det high etter ca 3 timer. Kan både bruke klubber og lår, men Ingeborg savnet lår. God oppvarmet også, mye bedre enn biffbaserte retter. Bruk lår så det ikke er så mye å rense etc.
+God! Bruk rikelig med kylling. Kokte i ca. 5 timer på lav varme; en annen gang ca. 3 timer på høy varme. Kan bruke både klubber og lår. God oppvarmet også, mye bedre enn biffbaserte retter. Bruk lår så det ikke er så mye å rense.
 
 **Porsjoner**: 6  
 **Tid**: 15 min  

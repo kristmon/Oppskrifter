@@ -5,7 +5,7 @@ created: 2020-11-09
 ![[Bilder/Ordinært brød som er godt.jpg|300]]
 Dersom 3: to små og en stor form.
 
-Ganske vanlig brød, men godt — kidsa likte det veldig godt.
+Ganske vanlig brød, men godt.
 
 **Porsjoner**: 2 (2 brød)  
 **Kilde**: [bollefrua.no](https://bollefrua.no/2014/02/01/enkelt-hjemmebakt-brod-for-nybegynnere/)

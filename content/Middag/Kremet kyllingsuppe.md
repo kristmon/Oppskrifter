@@ -3,7 +3,7 @@ created: 2022-02-15
 ---
 
 ![[Bilder/Kremet kyllingsuppe.jpg|300]]
-Veldig god! Laget den da Ingeborg hadde korona. Kan ta i litt salt og jalapeno ekstra. 
+Veldig god! Kan ta i litt ekstra salt og jalapeño.
 
 Stek alt i panne før alt går i kokekaret.
 

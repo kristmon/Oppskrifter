@@ -3,7 +3,7 @@ created: 2020-09-28
 ---
 
 ![[Bilder/Calzone med spinat og ricotta.jpg|300]]
-Denne er god, laget den for Hanne og ungene. Ikke vanskelig å lukke den, og det funket med ketchup, ost og kjøtt til de kresne av oss.
+Denne er god og ikke vanskelig å lukke. Ketchup, ost og kjøtt fungerer som et mildere fyll.
 
 Bruk mer urter og/eller jalapenos til denne, og ikke vær redd for å bruke salt.
 

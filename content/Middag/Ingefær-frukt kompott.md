@@ -17,7 +17,7 @@ created: 2026-05-05
 ## Fremgangsmåte
 
 1. For sirup, kombiner vann, sukker, sitronjuice og ingefær i liten kasserolle. Få blandingen til kok; reduser varmen. Dekk og småkoke i 5 minutter. Overfør til bolle. Kjøl. Dekk og kjøl opptil 24 timer.
-2. Plassere frukt i stor serveringsbolle. Hell sirup over frukt, bland forsiktig for å beate. Dekk og kjøl opptil 24 timer. Gir 6 porsjoner.
+2. Legg frukten i en stor serveringsbolle. Hell sirupen over og bland forsiktig så frukten dekkes. Dekk til og sett kjølig i opptil 24 timer. Gir 6 porsjoner.
 
 ## Info
 

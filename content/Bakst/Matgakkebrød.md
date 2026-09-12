@@ -3,7 +3,7 @@ created: 2020-09-28
 ---
 
 ![[Bilder/Matgakkebrød.jpg|300]]
-Tror ungene liker dette bedre enn meg. Men med god heving og litt mel oppå er det ikke så verst.
+Med god heving og litt mel oppå er det ikke så verst.
 
 **Porsjoner**: 3  
 **Tid**: 240 min  

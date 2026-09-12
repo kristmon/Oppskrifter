@@ -10,7 +10,6 @@ created: 2020-08-12
 
 **Porsjoner**: 3  
 **Tid**: 20 min  
-**Kilde**: [mongene.no](https://mongene.no/wikey/Oppskrifter/PastaCarbonara)  
 **Plan to Eat-tag**: Pasta, Svin  
 **Rating**: 0
 

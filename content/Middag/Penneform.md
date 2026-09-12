@@ -3,8 +3,6 @@ created: 2020-11-04
 ---
 
 ![[Bilder/Penneform.jpg|300]]
-Ungene var ikke overbegeistret.
-
 Testet ut denne oppskriften jeg fant på hjemmesiden til Rachael Ray (hvor du dessuten finner engelsk versjon), og den var absolutt verdt å blogge om. Det er en veldig stor oppskrift, så vi kan spise oss stappmette i iallefall to dager, vi som bare er to. Server formen med en god salat til!
 
 **Porsjoner**: 4  

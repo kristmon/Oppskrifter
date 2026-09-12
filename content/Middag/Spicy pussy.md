@@ -3,7 +3,7 @@ created: 2020-08-26
 ---
 
 ![[Bilder/Spicy pussy.jpg|300]]
-Nam! Men lite sambal oelek dersom ungene skal like det.
+Nam! Bruk lite sambal oelek for en mildere variant.
 
 En spicy kylling- og pestopastarett som er enkel å justere etter ønsket varmegrad. Servér med ekstra parmesan etter smak. Som variant er den nydelig med kremet geitost rørt inn til slutt.
 

@@ -3,7 +3,7 @@ created: 2021-01-15
 ---
 
 ![[Bilder/Torskeform med paprika & chilisaus.jpg|300]]
-Denne er ekstremt god, Ingeborg er enig. Bruk en del saus, ikke spar på det. Og mye fisk er helt OK.
+Denne er ekstremt god. Bruk en del saus, ikke spar på den. Mye fisk fungerer også fint.
 
 **Porsjoner**: 4 (4 PORSJONER)  
 **Kilde**: [trinesmatblogg.no](https://trinesmatblogg.no/recipe/torskeform-med-paprika-chilisaus/)  

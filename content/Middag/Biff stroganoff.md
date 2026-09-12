@@ -4,7 +4,6 @@ created: 2020-09-30
 
 ![[Bilder/Biff stroganoff.jpg|300]]
 **Porsjoner**: 2  
-**Kilde**: [mongene.no](https://mongene.no/wikey/Oppskrifter/BiffStroganoff)  
 **Plan to Eat-tag**: Storfe
 
 ## Ingredienser

@@ -3,11 +3,11 @@ created: 2020-09-24
 ---
 
 ![[Bilder/Albondigas, Spanish tapas meatballs.jpg|300]]
-Nam, deilig med spaghetti og arrabiata! Ungene stoppet da de fant løk.
+Nam, deilig med spaghetti og arrabbiata! Løken bør blendes godt.
 
-La til et egg da jeg blendet annen gang. Men ungene likte det egentlig ikke så bra selv uten synlig løk. Vanskelig å få blendet hvitløk skikkelig.
+La til et egg da jeg blendet annen gang. Vanskelig å få blendet hvitløken skikkelig.
 
-Dette MÅ blendes mtp løk. Blir for mye biter om ikke. Men Sandor likte tredje gang!
+Dette må blendes på grunn av løken. Det blir for mange biter ellers.
 
 **Porsjoner**: 4  
 **Plan to Eat-tag**: Kjøttdeig
@@ -16,7 +16,7 @@ Dette MÅ blendes mtp løk. Blir for mye biter om ikke. Men Sandor likte tredje 
 
 - 500 g kjøttdeig
 - ½ dl olivenolje
-- ⅕ løk (blend for at ungene skal spise)
+- ⅕ løk, blendet
 - 2 fedd hvitløk, finhakket
 - 1 ts paprikapulver
 - ½ ts chilipulver (valgfritt)

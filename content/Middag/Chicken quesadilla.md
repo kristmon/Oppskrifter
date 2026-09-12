@@ -3,10 +3,9 @@ created: 2023-12-16
 ---
 
 ![[Bilder/Chicken quesadilla.jpg|300]]
-Bør antakelig ha to bokser tomat. Ungene likte ikke.
+Bør antakelig ha to bokser tomat.
 
 **Porsjoner**: 4  
-**Kilde**: [mongene.no](https://mongene.no/wikey/Oppskrifter/ChickenQuesadilla)  
 **Plan to Eat-tag**: Fjærkre
 
 ## Ingredienser

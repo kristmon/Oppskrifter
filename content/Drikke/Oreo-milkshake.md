@@ -3,7 +3,7 @@ created: 2020-09-25
 ---
 
 ![[Bilder/Oreo-milkshake.jpg|300]]
-Veldig barnvennlig, enkel og deilig. Favoritt på varme dager eller for ungenes "How to"-presentasjoner.
+Veldig barnevennlig, enkel og deilig. En favoritt på varme dager.
 
 **Porsjoner**: 2  
 **Tid**: 10 min  

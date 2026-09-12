@@ -5,7 +5,7 @@ created: 2020-10-05
 ![[Bilder/Grønnsaksgryte med couscous.jpg|300]]
 Sitat Mr. K: "Dette er så godt at man glemmer at det er sunt."
 
-Ungene hatet det. Da jeg laget, var det greit nok.
+Da jeg laget den, var den grei nok.
 
 **Porsjoner**: 1  
 **Tid**: 40 min (15 prep + 25 cook)  

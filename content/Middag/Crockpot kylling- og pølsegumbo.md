@@ -5,7 +5,7 @@ created: 2020-08-29
 ![[Bilder/Crockpot kylling- og pølsegumbo.jpg|300]]
 En bra ukedags-rett. Server over ris.
 
-Den var god! Lot den ligge 9 timer. Sandor likte tilmed chorizo (men ikke kylling).
+Den var god! Lot den stå i 9 timer. Chorizoen fungerte godt.
 
 **Porsjoner**: 8  
 **Tid**: 418 min (35 prep + 383 cook)  
@@ -22,7 +22,7 @@ Den var god! Lot den ligge 9 timer. Sandor likte tilmed chorizo (men ikke kyllin
 - 1 løk, terninger
 - 1 gul paprika, terninger
 - 2 stilker stangselleri, terninger
-- 1 jalapeño, finhakket (utelat for ungene)
+- 1 jalapeño, finhakket (kan utelates for en mildere variant)
 - 4 fedd hvitløk, finhakket
 - 1 ts hvitløkspulver
 - 1 ts malt paprika

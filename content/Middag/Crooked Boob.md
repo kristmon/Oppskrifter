@@ -5,7 +5,7 @@ created: 2021-11-09
 ![[Bilder/Crooked Boob.jpg|300]]
 Basert på denne (https://www.eatwell101.com/crock-pot-lemon-garlic-butter-chicken-recipe), men jeg brukte kyllingbryst, tomat og gadd ikke måle noe særlig.
 
-Ble moist og god, spicy. Server med ris og salat. Beate er ikke veldig glad i tomatsaus. La til litt crème fraîche. Helt grei addisjon. Men ikke så godt da jeg varmet opp senere.
+Ble saftig og god, med fint sting. Server med ris og salat. La til litt crème fraîche; helt greit, men ikke like godt oppvarmet.
 
 **Porsjoner**: 6  
 **Plan to Eat-tag**: Crock Pot, Fjærkre

@@ -3,7 +3,7 @@ created: 2020-09-13
 ---
 
 ![[Bilder/Enkle crockpot-kyllingfajitas.jpg|300]]
-Så enkelt og deilig at du nesten ikke vil tro det. Alle fire ungene mine elsker denne — ingen lett bragd! Skje fyllet i tortillas med valgfri topping, eller server over ris.
+Så enkelt og deilig at du nesten ikke vil tro det. Mild og barnevennlig. Legg fyllet i tortillas med valgfri topping, eller server over ris.
 
 **Porsjoner**: 4  
 **Tid**: 490 min (10 prep + 480 cook)  

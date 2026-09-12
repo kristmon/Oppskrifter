@@ -3,7 +3,7 @@ created: 2020-10-06
 ---
 
 ![[Bilder/Tomatsuppe.jpg|300]]
-Ikke for mye makaroni, og kanskje litt mer væske. Den ble mer som en gryte sist. Sandor likte ikke.
+Ikke bruk for mye makaroni, og kanskje litt mer væske. Den ble mer som en gryte sist.
 
 **Porsjoner**: 4  
 **Plan to Eat-tag**: Vegetar

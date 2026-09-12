@@ -2,8 +2,8 @@
 created: 2020-09-23
 ---
 
-![[Bilder/Kristians crackhead-gugge.jpg|300]]
-God stuing (?) etter egen oppskrift. Ungene hater det.
+![[Bilder/Crackhead-gugge.jpg|300]]
+God stuing etter egen oppskrift.
 
 **Porsjoner**: 6  
 **Tid**: 510 min (30 prep + 480 cook)  

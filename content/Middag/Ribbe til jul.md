@@ -13,9 +13,8 @@ Sjekk https://www.budstikka.no/to-ting-det-er-lett-a-gjore-feil-med-ribba/f/5-55
 - 400 g tynnribbe, skal være plenty til leftovers
 - poteter, ferske mandelpoteter
 - svisker
-- rødkål, 2 pakker til Mongene
+- rødkål, 2 pakker
 - tyttebær
-- julemat til ungene
 - Saus til ribbe:
 - 4 ss smør
 - 4 ss hvetemel

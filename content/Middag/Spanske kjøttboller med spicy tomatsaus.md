@@ -3,7 +3,7 @@ created: 2020-08-11
 ---
 
 ![[Bilder/Spanske kjøttboller med spicy tomatsaus.jpg|300]]
-Serverte med pasta. Gode! Uten chili pga ungene. Selv Sandor likte sausen.
+Serverte med pasta. Gode! Dropp chili for en mildere variant.
 
 **Porsjoner**: 20  
 **Kilde**: [trinesmatblogg.no](https://trinesmatblogg.no/recipe/spanske-kjottboller-med-spicy-tomatsaus/)  

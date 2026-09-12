@@ -3,7 +3,7 @@ created: 2020-12-05
 ---
 
 ![[Bilder/Verdens beste pepperkaker.jpg|300]]
-Husk forkle til ungene ifm glasur. Og lag hull øverst dersom de skal henges opp.
+Husk forklær ved glasering. Lag hull øverst dersom pepperkakene skal henges opp.
 
 **Porsjoner**: 150 (100-150 pepperkaker)  
 **Kilde**: [trinesmatblogg.no](https://trinesmatblogg.no/recipe/verdens-beste-pepperkaker-ingefaerkaker/)

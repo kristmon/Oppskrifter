@@ -3,7 +3,7 @@ created: 2024-04-07
 ---
 
 ![[Bilder/Kjapp indisk butter chicken.jpg|300]]
-Denne var veldig god! Til og med Beate likte. Husk naan, koriander og fetaost.
+Denne var veldig god! Husk naan, koriander og fetaost.
 
 Butter chicken, eller murgh makhani som den heter på indisk, er en populær indisk rett med saftige, marinerte kyllingbiter i en smakfull og fyldig smørsaus. Her er en kjapp og enkel variant, hvor kyllingen marineres kun i en halvtimes tid. For å få den fyldige og kremete sausen bør du benytte kremfløte og smør, her nytter det ikke med lettprodukter. Prøv den i helgen!
 

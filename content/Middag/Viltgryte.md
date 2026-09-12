@@ -31,4 +31,4 @@ Når urmannen skriker etter kjøtt, må man innfri! Denne oppskriften er litt s�
 3. Ha i snøfrisk, og la det trekke noen par minutter til. Ha i rømme, krydre med rosmarin og timian.
 4. La det stå og småkoke en stund under lokk et sted mellom 10 minutter og 2 timer. Ønskes tykkere konsistens, så kan du la den stå en stund uten lokk, evt ha i litt maizenna.
 5. Er du i det eksperimentelle hjørnet, kan du dumpe i litt brunost, einerbær eller sjokoladesaus.
-6. Smak til med salt og pepper før servering. Vi serverte med potetstappe og lett dampede brokkoli. Ungene likte forøvrig kun brokkolien.
+6. Smak til med salt og pepper før servering. Server gjerne med potetstappe og lett dampet brokkoli.

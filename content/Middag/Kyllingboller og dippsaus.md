@@ -1,9 +1,7 @@
 ---
 created: 2023-12-30
 ---
-Beates yndlingsrett!
-
-To egg var for mye, trenger antageligvis ikke egg (Beates stunt, ble veldig flytende).
+To egg ble for mye; blandingen ble veldig flytende.
 
 Men 600 g kjøttdeig passet med 2 egg. Prøv griljermel neste gang, trenger litt mer tekstur. Og mer saus!
 

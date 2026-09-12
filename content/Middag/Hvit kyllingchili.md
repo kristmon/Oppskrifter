@@ -4,7 +4,6 @@ created: 2023-12-18
 
 ![[Bilder/Hvit kyllingchili.jpg|300]]
 **Porsjoner**: 1  
-**Kilde**: [mongene.no](https://mongene.no/wikey/Oppskrifter/HvitKyllingchili)  
 **Plan to Eat-tag**: Fjærkre
 
 ## Ingredienser

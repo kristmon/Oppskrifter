@@ -2,7 +2,7 @@
 created: 2020-09-13
 ---
 
-![[Bilder/Curry ala Mong senior.jpg|300]]
+![[Bilder/Kyllingcurry med crème fraîche.jpg|300]]
 **Porsjoner**: 4  
 **Plan to Eat-tag**: Fjærkre
 

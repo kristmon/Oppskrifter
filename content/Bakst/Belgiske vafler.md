@@ -24,7 +24,7 @@ Skulle gjerne hatt litt mer flytende røre
 
 ## Fremgangsmåte
 
-1. 10 stk holder til kveldsmat til ungene og 2 til meg.
+1. 10 stk. holder til kveldsmat for omtrent tre personer.
 2. Visp sammen eggeplommer, salt, sukker og vaniljesukker. Rør inn smeltet smør og melk.
 3. Brukte tørrgjær til 5 vafler, rørte inn bare litt.
 4. Rør ut gjær i litt fingervarmt vann og bland det inn i melkeblandingen sammen med det meste av vannet.

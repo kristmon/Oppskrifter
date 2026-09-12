@@ -2,7 +2,6 @@
 created: 2020-08-12
 ---
 **Porsjoner**: 4  
-**Kilde**: [mongene.no](https://mongene.no/wikey/Oppskrifter/ColeslawAla%c3%98l-Stian)
 
 ## Ingredienser
 

@@ -3,7 +3,7 @@ created: 2021-01-15
 ---
 
 ![[Bilder/Verdens beste fiskesuppe.jpg|300]]
-Denne var god. Ungene likte ikke. Jeg gadd ikke ta fløten i egen kjele etc. Digg med mye grønnsaker oppi. Brukte en seiblokk.
+Denne var god. Jeg tok ikke fløten i en egen kjele. God med mye grønnsaker. Brukte en seiblokk.
 
 Kan redusere smøret! Og ikke for mye jalapeños, bare bittelitt.
 

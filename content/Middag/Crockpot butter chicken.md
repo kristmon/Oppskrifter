@@ -41,6 +41,6 @@ En ekstremt tilfredsstillende crockpot-oppskrift fra Delish.com.
 - Brukte 3 pakker std hakkede tomater.
 - Satte på blandingen uten kjøtt klokken 08:20.
 - La på 840 g kyllingbryst (6 stk) ca kl 10:00.
-- Tok den i firetiden. Ungene likte ikke. Trengte mer salt enn det jeg hadde hatt på, og sammen med ris og chiliflak var det ganske godt.
+- Tok den i firetiden. Trengte mer salt enn det jeg hadde hatt på; sammen med ris og chiliflak var det ganske godt.
 - Fikk tre relativt store bokser til nedfrysning.
 - Runde to slengte jeg i en dose curry.

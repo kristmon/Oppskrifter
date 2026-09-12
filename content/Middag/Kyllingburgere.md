@@ -3,7 +3,7 @@ created: 2021-08-12
 ---
 
 ![[Bilder/Kyllingburgere.jpg|300]]
-Ikke så veldig gode. Sandor likte ikke. Burde antageligvis grilles.
+Ikke så veldig gode. Burde antagelig grilles.
 
 **Porsjoner**: 4  
 **Original-kilde**: Sara Haas  

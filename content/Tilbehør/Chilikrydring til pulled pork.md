@@ -6,7 +6,6 @@ created: 2020-08-12
 Til 2,5 kg porker brukte jeg litt over halve blandingen, med rimelig liberal sprinkling. Satte derfor original servering = 4.
 
 **Porsjoner**: 4  
-**Kilde**: [mongene.no](https://mongene.no/wikey/Oppskrifter/ChiliRub)
 
 ## Ingredienser
 

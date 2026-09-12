@@ -3,7 +3,7 @@ created: 2020-08-13
 ---
 
 ![[Bilder/Stekt ris i take-away-stil.jpg|300]]
-Vri inn noe kylling eller kjøtt, og hold risen renest mulig for at Sandor skal spise.
+Vend inn kylling eller annet kjøtt, og hold risen forholdsvis enkel for en mildere variant.
 
 **Porsjoner**: 4  
 **Tid**: 25 min (15 prep + 10 cook)  
