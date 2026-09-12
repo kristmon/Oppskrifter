@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Avokado salsa
-
 ## Ingredienser
 
-- 1 ripe Haas avokado, coarsely hakket
-- 1 ss finely kutt i terninger red løk
-- 1 ss hakket jalapeno
-- 2 ss frisk lime saft
-- Salte etter smak
-- Freshly malt pepper etter smak
+- 1 moden Haas-avokado, grovhakket.
+- 1 ss finhakket rødløk.
+- 1 ss finhakket jalapeno.
+- 2 ss fersk limesaft.
+- Salt etter smak.
+- Nymalt pepper etter smak.
 
 ## Fremgangsmåte
 
-1. Kombiner alle av den ingredienser i en bolle.
-2. Krydre etter smak med salt og freshly malt pepper.
+1.  Bland alle ingrediensene i en bolle.
+2.  Krydre med salt og ferskmalt pepper etter smak.
 
 ## Info
 

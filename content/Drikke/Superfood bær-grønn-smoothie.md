@@ -5,8 +5,8 @@ created: 2020-10-10
 ![[Bilder/Superfood bær-grønn-smoothie.jpg|300]]
 Måltid-størrelse frokostsmoothie som metter helt frem til lunsj. Høy i antioksidanter, fiber, protein og C-vitamin — både god og sunn.
 
-**Porsjoner**: 1  
-**Tid**: 10 min  
+**Porsjoner**: 1
+**Tid**: 10 min
 **Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/245768/superfood-berry-green-smoothie/)
 
 ## Ingredienser

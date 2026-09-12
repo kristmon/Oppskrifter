@@ -2,22 +2,20 @@
 created: 2026-05-05
 ---
 
-# Frukt Fantasi
-
 ## Ingredienser
 
 - 2 bananer, skåret
 - 5 dl skåret ferske jordbær
 - 1 boks ananasbiter i saft (565 g), avlastet og saft reservert
 - 1 boks skåret fersken i saft (425 g), avlastet og saft reservert
-- 1 ts sukkerfri Tang drikke mix
+- 1 ts sukkerfritt appelsindrikkpulver
 - 1 pakke sukkerfri vanilj instant puddingmix (25 g)
 
 ## Fremgangsmåte
 
-1. I et stort serveringsfat kombinerer du bananer, jordbær, ananas og fersken; legg til side.
-2. I en separat bolle kombinerer du reservert ananassaft, Tang mix og pudding mix. Bland godt med visp - det vil bli tykt.
-3. Skje puddingblandingen over frukten og bland forsiktig for å dekke. Kan fortynnes med reservert ferskensaft etter ønskegn. Kjøl ned i 30 minutter før servering.
+1. I et stort serveringsfat kombinerer du bananer, jordbær, ananas og fersken; sett til side.
+2. Bland den reserverte ananassaften, appelsindrikkpulveret og puddingpulveret i en egen bolle. Visp godt; blandingen vil tykne.
+3. Fordel puddingblandingen over frukten og bland forsiktig for å dekke. Du kan eventuelt fortynne med reservert ferskensaft etter smak. Avkjøl i 30 minutter før servering.
 
 ## Info
 

@@ -2,9 +2,7 @@
 created: 2026-05-05
 ---
 
-# Karri-epple-kylling
-
-*Epler og krydder er lagret over mørt kyllingbryst til en deilig hovedrett. Serv med basmatiris.*
+Epler og krydder er lagt over en mør kyllingbrystfilet, og gir en deilig hovedrett. Server med basmatiris.
 
 ## Ingredienser
 
@@ -24,11 +22,11 @@ created: 2026-05-05
 ## Fremgangsmåte
 
 1. Forvarm ovnen til 175°C.
-2. Skylt kyllingbryst, la tørr og dekk i mel.
-3. Varm stor stekepanne over medium-høy varme. Dekk stekepannen med vegetatmatlaging matspray. Tilsett kylling og brun på begge sider, ca. 4 minutter totalt. Sett til side i bakefat.
-4. I samme stekepannen over medium varme, kok løk i vann i 5 minutter; tilsett eple og kok 1 minutt lenger. Skje over reservert kylling.
-5. I liten bolle kombiner kyllingbuljong, salt, karry, ingefær, gurkemeie og pepper. Hell over kylling og bak, dekket til, 40 minutter. Tilsett rosiner og kok 5 minutter til, til kylling er ferdig.
-6. Serv varm.
+2. Skyll kyllingbrystene, tørk dem og vend dem i mel.
+3. Varm en stor stekepanne på middels høy varme. Spray pannen med matolje. Legg kyllingen i pannen og brun den på begge sider, ca. 4 minutter totalt. Sett til side i et ildfast fat.
+4. I samme stekepanne, på middels varme, kok løk i litt vann i 5 minutter. Tilsett eple og kok i 1 minutt til. Fordel blandingen over den reserverte kyllingen.
+5. I en liten bolle, bland kyllingkraft, salt, karri, ingefær, gurkemeie og pepper. Hell blandingen over kyllingen og sett i ovnen, med lokk, i 40 minutter. Tilsett rosiner og stek i 5 minutter til, til kyllingen er gjennomstekt.
+6. Server varmt.
 
 ## Info
 

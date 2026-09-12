@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Mandelapelsin-salat
-
 ## Ingredienser
 
 - 75 ml appelsinjuice
@@ -21,9 +19,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. For å lage dressing, bland juice, eddik, olje, honning, ingefær, salt og chilipaprika i blender.
-2. I medium bolle, kombiner appelsinkiver, paprika, løk og dressing. La stå i minst 10 minutter.
-3. Bland spinat med dressing og strø ristet skållet mandler på toppen.
+1. For å lage dressing, bland juice, eddik, olje, honning, ingefær, salt og chilipaprika i en blender.
+2. I en middels stor bolle, bland appelsinskiver, paprika, løk og dressing. La det stå i minst 10 minutter.
+3. Bland spinat med dressing og dryss ristede, skållede mandler over.
 
 ## Info
 

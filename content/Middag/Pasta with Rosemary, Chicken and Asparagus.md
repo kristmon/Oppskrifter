@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Pasta with Rosemary, Chicken and Asparagus
-
 ## Ingredienser
 
-- 8 oz Mostaccioli, Ziti or other medium pasta shape, uncooked
-- 1 Tbs vegetable oil
-- 1 clove garlic, minced
-- 1/2 tsp dried rosemary
-- 10 oz boneless, skinless chicken breast, trimmed of fat and cut into bite-size, thin strips
-- 16 asparagus spears, sliced thin (about 2 cups), or 1 10-oz. package frozen asparagus, thawed and drained, sliced thin
-- 1/2 cup chicken broth
-- 2 Tbs parsley, chopped
-- 2 Tbs grated Parmesan cheese
-- Salt and freshly ground pepper to taste
+- 227: Mostaccioli, ziti eller annen pastaform av middels størrelse, ukokt.
+- 1: ss vegetabilsk olje.
+- 1: fedd hvitløk, finhakket.
+- 1/2: ts tørket rosmarin.
+- 284: g kyllingbryst uten bein og uten skinn, uten overflødig fett, og skjært i små, tynne strimler.
+- 16: aspargesstaver, i tynne skiver (omtrent 4,8 dl), eller 1 10 g frosne asparges, tint og avrent, i tynne skiver.
+- 1,2: dl kyllingkraft.
+- 2: ss persille, hakket.
+- 2: ss revet parmesanost.
+- Salt og nykvernet pepper etter smak.
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; drain.
-2. Heat vegetable oil in a deep skillet over medium heat. Add garlic and rosemary and cook 15 seconds. Add chicken and cook, tossing well, until lightly browned, about 3 minutes.
-3. Add asparagus, chicken broth, parsley and pasta to skillet. Increase heat to high and boil, stirring occasionally, until liquid has reduced enough to lightly cover pasta.
-4. Sprinkle Parmesan, salt and pepper over pasta and toss. Serve immediately.
+1. Kok pastaen etter anvisningene på pakken; sil av vannet.
+2. Varm vegetabilsk olje i en dyp stekepanne over middels varme. Tilsett hvitløk og rosmarin og stek i 15 sekunder. Tilsett kylling og stek, rør godt, til den er lett brunet, ca. 3 minutter.
+3. Tilsett asparges, kyllingkraft, persille og pasta i stekepannen. Øk varmen til høy og kok opp, rør av og til, til væsken har redusert nok til å dekke pastaen lett.
+4. Dryss over parmesan, salt og pepper, og rør godt. Server umiddelbart.
 
 ## Info
 

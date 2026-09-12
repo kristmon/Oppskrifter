@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Lette gresskar og aprikos muffins
-
 ## Ingredienser
 
 - 400 ml hvetemel

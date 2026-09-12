@@ -2,33 +2,31 @@
 created: 2026-05-05
 ---
 
-# Sticky Date Pudding
-
 ## Ingredienser
 
-- 8 oz dates
+- 227 g dadler
 - 1 ts natron
-- 1 1/10 dl all-purpose mel
+- 1 1/10 dl hvetemel
 - 2 ts bakepulver
 - 1/4 ts salt
 - 4 ss smør
-- 0,8 dl granulated sukker
+- 0,8 dl sukker
 - 2 egg
 - 1/2 ts vaniljeekstrakt
 - 1,6 dl brunt sukker
-- 1/4 pint whipping fløte
-- 4 ss margarine
+- 1/4 desiliter kremfløte
+- 4 ss margarin
 - 1/2 ts vaniljeekstrakt
 
 ## Fremgangsmåte
 
-1. In a deep saucepan, cover dates with vann, bring til kokepunktet. reduser varmen to medium; kok 3 minutter. ta av varmen. rør in natron; set aside.
-2. Rør together mel, bakepulver and salt; set aside.
-3. fløte smør and sukker; grundig beat in egg one at a time. Beat in 1/2 teaspoon vanilje.
-4. Fold reserved mel mixture into smør mixture. (The batter will be like a sticky dough.) rør in chopped dates and 1/4 cup liquid from dates. (Discard the remainder of the liquid.) The batter will now resemble a thick pancake batter. hell batter into a buttered 8 x 2 inch cake pan.
-5. bak at 350°F til center is just firm to the touch, about 25 minutter.
-6. Sticky Date Pudding Sauce: In a deep saucepan rør together brunt sukker, fløte and smør; bring til kokepunktet. reduser varmen to medium; kok 3 minutter. ta av varmen; rør in vanilje. hell 1/4 cup over hot cake; cool.
-7. To servér, reheat sauce, hell 1/2 tablespoon sauce over each serving; garniser with a dollop of whipped fløte, if desired.
+1 . I en dyp kjele, helles vann over dadlene. Kok opp. Senk varmen til middels; kok i 3 minutter. Fjern kjelen fra varmen. Rør inn natron; sett til side.
+ 2 . Bland mel, bakepulver og salt; sett til side.
+ 3 . Pisk smør og sukker godt sammen; pisk inn eggene ett om gangen. Pisk inn 1/2 teskje vanilje.
+ 4 . Bland melblandingen forsiktig inn i smørblandingen. (Deigen vil være som en klissete masse.) Rør inn hakkede dadler og 0,6 desiliter av væsken fra dadlene. (Kast resten av væsken.) Deigen vil nå ligne en tykk pannekakedeig. Hell deigen i en smurt 8 x 2 -tommers form.
+ 5 . Stekes ved 177 °C til midten er fast, men fortsatt myk, i omtrent 25 minutter.
+ 6 . Saus til Sticky Date Pudding: I en dyp kjele, blandes brun sukker, fløte og smør; kok opp. Senk varmen til middels; kok i 3 minutter. Fjern kjelen fra varmen; rør inn vanilje. Hell 0,6 desiliter over den varme kaken; avkjøl.
+ 7 . Ved servering, varm sausen, hell 1/2 spiseskje saus over hver porsjon; pynt eventuelt med en skje pisket fløte.
 
 ## Info
 

@@ -2,22 +2,20 @@
 created: 2026-05-05
 ---
 
-# Sauteed Baby Vegetables
-
 ## Ingredienser
 
-- 1 Tbs low-calorie margarine
-- 12 baby zucchini
-- 12 baby carrots
-- 12 baby yellow squash
-- 1/4 cup low-fat low-sodium chicken broth
-- Freshly-ground black pepper, to taste
-- 1 dash salt, (optional)
+- 1 ss mager margarin
+- 12 små squash
+- 12 små gulrøtter
+- 12 små gule gresskar
+- 0,6 dl magert kyllingkraft med lavt saltinnhold
+- Nymalt svart pepper, etter smak
+- 1 knivstikk salt (valgfritt)
 
 ## Fremgangsmåte
 
-1. Melt the margarine in a skillet over medium-high heat. Add the vegetables and saute for 2 minutes.
-2. Add the broth and saute for 4 minutes. Season with pepper and salt and serve.
+1. Smelt margarinen i en stekepanne over middelhøy varme. Tilsett grønnsakene og stek dem i 2 minutter.
+2. Tilsett kraften og stek videre i 4 minutter. Smak til med pepper og salt, og server.
 
 ## Info
 

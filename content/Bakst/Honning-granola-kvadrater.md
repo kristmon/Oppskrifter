@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning-granola-kvadrater
-
 *Barn vil nyte blanding og måle aktiviteter i denne oppskriften.*
 
 ## Ingredienser
@@ -18,11 +16,11 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en stor bolle, bland granola og tørket frukt. I en liten kasserolle, varme honning, olje og vanilj over medium varme, rørende til honning oppløses.
-2. Hell honning-blandingen over granola og bland til grundig dekket.
-3. Hell eggplommer over granola-blandingen; bland godt.
-4. Pakk blandingen fast inn i en 20 cm kvadratisk ikke-sterk bakepanne. Bak ved 160°C i 40 minutter eller til dyp gyllenbrun.
-5. Plasser panne på en kjølerist; kjøl helt ut før skjæring i kvadrater, ca 6 cm hver.
+1. I en stor bolle, bland granola og tørket frukt. I en liten kjele, varm honning, olje og vanilje over middels varme, mens du rører til honningen er oppløst.
+2. Hell honningblandingen over granolan og bland godt, slik at alt er dekket.
+3. Hell eggeplommer over granolablandingen; bland godt.
+4. Press blandingen godt ned i en  20 cm kvadratisk, uformell form. Stek i  160 °C i  40 minutter, eller til den er jevnt gyllenbrun.
+5. Sett formen på en rist; avkjøl helt før du skjærer den i kvadrater, ca.  6 cm store.
 
 ## Info
 

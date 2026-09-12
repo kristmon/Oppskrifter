@@ -2,12 +2,10 @@
 created: 2026-05-05
 ---
 
-# Honning-urt-saus til grønnsakar
-
 ## Ingredienser
 
 - 0,6 dl honning
-- 2 ss løk, hakket
+- 2 ss løk, finhakket
 - 0,6 dl smør eller margarin
 - 1/2 ts timian, knust
 - Salt etter smak

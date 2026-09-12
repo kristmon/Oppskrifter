@@ -2,31 +2,29 @@
 created: 2026-05-05
 ---
 
-# Vegetable Pesto Lasagne
-
-*This lasagne is especially quick, because you don't need to cook the lasagne before assembling!*
+Denne lasagnen er spesielt rask å tilberede, fordi du ikke trenger å forhåndskoke lasagneplatene før du setter den sammen!
 
 ## Ingredienser
 
-- 12 pieces Lasagne, uncooked
-- 3 cups low-fat, chunky vegetable spaghetti sauce
-- 1 1/2 cups water
-- 1 15-oz. container part-skim ricotta cheese
-- 1/2 cup egg substitute
-- 1/2 cup grated part-skim mozzarella cheese, divided
-- 1/4 tsp black pepper
-- 1 cup packed fresh basil
-- 1/4 cup grated Parmesan cheese
-- 2 cloves garlic
-- 1/4 cup fat-free Italian salad dressing
-- Vegetable oil cooking spray
+- 12 porsjoner lasagne, ubehandlet
+- 7,2 dl mager, fyldig grønnsakssaus til pasta
+- 3,6 dl vann
+- 1 15-g boks mager ricottaost
+- 1,2 dl erstatning for egg
+- 1,2 dl revet mager mozzarellaost, delt opp
+- 1/4 ts svart pepper
+- 2,4 dl fersk basilikum, pakket
+- 0,6 dl revet parmesanost
+- 2 fedd hvitløk
+- 0,6 dl italiensk salatdressing uten fett
+- Vegetabilsk olje, spray til steking
 
 ## Fremgangsmåte
 
-1. In a medium bowl, stir together the spaghetti sauce and water.
-2. Combine ricotta cheese, egg substitute, 1/4 cup of the mozzarella cheese and pepper in a bowl. In a food processor or blender, add basil, Parmesan cheese and garlic; process until smooth. Add Italian dressing; process until blended. Fold basil mixture (pesto) into ricotta mixture.
-3. Spray a 9 x 13-inch baking pan with cooking spray. Spread 1 cup of the sauce over the bottom of the pan. Arrange 4 pieces of lasagne (3 lengthwise, 1 widthwise) over the sauce. Cover with 1 1/2 cups of the sauce. Spread half the ricotta mixture on top. Arrange another 4 pieces of lasagne over ricotta, and top with another cup of the sauce. Spread remaining ricotta mixture on top. Arrange final 4 pieces of lasagne over ricotta mixture and cover with remaining sauce.
-4. Preheat oven to 350-o F. Cover lasagne with foil and bake for 1 hour and 5 minutes. Uncover lasagne, sprinkle remaining mozzarella cheese on top and bake an additional 5 minutes uncovered. Cover and let stand 15 minutes before serving.
+1. I en middels stor bolle, rør sammen tomatsaus og vann.
+2. Bland ricottaost, erstatning for egg, 0,6 dl av mozzarellaosten og pepper i en bolle. I en kjøkkenmaskin eller blender, ha i basilikum, parmesanost og hvitløk; kjør til blandingen er glatt. Tilsett italiensk dressing; kjør til blandingen er godt blandet. Bland basilikumblandingen (pesto) forsiktig inn i ricottaostblandingen.
+3. Spray en 9 x 13-tommers stekebrett med formfett. Fordel 2,4 dl av sausen over bunnen av brettet. Legg 4 lasagneplater (legg dem 3 på langs, 1 på tvers) over sausen. Dekk med 3,6 dl av sausen. Fordel halvparten av ricottaostblandingen over. Legg ytterligere 4 lasagneplater over ricottaosten, og topp med en kopp av sausen. Fordel resten av ricottaostblandingen over. Legg de siste 4 lasagneplatene over ricottaostblandingen og dekk med resten av sausen.
+4. Forvarm ovnen til 350 grader. Dekk lasagnen med aluminiumsfolie og stek i 1 time og 5 minutter. Fjern folien, strø resten av mozzarellaosten over og stek ytterligere 5 minutter uten folie. Dekk til og la den stå i 15 minutter før servering.
 
 ## Info
 

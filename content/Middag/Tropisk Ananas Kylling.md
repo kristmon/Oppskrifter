@@ -2,31 +2,29 @@
 created: 2026-05-05
 ---
 
-# Tropisk Ananas Kylling
-
 *Ananas, banan og et stænk limejuice smak denne lett og fruktig kylling retten, men løk, paprika og hvitløk motvirke søtheten for en herlig kontrast av toner og teksturer. Dette er en herlig sommerre retten å spise på terrassen!*
 
 ## Ingredienser
 
-- 225 g bred egg nodler
-- 340 g friske beinløse, hudløse kyllingbryst, tykt skåret
-- 1 gul løk, skalett og hakket
-- 120 ml skåret grønn løk
-- 1/2 grønn paprika, sejet og skåret
-- 2 hvitløk fed, knust
-- 1/2 banan, skalett og skåret
-- 120 ml lavt-natrium kyllingbryst
-- 1 boks (225 g) ananas biter, uten drening
-- 1 ts limejuice
+- 225 g brede eggnudler
+- 340 g ferske, uten bein og uten skinn, kyllingbryst, i tykke skiver
+- 1 stor løk, skrellet og finhakket
+- 120 ml hakket vårløk
+- 1/2 grønn paprika, uten kjerner og i skiver
+- 2 fedd hvitløk, knust
+- 1/2 banan, skrellet og i skiver
+- 120 ml kyllingkraft med lavt natriuminnhold
+- 1 boks (225 g) ananasbiter, uten å drenere
+- 1 ts limesaft
 - 1/4 ts salt
-- 1/8 ts malt sort pepper
+- 1/8 ts malt svart pepper
 
 ## Fremgangsmåte
 
-1. Kok pasta etter pakkedetaljer; dren og hold varmt.
-2. I mellomtiden sprøyte en dyp, teflon stekepanne med vegetat kokingsspray. Varm stekepanne over medium-høy varme. Tilsett kylling og stekk jevnt til gyllenbrun, 2-4 minutter.
-3. Tilsett løk, grønn løk, paprika og hvitløk. Stekk til paprika er sprø-mørt, røring hyppig. Rør inn banan, kraft, ananas med juice og limejuice. Reduser varmen til lav.
-4. Rett før servering rør inn pasta og tøff for å blande. Krydder med salt og pepper etter smak. Serveres umiddelbart.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet og hold den varm.
+2. I mellomtiden, spray en dyp, teflon-stekepanne med kokegrimer. Varm stekepannen på middels høy varme. Tilsett kylling og stek jevnt til den er gyllenbrun, i 2-4 minutter.
+3. Tilsett løk, vårløk, paprika og hvitløk. Stek til paprikaen er sprø og mør, og rør ofte. Tilsett banan, kraft, ananas med saft og limesaft. Senk varmen til lav.
+4. Rett før servering, bland inn pastaen og rør godt. Smak til med salt og pepper. Server umiddelbart.
 
 ## Info
 

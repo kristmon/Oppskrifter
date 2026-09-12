@@ -2,35 +2,33 @@
 created: 2026-05-05
 ---
 
-# Spicy Chicken Tortilla Casserole
-
-*Spicy chicken with sautéed vegetables and salsa gets layered between flour tortillas for a south-of-the-border casserole, sometimes called chilaquiles.*
+Krydret kylling med sautert grønnsaker og salsa legges lagvis mellom tortillalefser, og utgjør en rett inspirert av det sørvestlige USA, noen ganger kalt chilaquiles.
 
 ## Ingredienser
 
-- 1 ss vegetarolje
-- 2,5 dl chopped green bell papper
-- 2,5 dl chopped løk
-- 2 clove hvitløk, finely chopped
-- 0,5 kg 4 boneless, skinless kylling breast halves, about 4-oz each cut into bite-sized pieces
-- 1 (24-oz) jar Ortega® Thick & Chunky Salsa
-- 1 (2.25-oz) can sliced ripe olives
-- 6 mais tortillas, cut into halves, divided
-- 5 dl shredded Monterey Jack ost, divided
-- 2,5 dl surmelk, (optional)
+- 1 ss vegetabilsk olje
+- 2,5 dl hakket grønn paprika
+- 2,5 dl hakket løk
+- 2 fedd hvitløk, finhakket
+- 4 kyllingbryst uten bein og skinn, ca. 500 g, delt i mindre biter
+- 1 stort glass grov salsa, ca. 700 g
+- 1 liten boks skivede, modne oliven
+- 6 mais tortillas, delt i to, fordelt
+- 5 dl revet Monterey Jack ost, fordelt
+- 2,5 dl rømme, (valgfritt)
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 350º F.
-2. Varm vegetarolje in large skillet over medium-high varm. tilsett paprika, løk and hvitløk; kok, stirring iblant, for 2 to 3 minutter eller til vegetables are tender.
-3. Tilsett kylling; kok, stirring frequently, for 3 to 5 minutter eller til kylling is no longer pink. rør in salsa and olives.
-4. Place half of tortillas onto bottom of 9-inch-square baking dish. Top with half of kylling mixture and 1 cup ost; repeat layers. Cover.
-5. bak for 20 to 25 minutter eller til bubbly and ost is melted. servér with surmelk.
+1. Forvarm ovnen til 175 °C.
+2. Varm vegetabilsk olje i en stor stekepanne over middelhøy varme. Tilsett paprika, løk og hvitløk; stek, rør av og til, i 2 til 3 minutter, eller til grønnsakene er møre.
+3. Tilsett kyllingen og stek under hyppig omrøring i 3–5 minutter, til den er gjennomstekt. Rør inn salsa og oliven.
+4. Legg halvparten av tortillaene i bunnen av en 23x23 cm stor ildfast form. Fordel halvparten av kyllingblandingen og 2,4 dl ost over. Gjenta lagene. Dekk til.
+5. Stek i 20–25 minutter, til retten bobler og osten er smeltet. Server med rømme.
 
 ## Info
 
 - **Porsjoner**: 8
-- **Preparation Time**: 20 minutes
-- **Cooking Time**: 30 minutes
-- **Type**: Main Dish, Poultry
+- **Forberedelsestid**: 20 minutter
+- **Tilberedningstid**: 30 minutter
+- **Type**: Hovedrett, Fjørfe
 - **Kilde**: Nestlé, www.verybestmeals.com

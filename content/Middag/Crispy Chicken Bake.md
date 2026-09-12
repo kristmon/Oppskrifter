@@ -2,34 +2,32 @@
 created: 2026-05-05
 ---
 
-# Crispy Chicken Bake
-
-*Puffed rice cereal makes a surprise appearance in this crunchy chicken dish.*
+Sprøtt risfling kommer som en overraskelse i denne sprø kyllingretten.
 
 ## Ingredienser
 
 - 1,2 dl mel
-- 1/4 ts ground black pepper
+- 1/4 ts svart pepper
 - 2 egg
 - 2 ss vann
-- 2,5 dl puffed ris cereal, crushed
-- 2,5 dl grated Parmesan ost
-- 1 package dry løk soup bland
-- 6 (4-6-oz.) fresh boneless, skinless kylling breasts
-- 0,6 dl smør or margarine, melted
+- 2,5 dl knust, puffet ris
+- 2,5 dl revet parmesanost
+- 1 pakke tørket løksuppe
+- 6 kyllingbryst uten bein og skinn
+- 0,6 dl smør eller margarin, smeltet
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 375°F. Coat a 13x9x2-inch baking pan with vegetable cooking spray.
-2. In a shallow dish bland sammen mel and pepper.
-3. Beat egg and vann in a small bowl.
-4. bland sammen ris cereal, Parmesan ost and løk soup bland in a bowl.
-5. Dredge kylling in mel mixture, followed by a dip in the egg. Roll in cereal til evenly coated. Arrange in a single layer in prepared baking dish and drizzle with melted smør. bak, uncovered, for 30 minutter eller til ferdig. servér warm.
+1. Forvarm ovnen til 190 °C. Smør en ildfast form på ca. 23 × 33 cm.
+2. Bland mel og pepper i en grunn skål.
+3. Visp egg og vann i en liten bolle.
+4. Bland knust puffet ris, parmesan og løksuppepulver i en bolle.
+5. Vend kyllingen i melblandingen, deretter i egg. Rull i frokostblanding til den er jevnt dekket. Legg i et enkelt lag i en smurt ildfast form og dryss over smeltet smør. Stek uten lokk i 30 minutter, eller til den er ferdig. Server varm.
 
 ## Info
 
 - **Porsjoner**: 6
-- **Preparation Time**: 15 minutes
-- **Cooking Time**: 30 minutes
-- **Type**: Main Dish, Poultry
+- **Forberedelsestid**: 15 minutter
+- **Tilberedningstid**: 30 minutter
+- **Type**: Hovedrett, Fjørfe
 - **Kilde**: Nestlé, www.verybestmeals.com

@@ -2,37 +2,35 @@
 created: 2026-05-05
 ---
 
-# Warm Mocha Pudding Cake
-
-*A warm and steamy mocha pudding cake topped off with fluffy whipped cream and seasonal berries*
+En varm og deilig mokkakake med krem og sesongens bær.
 
 ## Ingredienser
 
-- 2,5 dl all-purpose mel
-- 2,5 dl packed brunt sukker, divided
-- 4 ss NESTLÉ TOLL HOUSE Baking kakao, divided
-- 2 ss TASTER’S CHOICE 100% Pure Instant Coffee, divided
+- 2,5 dl hvetemel
+- 2,5 dl presset brunt sukker, fordelt
+- 4 ss bakingkakao, fordelt
+- 2 ss pulverkaffe 100% ren instant kaffe, fordelt
 - 1 ts bakepulver
 - 1/8 ts salt
 - 0,8 dl melk
-- 5 ss smør or margarine, melted (we recommend LAND O LAKES® smør)
-- 1 large egg
+- 5 ss smør eller margarin, smeltet
+- 1 stort egg
 - 2 ts vaniljeekstrakt
-- 1,9 dl boiling vann
-- 3,8 dl whipped fløte (optional)
-- 3,8 dl fresh assorted berries (optional)
+- 1,9 dl kokende vann
+- 3,8 dl pisket fløte (valgfritt)
+- 3,8 dl ferske blandede bær (valgfritt)
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 350° F. Grease 8-inch-round cake pan.
-2. bland sammen mel, 1/2 cup sukker, 2 tablespoons kakao, 1 tablespoon Taster’s Choice, bakepulver and salt in small bowl. Beat melk, smør, egg and vaniljeekstrakt in medium bowl til blended. tilsett mel mixture; rør til combined. Spoon batter into prepared pan.
-3. bland sammen remaining sukker, remaining kakao and remaining Taster’s Choice in small bowl. Sprinkle evenly over batter. hell vann evenly over batter.
-4. bak for 20 to 25 minutter eller til wooden pick inserted in center comes out clean. Cool for 5 minutter in pan on wire rack. Invert onto serving plate or servér from pan. servér warm with whipped fløte and berries.
+1. Forvarm ovnen til 177 °C. Smør en rund kakeform på 20 cm i diameter.
+2. Bland mel, 1,2 dl sukker, 2 ss kakao, 1 ss pulverkaffe, bakepulver og salt i en liten bolle. Visp melk, smør, egg og vaniljeekstrakt i en middels stor bolle til det er godt blandet. Tilsett melblandingen; rør til alt er godt kombinert. Hell røren i en forberedt form.
+3. Bland sammen resten av sukkeret, resten av kakaopulveret og resten av pulverkaffe i en liten bolle. Strø jevnt over røren. Hell vann jevnt over røren.
+4. Stek i 20–25 minutter, til en kakepinne stukket i midten kommer ut ren. Avkjøl i formen på rist i 5 minutter. Hvelv kaken over på et serveringsfat, eller server den rett fra formen, gjerne varm med pisket krem og bær.
 
 ## Info
 
 - **Porsjoner**: 8
-- **Preparation Time**: 15 minutes
-- **Cooking Time**: 45 minutes
+- **Forberedelsestid**: 15 minutter
+- **Tilberedningstid**: 45 minutter
 - **Type**: Dessert
 - **Kilde**: Nestlé, www.verybestbaking.com

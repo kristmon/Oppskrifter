@@ -22,7 +22,7 @@ created: 2010-04-19
 
 ## Fremgangsmåte
 
-1. Skjær potetene i store terninger og kok dem i saltet vann til de er møre. Stek dem raskt i litt smør, og dryss over paprikapulver og finhakket persille.
+1. Skjær potetene i store terninger og kok dem i saltet vann til de er myke. Stek dem raskt i litt smør, og dryss over paprikapulver og finhakket persille.
 
 ## Info
 

@@ -2,47 +2,45 @@
 created: 2026-05-05
 ---
 
-# Fudge-Almond Layer Cake
-
 ## Ingredienser
 
-**Cake**
-- 3 oz unsweetened sjokolade
-- 2,5 dl smør, softened
-- 2,5 dl granulated sukker
-- 1,2 dl packed light brunt sukker
-- 3 large egg
-- 2-1/10 dl cups cake mel
+**Kake**
+- 85 g usøt sjokolade
+- 2,5 dl smør, romtemperert
+- 2,5 dl hvitt sukker
+- 1,2 dl brunt sukker, pakket
+- 3 stort egg
+- 2-1/10 dl mel
 - 2 ts natron
 - 1/2 ts salt
-- 0,6 dl surmelk
-- 2,5 dl hot coffee
+- 0,6 dl kefir
+- 2,5 dl varm kaffe
 - 1 ts vanilje
-**sjokolade Ganache**
-- 1 1/7,5 dl whipping fløte
-- 5 dl (12 ounces) semisweet sjokolade chips
-**Mocha Filling**
+**Sjokolade Ganache**
+- 1 1/7, 5 dl kremfløte
+- 5 dl (34 g) kokesjokoladebiter
+**Mocha Fyll**
 - 2 ss vann
-- 2 ss unsweetened kakao
-- 2 ss instant coffee
-- 1,2 dl smør, softened
-- 5 dl powdered sukker, divided
-- 1,2 dl sliced almonds, toasted
-- 0,6 dl caramel candies (about 1 ounce)
+- 2 ss usøt kakaopulver
+- 2 ss instant kaffe
+- 1,2 dl smør, romtemperert
+- 5 dl melis, delt
+- 1,2 dl skivede mandler, ristet
+- 0,6 dl karamellgodter, (omtrent 28 g)
 - 1 ss vann
 
 ## Fremgangsmåte
 
-1. Varm ovn to 375 grader. Grease and mel two 9- x 1 ½-inch round layer cake pans; set aside.
-2. In double boiler over simmering vann melt sjokolade, stirring til smooth; ta av varmen and set aside. In large mixer bowl, grundig fløte smør and sugars. tilsett egg one at a time, beating well after each addition. bland in sjokolade. In another bowl, bland the mel, natron and salt.
-3. Beat the mel mixture into the cake mixture alternately with the surmelk to bland grundig. On low speed, bland in the coffee and vanilje to bland grundig.
-4. hell batter into pans, dividing equally. Tap pans on counter a few times to release air bubbles.
-5. bak in center of ovn about 30 minutter til pick inserted into centers comes out clean. Cool on racks 10 minutter, then invert onto racks to cool completely. If cake tops are rounded, trim with serrated knife to level. Carefully cut each cake horizontally into two equal layers.
-6. In 1-quart saucepan, bring fløte to kok; immediately reduser varmen to low and gradually tilsett sjokolade chips, stirring til melted and mixture is smooth. Refrigerate til mixture reaches thin spreading consistency, stirring iblant.
-7. In small saucepan over low varm, bland vann, kakao and instant coffee til grundig blended and coffee is dissolved; set aside to cool. In mixer bowl, fløte smør. Gradually beat in 1 cup of the sukker. Gradually beat in coffee mixture. Beat in remaining sukker.
-8. Place one cake layer on serving plate; bred evenly with half the mocha filling. Top with another cake layer; bred evenly with 1/3 cup of the sjokolade Ganache. tilsett another cake layer and bred with the remaining Mocha Filling. Top with last cake layer.
-9. bred top and sides evenly with the remaining sjokolade Ganache. Arrange almonds on top of cake. In small saucepan over low varm, rør caramels and vann til caramels are completely melted and mixture is smooth. Cool slightly and drizzle over top of cake.
-10. Refrigerate cake one to four timer. Cut into wedges to servér.
+1 . Varm ovnen til 375 grader. Smør og mel to 9 - 1 ½-tommers runde kakeformer; sett til side.
+ 2 . I en dobbelkjele over kokende vann, smelt sjokolade, rør til den er glatt; ta av varmen og sett til side. I en stor miksebolle, pisk smør og sukker godt sammen. Tilsett eggene ett om gangen, og pisk godt mellom hver gang. Bland inn sjokoladen. I en annen bolle, bland mel, natron og salt.
+ 3 . Tilsett melblandingen vekselvis med kefir til de er godt blandet. På lav hastighet, bland inn kaffe og vanilje, og sørg for at alt er godt blandet.
+ 4 . Hell røren i formene, og fordel den jevnt. Bank formene lett mot benken et par ganger for å fjerne eventuelle luftbobler.
+ 5 . Stek i midten av ovnen i omtrent 30 minutter, eller til en kakepinne stukket inn i midten kommer ut ren. Avkjøl på rist i 10 minutter, før du snur dem over på rist for å avkjøles helt. Hvis kakeflatene er runde, skjær dem jevne med en serratert kniv. Skjær forsiktig hver kake horisontalt i to like lag.
+ 6 . I en kjele på 1 liter, kok opp fløte; reduser umiddelbart varmen til lav og tilsett gradvis sjokoladebiter, rør til de er smeltet og blandingen er glatt. Sett i kjøleskapet til blandingen får en tynn, lett smørelignende konsistens, rør av og til.
+ 7 . I en liten kjele over svak varme, bland vann, kakaopulver og instant kaffe til alt er godt blandet og kaffen er oppløst; sett til side for å avkjøles. I en miksebolle, pisk smør. Tilsett gradvis 2,4 desiliter av sukker. Tilsett gradvis kaffeblandingen. Tilsett resten av sukkeret.
+ 8 . Legg et kake lag på et serveringsfat; smør jevnt med halvparten av mochafyllet. Legg på et nytt kake lag; smør jevnt med 0,8 desiliter sjokoladeganache. Legg på et nytt kake lag og smør med resten av mochafyllet. Legg på det siste kake laget.
+ 9 . Smør jevnt med resten av sjokoladeganache på toppen og langs sidene. Legg mandler på toppen av kaken. I en liten kjele over svak varme, varm opp carameller og vann til caramellene er helt smeltet og blandingen er glatt. Avkjøl litt og dryss over toppen av kaken.
+ 10 . Sett kaken i kjøleskapet i én til fire timer. Skjær i stykker og server.
 
 ## Info
 

@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Finger-Licking Honey Spareribs
-
 ## Ingredienser
 
-- 2,5 dl chili sauce
-- 1,2 dl honning, or more
-- 0,6 dl minced løk
-- 2 ss dry rødvin, optional
+- 2,5 dl chilisaus
+- 1,2 dl honning, eventuelt mer
+- 0,6 dl finhakket løk
+- 2 ss tørr rødvin, valgfritt
 - 1 ss worcestershiresaus
-- 1 ts Dijon-style sennep
-- 1,4 kg svinekjøtt spareribs
-- salt  to taste
-- pepper to taste
+- 1 ts dijonsennep
+- 1,4 kg svinekjøtt, spareribs
+- salt, etter smak
+- pepper, etter smak
 
 ## Fremgangsmåte
 
-1. bland sammen the first six ingredients in a small saucepan and bring til kokepunktet over medium varm, stirring konstant.
-2. reduser varmen and la småkoke, uncovered, 5 minutter.
-3. Sprinkle spareribs with salt and pepper.
-4. Place on a rack over a roasting pan; cover with foil and bak at 375°F 35 to 45 minutter.
-5. Uncover and brush generously with sauce.
-6. bak 45 minutter, brushing with sauce every 15 minutter, til spareribs are fully cooked and tender. Cut spareribs into serving portions and servér with remaining sauce.
+1 . Bland de første seks ingrediensene i en liten kjele, og kok opp over middels varme, mens du rører jevnlig.
+ 2 . Reduser varmen og la det småkoke, uten lokk, i  5  minutter.
+ 3 . Dryss spareribs med salt og pepper.
+ 4 . Plasser spareribs på et stativ over en ildfast form; dekk til med aluminiumsfolie og stek i ovnen ved  191  °C i  35  til  45  minutter.
+ 5 . Fjern folien og pensle rikelig med saus.
+ 6 . Stek i ytterligere  45  minutter, pensle med saus hvert  15 . minutt, til spareribs er gjennomstekte og møre. Del spareribs i serveringsstykker og server med den resterende sausen.
 
 ## Info
 

@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Southwest Chicken Stew
-
-*Serve this with rice and beans for more south of the border flair.*
+Server dette med ris og bønner for en mer sydamerikansk smak.
 
 ## Ingredienser
 
-- 2 ss vegetarolje
-- 0,5 kg fresh boneless, skinless kylling breasts, cut into 1/2-inch kutt i terninger
-- 1 (14.5-oz.) can stewed tomater with chiles
-- 1 (10.75-oz.) can condensed fløte of kylling soup
-- 2,5 dl frozen mais
-- 1 ts chilipodd
-- 1/4 ts hvitløk powder
+- 2 ss vegetabilolje
+- 0,5 kg ferske, uten bein og uten skinn, kyllingbryst, skjært i terninger på 1/2 centimeter.
+- 1 (14.5-g) boks kokte tomater med chili.
+- 1 (10.75-g) boks fortykket kyllingsuppe.
+- 2,5 dl frosne mais.
+- 1 ts chilipulver.
+- 1/4 ts hvitløkspulver.
 
 ## Fremgangsmåte
 
-1. Varm a large, deep skillet over medium-high varm. tilsett olje and varm til hot, but not smoking. Sauté kylling in olje til gyllen brown on all sides
-2. Rør in tomater (undrained), breaking apart with a spatula. tilsett soup, mais, chilipodd and hvitløk powder; rør well.
-3. bring til kokepunktet, cover and la småkoke for 5 minutter. servér warm.
+1. Varm en stor, dyp stekepanne over middels varme. Tilsett olje og varm den opp til den er varm, men ikke begynner å ryke. Stek kylling i olje til den er gyllenbrun på alle sider.
+2. Tilsett tomater (uten å helle av vannet), og rør dem forsiktig inn med en slikkepott. Tilsett supp, mais, chilipulver og hvitløkspulver; rør godt.
+3. Kok opp, sett på lokk og la det småkoke i 5 minutter. Server varmt.
 
 ## Info
 
 - **Porsjoner**: 4
-- **Preparation Time**: 4 minutes
-- **Cooking Time**: 10 minutes
+- **Forberedelsestid**: 4 minutter
+- **Tilberedningstid**: 10 minutter
 - **Type**: Main Dish, Poultry, Soup
 - **Kilde**: Nestlé, www.verybestmeals.com

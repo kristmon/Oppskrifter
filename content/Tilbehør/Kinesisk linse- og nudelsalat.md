@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Kinesisk linse- og nudelsalat
-
 ## Ingredienser
 
 - 250 ml linser, skyllet
@@ -23,9 +21,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Plasser linser i medium gryte med vannet; varm til kooking. Reduser varmen, dekk til og småkok 10-12 minutter, eller til linser er nesten møre. Drenert hvis nødvendig, og plasser i medium bolle.
-2. Kombiner eddik, olje, soyasaus, ingefær, sesamolje og hvitløk. Hell over linsene. Dekk til og kjøl mens du tilbereder linguine.
-3. I stor gryte, kok linguinen i kokende vann til ønsket møre. Drenert godt, og skylt med kaldt vann. Rør linguinen inn i linsene sammen med gjenværende ingredienser. Kjøl flere timer før servering for å blande smaker.
+1. Ha linsene i en middels stor kjele med vann; varm opp til kokepunktet. Senk varmen, sett på lokk og la det småkoke i 10 - 12 minutter, eller til linsene er nesten myke. Hell av vannet om nødvendig, og ha linsene over i en middels stor bolle.
+2. Bland eddik, olje, soyasaus, ingefær, sesamolje og hvitløk. Hell blandingen over linsene. Dekk til og sett i kjøleskapet mens du tilbereder linguinen.
+3. Kok linguinen i en stor kjele med kokende vann til den har ønsket konsistens. Hell av vannet godt, og skyll med kaldt vann. Bland linguinen med linsene sammen med resten av ingrediensene. La det stå i kjøleskapet i flere timer før servering, for at smakene skal blande seg.
 
 ## Info
 

@@ -2,17 +2,15 @@
 created: 2026-05-05
 ---
 
-# Kryddrig tomato-chutney
-
 ## Ingredienser
 
-- 12 medium tomater, skaldet, frøet og hakket
-- 3 medium grønne epler, skaldet, kjernehulet og hakket
-- 3 medium løk, hakket
-- 6 dl eplesideseddik
+- 12 middels store tomater, skrelt, uten kjerner og hakket
+- 3 middels store, grønne epler, skrelt, uten kjernehus og hakket
+- 3 middels store løk, hakket
+- 6 dl eplesidereddik
 - 3,6 dl honning
 - 2 ss salt
-- 1 ss tørrsennepe
+- 1 ss tørket sennep
 - 1 ss malt ingefær
 - 1/4 ts malt rød pepper
 

@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Kylling Med Grønne Druer
-
 ## Ingredienser
 
-- 3 bennløse hudløse kyllingbryst, halvert
-- 1/2 ts salt, (valgfritt)
-- 1/2 ts muskatnøtt
-- Ferskmalte svart pepper, etter smak
+- 3 kyllingbryst uten skinn og bein, delt i to
+- 1/2 ts salt (valgfritt)
+- 1/2 ts muskat
+- Nymalt svart pepper, etter smak
 - 1 ss olivenolje
-- 1 ss aprikos syltetøy
+- 1 ss aprikosmarmelade
 - 1/2 ts estragon
-- 4 grønne løker, hakket
-- 1/2 dl tørr hvit vin
-- 1 dl frøfrie grønne druer
-- 1/4 dl fordampet fettfri melk
+- 4 vårløk, finhakket
+- 1/2 dl tørr hvitvin
+- 1 dl frøfrie, grønne druer
+- 1/4 dl mager melk, redusert
 
 ## Fremgangsmåte
 
-1. Strø over kylling med salt, muskatnøtt og pepper. I stor ikke-stikkende stekepanne, varm oljen. Brun kyllingbrystene på begge sider.
-2. Tilsett syltetøy, estragon, grønne løker og vin. Dekk til, reduser varmen og småkok, og kok i 15 minutter. Tilsett druer og kok i 5 minutter. Fjern kylling og druer med løst slissespoon og hold varmt.
-3. Tilsett melk i pannen. Sett varmen opp og reduser, åpen, til væskene fortykkes. Send over kylling og druer og server.
+1. Strø kyllingen med salt, muskat og pepper. I en stor stekepanne med tykk bunn, varm oljen. Brun kyllingbrystene på begge sider.
+2. Tilsett syltetøy, estragon, gressløk og vin. Dekk til, senk varmen og la det småkoke i 15 minutter. Tilsett druer og kok i 5 minutter. Fjern kyllingen og druene med en hullsleiv, og hold dem varme.
+3. Hell melk i pannen. Øk varmen og reduser den deretter, slik at sausen tykner. Tilsett kyllingen og druene, og server.
 
 ## Info
 

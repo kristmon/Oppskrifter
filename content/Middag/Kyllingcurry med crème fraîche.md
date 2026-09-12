@@ -3,7 +3,7 @@ created: 2020-09-13
 ---
 
 ![[Bilder/Kyllingcurry med crème fraîche.jpg|300]]
-**Porsjoner**: 4  
+**Porsjoner**: 4
 **Plan to Eat-tag**: Fjærkre
 
 ## Ingredienser
@@ -29,5 +29,5 @@ created: 2020-09-13
 3. Ha i hvitløk og fres en kort stund.
 4. Ha i en blanding av crème fraîche eller yoghurt naturell, tomatpuré, garam masala, karri og chili.
 5. Røres godt sammen med frest løk.
-6. Ha i kjøttet og kok på lav varme i ca 2 timer til kjøttet er mørt.
+6. Ha i kjøttet og kok på lav varme i ca. 2 timer til kjøttet er mørt.
 7. Lag gjerne dobbel porsjon. Vanlig porsjon kan gjerne få en hel kylling.

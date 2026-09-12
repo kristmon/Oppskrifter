@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Classic Mac 'n Cheese with a Twist
-
 ## Ingredienser
 
-- 0,5 kg Elbow Macaroni, Rotini, or other medium pasta shape
-- 2 ss margarine
-- 6 ss all-purpose mel
+- 0,5 kg albuepasta, rotini eller annen pastaform av middels størrelse
+- 2 ss margarin
+- 6 ss hvetemel
 - 5 dl melk
-- 3,8 dl grated cheddarost
-- 1/4 ts cayenne pepper
+- 3,8 dl revet cheddarost
+- 1/4 ts cayennepepper
 - 1 ts salt
-- 0,8 dl grated Parmesan ost
+- 0,8 dl revet parmesanost
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; tøm and rinse under cold vann and set aside. forvarm ovn to 375°.
-2. In a medium saucepan, melt margarine over low varm. rør in mel with a whisk and kok, stirring, for 1 minutt. Gradually whisk in the melk and bring the sauce to a kok, stirring konstant. ta av varmen and tilsett cheddarost, cayenne pepper and salt. rør til the ost has melted.
-3. In a large mixing bowl, rør the ost sauce and pasta together. Spoon into a 1 1/2-quart ovn proof casserole dish. Sprinkle Parmesan ost over the top. bak til browned on top and hot all the way through, about 30-35 minutter.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet og skyll under kaldt vann, og sett til side. Forvarm ovnen til 375 °.
+2. I en middels stor kjele, smelt smøret over svak varme. Rør inn mel med en visp og kok, rør om, i 1 minutter. Tilsett gradvis melken og kok opp sausen, rør konstant. Ta kjelen av varmen og tilsett cheddarost, cayennepepper og salt. Rør til osten er smeltet.
+3. I en stor blandebolle, bland ostesausen og pastaen sammen. Fordel blandingen i en 1 1/2-liters, ovnsikker form. Strø parmesanost over toppen. Stek i ovnen til toppen er gyllen og alt er gjennomvarmt, ca. 30 - 35 minutter.
 
 ## Info
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Rio frokost shake
-
 ## Ingredienser
 
 - 2 Texas rød grapefrukt

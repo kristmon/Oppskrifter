@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Storfekjøtt Ragout
-
 ## Ingredienser
 
-- 1 1/2 kg Topp round, 1 cm thick
-- 1 10 3/4 g hermetikk Condensed cheddar ost suppe
-- 1/4 dl Dried hakket løk
-- 3 ss Tomat paste
-- 1/2 ts sitron pepper krydring
-- 2 dl liten sopp, halved
-- 9 g fryst Italian green bønner
-- 1/2 dl Buttermilk
-- 9 g fettuccine
+- 680 g rundstek av storfe, ca. 1 cm tykk
+- 1 boks kremet cheddarostsuppe, ca. 300 g
+- 0,6 dl tørket, hakket løk
+- 3 ss tomatpuré
+- 1/2 ts sitronpepper
+- 5 dl små sopper, delt i to
+- 250 g frosne grønne bønner
+- 1,2 dl kulturmelk
+- 250 g fettuccine
 
 ## Fremgangsmåte
 
-1. Trim fett fra steak. Kutt inn i 1 cm pieces. Spray en panne, varm over Medium varm og kok den steak, half på en time, til brun. Plasser Kjøtt i en 3 1/2 eller 4 liter crockpot. Kombiner suppe, løk, tomat paste og sitron pepper i en Medium bolle. Hell blanding over Kjøtt.
-2. Tilsett sopp. Kok på lav setting for 8 til 10 timer (eller høy for 4 til 5 timer). Vend varm til høy. Tilsett fryst green bønner og buttermilk. Rør, dekk og kok for 30 minutter mer. I mellomtiden, kok fettuccine. Servér Kjøtt over fettuccine.
+1. Skjær bort fett og del kjøttet i terninger på ca. 1 cm. Brun halvparten om gangen i en varm, smurt stekepanne. Legg kjøttet i en saktekoker på 3,5–4 liter. Bland suppe, tørket løk, tomatpuré og sitronpepper og hell blandingen over kjøttet.
+2. Tilsett soppen. Kok på lav varme i 8–10 timer eller høy varme i 4–5 timer. Sett varmen på høy, tilsett frosne bønner og kulturmelk, rør rundt og kok under lokk i ytterligere 30 minutter. Kok fettuccinen i mellomtiden og server raguen over pastaen.
 
 ## Info
 

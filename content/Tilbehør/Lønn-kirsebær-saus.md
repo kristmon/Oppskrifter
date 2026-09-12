@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Lønn-kirsebær-saus
-
 *Denne sausen er fantastisk med stekt eller grillet kjøtt eller fjærkre.*
 
 ## Ingredienser
@@ -17,8 +15,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Legg kirsebær-juiceblandingen og kartoffelstivelsen i en liten kasserolle; bland godt. Kok over medium varme til det blir tykkere. Tilsett kirsebær, lønn-smakende sirup, valnøtter og appelsinskall; bland godt.
-2. Kok, og rør ofte, over lav varme til alle ingrediensene er varme.
+1. Hell kirsebærjuiceblandingen og potetmelen i en liten kjele; rør godt. Kok opp over middels varme til blandingen tykner. Tilsett kirsebær, lønnesirup, valnøtter og appelsinskall; rør godt.
+2. Kok opp, og rør ofte, over svak varme til alle ingrediensene er gjennomvarme.
 
 ## Info
 

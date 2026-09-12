@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Rød paprika-saus
-
 ## Ingredienser
 
 - 1 boks tomatosaus

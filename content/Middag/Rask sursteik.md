@@ -3,7 +3,7 @@ created: 2017-11-02
 ---
 Brukte 1.2 kg oksesteik.
 
-Stekes på alle sider, også endene. Først salt og pepper.
+Stekes på alle sider, inkludert endene. Krydre med salt og pepper.
 
 3 bokser seterrømme oppi en gryte (ikke for bred), og så legges steken
 oppi og kokes i tre timer. "Lett" koking.

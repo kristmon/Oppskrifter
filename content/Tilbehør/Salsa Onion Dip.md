@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# Salsa Onion Dip
-
 ## Ingredienser
 
-- 1 pouch Campbell's dry onion soup and recipe mix
-- 1 container sour cream - (16 oz)
-- 1 cup Pace thick & chunky salsa
-- Assorted fresh vegetables or chips
+- 1 pose med løksuppepulver.
+- 1 beger rømme (454 g).
+- 2,4 dl Pace tykk og chunky salsa.
+- Et utvalg av ferske grønnsaker eller chips.
 
 ## Fremgangsmåte
 
-1. Mix soup mix, sour cream, and salsa. Refrigerate at least 2 hours.
-2. Serve with fresh vegetables or chips for dipping. If desired, garnish with green onion.
+1. Bland suppurblanding, rømme og salsa. Sett i kjøleskapet i minst 2 timer.
+2. Server med friske grønnsaker eller chips. Ønsker du det, kan du pynte med vårløk.
 
 ## Info
 

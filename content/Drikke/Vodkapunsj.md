@@ -5,9 +5,9 @@ created: 2020-08-13
 ![[Bilder/Vodkapunsj.jpg|300]]
 Tilpasset metrisk.
 
-**Porsjoner**: 20  
-**Tid**: 10 min  
-**Kilde**: [recipegirl.com](https://www.recipegirl.com/vodka-party-punch/)  
+**Porsjoner**: 20
+**Tid**: 10 min
+**Kilde**: [recipegirl.com](https://www.recipegirl.com/vodka-party-punch/)
 **Rating**: 0
 
 ## Ingredienser

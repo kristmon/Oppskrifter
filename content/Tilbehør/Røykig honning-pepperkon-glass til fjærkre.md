@@ -2,17 +2,15 @@
 created: 2026-05-05
 ---
 
-# Røykig honning-pepperkon-glass til fjærkre
-
 ## Ingredienser
 
 - 0,8 dl honning
 - 1 ss ketchup
-- 1/2 ts grovt malt svart pepper
-- 1/4 ts flytende røyk
+- 1/2 ts grovmalt svart pepper
+- 1/4 ts flytende røksmak
 - 1/8 ts salt
-- 1/8 ts knust rød chili-flak
-- 1 hel kylling eller kalkun, skyllet og tørket (1,4-1,8 kg)
+- 1/8 ts knuste chiliflak
+- 1 hel kylling eller kalkun, skylt og tørket (1,4–1,8 kg)
 
 ## Fremgangsmåte
 

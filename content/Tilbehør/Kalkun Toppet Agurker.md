@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Kalkun Toppet Agurker
-
 ## Ingredienser
 
 - 170 g ovnsristet kalkun bryst fint hakket

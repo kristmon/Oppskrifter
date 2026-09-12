@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Salat Bar Pasta Salat
-
 ## Ingredienser
 
 - 750 ml kuttet ferske grønnsakene (brokkoli, blomkål, gulrøtter, sopp)
@@ -12,8 +10,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I medium størrelse bolle kombinerer du grønnsakene, nodlene og dressingen. Tøff for å dekke.
-2. Dekk over og kjøl salaten til klar til servering.
+1. I en middels stor bolle blander du grønnsakene, nodlene og dressingen. Det kan være litt vanskelig å få det til å dekke jevnt.
+2. Dekk til og sett salaten i kjøleskapet til den er klar for servering.
 
 ## Info
 

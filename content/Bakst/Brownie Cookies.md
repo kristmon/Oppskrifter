@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Brownie Cookies
-
-*What could be easier than a brownie you can break and then bake into delicious cookies! The kids in the family will be sure to enjoy!*
+Enkle småkaker med smak og konsistens som brownies.
 
 ## Ingredienser
 
-- 1 pkg. (18 oz.) NESTLÉ® TOLL HOUSE® Refrigerated Brownie or Walnut Brownie Bar Dough
+- 1 pakke (51 g) kjøle-brownie- eller valnøttbrownie-deig.
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 325° F.
-2. Break dough along pre-scored lines. Place dough about 3 inches apart on ungreased baking sheets
-3. bak for 18 to 20 minutter eller til centers are set. Cool on baking sheets for 3 minutter; remove to wire racks to cool completely.
+1. Forvarm ovnen til 163 °C.
+2. Del deigen langs de forhåndsgjorte snittene. Plasser deigen med omtrent 7,6 cm mellomrom på ubestukne stekebrett.
+3. Stek i 18 til 20 minutter, eller til midten er fast. Avkjøl på stekebrettene i 3 minutter; overfør deretter til rist for å avkjøles helt.
 
 ## Info
 
 - **Porsjoner**: 12
-- **Preparation Time**: 5 minutes
-- **Cooking Time**: 18 minutes
+- **Forberedelsestid**: 5 minutter
+- **Tilberedningstid**: 18 minutter
 - **Type**: Dessert
 - **Kilde**: Nestlé, www.verybestbaking.com

@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# bakt Shells Med Kylling og Mushrooms
-
-*Servér med frisk fruit garnished med mynta og Nestlé brownies for Dessert. Try using bow tie Pasta for en mer elegant look.*
+*Server gjerne med frisk frukt. Sløyfepasta kan brukes i stedet for pastaskjell.*
 
 ## Ingredienser
 
-- 2 dl refrigerated Alfredo Saus
-- 1 kg Medium shell Pasta, forberedt ifølge til pkg. instruksjoner
-- 2 dl kokt kutt i terninger kylling
-- 1 dl fryst erter, defrosted
-- 2 (4-g.) hermetikk skåret i skiver sopp, tappet
-- 1/4 dl revnet Parmesan ost
-- 1/4 dl breadcrumbs
+- 2 dl kald Alfredo saus
+- 1 kg pasta, type middels store skjell, tilberedt etter anvisningene på pakken
+- 2 dl kokt, i terninger kuttet kylling
+- 1 dl frosne erter, tint
+- 2 (4-g.) bokser med sopp i skiver, avrent
+- 1/4 dl revet parmesanost
+- 1/4 dl brødsmuler
 
 ## Fremgangsmåte
 
-1. forvarme ovn til 350° F.
-2. Kombiner Pasta, Saus, kylling, erter og sopp i stor bolle; skje inn i 2-liter baking rett. Kombiner ost og breadcrumbs i liten bolle; strø over Pasta blanding.
-3. Bak for 20 minutter.
+1. Forvarm ovnen til 177 °C.
+2. Bland pasta, saus, kylling, erter og sopp i en stor bolle; hell blandingen over i en 2-liters ildfast form. Bland ost og strøbrød i en liten bolle; strø dette over pastaen.
+3. Stek i 20 minutter.
 
 ## Info
 

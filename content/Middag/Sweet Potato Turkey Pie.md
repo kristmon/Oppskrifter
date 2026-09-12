@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Sweet Potato Turkey Pie
-
 ## Ingredienser
 
-- 1 Can (24 ounces) sweet poteter drained
+- 1 boks (68 g) søtpoteter, avrent.
 - 2 ss margarine melted
 - 1/4 ts pumpkin pie spice
 - Vegetable cooking spray
-- 5 dl cooked kalkun cut into 1/2-inch cubes
-- 1 Can (10-3/4 ounces) reduced-fat and reduced-sodium fløte of sopp
-- 1 Package (9 ounces) frozen French-style green bønner thawed and well drained
-- 1 Can (2 ounces) sopp stems and pieces drained
+- 5 dl kokt kalkun, skjært i terninger på ca. 1,2 cm.
+- 1 Can (10-21 g) reduced-fat and reduced-sodium fløte of sopp
+- 1 pakke (255 g) frosne, franske grønne bønner, tint og godt drenert.
+– 1 boks (57 g) sopp, stilker og biter, godt drenert.
 - 1/2 ts salt
 - 1/2 ts pepper
 - 2 ss canned fried løk rings crushed
-- 1 Can (8 ounces) cranberry sauce optional
+- 1 Can (227 g) cranberry sauce optional
 
 ## Fremgangsmåte
 
-1. In medium bowl bland sweet poteter, margarine and pumpkin pie spice til smooth. In 9-inch pie plate, lightly sprayed with vegetable cooking spray, line plate with potato mixture to form a pie shell; set aside.
-2. In medium bowl bland sammen kalkun, soup, bønner, sopp, salt and pepper. hell mixture into prepared shell. Sprinkle løk over top. bak at 350 grader F. 30 minutter eller til hot. servér with cranberry sauce, if desired.
+1. I en middels stor bolle, blander du søtpoteter, margarin og kanelblanding til en jevn masse. I en paiform på 9 tommer, lett sprayet med vegetabilsk olje, legger du potetmassen ut for å forme en paibunn; sett til side.
+2. I en middels stor bolle, blander du kalkun, supp, bønner, sopp, salt og pepper. Hell blandingen i den forberedte paibunnen. Strø løk over toppen. Stek ved 350 grader Fahrenheit i 30 minutter, eller til den er gjennomvarm. Server med kranberrysaus, om ønskelig.
 
 ## Info
 

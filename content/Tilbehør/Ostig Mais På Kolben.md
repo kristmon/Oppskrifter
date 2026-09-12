@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Ostig Mais På Kolben
-
 *Én bitt og du blir forelsket i mais.*
 
 ## Ingredienser
@@ -15,9 +13,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Fyll en gryte på 4 liter halvveis med vann og bring til koking over høy varme. Tilsett mais og kok i 7 minutter eller til kernene er møyke. Drenerer mais.
-2. I en liten bolle kombinerer du smølt margarin og hvitløkssalt. Med en konditorpensel dekker du mais med margarinblandingen.
-3. Plasser i serveringsfat og legg 1/2 skive ost over hver maiskjerne. La stå i 5 minutter før servering for at osten skal smelte.
+1. Fyll en kjele på 4 liter med vann, omtrent halvveis, og kok opp over høy varme. Tilsett mais og kok i 7 minutter, eller til maiskjernene er myke. Hell av vannet.
+2. I en liten bolle, bland smeltet margarin med hvitløksalt. Bruk en pensel til å fordele margarinblandingen over maisen.
+3. Legg maisen på et serveringsfat og legg 1/2 skive ost over hver kjerne. La stå i 5 minutter før servering, slik at osten smelter.
 
 ## Info
 

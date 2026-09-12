@@ -17,13 +17,13 @@ created: 2010-03-29
 
 **Dressing**
 
-- rømme
-- majones
-- hvitløk, presset
-- gressløk, hakket
-- noen dråper sitron
-- salt
-- pepper
+- Rømme
+- Majones
+- Hvitløk, presset
+- Gressløk, finhakket
+- Noen dråper sitron
+- Salt
+- Pepper
 
 ## Fremgangsmåte
 

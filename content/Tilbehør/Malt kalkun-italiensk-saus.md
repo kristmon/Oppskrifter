@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Malt kalkun-italiensk-saus
-
 ## Ingredienser
 
 - 450 g malt kalkun
@@ -22,10 +20,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en kasserolle på 7 liter, bland kalkun, løk, persille, hvitkløk, italiensk krydring og rød chili-flak. Steik over medium-høy varme i 7–8 minutter eller til kalkunen ikke lenger er rosa.
-2. Tilsett tilstuvede tomater, tomatosaus, tomatpaste, salt, sukker og rødvin (og vann hvis ønsket).
-3. Varm til det koker; reduser umiddelbart varmen til medium og la det småkoke åpent i 15 minutter.
-4. Serv over tilberedt pasta eller bruk som en velsmakende lasagne-saus.
+1. I en kjele på 7 liter, bland kalkun, løk, persille, hvitløk, italiensk krydder og chiliflak. Stek over middelhøy varme i 7–8 minutter, eller til kalkunen ikke lenger er rosa.
+2. Tilsett hakkede tomater, tomatsaus, tomatpuré, salt, sukker og rødvin (og vann, hvis ønskelig).
+3. Varm opp til det koker; reduser umiddelbart varmen til middels og la det småkoke åpent i 15 minutter.
+4. Server over kokt pasta, eller bruk som en smakfull lasagne-saus.
 
 ## Info
 

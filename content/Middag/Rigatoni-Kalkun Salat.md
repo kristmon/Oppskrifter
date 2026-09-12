@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Rigatoni-Kalkun Salat
-
 ## Ingredienser
 
-- 225 g Rigatoni, Elbow Macaroni eller annen medium pastafasong, ukokt
-- 3,75 dl hakket kokt kalkun
-- 0,5 dl hakket løk
-- 2,5 dl tynnt skåret gulrot
-- 2,5 dl frosset erter, tint
-- 2 ss vegetarolje
-- 2 ss eplesidreddik
-- 1/4 ts timian
-- 1/4 ts salt
-- 1/4 ts pepper
+- 225 g rigatoni, albuepasta eller annen middels stor pastaform, ukokt.
+- 3,75 dl hakket, kokt kalkun.
+- 0,5 dl hakket løk.
+- 2,5 dl tynne gulrotsskiver.
+- 2,5 dl frosne erter, tint.
+- 2 ss vegetabilsk olje.
+- 2 ss eplecidereddik.
+- 1/4 ts timian.
+- 1/4 ts salt.
+- 1/4 ts pepper.
 
 ## Fremgangsmåte
 
-1. Tilbered pasta etter pakningens anvisning, hell av og skyll med kaldt vann. Hell av godt.
-2. Kombiner kalkun og grønnsakene i en stor bolle. Tilsett pasta. Kombiner olje, eddik og krydringer i en glassbolle. Ryst til det er godt blandet. Hell over pasta og rør godt. Dekk og kjøl til du er klar til å serve.
+1. Kok pastaen etter anvisningene på pakken. Hell av vannet og skyll med kaldt vann. Hell av godt.
+2. Bland kalkun og grønnsakene i en stor bolle. Tilsett pastaen. Bland olje, eddik og krydder i en glassbolle. Rør godt til alt er blandet. Hell blandingen over pastaen og rør godt. Dekk til og sett i kjøleskapet til servering.
 
 ## Info
 

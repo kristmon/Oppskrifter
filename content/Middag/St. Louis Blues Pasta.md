@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# St. Louis Blues Pasta
-
-*One of NPA's Top 10 Favorites from the "Great States of Pasta" Recipe Contest Winners!*
+En av NPA's ti favoritter fra konkurransen "De store pastastatene", blant vinnerne!
 
 ## Ingredienser
 
-- 0,5 kg Penne or other medium pasta shape
+- 0,5 kg penne eller annen pastaform
 - 1/1 kg bacon
-- 4 cloves hvitløk, chopped
-- 2,5 dl løk, chopped
+- 4 fedd hvitløk, finhakket
+- 2,5 dl løk, finhakket
 - 1 ts salt
-- 0,5 kg collard greens, chopped and rinsed
-- 1 14.5 oz can kyllingbuljong
-- 1 ss vineddiksyre
-- 1 ts hot pepper sauce
-- 1,2 dl parmesan ost, grated
+- 0,5 kg grønnkål, finhakket og skylt
+- 1 boks (411 g) kyllingbuljong
+- 1 ss hvitvinseddik
+- 1 ts chilisaus
+- 1,2 dl parmesanost, revet
 
 ## Fremgangsmåte
 
-1. Kok pasta according to pasta directions, tøm.
-2. Meanwhile, kok bacon in large skillet til crisp. Remove from pan, crumble and reserve bacon. hell off all but 1 tbsp. bacon drippings. Sauté hvitløk and løk in remaining drippings. Sprinkle with salt.
-3. Tilsett collard greens and rør to coat collard greens with bacon drippings. tilsett kyllingbuljong. Cover pan and la småkoke til collard greens are tender but not mushy, about 15 minutter.
-4. Rør in eddiksyre and hot pepper sauce. bland collard greens and pan juices with the kokt pasta.
-5. Sprinkle with parmesan ost and chopped bacon. servér immediately.
+1. Kok pastaen etter anvisningene på pakken, og hell av vannet.
+2. I mellomtiden, stek bacon i en stor stekepanne til det er sprøtt. Fjern bacon fra pannen, smuldre det og sett til side. Hell av alt baconfettet, men behold 1 ss. Fres hvitløk og løk i det resterende baconfettet. Tilsett salt.
+3. Tilsett bladselleri (collard greens) og rør for å dekke med baconfett. Tilsett kyllingbuljong. Dekk pannen med lokk og la det småkoke til bladsellerien er mør, men ikke mos, i ca. 15 minutter.
+4. Rør inn eddik og sterk peppersaus. Bland bladselleri og kraft fra pannen med den kokte pastaen.
+5. Dryss over parmesan og smuldret bacon. Server umiddelbart.
 
 ## Info
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Bacon cheddar gressløk muffins
-
 *En flott muffin til frokost, brunch, lunsj, sammen med suppe eller som en deilig snack.*
 
 ## Ingredienser
@@ -13,21 +11,21 @@ created: 2026-05-05
 - 1,5 ss hvitt sukker
 - 2 ts bakepulver
 - 1/4 ts salt
-- 1,5 ts hvitkløg pulver
-- 4 ts tørret gressløk
-- 0,75 dl raspt parmesanost
-- 2,5 dl rives cheddaost
+- 1,5 ts hvitløkspulver
+- 4 ts tørket gressløk
+- 0,75 dl revet parmesanost
+- 2,5 dl revet cheddarost
 - 1 egg, pisket
 - 1,25 dl melk
-- 1,25 dl champinjong suppe
-- 1,25 dl vegetarolje
+- 1,25 dl champinjongsuppe
+- 1,25 dl vegetabilsk olje
 
 ## Fremgangsmåte
 
-1. Plasser bacon i en stor, dyp stekepanne. Kok på medium høy varme til den er jevnt brun. Tøm, knuser og sett til side.
-2. Forvarm ovnen til 200°C. Litt smør muffins form.
-3. I en stor blanding bolle, kombiner mel, sukker, bakepulver, salt, hvitkløg pulver, gressløk, parmesanost, cheddaost og knust bacon. Kombiner egget, melk, champinjong suppe og vegetarolje. Bland inn i de tørre ingrediensene og rør sammen bare til fuktig.
-4. Skje deigen inn i forberedte muffins former og bak ved 200°C i 20-25 minutter, eller til en tannpikk som stikkes inn i en muffin kommer ut ren.
+1. Legg bacon i en stor, dyp stekepanne. Stek på middels høy varme til det er jevnt brunt. Hell av fettet, knus baconet og sett til side.
+2. Forvarm ovnen til 200°C. Smør en muffinsform med litt smør.
+3. I en stor bolle, bland sammen mel, sukker, bakepulver, salt, hvitløkpulver, gressløk, parmesanost, cheddarost og knust bacon. Bland egget, melk, soppbuljong og vegetabilsk olje. Bland inn i de tørre ingrediensene og rør bare til deigen er fuktig.
+4. Fordel deigen i de forberedte muffinsformene og stek i ovnen ved 200°C i 20-25 minutter, eller til en tannpirker stukket inn i en muffin kommer ut ren.
 
 ## Info
 

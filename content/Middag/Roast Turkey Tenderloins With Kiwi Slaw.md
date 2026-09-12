@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Roast Turkey Tenderloins With Kiwi Slaw
-
 ## Ingredienser
 
-- 1 1/2 lbs turkey tenderloins
-- Olive oil, for brushing turkey
-- 3 Tbs fresh lime juice
-- 2 Tbs canola oil
-- 1 Tbs honey
-- 2 cups shredded cabbage
-- 1 cup shredded carrots
-- 2 kiwi fruits, peeled, diced
+- 680 g kalkunfilet
+- Olivenolje, til pensling av kalkun
+- 3 ss fersk limejuice
+- 2 ss rapsolje
+- 1 ss honning
+- 4,8 dl strimlet kål
+- 2,4 dl strimlet gulrot
+- 2 kiwi, skrelt og i små biter
 
 ## Fremgangsmåte
 
-1. Grill the turkey tenderloins 6 inches from the heat source, about 4 to 5 minutes per side, brushing with the olive oil. Remove the turkey and let cool.
-2. Combine the lime juice, oil, and honey. Toss in the cabbage and carrots. Add the kiwi and toss again.
-3. Serve the turkey at room temperature with the slaw.
+1. Grill kalkunfiletene 15,2 cm fra varmekilden, i omtrent 4 til 5 minutter per side, og pensle med olivenolje. Ta kalkunen av grillen og la den avkjøles.
+2. Bland limesaft, olje og honning. Vend inn kål og gulrøtter. Tilsett kiwi og vend igjen.
+3. Server kalkunen ved romtemperatur sammen med salaten.
 
 ## Info
 

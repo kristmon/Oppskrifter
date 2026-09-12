@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Parfait-koppar
-
 ## Ingredienser
 
 - 6 ferske California-ferskener, delt
@@ -15,7 +13,7 @@ created: 2026-05-05
 
 1. Terning 3 ferskener. I en blender eller matprosessor, bland 3 ternede ferskener med yoghurt og honning til glatt. Vend blanding inn i frysebeholder og frys.
 2. Når frosset, delt opp, vend inn i metallbolle og slag for å få en glatt frost blanding. Vend inn i 6 plast koppar.
-3. Sprinkle lag av granola over, dekk med plastlokk og frys til klar til bruk.
+3. Strø lag med granola over, dekk med plastlokk og frys til bruk.
 4. Skive gjenværende 3 ferskener. Topp parfait med ferskener og serv.
 
 ## Info

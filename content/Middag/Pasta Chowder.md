@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Pasta Chowder
-
 ## Ingredienser
 
-- 5 dl Small Shells, Ditalini or Stars, uncooked
-- 3 ss margarine
-- 1 small løk, chopped
-- 1 clove hvitløk, minced
-- 10 dl melk
-- 2 ss chopped fresh parsley
-- 3,8 dl shredded cheddarost
-- 2 6 1/2-oz. cans minced clams, undrained
-- salt to taste
-- pepper to taste
+- 5 Små skjell, ditalini eller stjerner, ukokt
+- 3 Margarin
+- 1 Små løk, hakket
+- 1 Fedd hvitløk, finhakket
+- 10 Melk
+- 2 Hakket, fersk persille
+- 3,8 Revet cheddarost
+- 2 6 1/2-ons bokser med finhakket blåskjell, uten å tømme
+- Salt etter smak
+- Pepper etter smak
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; tøm.
-2. In large saucepan or Dutch ovn, melt margarine. tilsett løk and hvitløk. kok til mør.
-3. Rør in remaining ingredients, except pasta. kok over medium varm, stirring konstant, til soup is hot and ost melts. Do not kok. rør in pasta. varm through.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet.
+2. I en stor kjele eller gryte, smelt margarinen. Tilsett løk og hvitløk. Stek til løken er myk.
+3. Rør inn de resterende ingrediensene, unntatt pastaen. Kok opp på middels varme, rør jevnlig, til suppen er varm og osten er smeltet. La det ikke koke. Rør inn pastaen. Varm gjennom.
 
 ## Info
 

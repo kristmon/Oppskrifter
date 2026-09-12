@@ -2,33 +2,31 @@
 created: 2026-05-05
 ---
 
-# Braised Short Ribs
-
 ## Ingredienser
 
 - 3 ss olivenolje
 - 6 kg short ribs
-- 2 gulrøtter, diced
-- 2 stalks selleri, diced
-- 2 medium løk, diced
-- 1 ss tomat paste
-- 3 ss all purpose mel
-- 1,2 dl port wine
+- 2 gulrøtter, i terninger
+- 2 stilker selleri, i terninger
+- 2 mellomstore løk, i terninger
+- 1 ss tomatpuré
+- 3 ss hvetemel
+- 1,2 dl portvin
 - 10 dl Cabernet Sauvignon
-- 1 head hvitløk, peeled and seperated
-- 10 dl storfekjøtt stock
-- 2 sprigs rosmarin
-- 10 sprigs parsley
-- 8 sprigs timian
-- 2 bay leaves
+- 1 hvitløkshode, skrelt og delt
+- 10 dl oksekjøttkraft
+- 2 rosmarinkvister
+- 10 persillekvister
+- 8 timiankvister
+- 2 laurbærblader
 - kosher salt
-- ground pepper
+- malt pepper
 
 ## Fremgangsmåte
 
-1. Pre-varm ovn to 375 grader. Tie short ribs together with kitchen string, then salt and pepper. varm olivenolje in a large Dutch ovn over medium-high varm, and brown short ribs on each side. Remove short ribs, and tilsett gulrøtter, selleri, and løk to pan and kok to a golden brown, 5 to 10 minutter. tilsett tomat paste and mel, and kok 2 to 3 minutter.
-2. Return short ribs to the pot, and deglaze with port and rødvin. kok til liquid is reduced by two-thirds. Bunch rosmarin, parsley timian, and bay leaves together and tie the bundle with kitchen string. tilsett hvitløk, the tied herbs, and stock. bring til kokepunktet, cover, and transfer to ovn for 3 timer, til meat is fork-tender.
-3. Transfer short ribs to a platter. sikta sauce through a fine sieve or cheesecloth into a medium-size saucepan. Reduce sauce over medium varm til it thickens. Adjust seasoning, spoon sauce over short ribs, and servér.
+1. Forvarm ovnen til 375 grader. Bind underdelen av oksestekene sammen med kjøkkenhysje, og krydre med salt og pepper. Varm olivenolje i en stor jerngryte over middelhøy varme, og brun oksestekene på alle sider. Ta oksestekene ut av gryten, og tilsett gulrøtter, selleri og løk i pannen. Stek til de er gyllenbrune, i 5 til 10 minutter. Tilsett tomatpuré og mel, og stek i 2 til 3 minutter.
+2. Sett short ribs tilbake i gryten, og hell over portvin og rødvin. Kok til væsken er redusert til en tredjedel. Bind rosmarin, persille, timian og laurbærblader sammen og knyt dem med kjøkkenhyssing. Tilsett hvitløk, den buntede urtekombinasjonen og kraft. Kok opp, sett på lokk og sett i ovnen i 3 timer, til kjøttet er mørt.
+3. Legg short ribs på et fat. Sil sausen gjennom en finmasket sil eller osteklut over i en middels stor kjele. Reduser sausen over middels varme til den tykner. Smak til med krydder, hell sausen over short ribs, og server.
 
 ## Info
 

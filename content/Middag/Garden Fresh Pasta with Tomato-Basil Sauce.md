@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Garden Fresh Pasta with Tomato-Basil Sauce
-
 ## Ingredienser
 
-- 1 lb Spaghetti, Linguine or Thin Spaghetti, uncooked
-- 4 medium tomatoes, seeded and chopped (about 4 cups)
+- 455 g Spaghetti, Linguine or Thin Spaghetti, uncooked
+- 4 mellomstore tomater, uten kjerner og hakket (omtrent 9,6 dl).
 - 1 15-oz. can Italian-flavor tomato sauce
-- 1 tsp dried basil or 2 tbsp. chopped fresh basil
-- 1/2 tsp freshly ground black pepper
+- 1 ts tørket basilikum eller 2 ss. hakket, fersk basilikum.
+1/2 ts nykvernet svart pepper.
 - 1 Tbs vegetable oil
-- 1 lb fresh asparagus, cut into 1-inch pieces (about 2 cups)*
-- 1 medium zucchini or yellow squash, halved and thinly sliced
+- 455 g fersk asparges, kuttet i biter på ca. 2,5 cm (omtrent 4,8 dl)*
+- 1 middels stor squash eller gul squash, delt i to og i tynne skiver.
 - 1 medium red bell pepper, cut in 1/2-inch pieces
 - Freshly grated Parmesan cheese
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; drain.
-2. In a large saucepan, combine tomatoes, tomato sauce, basil and black pepper; mix well and bring to a boil. Reduce heat, cover and simmer 20 minutes. Remove cover and cook, stirring occasionally, 15 to 20 minutes longer, or until slightly thickened.
-3. In a large skillet, heat oil over medium-high heat. Add asparagus, zucchini and bell pepper. Stir-fry until vegetables are tender. Combine pasta with vegetable mixture and toss well. Spoon tomato sauce over pasta and sprinkle with Parmesan cheese.
+1. Kok pastaen etter anvisningene på pakken; sil av vannet.
+2. I en stor kjele, bland tomater, tomatsaus, basilikum og svart pepper; rør godt og kok opp. Senk varmen, dekk til og la det småkoke i 20 minutter. Fjern lokket og la det koke, rør av og til, i ytterligere 15 til 20 minutter, eller til sausen er litt tykkere.
+3. I en stor stekepanne, varm oljen på middelhøy varme. Tilsett asparges, squash og paprika. Wok stekt til grønnsakene er møre. Bland pastaen med grønnsaksblandingen og rør godt. Fordel tomatsausen over pastaen og dryss over parmesanost.
 
 ## Tips
 
-- If desired, substitute two 10-oz. packages frozen asparagus, cut, thawed and drained, for fresh asparagus.
+Hvis ønskelig, kan du erstatte to pakker 10 -oz. frosne asparges, som er kuttet, tint og drenert, med fersk asparges.
 
 ## Info
 

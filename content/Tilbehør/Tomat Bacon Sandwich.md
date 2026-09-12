@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Tomat Bacon Sandwich
-
 ## Ingredienser
 
 - 8 skiver bacon, hakket
@@ -14,8 +12,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en stor tung stekepanne stekk baconet over moderat varme, røring, til det er sprøtt, overfør det til papirservietter for å drenere og hakkfe det fint.
-2. I en bolle rør sammen bacon, mayo og sennep. Spred bacon mayo på en side av hver brødskive, smørbag tomatene mellom skivene og kutt hver sandwich i 4 trekanter.
+1. I en stor, tung stekepanne stekes bacon over moderat varme, under omrøring, til det er sprøtt. Overfør baconet til et papirhåndkle for å renne av, og hakk det fint.
+2. I en bolle røres bacon, majones og sennep sammen. Smør baconmajones på den ene siden av hver brødskive, legg tomaten mellom skivene, og skjær hver sandwich i 4 trekanter.
 
 ## Info
 

@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Fettuccine with Oranges and Watercress
-
 ## Ingredienser
 
-- 12 oz Fettuccine, uncooked
-- 12 oz boneless, skinless chicken breasts
-- 1 8-oz. can orange juice concentrate
-- 5 Tbs teriyaki sauce
-- 2 Tbs lime juice
-- 1 8-oz. can sliced water chestnuts, drained
-- 2 bunches watercress, coarsely chopped
-- 3 Tbs chopped pecans, lightly toasted
-- 2 oranges, peeled with a knife and sliced into sections (optional)
+- 34 g fettuccine, ukokt
+- 34 g kyllingbryst, uten bein og uten skinn
+- 1 8-ons. boks appelsinjuicekonsentrat
+- 5 ss teriyakisaus
+- 2 ss limesaft
+- 1 8-ons. boks skivede vannkastanjer, avrent
+- 2 poser vannkress, grovt hakket
+- 3 ss hakkede pekannøtter, lett ristet
+- 2 appelsiner, skrelt og delt i skiver (valgfritt)
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions. While pasta is cooking, stir together the orange juice concentrate, teriyaki sauce and lime juice in a medium skillet. Add the chicken breasts, cover the skillet and simmer the chicken four minutes. Turn the chicken, cover and cook for four more minutes or until done. Remove the chicken to a cutting board and let it cool. Add the water chestnuts to the orange sauce. Bring to a boil and stir. Slice the chicken into strips and add it to the sauce.
-2. In a large serving bowl, toss together the hot pasta, pecans and watercress. Add chicken and orange sauce. Garnish with orange slices and serve.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, bland appelsinjuicekonsentrat, teriyaki saus og limesaft i en middels stor stekepanne. Tilsett kyllingbrystene, dekk stekepannen med lokk og la kyllingen småkoke i fire minutter. Snu kyllingen, dekk igjen og kok i ytterligere fire minutter, eller til den er gjennomstekt. Ta kyllingen ut på et skjærebrett og la den avkjøles. Tilsett vannkastanjer i appelsinsausen. Kok opp og rør. Skjær kyllingen i strimler og tilsett den i sausen.
+2. I en stor serveringsbolle, bland den varme pastaen, valnøtter og bløt salat. Tilsett kylling og appelsinsaus. Pynt med appelsinskiver og server.
 
 ## Info
 

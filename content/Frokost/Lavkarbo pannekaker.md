@@ -2,14 +2,12 @@
 created: 2026-05-05
 ---
 
-# Lavkarbo pannekaker
-
 ## Ingredienser
 
-- 120 ml malt linfrmål
+- 120 ml malt linfrømel
 - 1 ml bakepulver
 - 2 egg
-- 30 ml olje eller smalt smør
+- 30 ml olje eller smeltet smør
 - 45 ml cottage cheese
 - 60 ml fløte
 

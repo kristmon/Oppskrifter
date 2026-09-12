@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Karamel Epler
-
 ## Ingredienser
 
 - 2 1/2 karamel godteri, kuttet i små stykker

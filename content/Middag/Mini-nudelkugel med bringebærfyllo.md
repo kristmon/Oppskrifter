@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Mini-nudelkugel med bringebærfyllo
-
 ## Ingredienser
 
 - 115 g mellanstor eller vid egg-nudel, ukokt
@@ -19,8 +17,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 175 °C. Kok egg-nudelene etter pakningsinstruksjonene. Medan nudelene koker, slå saman eggeerstatninga, sukkeret, kanelen og muskatnøtta i ei stor bolle til sukkeret er oppløyst og blandinga er skummande. Fold inn cottage-osten, eplesausen og hakket tørket eple eller rosinar. Spray lett ei muffin-form (helst ikkje-klebrig) med vegetarolje matlagingsspray. (Ikkje bruk bakingkapar.)
-2. Avløp nudelene i eit sil og tillsett dei umiddelbart til eggblandinga. Fylt kvar muffin-form halvfull. Tillsett 10 ml bringebærmarmelad til kvar kopp, deretter fyll muffin-kopane fullt. Bak til fast og toppane er gullbrun, omtrent 45 minutter. Server varmt.
+1. Forvarm ovnen til 175 °C. Kok eggnudlene etter anvisningene på pakken. Mens nudlene koker, visp sammen eggeerstatning, sukker, kanel og muskat i en stor bolle til sukkeret er oppløst og blandingen er luftig. Rør inn cottage cheese, eplesaus og hakket tørket eple eller rosiner. Smør en muffinsform (helst en form med slippbelegg) lett med vegetabilsk spray. (Ikke bruk bakepapir.)
+2. Hell nudlene i et sil og tilsett dem umiddelbart til eggeblandingen. Fyll hver muffinsform halvfull. Tilsett 10 ml bringebærmarmelade i hver form, og fyll deretter formene helt. Stek i ovnen til de er faste og toppene er gyllenbrune, ca. 45 minutter. Server varme.
 
 ## Info
 

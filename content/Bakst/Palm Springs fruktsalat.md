@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Palm Springs fruktsalat
-
 ## Ingredienser
 
 - 120 ml dadler, skåret
-- 4 beinfrie kylling brysthalver, kokt og avkjølt
+- 4 kokte og avkjølte kyllingbrysthalvfileter, uten skinn og bein
 - 2 store appelsiner
 - 1 ananas
-- 2 kiwi-frukter, til garnering
-- Mintemynte spirer, til garnering
-**Oransje mynte yogurt dressing**
-- 240 ml plain lavfett yogurt
+- 2 kiwi, til pynt
+- Mynte-spirer, til pynt
+**Appelsin-mynte yoghurt dressing**
+- 240 ml naturell, mager yoghurt
 - 30 ml honning
-- 10 ml revelt oransjeskal
-- 2 ml fint hakket kandisert ingefær
+- 10 ml revet appelsinskall
+- 2 ml finhakket kandisert ingefær
 - 0,5 ml salt
-- 1 dash cayenne pepper
-- 7 ml hakket frisk mynte
+- 1 knivsspiss cayennepepper
+- 7 ml finhakket frisk mynte
 
 ## Fremgangsmåte
 

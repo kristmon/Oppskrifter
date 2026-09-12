@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Bær blå smoothie
-
 ## Ingredienser
 
 - 5 dl ferske eller litt smeltet fryst blåbær
@@ -11,7 +9,7 @@ created: 2026-05-05
 - 2,5 dl melk
 - 1 boks (170 g) usøtet ananasjuice
 - 3 ss honning
-- 3,5 dl isbiter (ca 16 biter)
+- 3,5 dl isbiter (ca. 16 biter)
 
 ## Fremgangsmåte
 

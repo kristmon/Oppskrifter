@@ -2,22 +2,20 @@
 created: 2026-05-05
 ---
 
-# Rask Gresskar Puddingstabilitet
-
 *Denne raske gresskar desserten er kremete, glatt og så tilfredsstillende! Kombinér omedelbar vaniljepudding og paieblandingen med Libbys gresskar og pisket krem og du har desserten.*
 
 ## Ingredienser
 
-- 1 pkg. (145 g) vanilje omedelbar pudding og paiefyllingsblandingen
-- 1 boks (355 ml) NESTLÉ® CARNATION® fordampet melk
-- 1 boks (425 g) LIBBY’S® 100% ren gresskar
-- 1 ts gresskar pai krydder
-- Pisket krem
+- 1 pakke (145 g) vanilje, pulverisert pudding- og paiyll.
+- 1 boks (355 ml) kondensert melk.
+- 1 boks (425 g) gresskarpuré
+- 1 teskje gresskarpaikrydder.
+- Pisket krem.
 
 ## Fremgangsmåte
 
-1. Slå pudding blandingen og fordampet melk etter pakkedetaljer i stor bolle; kjøl i 5 minutter. Tilsett gresskar og gresskar pai krydder; bland godt.
-2. Skje inn i dessert skåler. Kjøl i 10 minutter eller til klar til servering. Top med pisket krem.
+1.  Visp sammen puddingblandingen og den fordampede melken i henhold til instruksjonene på pakken, i en stor bolle; sett til kjøling i 5 minutter. Tilsett gresskar og gresskar-krydderblanding; bland godt.
+2.  Fordel blandingen i dessertskåler. Sett i kjøleskapet i 10 minutter, eller til den er klar for servering. Topp med pisket krem.
 
 ## Info
 

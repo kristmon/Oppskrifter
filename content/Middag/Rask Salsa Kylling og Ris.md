@@ -2,9 +2,7 @@
 created: 2026-05-05
 ---
 
-# Rask Salsa Kylling og Ris
-
-*I mange mexicanske husstander utgjør ris smakt med kraft, tomater og chili et fullt måltid. Denne retten, med smakfull ris og kylling med Ortega hage stil salsa, er en rask versjon av klassikeren. Nyt med blandet grønn salat og avkjølt Libbys Kerns mangoekstrakt.*
+*En rask risrett med kylling, tomat, chili og salsa. Server gjerne med en grønn salat.*
 
 ## Ingredienser
 
@@ -12,15 +10,15 @@ created: 2026-05-05
 - 450 g beinløs, hudløs kyllingbryst halvdel, kubert
 - 1 ts hvitkløkpulver
 - 500 ml omedelbar hvit eller brun ris
-- 1 (450 g) glass Ortega® salsa prima hjemmestil mild
+- 1 (450 g) glass mild salsa
 - 300 ml vann
-- 1 Maggi® kylling bouillon kubber
+- 1 kyllingbuljongterninger
 - 2 hakket grønn løk (grønn deler bare)
 
 ## Fremgangsmåte
 
-1. Varm olje i stokepot. Tilsett kylling og hvitkløkpulver; stekk, rør av og til, til kyllingen ikke lenger er rosa.
-2. Tilsett ris, salsa, vann og bouillon; bring til kok. Dekk over; reduser varmen til lav. Stekk, rør av og til, i 10-12 minutter eller til ris er mørt og væske er absorbert. Strø med grønn løk.
+1. Varm olje i en kjele. Tilsett kylling og hvitløkspulver; stek, rør av og til, til kyllingen er gjennomstekt.
+2. Tilsett ris, salsa, vann og kraft; kok opp. Dekk til; senk varmen til lav. Stek, rør av og til, i 10 - 12 minutter, eller til risen er kokt og væsken er absorbert. Dryss over hakket vårløk.
 
 ## Info
 

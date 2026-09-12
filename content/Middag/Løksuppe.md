@@ -3,7 +3,7 @@ created: 2017-11-02
 ---
 Til 12 personer.
 
-Ingredienser 
+Ingredienser
 
 - 18 løk
 - 15 ss olivenolje
@@ -12,12 +12,12 @@ Ingredienser
 - 6 kvister frisk timian
 - 6 dl tørr hvitvin eller eplejuice
 - 3 ss sennep
-- 3 l god kraft (kyllingkraft?)
+- 3 liter god kraft (kyllingkraft?)
 - 3 laurbærblad
-- grovmalt pepper
+- Grovmalt pepper
 - 3 ts salt
-- 300-500 gram gruyere-ost eller emmentaler
-- 12 skiver daggammel loff/halvgrovt brød
+- 300-500 gram gruyère-ost eller emmentaler
+- 12 skiver daggammelt brød/halvgrovt brød
 
 Algoritme:
 
@@ -43,7 +43,7 @@ Rist terningene i litt olje i en stekepanne.
 
 Fordel suppen i ildfaste porsjonsformer.
 
-Legg loffterningen over og dryss over rikelig med ost.
+Legg brødskivene over og dryss over rikelig med ost.
 
 Gratiner i varm ovn ved 250 grader, 6-8 min, eller under grillen i kort tid. Osten skal få en gyllen og fin farge.
 

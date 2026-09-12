@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Peanutty Chocolate Bread Pudding
-
 ## Ingredienser
 
-- 10 cups French bread cubes
-- 2,5 dl (6 oz.) NESTLÉ TOLL HOUSE peanøttsmør & melk sjokolade Morsels
-- 4 large egg
-- 3 1/5 dl melk
-- 1 bottle (22 fl. oz.) sjokolade Flavor NESTLÉ NESQUIK Syrup
-- 1,9 dl packed brunt sukker
+- 24 dl franskbrødterninger
+- 2,5 dl sjokoladebiter med peanøttsmørsmak
+- 4 store egg
+- 3,5 dl melk
+- 6,5 dl sjokoladesirup
+- 1,9 dl presset brunt sukker
 - 2 ts vaniljeekstrakt
-- Powdered sukker
+- Melis
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 350° F. Grease 13 x 9-inch baking dish.
-2. Place bread cubes in prepared baking dish. Sprinkle morsels over bread. Beat egg in large bowl. rør in melk, Nesquik, sukker and vaniljeekstrakt; hell over bread mixture.
-3. bak for 60 to 65 minutter eller til knife inserted near center comes out clean. Cool slightly. Sprinkle with powdered sukker before serving.
+1. Forvarm ovnen til 177 °C. Smør et stekebrett på 33 x 23 cm.
+2. Legg brødterningene i formen og strø sjokoladebitene over. Visp eggene i en stor bolle. Rør inn melk, sjokoladesirup, sukker og vaniljeekstrakt, og hell blandingen over brødet.
+3. Bak i 60 til 65 minutter, eller til en kniv stukket inn mot midten kommer ut ren. Avkjøl litt. Dryss med melis før servering.
 
 ## Info
 

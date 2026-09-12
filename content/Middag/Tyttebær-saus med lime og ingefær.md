@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Tyttebær-saus med lime og ingefær
-
 *Det perfekte tilskudd til den festlige fuglen, denne lønnesirup-søtet saus koker på mindre enn 15 minutter og kan gjøres flere dager før festen.*
 
 ## Ingredienser

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Tyttebær og aprikosmarmelade
-
 ## Ingredienser
 
 - 300 ml sukker

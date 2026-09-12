@@ -11,7 +11,7 @@ created: 2010-12-11
 
 ## Fremgangsmåte
 
-1. Hakk sjokoladene og smelt i vannbad hver for seg. Ha bakepapir på en stekeplate e.l. Ta en skje med hvit sjokolade og drypp over bakepapiret. Lag noen striper eller mønster. Hell den mørke sjokoladen over og bruk en slikkepott til å smøre den forsiktig utover (ikke for tynt). Resten av den hvite sjokoladen dryppes på toppen. Bruk en kniv eller slikkepott eller noe til å lage mønster, forsiktig så ikke den hvite og mørke sjokoladen blandes helt. Settes til å stivne i kjøleskap i ca 20 minutter (avhengig av hvor tykk barken din er). Knekkes så opp i biter.
+1. Hakk sjokoladen og smelt den i vannbad, hver type for seg. Kle et stekebrett med bakepapir. Ta en skje med hvit sjokolade og fordel den over bakepapiret. Lag striper eller et mønster. Hell deretter den mørke sjokoladen over og bruk en slikkepott til å fordele den forsiktig utover (ikke for tynt). Fordel resten av den hvite sjokoladen på toppen. Bruk en kniv eller slikkepott for å lage et mønster, men vær forsiktig så ikke den hvite og mørke sjokoladen blandes helt. Sett det i kjøleskapet for å stivne i ca. 20 minutter (avhengig av hvor tykk "barken" er). Knekkes deretter opp i biter.
 
 ## Info
 

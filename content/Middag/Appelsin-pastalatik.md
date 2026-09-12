@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Appelsin-pastalatik
-
 ## Ingredienser
 
-- 450 g mellanstore skjel, albueskjell eller annan mellanstørrel pastaform, ukokt
-- 7,5 dl beinlaust kyllingbryst utan hud, stekt og kjølt
-- 3 dl raud eller kvit frøløs drugar, delt i halvdeler
-- 1 stor agurk, skalett, frø fjernet og skåret i bitar
-- 6 grønn løk, skåret
-- 7,5 dl naval apelsinar, skalett og delt med kniv
-- 1 hode salat
-**Lett appelsin-olje og eddik-dressing**
-- 60 ml vegetarolje
-- 60 ml kvit vin-eddik
-- 180 ml appelsin juice-konsentrat
+- 450 g middelsstore skjell, albueskjell eller annen middels stor pastaform, ukokt
+- 7,5 dl uten hud og bein, stekt kyllingbryst, avkjølt
+- 3 dl røde eller hvite druer, uten frø, delt i to
+- 1 stor agurk, skrellet, med frø fjernet og i biter
+- 6 stilker vårløk, i skiver
+- 7,5 dl mandariner, skrellet og delt med kniv
+- 1 salathode
+**Lett appelsinolje og eddikdressing**
+- 60 ml vegetabilsk olje
+- 60 ml hvitvinseddik
+- 180 ml appelsinjuicekonsentrat
 - 5 ml salt
 - 1/2 ts pepper
 

@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Høst Pasta med Epler og Tranebær
-
 ## Ingredienser
 
-- 225 g Brede Egg-Nudler
+- 225 g brede eggenudler
 - 2 ts margarin
-- 225 g kalkun-skinke, uhakket, kuttet i 1,25 cm terninger
-- 1 bunt grønn løk, hvite og noen grønne deler, hakket
-- 2 Granny Smith eller Macintosh-epler, kuttet i skiver, så i 1,25 cm biter
-- 1/4 ts muskatnøtt
-- 125 ml fryst eplekonssentrat, tint
-- 250 ml halv og halv
-- 250 ml skarp cheddar-ost, raadet
+- 225 g kalkunskinke, uhakket, kuttet i 1,25 cm terninger
+- 1 bunt grønn løk, med hvite og noen grønne deler, hakket
+- 2 Granny Smith eller Macintosh-epler, kuttet i skiver, deretter i 1,25 cm biter
+- 1/4 ts muskat
+- 125 ml fryst eplekonsentrat, tint
+- 250 ml fløte
+- 250 ml skarp cheddarost, revet
 - 2 ss gressløk
 - 1/2 ts salt
 - 1/4 ts pepper
-- 125 ml tørket tranebær
+- 125 ml tørkede tranebær
 
 ## Fremgangsmåte
 

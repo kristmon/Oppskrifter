@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Linguine med kvit kamskjelsaus
-
 ## Ingredienser
 
 - 225 g Linguine eller spaghetti

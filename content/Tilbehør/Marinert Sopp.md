@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Marinert Sopp
-
 ## Ingredienser
 
 - 1,1 kg ferske hvite sopp

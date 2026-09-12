@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Kalkun Bryst med Søt og Sur Aprikos Glasur
-
 ## Ingredienser
 
 - 1 kalkun bryst (1800-2700 g)

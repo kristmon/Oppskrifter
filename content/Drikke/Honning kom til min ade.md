@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning kom til min ade
-
 *Du kunne starte din egen virksomhet med en honning-lemonade-stand.*
 
 ## Ingredienser

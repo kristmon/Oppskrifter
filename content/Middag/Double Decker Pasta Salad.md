@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Double Decker Pasta Salad
-
 ## Ingredienser
 
-- 8 oz Elbow Macaroni, Medium Shells or other medium pasta shape, uncooked
-- 2 cups fresh green beans, cut in half, or 1 10-oz package frozen green beans, thawed and drained
-- 1 cup plain, low-fat yogurt
-- 1 Tbs Dijon mustard
-- 2 Tbs honey
-- 2 medium carrots, grated
-- 1 red apple, diced (about 1 1/4 cups)
-- 1 6 1/8-oz. can white tuna packed in water, drained
-- 1/4 cup chopped walnuts
-- 1/2 cup grated Cheddar cheese
+- 227: Albuepasta, middels store skall eller annen middels stor pastaform, ukokt.
+- 4,8: Grønne bønner, delt på midten, eller en pakke (1 10) frosne grønne bønner, tint og avrent.
+- 2,4: Naturell, mager yoghurt.
+- 1: Dijonsennep.
+- 2: Honning.
+- 2: Gulrøtter, revet.
+- 1: Eple, i terninger (omtrent 3 dl).
+- 1: En boks (6 1/8) med tunfisk i vann, avrent.
+- 0,6: Hakkede valnøtter.
+- 1,2: Revet cheddarost.
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; drain.
-2. Blanch green beans by cooking in pot of boiling water for 2 minutes. Drain and rinse well with cold water. Drain again.
-3. Combine yogurt, Dijon mustard and honey in blender or food processor. Mix well and set aside.
-4. Spread half of the cooked pasta in the bottom of a 3-quart glass bowl, trifle dish or glass baking dish. Top with half each of the green beans, carrot, apple and tuna. Drizzle half of the dressing evenly over salad. Repeat this procedure with the remaining half of the ingredients to create a colorful salad that can be seen through the glass dish. Sprinkle walnuts and Cheddar cheese on top.
-5. Cover and chill for 30 minutes. Serve cold.
+1. Kok pastaen etter anvisningene på pakken; sil av.
+2. Blancher grønne bønner ved å koke dem i en kjele med kokende vann i 2 minutter. Sil av og skyll godt med kaldt vann. Sil av igjen.
+3. Bland yoghurt, dijonsennep og honning i en blender eller kjøkkenmaskin. Bland godt og sett til side.
+4. Fordel halvparten av den kokte pastaen i bunnen av en glassbolle (3 liter), en glassform eller en glassegenskål. Legg deretter halvparten av de grønne bønnene, gulrøtter, eple og tunfisk over. Dryss halvparten av dressingen jevnt over salaten. Gjenta denne prosedyren med resten av ingrediensene for å lage en fargerik salat som kan sees gjennom glasset. Strø over valnøtter og cheddarost.
+5. Dekk til og sett i kjøleskapet i 30 minutter. Server kald.
 
 ## Info
 

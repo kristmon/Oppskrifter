@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Grillet biff med urt-ost poteter
-
 *Når unexpected guests show up, grill fryst steaks med potet kiler for en delicious dinner i ingen time! Microwaved eller steamed erter accented med kutt i terninger red løk completes den picture.*
 
 ## Ingredienser
@@ -17,9 +15,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Plasser fryst steaks på en side av rack i grill panne; arrange potet kiler på den annen side.
-2. Kombiner olje, basilikum og pepper. pensle på poteter. grill Kjøtt og poteter 5 til 6 cm fra varm til steaks are kokt til Din likeness og poteter are mørt, 17 til 22 minutter, vending steaks en gang.
-3. Strø ost over poteter. Krydre med salt, hvis ønsket.
+1. Legg de frosne steakene på den ene siden av grillristen; ordne potetbitene på den andre siden.
+2. Bland olje, basilikum og pepper. Pensle potetene med blandingen. Grill kjøtt og poteter med ca. 5 til 6 centimeters avstand fra varmen, til steakene er gjennomstekt og potetene er møre, i 17 til 22 minutter, og snu steakene én gang.
+3. Strø ost over potetene. Krydre med salt, om ønskelig.
 
 ## Info
 

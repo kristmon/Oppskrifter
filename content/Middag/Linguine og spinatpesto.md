@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Linguine og spinatpesto
-
 ## Ingredienser
 
 - 450 g Spaghetti, Linguine eller tynt spaghetti, ukokt

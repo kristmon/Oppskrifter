@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Kaleidoskop-honning-isser
-
 ## Ingredienser
 
 - 5,5 dl vann
@@ -18,7 +16,7 @@ created: 2026-05-05
 1. I en mugge, visp sammen vann og honning til godt blandet.
 2. Plasser 60 ml frukt i hver form.
 3. Del honning-vann-blandingen mellom koppene.
-4. Frys til delvis frosset, ca 1 time
+4. Frys til delvis frosset, ca. 1 time
 5. Sett inn popsicle-stikk; frys til fast og klar til å serveres.
 
 ## Info

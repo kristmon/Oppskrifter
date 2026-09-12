@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Frokost vaffel klubb sandwich med honning eple sirup
-
 ## Ingredienser
 
 - 1,75 dl honning, delt
-- 0,5 dl appel juice
+- 0,5 dl eplejuice
 - 2 ss smør eller margarin
 - 2 sprø, røde epler, kjernet og skjært
-- 8 fryst vafler, ristet
-- 8 tynne skiver skhinke
+- 8 frosne vafler, ristet
+- 8 tynne skiver skinke
 
 ## Fremgangsmåte
 
-1. For å forberede sirup, plasser 1,25 dl honning og appel juice i liten gryteerpanne over medium varme; heat gjennom.
-2. Sett til side og hold varm. Smelt smør med gjenværende 1,75 dl honning i stor ikke-klart stekepanne over medium-høy varme. Tilsett epler; kok og rør ca 4 minutter eller til epler er lett karalisert og sprø-myk.
-3. For hver serving, plasser 2 vafler på plate, overlappende litt.
-4. Top hver vaffel med 1 skive skhinke. Top med 1/4 av eple blanding og drizzle med 1/4 av sirup.
+1. Varm 1,25 dl honning og eplejuice i en liten kjele.
+2. Hold sirupen varm. Smelt smøret med resten av honningen i en stor stekepanne på middels høy varme. Tilsett eplene og stek under omrøring i omtrent 4 minutter, til de er lett karamelliserte, men fortsatt har litt tyggemotstand.
+3. Legg to vafler lett overlappende på hver tallerken.
+4. Legg en skinkeskive på hver vaffel. Fordel epleblandingen og sirupen over.
 
 ## Info
 

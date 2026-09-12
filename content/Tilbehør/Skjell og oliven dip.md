@@ -2,22 +2,20 @@
 created: 2026-05-05
 ---
 
-# Skjell og oliven dip
-
 ## Ingredienser
 
-- 8 g hermetikk back olives, tappet hakket
-- 1 hermetikk hakket eller hakket skjell, tappet
-- 1 dl sur fløte
+- 8 g hermetiske svarte oliven, finhakket
+- 1 boks hakkede eller skivede sjøkreps, tappet
+- 1 dl rømme
 - 1 ts salt
-- 1 ts powdered hvitløk
-- 1 ts dried persille
-- 1/2 ts cayenne pepper
+- 1 ts tørket hvitløkspulver
+- 1 ts tørket persille
+- 1/2 ts cayennepepper
 
 ## Fremgangsmåte
 
-1. Bland sammen alle den ingredienser, rør.
-2. Chill for 2 timer før servering.
+1. Bland alle ingrediensene sammen, rør godt.
+2. Avkjøl i 2 timer før servering.
 
 ## Info
 

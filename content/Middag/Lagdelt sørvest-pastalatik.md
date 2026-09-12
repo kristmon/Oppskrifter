@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Lagdelt sørvest-pastalatik
-
 ## Ingredienser
 
 - 225 g mellanstore skjell, albueskjell eller annen mellanstørrel pastaform, ukokt
@@ -22,8 +20,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonene. Avløp og skylt under kaldt vann; avløp igjen. Blan med olje og strø med kommen. Salt etter smak.
-2. Lag lag av pastaen, bønnene, maisen, paprikaen, grønn løk og oliver i en 2,5 til 3 liter glassbolle med rette sider. I en liten bolle, kombiner majones, rømme og salsa; bland godt. Spre blandingen jevnt over toppen av pastaen, og tett mot sidene av bollen. Strø med koriander. Dekk bollen tett og kjøl over natt.
+1. Kok pastaen etter anvisningene på pakken. Hell av vannet og skyll under kaldt vann; hell av igjen. Bland med olje og dryss over kommen. Smak til med salt.
+2. Legg lag med pasta, bønner, mais, paprika, vårløk og oliven i en 2,5 til 3 liter glassbolle med rette sider. I en liten bolle, bland majones, rømme og salsa; rør godt. Fordel blandingen jevnt over pastaen og trykk den mot sidene av bollen. Dryss over koriander. Dekk bollen godt og sett i kjøleskapet over natten.
 
 ## Info
 

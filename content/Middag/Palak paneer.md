@@ -21,7 +21,7 @@ created: 2010-04-25
 - pepper
 - 175 g frossen, hakket spinat
 - 3 ss fløte, eller etter smak
-- ca 150 g paneer
+- ca. 150 g paneer
 
 ## Fremgangsmåte
 

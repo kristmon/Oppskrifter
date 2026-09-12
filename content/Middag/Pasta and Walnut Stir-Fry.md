@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# Pasta and Walnut Stir-Fry
-
 ## Ingredienser
 
-- 8 oz Angel Hair or Cappellini, uncooked
-- 3 Tbs low-sodium soy sauce
-- 2 Tbs vegetable oil
-- 1 tsp sugar
-- 1/8 tsp hot red pepper flakes
-- 1 Tbs vegetable oil
-- 2 large carrots, thinly sliced
-- 1 red or yellow bell pepper, ribs and seeds removed, cut into small strips
-- 3/4 cup toasted walnuts,* divided
-- 1/2 small red onion, thinly sliced
-- 4 oz fresh snow peas
-- 4 fresh mushrooms, sliced
-- 1/4 cup water
+- 227 g tynn spaghetti eller cappellini, ukokt
+- 3 ss soyasaus med lavt natriuminnhold
+- 2 ss vegetabilsk olje
+- 1 ts sukker
+- 1/8 ts chiliflak
+- 1 ss vegetabilsk olje
+- 2 store gulrøtter, i tynne skiver
+- 1 rød eller gul paprika, uten kjernehus og frø, skjært i små strimler
+- 1,8 dl ristede valnøtter, delt
+- 1/2 liten rødløk, i tynne skiver
+- 113 g ferske sukkererter
+- 4 ferske sopp, i skiver
+- 0,6 dl vann
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions. While pasta is cooking, in a small bowl, combine soy sauce, vegetable oil, sugar and red pepper flakes.
-2. Heat oil in a medium skillet over high heat. Add carrots, pepper, walnuts, onion, snow peas and mushrooms. Stir-fry 1 minute. Add water. Cook and stir 3 minutes longer. Add pasta and toss to mix. Add soy sauce mixture; toss well and serve.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, bland soyasaus, vegetabilsk olje, sukker og chiliflak i en liten bolle.
+2. Varm olje i en middels stor stekepanne over høy varme. Tilsett gulrøtter, paprika, valnøtter, løk, sukkererter og sopp. Wok i 1 minutter. Tilsett litt vann. Kok opp og rør i 3 minutter til. Tilsett pastaen og bland godt. Tilsett soyasausblandingen; bland godt og server.
 
 ## Tips
 
-- To toast walnuts: In small skillet, heat 1 teaspoon vegetable oil. Add walnuts and cook and stir until browned, about 3 to 4 minutes.
+- For å riste valnøtter: Varm 1 teskje vegetabilsk olje i en liten stekepanne. Tilsett valnøttene og stek dem under omrøring til de er gyllenbrune, ca. 3 til 4 minutter.
 
 ## Info
 

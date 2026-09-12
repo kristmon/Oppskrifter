@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Rask brunnsaus
-
 *Serv med kjøtt eller andre retter eller bruk som grunnlag for Bordelaise-saus.*
 
 ## Ingredienser
 
 - 3 ss smør
 - 3 ss mel
-- 3,6 dl hermetisert buljong, kraftbuljong eller grønnsakbuljong
+- 3,6 dl ferdigbuljong, kraft eller grønnsaksbuljong
 - 1/2 ts timian
-- Sprig persille
+- Noen persillestilker
 - Salt
-- nymalte pepper
+- Nymalt pepper
 
 ## Fremgangsmåte
 
-1. Smelt smøret i en tykk kasserolle over lav varme. Tilsett mel og bland godt over medium varme. Reduser varmen og la det småkoke i flere minutter.
-2. Varm buljong eller kraft, rør inn i roux (mel- og smør-blandingen) og fortsett å røre til sausen blir tykker.
-3. Tilsett urter, reduser varmen og la det småkoke i flere minutter. Korriger krydringen.
+1. Smelt smøret i en tykk kjele over svak varme. Tilsett mel og bland godt over middels varme. Reduser varmen og la det småkoke i flere minutter.
+ 2. Varm kraft eller buljong, rør kraftig inn i roux (mel- og smørblandingen) og fortsett å røre til sausen tykner.
+ 3. Tilsett urter, reduser varmen og la det småkoke i flere minutter. Smak til med krydder.
 
 ## Info
 

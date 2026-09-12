@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# New England Turkey Chowder
-
 ## Ingredienser
 
-- 1 ss margarine
-- 1,2 dl løk chopped
-- 2,5 dl selleri finely chopped
-- 5 dl kalkun broth or reduced-sodium kylling bouillon
-- 2-1/5 dl poteter diced
+- 1 ss margarin
+- 1,2 dl løk, finhakket
+- 2,5 dl selleri, veldig fint hakket
+- 5 dl kalkonkraft eller redusert natrium kyllingbuljong
+- 2-1/5 dl poteter, i terninger
 - 1/2 ts salt
-- 1/4 ts white pepper
-- dash cayenne pepper
-- 0,6 dl cornstarch
-- 5 dl cooked kalkun diced
-- 5 dl skim melk
+- 1/4 ts hvit pepper
+- en klype cayennepepper
+- 0,6 dl maisstivelse
+- 5 dl kokt kalkon, i terninger
+- 5 dl lettmelk
 
 ## Fremgangsmåte
 
-1. In a 3-quart saucepan, melt margarine. Saute løk and selleri til soft.
-2. Tilsett broth, poteter and seasonings; bring til kokepunktet. Cover and reduser varmen to la småkoke. kok for 10 to 15 minutter, eller til poteter are tender. rør in kalkun.
-3. In a medium bowl, bland sammen cornstarch and melk. rør into soup and kok til thickened.
+1. I en 3-liters kjele, smelt smøret. Fres løk og selleri til de er myke.
+2. Tilsett kraft, poteter og krydder; kok opp. Dekk til og senk varmen, la suppen småkoke. Kok i 10 til 15 minutter, eller til potetene er møre. Rør inn kalkun.
+3. I en middels stor bolle, bland maisstivelse og melk. Rør blandingen i suppen og kok til den tykner.
 
 ## Info
 

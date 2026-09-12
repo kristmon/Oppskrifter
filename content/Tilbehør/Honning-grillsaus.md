@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning-grillsaus
-
 ## Ingredienser
 
 - 1,2 dl hakket løk

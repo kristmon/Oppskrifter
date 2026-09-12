@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Nøtete Ristet Snacksmiks
-
 ## Ingredienser
 
 - 250 ml hele naturlige mandler

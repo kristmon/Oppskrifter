@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Pasta Pizza
-
 ## Ingredienser
 
 - 450 g Ziti, Rigatoni eller annan mellanstørrel pastaform, ukokt

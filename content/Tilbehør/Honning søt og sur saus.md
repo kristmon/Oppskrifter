@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning søt og sur saus
-
 ## Ingredienser
 
 - 1,2 dl ketchup

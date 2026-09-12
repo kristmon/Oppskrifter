@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# Chicken Tequila Fettuccine
-
 ## Ingredienser
 
-- 1 lb spinach Fettuccine, uncooked
-- 1/2 cup chopped fresh cilantro
-- 2 Tbs minced garlic
-- 2 Tbs minced jalapeño pepper
-- 3 Tbs unsalted butter or margarine
-- 1/2 cup low-sodium chicken broth
-- 2 Tbs gold tequila
-- 2 Tbs lime juice
-- 3 Tbs soy sauce
-- 1 1/4 lbs chicken breast, diced 3/4-inch
-- 1/2 medium red onion, thinly sliced
-- 1/2 medium red bell pepper, thinly sliced
-- 1/2 medium yellow bell pepper, thinly sliced
-- 1/2 medium green bell pepper, thinly sliced
-- 1 1/2 cups heavy cream
+- 455  spinat Fettuccine, ubehandlet
+- 1,2  desiliter finhakket, fersk koriander
+- 2  spiseskje finhakket hvitløk
+- 2  spiseskje finhakket jalapeño pepper
+- 3  spiseskje usaltet smør eller margarin
+- 1,2  desiliter suppe med kylling, redusert saltinnhold
+- 2  spiseskje gyllen tequila
+- 2  spiseskje limesaft
+- 3  spiseskje soyasaus
+- 565  gram kyllingbryst, i terninger. 3/4 –tommer
+- 1/2  en middels stor rød løk, i tynne skiver
+- 1/2  en middels stor rød paprika, i tynne skiver
+- 1/2  en middels stor gul paprika, i tynne skiver
+- 1/2  en middels stor grønn paprika, i tynne skiver
+- 3,6  desiliter fløte
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; drain.
-2. Saute cilantro, garlic and jalapeño in 2 tbsp. butter over medium heat for 4-5 minutes. Add chicken broth, tequila and lime juice. Bring the mixture to a boil and cook until reduced to a pastelike consistency. Set aside.
-3. Pour soy sauce over diced chicken. Marinate for 5 minutes. Meanwhile, cook onion and peppers, stirring occasionally, with remaining butter over medium heat until wilted. Add chicken and soy sauce; toss and add reserved tequila/lime paste and cream. Bring to a boil, until chicken is cooked through, about 3 minutes.
-4. Toss with hot pasta and serve immediately.
+1. Kok pastaen etter anvisningene på pakken; sil av vannet.
+2. Surr koriander, hvitløk og jalapeño i 2 ss smør over middels varme i 4-5 minutter. Tilsett kyllingkraft, tequila og limesaft. Kok opp og la blandingen reduseres til en pastaaktig konsistens. Sett til side.
+3. Hell soyasaus over den hakkede kyllingen. La den marinere i 5 minutter. I mellomtiden, stek løk og paprika med resten av smøret over middels varme, rør av og til, til de er myke. Tilsett kylling og soyasaus; bland godt og tilsett den reserverte tequila/lime-pastaen og fløte. Kok opp til kyllingen er gjennomstekt, ca. 3 minutter.
+4. Bland med varm pasta og server umiddelbart.
 
 ## Info
 

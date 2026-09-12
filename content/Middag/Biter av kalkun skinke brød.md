@@ -2,29 +2,27 @@
 created: 2026-05-05
 ---
 
-# Biter av kalkun skinke brød
-
 ## Ingredienser
 
-- 1 dl quick cooking oats
-- 2 ss dried persille
-- 1/2 ts dried timian leaves
+- 1 dl raske havregryn
+- 2 ss tørket persille
+- 1/2 ts tørkede timianblader
 - 1/2 ts salt
 - 1/4 ts malt allehånde
 - 1/8 ts pepper
 - 1 kg malt kalkun
-- 1 pakke (8 g) kalkun skinke kutt inn i 1/4-cm kuber
-- 1/2 kg sopp coarsely hakket
+- 1 pakke (8 g) kalkunskinke, kuttet i 1/4-cm terninger
+- 1/2 kg sopp, grovhakket
 - 3/4 dl hakket løk
-- 2 nellikker hvitløk hakket
-- 1 Egg pisket
-- 1 ts hot pepper Saus
-- Vegetable matspray
+- 2 fedd hvitløk, finhakket
+- 1 egg, pisket
+- 1 ts sterk peppersaus
+- Olje til steking
 
 ## Fremgangsmåte
 
-1. I stor bolle kombiner oats, persille, timian, salt, allehånde og pepper. Bland i malt kalkun, kalkun skinke, sopp, løk, hvitløk, egg og sterk saus.
-2. I 9-cm pie fett, lett belagt med vegetable matspray, shape kalkun blanding inn i 6-X 3-cm round loaf. Bak på 350 grader F. 50 til 60 minutter eller til Kjøtt thermometer reaches 160 grader F., juices are clear og Kjøtt er ingen longer pink i center.
+1. I en stor bolle, bland havregryn, persille, timian, salt, allehånde og pepper. Bland inn malt kalkun, kalkunskinke, sopp, løk, hvitløk, egg og kraftig saus.
+2. Smør en 9-cm form lett med vegetabilsk formfett. Form kalkunblandingen til et rundt brød som er 6 x 3 cm. Stek i ovnen på 350 grader Fahrenheit i 50 til 60 minutter, eller til en kjøtttermometer viser 160 grader Fahrenheit. Saften skal være klar og kjøttet skal ikke lenger være rosa i midten.
 
 ## Info
 

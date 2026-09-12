@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Lavfett daddel yogurt shake
-
 ## Ingredienser
 
 - 120 ml hele, steinløse dadler
@@ -14,8 +12,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Bland dadler, banan og oranssjejuice i en blender og blendr til dadlene er fint hakket.
-2. Tilsett yogurt og is og blend til det bare er blandet.
+1. Bland dadler, banan og appelsinjuice i en blender, og kjør til dadlene er godt hakket.
+2. Tilsett yoghurt og is, og kjør til alt er godt blandet.
 
 ## Info
 

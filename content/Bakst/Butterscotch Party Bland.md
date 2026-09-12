@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Butterscotch Party Bland
-
 *En ny twist på party mixes, combining sweet butterscotch og chewy caramel med nøtter, pretzels og cereal.*
 
 ## Ingredienser
 
-- 2 dl ovn-ristet cereal squares
-- 2 dl liten pretzel twists
-- 1 dl dry-ristet jordnøtter
-- 1 dl (omtrent 20) caramels, unwrapped, coarsely hakket
-- 1 2/3 dl (11-g pakke) NESTLÉ® TOLL HOUSE® Butterscotch Flavored Morsels
+- 2 dl ovnsbakte cereal-firkanter
+- 2 dl små pretzel-snacks
+- 1 dl tørrostede peanøtter
+- 1 dl (omtrent 20) carameller, uten innpakning, grovhakket
+- 1 2/3 dl (11 grams pakke) Butterscotch-småbiter
 
 ## Fremgangsmåte
 
-1. Dryss 13 x 9-cm baking panne med ikke-stekepanne matspray.
-2. Kombiner cereal, pretzels, jordnøtter og caramels i stor bolle. Plasser morsels i Medium, microwave-sikker bolle. Microwave på Medium høy (70%) power for 1 minutt; rør. Microwave på additional 10- til 20-second intervals, rørende til smooth. Hell over cereal blanding; rør til dryss evenly.
-3. Smør blanding inn i forberedt baking panne; la stå for 20 til 30 minutter eller til firm. Break inn i liten pieces.
+1. Smør en 13 x 9 cm bakeform med et stekefritt spray.
+2. Bland frokostblanding, pretzels, peanøtter og karameller i en stor bolle. Legg karamellbitene i en middels stor, mikrobølgeovnsikker bolle. Varm på middels effekt (70 %), i 1 minutter; rør. Varm videre i intervaller på 10 til 20 sekunder, og rør til blandingen er jevn. Hell frokostblandingen over, og rør godt til alt er jevnt fordelt.
+3. Fordel blandingen i den forberedte bakeformen. La stå i 20 til 30 minutter, eller til den er fast. Del deretter i mindre biter.
 
 ## Info
 

@@ -2,22 +2,20 @@
 created: 2026-05-05
 ---
 
-# Søvestlig Marinara-Saus
-
 ## Ingredienser
 
-- 3 strimler magert bacon, hakket
-- 2 medium løk, finhákkete
-- 3 hvitløkfedd, finhákkete
-- 1 medium zucchini, hakket
-- 1 boks (800 g) skaltet tomat
-- 2,5 dl frisk eller frosset maisakerner
+- 3 skiver magert bacon, hakket
+- 2 middels store løk, finhakket
+- 3 fedd hvitløk, finhakket
+- 1 middels stor squash, hakket
+- 1 boks (800 g) hermetiske tomater
+- 2,5 dl ferske eller frosne maiskorn
 - 1 glass (340 g) salsa
 
 ## Fremgangsmåte
 
-1. Tilbered pasta etter pakningens anvisning; hell av.
-2. Kok bacon i en medium, ikke-reaktiv (ikke-aluminium) gryte over medium-høy varme til det er lett brunete. Hell av overflødig fett. Tilsett løk, hvitløk og zucchini og sauté over medium varme til de er myke, ca. 8 minutter. Tilsett tomater og knuse med en gaffel. Tilsett mais og salsa. Varm til simmering og kok sakte i 20 minutter, stir av og til. Bland sausen med kokt pasta og server.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet.
+2. Stek bacon i en middels stor, ikke-reaktiv (ikke-aluminium) gryte ved middels høy varme til det er lett gyllenbrunt. Hell av overflødig fett. Tilsett løk, hvitløk og squash og stek over middels varme til de er myke, ca. 8 minutter. Tilsett tomater og mos dem med en gaffel. Tilsett mais og salsa. Varm opp til kokepunktet og la det småkoke sakte i 20 minutter, rør av og til. Bland sausen med den kokte pastaen og server.
 
 ## Info
 

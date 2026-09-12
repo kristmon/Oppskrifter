@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# Turkey Veggie Frittata
-
 ## Ingredienser
 
-- 1 cup chopped onion
-- 1 cup red pepper
-- 1 tsp minced garlic
-- 2 tsp olive oil divided
-- 1/4 lb thinly sliced mushrooms
-- 1 medium red skinned potato cut into 1/2-inch cubes; cooked
-- 1/2 tsp dried rosemary
-- 1/2 tsp pepper
-- 1/4 tsp salt
-- 1 cup cooked asparagus cut into small pieces
-- 2 cups cooked turkey, shredded
-- 4 eggs beaten
-- 1/4 cup Parmesan cheese freshly grated
+- 2,4 dl hakket løk
+- 2,4 dl rød paprika
+- 1 ts finhakket hvitløk
+- 2 ts olivenolje, delt
+- 115 g tynne skiver av sopp
+- 1 middels stor potet, skåret i terninger på ca. 1 cm og kokt
+- 1/2 ts tørket rosmarin
+- 1/2 ts pepper
+- 1/4 ts salt
+- 2,4 dl kokt asparges, kuttet i små biter
+- 4,8 dl kokt kalkun, revet
+- 4 egg, pisket
+- 0,6 dl parmesanost, ferskrivet
 
 ## Fremgangsmåte
 
-1. In 10-inch non-stick, oven-proof skillet, over medium-high heat, saute onion, red pepper, and garlic in 1 teaspoon olive oil 3 to 4 minutes or until onions are translucent. Add mushrooms and potato; saute 1 to 3 minutes, or until mixture is heated throughout. Stir in rosemary, pepper, and salt.
-2. In medium bowl, combine mixture with asparagus, turkey, and egg; set aside.
-3. In skillet, over medium-high heat, add remaining olive oil. Pour turkey and vegetable mixture into pan. Reduce heat to medium-low and cook 10 to 15 minutes, or until mixture is set on bottom and lightly browned. Sprinkle Parmesan cheese over top and broil 3 to 4 minutes or until cheese is lightly browned.
+1. Fres løk, paprika og hvitløk i 1 ts olivenolje i en stekepanne på ca. 25 cm på middels høy varme i 3–4 minutter, til løken er blank. Tilsett sopp og potet og stek i ytterligere 1–3 minutter, til blandingen er gjennomvarm. Rør inn rosmarin, pepper og salt.
+2. I en middels stor bolle, bland blandingen med asparges, kalkun og egg; sett til side.
+3. I stekepannen, ved middelhøy varme, tilsett resten av olivenoljen. Hell kalkun- og grønnsaksblandingen i pannen. Reduser varmen til middels lav og stek 10 til 15 minutter, eller til blandingen har satt seg i bunnen og fått en lett brun farge. Strø over parmesanost og gratiner 3 til 4 minutter, eller til osten er lett brunet.
 
 ## Info
 
 - **Porsjoner**: 6
-- **Type**: Main Dish, Poultry
+- **Type**: Hovedrett, Fjørfe
 - **Kilde**: The National Turkey Federation, www.turkeyfed.org

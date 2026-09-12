@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# curry mandler
-
 ## Ingredienser
 
 - 1 kg saltet, ristet hele mandler
@@ -15,7 +13,7 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kombiner krydring i liten bolle og bland godt; sett til side. I tung stekepanne over Medium varm, varm olje nesten til røyking. Tilsett mandler og rør til oppvarmet. Strø med krydring og rør til godt belagt. Vend på grunn panne og kjøl ned.
+1. Bland krydderblandingen i en liten bolle og rør godt; sett til side. I en kraftig stekepanne over middels varme, varm oljen nesten til den begynner å ryke. Tilsett mandlene og rør til de er gjennomvarmet. Strø over krydderblandingen og rør til mandlene er godt dekket. Sett pannen i kjøleskapet for å avkjøle.
 
 ## Info
 

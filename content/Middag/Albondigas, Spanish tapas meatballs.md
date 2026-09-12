@@ -9,14 +9,14 @@ La til et egg da jeg blendet annen gang. Vanskelig å få blendet hvitløken ski
 
 Dette må blendes på grunn av løken. Det blir for mange biter ellers.
 
-**Porsjoner**: 4  
+**Porsjoner**: 4
 **Plan to Eat-tag**: Kjøttdeig
 
 ## Ingredienser
 
 - 500 g kjøttdeig
 - ½ dl olivenolje
-- ⅕ løk, blendet
+- ⅕ løk, finhakket
 - 2 fedd hvitløk, finhakket
 - 1 ts paprikapulver
 - ½ ts chilipulver (valgfritt)

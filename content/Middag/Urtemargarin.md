@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Urtemargarin
-
 ## Ingredienser
 
 - 225 g kaloriredusert kar margarin, myk

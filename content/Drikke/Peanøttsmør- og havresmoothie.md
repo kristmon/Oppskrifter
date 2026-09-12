@@ -5,8 +5,8 @@ created: 2020-10-22
 ![[Bilder/Peanøttsmør- og havresmoothie.jpg|300]]
 Tykk og kremet smoothie med peanøttsmør, gammeldags havregryn, banan og soyamelk med vaniljesmak.
 
-**Porsjoner**: 1  
-**Tid**: 5 min  
+**Porsjoner**: 1
+**Tid**: 5 min
 **Kilde**: [chefsavvy.com](https://chefsavvy.com/peanut-butter-oatmeal-smoothie/)
 
 ## Ingredienser

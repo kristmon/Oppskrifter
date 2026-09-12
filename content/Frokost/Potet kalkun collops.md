@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# Potet kalkun collops
-
 ## Ingredienser
 
-- Matlagingsspray
-- 3 medium poteter uskalt, skåret i 5 mm skiver
-- 240 ml hakket løk
-- 2 ml pepper delt
-- 5 ml tørket persille delt
-- 225 g kalkun-skhinke skåret i 1 cm kuber
-- 120 ml skummelk
-- 4 kalkunbacon-skiver, kokt og terningskåret
-- 45 ml redusert fett cheddar-ost riven
+- Stekespray
+- 3 middels store poteter, uten skall, skåret i 5 mm skiver
+- 240 ml finhakket løk
+- 2 ml pepper, delt
+- 5 ml tørket persille, delt
+- 225 g kalkunskinke, skåret i 1 cm terninger
+- 120 ml fløte
+- 4 skiver kalkunbacon, kokt og skjært i terninger
+- 45 ml mager cheddarost, revet
 
 ## Fremgangsmåte
 

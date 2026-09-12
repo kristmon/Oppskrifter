@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Meksikansk kaffe
-
 ## Ingredienser
 
 - 950 ml varm espresso-stil kaffe
@@ -16,7 +14,7 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Bland kaffe, melk og fløte, honning, kakao og kanel i blender og blend 1 minutt på høy hastighet.
+1. Kjør kaffe, melk, fløte, honning, kakao og kanel i en blender i 1 minutt på høy hastighet.
 2. Hell i krus og garnér med piskefløte og sjokoladeskraper.
 
 ## Info

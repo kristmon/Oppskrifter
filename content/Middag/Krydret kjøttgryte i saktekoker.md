@@ -3,10 +3,10 @@ created: 2020-09-23
 ---
 
 ![[Bilder/Crackhead-gugge.jpg|300]]
-God stuing etter egen oppskrift.
+En kraftig kjøttgryte med tomat, chili og rotgrønnsaker.
 
-**Porsjoner**: 6  
-**Tid**: 510 min (30 prep + 480 cook)  
+**Porsjoner**: 6
+**Tid**: 8 timer og 30 minutter (30 min forberedelse + 8 timer tilberedning)
 **Plan to Eat-tag**: Crock Pot, Storfe
 
 ## Ingredienser
@@ -27,4 +27,4 @@ God stuing etter egen oppskrift.
 
 ## Fremgangsmåte
 
-1. Miks og vent. Serverte med basmatiris.
+1. Ha alle ingrediensene i saktekokeren og bland godt. Kok på lav varme i omtrent 8 timer. Server med basmatiris.

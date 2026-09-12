@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Ostersonsopp soufflé
-
 ## Ingredienser
 
 - 90 ml smør
-- 1 medium løk, fint hakket
-- 1 fedd hvitløk, fint hakket
-- 85 g selv-hevende mel
-- 55 g tørket porcini-sopp, oppbleking i 120 ml lunkent vann og fint hakket (oppbevar vannet)
+- 1 middels løk, finhakket
+- 1 fedd hvitløk, finhakket
+- 85 g selvhevet mel
+- 55 g tørket sopp, bløtlagt i 120 ml lunkent vann og finhakket (spar på vannet)
 - 240 ml melk
 - Etter smak salt
 - Etter smak pepper
-- 170 g ostersonsopp, grovt hakket
+- 170 g kantareller, grovhakket
 - 3 store eggeplommer
-- 4 store eggeklarer
+- 4 store eggehviter
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 175 °C. Varm en soufflé-skål og smør godt. Smelter 2/3 av smøret i en gryte, tilsett løk og hvitløk og stei til mykt. Tilsett mel og rør godt. Tilsett tørket sopp og vannet den la i, rør godt og tilsett melk og salt og pepper etter smak.
-2. Kok ostersonsoppen separat i gjenværende smør, stei til mykt og tilsett blandingen. La det avkjøles. Bland inn slått eggeplomme. Pisk eggeklarer til stivt og fold inn i blandingen. Legg blandingen i en godt smurt soufflé-fat og kok i forvarmmet ovn i 28 minutter. Midten skal være ganske myk. Server umiddelbar.
+1. Forvarm ovnen til 175 °C. Smør en souffléform godt og varm den opp. Smelt 2/3 av smøret i en kjele, tilsett løk og hvitløk, og stek til de er myke. Tilsett mel og rør godt. Tilsett tørket sopp og væsken den ble liggende i, rør godt, og tilsett melk, salt og pepper etter smak.
+2. Stek sjampinjong separat i det resterende smøret, til de er myke. Tilsett blandingen. La det avkjøles. Bland inn eggeplommer. Pisk eggehviter stive, og vend dem forsiktig inn i blandingen. Hell blandingen i den smurte souffléformen og stek i forvarmet ovn i 28 minutter. Midten skal være litt myk. Server straks.
 
 ## Info
 

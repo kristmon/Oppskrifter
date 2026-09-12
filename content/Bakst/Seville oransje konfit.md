@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Seville oransje konfit
-
 ## Ingredienser
 
 - 1 Seville oransje, skallfritt, hvit fjernet og fint hakket
@@ -11,8 +9,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Bring en liten gryte vann til kokepunkt på høy varme. Tilsett hakket oransje og blankér i 2 minutter og sil.
-2. Bring 240 ml vann og sukker til kokepunkt og tilsett oransjeskal. Reduser varmen til lav og la det småkoke til det er myk, ca. 5–7 minutter.
+1. Kok opp vann i en liten kjele. Tilsett hakket appelsin og forvell i 2 minutter. Hell av vannet.
+2. Kok opp 2,4 dl vann og sukker, og tilsett appelsinskallet. Senk varmen og la småkoke til skallet er mykt, ca. 5–7 minutter.
 
 ## Info
 

@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Fylt Skjell med Brokkoli
-
 ## Ingredienser
 
-- 24 gigantisk skjell, ukjøkt
-- 1 pakke (280 g) fryst hakket brokkoli, tint
-- 250 ml delvis-magert ricotta ost
-- 120 ml revet sveitseros
-- 1 ss revet løk
+- 24 gigantiske sjøskjell, ukokte
+- 1 pakke (280 g) fryst, finhakket brokkoli, tint
+- 250 ml delvis mager ricottaost
+- 120 ml revet sveitserost
+- 1 ss finhakket løk
 - 2 bokser (410 g) knuste tomater
 - 1/2 ts tørket basilikum
 - 1/2 ts tørket oregano
 - Salt etter smak
-- Ferskhviet sort pepper etter smak
+- Ferskmalen sort pepper etter smak
 
 ## Fremgangsmåte
 
-1. Forbered pasta etter pakkedetaljer; dren.
-2. Bland brokkoli, ricotta ost, sveitseros, løk, oregano, basilikum, salt og pepper. Rør sammen til godt blandet.
-3. Hell ca. 250 ml tomater over bunnen av 33x23x5 cm bakefat, bryte opp tomater med gaffel. Skje 1 rund ss av ostblandingen inn i hver skal og plasser åpen-side-opp i jevnt lag i pannen. Hell gjenværende tomater over og rundt skjellene.
-4. Dekk panne med folie. Bak på 190°C i ca. 25 minutter til varmt gjennom, og serveres.
+1. Forbered pastaen i henhold til instruksjonene på pakken; sil av vannet.
+2. Bland brokkoli, ricotta, sveitserost, løk, oregano, basilikum, salt og pepper. Rør godt sammen til alt er godt blandet.
+3. Hell ca. 250 ml tomater over bunnen av et 33x23x5 cm stort ildfast fat. Del tomatene opp med en gaffel. Legg 1 spiseskjeer av osteblandingen i hvert skall og plasser dem med åpne sider opp i et jevnt lag i pannen. Hell resten av tomatene over og rundt skallene.
+4. Dekk pannen med aluminiumsfolie. Stek i 190 °C i ca. 25 minutter, til den er gjennomvarm, og server.
 
 ## Info
 

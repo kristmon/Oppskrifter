@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Sopp Parmesansmak
-
 ## Ingredienser
 
 - 450 g ferske sopp, hele
@@ -13,7 +11,7 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en stor stekepanne smelter du smøret; tilsett sopp, noen få av gangen, og stekk over medium-høy varme til gyllen. Rist pannen hyppig under steking. Strø over med ost og pepper; stekk 1 minutt lengre.
+1. I en stor stekepanne smelter du smøret; tilsett sopp, litt om gangen, og stek over middels høy varme til den er gyllen. Rør ofte i pannen under steking. Strø over ost og pepper; stek videre i 1 minutter.
 
 ## Info
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Hollandaisesaus
-
 ## Ingredienser
 
 - 3 eggepl
@@ -15,8 +13,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Tilbered hollandaisesaus ved å varme opp eggepl, vann og sitronsaft i en liten kasserolle. Kok over svært lav varme, og rør konstant, til eggeblandingen begynner å boble på kantene.
-2. Visp inn smør, 1 bit av gangen, til det er smeltet og sausen er tykker. Rør inn paprika og cayennepeppar. Smak til med salt etter smak. Fjern fra varmen.
+1. Lag hollandaisesaus ved å varme opp eggeplommer, vann og sitronsaft i en liten kjele. Varm opp over svært svak varme, og rør konstant til eggeblandingen begynner å boble langs kantene.
+2. Visp inn smør, 1 bit for bit, til det er smeltet og sausen har blitt tykkere. Rør inn paprika og cayennepepper. Smak til med salt etter behov. Fjern fra varmen.
 
 ## Info
 

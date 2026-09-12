@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Cremet sennepe-saus
-
 ## Ingredienser
 
 - 0,6 dl grovkornet sennepe

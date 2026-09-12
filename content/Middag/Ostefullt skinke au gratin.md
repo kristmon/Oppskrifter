@@ -2,16 +2,14 @@
 created: 2026-05-05
 ---
 
-# Ostefullt skinke au gratin
-
 ## Ingredienser
 
-- 2 dl Kokt skinke; kutt i terninger
+- 2 dl kokt skinke, kuttet i terninger
 - 1 dl melk
-- 1 dl Boiling vann
-- 2 hermetikk Mexicorn hele Kernel mais, tappet
-- 1 hermetikk Condensed Cheddar ost suppe
-- 1 g 13-16 g Pack Hungry Jack Cheesy Scalloped poteter
+- 1 dl kokende vann
+- 2 bokser med hele mais fra Mexicorn, tappet
+- 1 boks med kondensert cheddarostsuppe
+- 1 pose (13-16 g) Hungry Jack Cheesy Scalloped poteter.
 
 ## Fremgangsmåte
 

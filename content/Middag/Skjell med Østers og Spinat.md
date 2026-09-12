@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Skjell med Østers og Spinat
-
 ## Ingredienser
 
-- 225 g Medium Shells, Elbow Macaroni eller annen medium pastafasong, ukokt
-- 1 ss olivolje eller vegetarolje
-- 3 hvitløkfedd, hakket
-- 115 g select østers eller 12 østers, åpnet, væske oppbevart, eller en boks (115 g) østers med saft
+- 225 g medium skallpasta, albuepasta eller annen medium pastafasong, ukokt
+- 1 ss olivenolje eller vegetabilsk olje
+- 3 fedd hvitløk, finhakket
+- 115 g ferske østers eller 12 østers, åpnet, kraften oppbevart, eller en boks (115 g) østers med kraft
 - 60 ml hvitvin
-- 115 ml kamskjellsaft
-- 60 ml fordampet skummet melk
-- 225 g frisk spinat, vasket, harde stilker fjernet
-- 6 friske basilikumblader, hakket
+- 115 ml kamskjel kraft
+- 60 ml avskummet melk, redusert
+- 225 g frisk spinat, vasket, grove stilker fjernet
+- 6 friske basilikumblader, finhakket
 - Salt og hvit pepper etter smak
 
 ## Fremgangsmåte
 
-1. Kok pasta etter pakningens anvisning. Mens pastaen koker, varm oljen i en ikke-klebeende panne og sauté hvitløken forsiktig for å unngå brenning. Tilsett østerne og hell hvitvinen over. Varm til kokende. Tilsett kamskjellsaften og fordampet skummet melk, varm til kokende og kok 3 minutter til. Tilsett spinaten til pannen og kok til den er visnet.
-2. Når pastaen er ferdig, hell av og kombiner med øster og spinatblandingen. Tilsett basilikum, persille og salt og pepper etter smak. Server umiddelbart.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, varm oljen i en stekepanne med slippbelegg og stek hvitløken forsiktig for å unngå at den brenner seg. Tilsett blåskjellene og hell over hvitvinen. Varm opp til kokepunktet. Tilsett kamskjell kraft og tilsett deretter litt fløte, varm opp til kokepunktet og la det småkoke i 3 minutter. Tilsett spinaten i pannen og la den trekke til den faller sammen.
+2. Når pastaen er ferdig, sil av vannet og bland den med blåskjell- og spinatblandingen. Tilsett basilikum, persille, salt og pepper etter smak. Server straks.
 
 ## Info
 

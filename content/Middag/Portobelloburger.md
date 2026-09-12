@@ -14,8 +14,8 @@ created: 2011-02-01
 
 ## Fremgangsmåte
 
-1. Fjern stilken fra soppen og pensle den godt med olje eller smeltet smør. Stek på middels svak varme i ca. 5 minutter på hver side. Legg eventuelt en osteskive over soppen mot slutten av steketiden.
-2. Legg soppen i burgerbrød med salat og ønsket tilbehør. Server gjerne med hjemmelaget chips av potet og søtpotet.
+1. Fjern stilken fra soppen og pensle den godt med olje eller smeltet smør. Stek på middels svak varme i ca. 5 minutter på hver side. Legg eventuelt en skive ost over soppen mot slutten av steketiden.
+2. Legg soppen i burgerbrød med salat og ønsket tilbehør. Server gjerne med hjemmelagde chips av potet og søtpotet.
 
 ## Info
 

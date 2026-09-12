@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Lori's Mexican Chicken Casserole
-
 ## Ingredienser
 
-- 4 boneless skinless kylling breast halves
-- 1 (10.75-oz.) can condensed fløte of sopp soup
-- 1 (10.75-oz.) can condensed fløte of kylling soup
-- 1 (10-oz.) can diced tomater with green chilies, mild or hot
-- 1 (10-count) package mel tortillas
-- 5 dl shredded cheddarost
+- 4 filet av kylling uten skinn og bein
+- 1 (10.75-g) boks med fortykket krem av soppsuppe
+- 1 (10.75-g) boks med fortykket krem av kyllingsuppe
+- 1 (10-g) boks med hakket tomat med grønne chili, mild eller sterk
+- 1 (10-antall) pakke tortillalefser
+- 5 dl revet cheddarost
 
 ## Fremgangsmåte
 
-1. Kok kylling til cooked through; tøm and cool. When cool enough to handle, tear apart.
-2. In large bowl bland sammen kylling, both soups, and tomater; bland well.
-3. Tear tortillas into fourths. In large baking pan layer tortillas, then kylling mixture and ost. Repeat til kylling mixture and ost are gone (best if top layer is ost). bak at 375°F til ost is melted and hot.
+1. Kok kyllingen til den er gjennomstekt; hell av vannet og avkjøl. Når den er avkjølt nok til å håndtere, del den i mindre biter.
+2. I en stor bolle, bland kylling, begge suppene og tomater; rør godt.
+3. Riv tortillene i fire deler. I en stor ildfast form, legg et lag med tortillal, deretter kyllingblandingen og ost. Gjenta til kyllingblandingen og osten er brukt opp (det er best om det øverste laget er ost). Stek i ovnen ved 191 °C til osten er smeltet og varm.
 
 ## Info
 
 - **Porsjoner**: 5
-- **Preparation Time**: 15 minutes
-- **Cooking Time**: 20 minutes
+- **Forberedelsestid**: 15 minutter
+- **Tilberedningstid**: 20 minutter
 - **Type**: Main Dish, Poultry
 - **Kilde**: Author: Lori Alterman From McLouth Kansas, Nestlé, www.verybestmeals.com

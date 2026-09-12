@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Pasta with (Turkey) Sausage and Pepper Meatballs
-
 ## Ingredienser
 
-- 0,5 kg Rigatoni, Ziti or other medium pasta shape, uncooked
-**Meatballs:**
-- 8 oz lean hakket storfekjøtt
-- 8 oz kalkun sausage, casings removed
-- 1,2 dl minced løk (1 small)
-- 1,2 dl diced red paprika (1/2 medium)
-- 2 large egg whites
-- 3,8 dl fresh bread crumbs (about 3 slices)
-- 2 ss minced fresh parsley
-- 1 ts fennel seeds
+- 0,5 kg rigatoni, ziti eller annen pastaform av middels størrelse, uten tilberedning.
+**Kjøttboller:**
+- 227 g magert kjøttdeig av storfe
+- 227 g kalkunpølse, uten skinnet
+- 1,2 dl finhakket løk (1 liten)
+- 1,2 dl hakket rød paprika (1/2 middels stor)
+- 2 store eggehviter
+- 3,8 dl ferske brødsmuler (ca. 3 skiver)
+- 2 ss finhakket fersk persille
+- 1 ts fennikelfrø
 - 1/2 ts salt
 - 1/4 ts pepper
-**Sauce**
-- 1 ts vegetarolje, divided
+**Saus**
+- 1 ts olje, delt.
 
 ## Fremgangsmåte
 
-1. Place all meatball ingredients in a medium bowl. Knead the mixture with your hands til it is smooth. To prevent sticking, dip your hands into cool vann before forming each meatball. Form mixture into 30 1 1/2-inch balls.
-2. hell the tomatsaus into a large, heavy-bottom saucepan and bring it to a la småkoke over low varm. Warm 1/2 teaspoon vegetarolje in a large non-stick skillet. tilsett half the meatballs to the skillet and brown them on all sides. Spoon the meatballs into the tomatsaus. tilsett the remaining 1/2 teaspoon vegetarolje to the skillet and brown the rest of the meatballs, then tilsett them to the sauce. la småkoke, stirring, for 20 minutter.
-3. While sauce is simmering, prepare pasta according to package directions; tøm. Transfer to a large serving bowl. Remove bay leaves from sauce; hell sauce over pasta and servér.
+1. Ha alle ingrediensene til kjøttbollene i en middels stor bolle. Kna blandingen godt for hånd til den er jevn. For å unngå at den sitter fast, dypp hendene i kaldt vann før du former hver kjøttbolle. Form blandingen til 30 1 1/2 centimeter store kjøttboller.
+2. Hell tomatsausen i en stor, tykkbunnet kjele og sett den på svak varme for å småkoke. Varm 1/2 teskjeer vegetarolje i en stor stekepanne med slippbelegg. Tilsett halvparten av kjøttbollene i pannen og brun dem på alle sider. Legg kjøttbollene over i tomatsausen. Tilsett resten av 1/2 teskjeer vegetarolje i pannen og brun resten av kjøttbollene, og legg dem deretter i sausen. La sausen småkoke, rør av og til, i 20 minutter.
+3. Mens sausen småkoker, kok pastaen etter anvisningene på pakken. Hell pastaen over i en stor serveringsbolle. Fjern laurbærbladene fra sausen. Hell sausen over pastaen og server.
 
 ## Info
 

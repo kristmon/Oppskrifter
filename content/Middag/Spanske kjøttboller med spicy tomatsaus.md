@@ -6,7 +6,7 @@ created: 2020-08-11
 Serverte med pasta. Gode! Dropp chili for en mildere variant.
 
 **Porsjoner**: 4 (ca. 30 kjøttboller)
-**Kilde**: [trinesmatblogg.no](https://trinesmatblogg.no/recipe/spanske-kjottboller-med-spicy-tomatsaus/)  
+**Kilde**: [trinesmatblogg.no](https://trinesmatblogg.no/recipe/spanske-kjottboller-med-spicy-tomatsaus/)
 **Plan to Eat-tag**: Kjøttdeig
 
 ## Ingredienser
@@ -16,7 +16,7 @@ Serverte med pasta. Gode! Dropp chili for en mildere variant.
 - 200 g kjøttdeig, svin
 - 1 sjalottløk, finhakket
 - 3 fedd hvitløk, finhakket
-- 0,5 rød chili, finhakket (kan ta mer)
+- 0,5 rød chili, finhakket (kan bruke mer)
 - 1 egg
 - 4 ss brødrasp
 - 1 ts røkt paprikapulver
@@ -26,27 +26,27 @@ Serverte med pasta. Gode! Dropp chili for en mildere variant.
 - 2 ss kaldt vann
 - Saus:
 - 1 sjalottløk, finhakket
-- olje, til steking
+- Olje, til steking
 - 3 fedd hvitløk, finhakket
 - 0,5 rød chili, finhakket
 - 1 ss tomatpuré
-- 400 g hermetiske tomater, hakkede
+- 400 g hermetiske tomater, hakket
 - 0,5 ts sukker
-- salt og pepper
+- Salt og pepper
 
 ## Fremgangsmåte
 
 1. KJØTTBOLLENE
-2. Skjær opp løk, hvitløk og chili som angitt. Ha kjøttdeig av storfe og svin i en bolle og tilsett de øvrige ingrediensene. Bruk en kjøkkenmaskin med eltekrok (eller bruk hendene) og bland godt sammen. Krydre med salt og pepper. Du skal nå ha en deig som skal være myk og lett å forme. Tilsett eventuelt litt vann dersom du synes deigen er litt fast eller litt mer brødrasp/panko dersom du synes den er for løs. Stek gjerne en prøve-kjøttbolle for å sjekke om du eventuelt skal tilsette mer krydder og/eller persille.
-3. Form jevnstore kjøttboller, ca. 30 stykker. Stek kjøttbollene i litt nøytral olje (i to omganger), til de har en fin stekeskorpe. Kjøttbollene skal ikke være helt gjennomstekte da de også skal trekke litt i tomatsausen.
+2. Kutt løk, hvitløk og chili som angitt. Ha kjøttdeig av storfe og svin i en bolle, og tilsett de øvrige ingrediensene. Bruk en kjøkkenmaskin med eltekrok (eller bruk hendene) og bland godt. Krydre med salt og pepper. Du skal nå ha en deig som er myk og lett å forme. Tilsett eventuelt litt vann dersom deigen er litt fast, eller litt mer brødrasp/panko dersom den er for løs. Stek gjerne en prøvekjøttbolle for å sjekke om du eventuelt skal tilsette mer krydder og/eller persille.
+3. Form jevnstore kjøttboller, ca. 30 stykker. Stek kjøttbollene i litt nøytral olje (i to omganger), til de har en fin stekeskorpe. Kjøttbollene skal ikke være helt gjennomstekte, da de også skal trekke litt i tomatsausen.
 4. TOMATSAUSEN
-5. Stek løken i litt nøytral olje til den er blank og myk. La hvitløk og chili steke med mot slutten av steketiden. Tilsett deretter tomatpuré og la det surre med i ca. ett minutt før du tilsetter de hermetiske tomatene. La sausen stå og småkoke under lokk i ca. 20 minutter, men gjerne litt lenger hvis du har tid. Smak til med sukker, salt og pepper. Dersom du ønsker en jevn saus, kan du eventuelt kjøre den med en stavmikser eller lignende.
+5. Stek løken i litt nøytral olje til den er blank og myk. La hvitløk og chili steke med mot slutten av steketiden. Tilsett deretter tomatpuré og la det surre med i ca. ett minutt, før du tilsetter de hermetiske tomatene. La sausen småkoke under lokk i ca. 20 minutter, gjerne litt lenger hvis du har tid. Smak til med sukker, salt og pepper. Dersom du ønsker en jevn saus, kan du eventuelt kjøre den med en stavmikser eller lignende.
 6. Legg kjøttbollene i sausen, sett på lokk og la det trekke på lav varme, til kjøttbollene er gjennomstekte.
 7. SERVERING
 8. Server kjøttbollene sammen med for eksempel en god spekeskinke og/eller spekepølse, manchego og spanske tapaspoteter (eller saltbakte poteter og mojosaus).
 9. TIPS
 10. Kjøttbollene kan også stekes midt i stekeovnen ved 200 grader (over- og undervarme) i 15–20 minutter. Steketiden vil variere ut fra størrelsen på kjøttbollene, så pass på mot slutten av steketiden.
 11. Kjøttbollene og tomatsausen kan gjerne lages et par dager før de skal serveres og oppbevares i kjøleskapet. Både kjøttbollene og sausen kan også fryses.
-12. Bytt gjerne ut litt av kjøttdeigen med finhakket spicy chorizo, for en litt mer pikant smak.
+12. Bytt gjerne ut litt av kjøttdeigen med finhakket, spicy chorizo, for en litt mer pikant smak.
 13. Alle tapasoppskriftene på bloggen finner du samlet her.
 14. VELBEKOMME!

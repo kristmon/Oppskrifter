@@ -2,9 +2,7 @@
 created: 2026-05-05
 ---
 
-# Honning-glazert skinke
-
-*Denne skinken smaker mye som den berømte honning-bakede skinken men kosten mye mindre, og det er ingen grunn til å kjempe mengdene på julestid. Du kan til og med kjøpe skinken forskåret for å gjøre det lettere og mer som originalen. Det er veldig godt. (Jeg gjør dette mens jeg forbereder resten av maten på kjøkkenet slik at jeg ikke glemmer å baste!)*
+*Honningglasert skinke med nellik, smør og en lett karamellisert overflate.*
 
 ## Ingredienser
 
@@ -17,9 +15,9 @@ created: 2026-05-05
 ## Fremgangsmåte
 
 1. Forvarm ovnen til 160°C.
-2. Score skinke og studs med hele nellik. Plassere skinke i folieforet pan.
-3. I topphalv av en dobbel-gryte, varm mais-sirup, honning og smør. Hold glasur varm mens du baker skinke.
-4. Børst glasur over skinke og bak i 1 time og 15 minutter i foroppvarmet ovn. Baste skinke hver 10 til 15 minutter med honning-glasuren. I løpet av siste 4 til 5 minutter av bakinga, slå på griller for å karamellisere glasuren. Fjern fra ovnen og la sittet noen minutter før servering.
+2. Rut skinken og stikk hele nellik i snittene. Legg skinken i en folieforet langpanne.
+3. Varm maissirup, honning og smør forsiktig i vannbad. Hold glasuren varm mens skinken steker.
+4. Pensle skinken med glasur og stek den i 1 time og 15 minutter. Pensle på nytt hvert 10.–15. minutt. Bruk grillelementet de siste 4–5 minuttene for å karamellisere glasuren. La skinken hvile noen minutter før servering.
 
 ## Info
 

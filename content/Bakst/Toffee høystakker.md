@@ -2,22 +2,20 @@
 created: 2026-05-05
 ---
 
-# Toffee høystakker
-
-*smakelig treats good for noen occasion, disse haystacks are mounded med en blanding av jordnøttelyst, butterscotch chips, marshmallows og chow mein nudler. Til enjoy i en snap, lag them den microwave måte.*
+*Sprø konfekttopper med peanøttsmør, smørkaramell, marshmallows og chow mein-nudler.*
 
 ## Ingredienser
 
-- 1 2/3 dl (11-g. pkg.) NESTLÉ® TOLL HOUSE® Butterscotch Flavored Morsels
-- 3/4 dl kremete jordnøttelyst
-- 1 hermetikk (8.5 g.) eller 2 hermetikk (5 g. hver) chow mein nudler
-- 3 1/2 dl miniature marshmallows
+- 310 g smørkaramellbiter
+- 1,8 dl kremet peanøttsmør
+- 240 g chow mein-nudler
+- 3 1/2 dl miniatyrmarshmallows
 
 ## Fremgangsmåte
 
-1. Line baking sheets eller trays med waxed paper.
-2. Micorwave morsels i stor, microwave-sikker bolle på Medium høy (70%) power for 1 minutt; rør. Microwave på additional 10- til 20-second intervals, rørende til smooth.
-3. Rør i jordnøttelyst til godt-blended. Tilsett chow mein nudler og marshmallows; toss til belagt. Drop ved rounded ss på forberedt baking sheets. Kjøl til klar til servér.
+1. Kle bakeplater eller stekebrett med bakepapir.
+2. Ha sjokoladebiter i en stor, mikrobølgeovnsikker bolle. Varm på middels effekt (70%) i 1 minutt; rør. Fortsett å varme i kortere intervaller på 10-20 sekunder, og rør mellom hver gang, til blandingen er jevn.
+3. Rør inn peanøttsmør til alt er godt blandet. Tilsett chow mein-nudler og marshmallows; bland godt til alt er dekket. Legg små topper på forberedte bakeplater. Avkjøl til de er klare for servering.
 
 ## Info
 

@@ -2,34 +2,32 @@
 created: 2026-05-05
 ---
 
-# Baby Ruth Crater Bars
-
-*If you're a Baby Ruth fan you'll love these peanut buttery bars with the candy melted on top. They're a cinch to make and the kids will love them!*
+Hvis du er glad i sjokoladebar med karamell og peanøtter, kommer du til å elske disse sjokoladebitene med peanøttsmør og smeltet godteri på toppen. De er utrolig enkle å lage, og barna kommer til å elske dem!
 
 ## Ingredienser
 
-- 2 1/10 dl all-purpose mel
+- 2 1/10 dl hvetemel
 - 1 ts natron
 - 1/2 ts salt
-- 1,9 dl packed brunt sukker
-- 1,9 dl granulated sukker
-- 1,2 dl (1 stick) smør or margarine, softened (we recommend LAND O LAKES® smør)
-- 1,2 dl creamy or chunky peanøttsmør
-- 2 large egg
+- 1,9 dl pakket brunt sukker
+- 1,9 dl hvitt sukker
+- 1,2 dl (1 pakke) smør eller margarin, myknet
+- 1,2 dl kremet eller grovkornet peanøttsmør
+- 2 store egg
 - 1 ts vaniljeekstrakt
-- 6 (2.1 oz. each) NESTLÉ BABY RUTH Candy Bars, coarsely chopped
+- 6 (á 6 g) sjokoladebarer med karamell og peanøtter, grovhakket.
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 375° F. Grease 15 x 10-inch jelly-roll pan.
-2. bland sammen mel, natron and salt in small bowl. Beat brunt sukker, granulated sukker, smør and peanøttsmør in large mixer bowl til creamy. Beat in egg and vaniljeekstrakt. Gradually beat in mel mixture.
-3. bred dough evenly into prepared pan. Sprinkle with Baby Ruth; press in lightly.
-4. bak for 18 to 20 minutter eller til gyllen brown. Cool completely in pan on wire rack. Cut into bars.
+1. Forvarm ovnen til 190 °C. Smør en langpanne på ca. 38 × 25 cm.
+2. Bland mel, natron og salt i en liten bolle. Pisk brunt sukker, hvitt sukker, smør og peanøttsmør kremaktig i en stor bolle. Pisk inn egg og vaniljeekstrakt. Tilsett melblandingen litt etter litt.
+3. Fordel deigen jevnt i den forberedte formen. Strø over sjokoladebar med karamell og peanøtter; press lett ned.
+4. Stek i ca. 18 til 20 minutter, eller til den er gyllenbrun. Avkjøl helt i pannen på et rist. Skjær i staver.
 
 ## Info
 
 - **Porsjoner**: 36
-- **Preparation Time**: 15 minutes
-- **Cooking Time**: 20 minutes
+- **Forberedelsestid**: 15 minutter
+- **Tilberedningstid**: 20 minutter
 - **Type**: Dessert
 - **Kilde**: Nestlé, www.verybestbaking.com

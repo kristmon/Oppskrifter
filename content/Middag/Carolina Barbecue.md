@@ -2,31 +2,29 @@
 created: 2026-05-05
 ---
 
-# Carolina Barbecue
-
 ## Ingredienser
 
-- 1 5-pound Boston butt roast
-- 2 ts vegetarolje
+- 1 5-pounds Boston butt-stykke, til steking
+- 2 ts vegetabilsk olje
 - 3,8 dl vann
-- 1 8-oz. tomatsaus
-- 0,6 dl cider eddiksyre
+- 1 8-oz tomatsaus
+- 0,6 dl eplecidereddik
 - 0,6 dl worcestershiresaus
 - 0,6 dl brunt sukker
-- salt to taste
-- pepper to taste
-- 1 ts selleri seeds
-- 1 ts chilipodd
-- dash hot pepper sauce
+- salt etter smak
+- pepper etter smak
+- 1 ts sellerifrø
+- 1 ts chilipulver
+- en skvett hot peppersaus
 
 ## Fremgangsmåte
 
-1. Randomly pierce the surface of the roast with a sharp knife.
-2. In a Dutch ovn, brown roast on all sides in hot olje. In a mixing bowl, bland sammen remaining ingredients and bland well.
-3. hell sauce over roast and bring til kokepunktet.
-4. reduser varmen, cover and la småkoke 2 timer eller til svinekjøtt is fork-tender.
-5. Baste roast with sauce during cooking time.
-6. skjær i skiver or hakk to servér.
+1 . Stikk tilfeldige hull i overflaten på kjøttet med en skarp kniv.
+ 2 . I en jerngryte, brun kjøttet på alle sider i varm olje. I en blandebolle, bland de resterende ingrediensene og rør godt.
+ 3 . Hell sausen over kjøttet og kok opp.
+ 4 . Senk varmen, dekk til og la det småkoke i 2 timer, eller til kjøttet er mørt.
+ 5 . Øs kjøttet med saus underveis i koketiden.
+ 6 . Skjær kjøttet i skiver eller hakk det opp før servering.
 
 ## Info
 

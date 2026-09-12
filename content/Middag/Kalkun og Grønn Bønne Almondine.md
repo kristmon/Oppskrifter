@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# Kalkun og Grønn Bønne Almondine
-
 *Lag en ny familiens favoritt ved å pare klassisk grønn bønne stekeform med mørt stykker av kalkun og krutonger.*
 
 ## Ingredienser
 
-- 1 (1025 g) pakke Stouffer's® fryst Familie Stil Favoritter Grønn Bønne Sopp Stekeform, optinet etter pakkedetaljer
-- 750 ml hakket, kokt kalkun eller kylling
-- 750 ml krydret krutonger
-- 120 ml melk
-- 10 ml Dijon mosterd
-- 120 ml revet sveitsisk ost
-- 60 ml skåret mandler
+- 1 (1025 g) pakke frosne Familie Stil Favoritter Grønn Bønne Sopp Stekeform, optimalisert etter pakkedetaljer.
+- 750 ml hakket, kokt kalkun eller kylling.
+- 750 ml krydrede krutonger.
+- 120 ml melk.
+- 10 ml Dijon-sennep.
+- 120 ml revet sveitserost.
+- 60 ml skivede mandler.
 
 ## Fremgangsmåte
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# nesten Instant Mushroom Saus med Fettuccine
-
 ## Ingredienser
 
 - 8 g fettuccine (ukokt)
@@ -18,8 +16,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok Pasta ifølge til pakke instruksjoner; tapp, reserving 1/4 dl cooking liquid; return Pasta til pot. I mellomtiden, i en stor stekepanne varm olje til hot. Tilsett sopp, green løk og hvitløk; kok, rørende hyppig, til sopp are mørt, 5 til 6 minutter.
-2. Rør i tomat, basilikum og salt; kok til tomat er bare warm, omtrent 1 minutt. Til Pasta i pot rør i ricotta ost og enough cooking liquid til lag en kremete Saus. Tilsett sopp blanding; toss.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet, men reserver 1/4 desiliter av kokevannet; ha pastaen tilbake i kjelen. I mellomtiden, i en stor stekepanne, varm olje til den er varm. Tilsett sopp, vårløk og hvitløk; stek, rør ofte, til soppen er myk, i 5 til 6 minutter.
+2. Rør inn tomater, basilikum og salt; kok til tomatene er gjennomvarme, ca. 1 minutt. Ha pastaen i kjelen og rør inn ricottaost og nok kokevann til du får en kremet saus. Tilsett soppblandingen; bland godt.
 
 ## Info
 

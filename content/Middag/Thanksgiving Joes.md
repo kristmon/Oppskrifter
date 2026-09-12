@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Thanksgiving Joes
-
 ## Ingredienser
 
 - 450 g malt kalkun
@@ -17,8 +15,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I stor stekepanne, over medium-høy varme, stekk kalkun, løk, selleri og grønn paprika 5-7 minutter, eller til kalkun ikke lenger er rosa. Dren og returner blanding til stekepanne.
-2. Tilsett chilisaus, sennep og tranebærsaus; rør og bring til kok. Reduser varmen til medium-lav og trekk i småkoking 25-30 minutter, eller til blandingen er varmt gjennom hele. Serveres på ristede boller.
+1. I en stor stekepanne, over middels høy varme, stekes kalkun, løk, selleri og grønn paprika i 5 - 7 minutter, eller til kalkunen ikke lenger er rosa. Hell av overflødig fett og ha blandingen tilbake i stekepannen.
+2. Tilsett chilisaus, sennep og tranebærsyltetøy; rør godt og kok opp. Senk varmen til middels lav og la det småkoke i 25 - 30 minutter, eller til blandingen er gjennomvarm. Serveres på ristede rundstykker.
 
 ## Info
 

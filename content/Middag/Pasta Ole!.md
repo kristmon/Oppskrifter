@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Pasta Ole!
-
 ## Ingredienser
 
-- 225 g Linguine, Spaghetti eller tynt spaghetti, ukokt
+- 225 g linguine, spaghetti eller tynn spaghetti, ukokt
 - 30 ml vegetarolje
-- 1 medium løk, fint hakket
-- 1/2 rød paprika, frø fjernet, ribber fjernet, og julienne
-- 1/2 grønn paprika, frø fjernet, ribber fjernet, og julienne
-- 450 g tynt skåret topp-round-steak, skåret i tynne strimlar
+- 1 middels løk, finhakket
+- 1/2 rød paprika, uten kjernehus og støte, i julienne
+- 1/2 grønn paprika, uten kjernehus og støte, i julienne
+- 450 g tynnskåret ytrefilet, skjært i tynne strimler
 - 1/4 ts kommen
 - 1 ts salt
-- 1 glasskonserve (800 g) krydrig raud pasta-saus
-- 2,5 dl (115 g) Monterey Jack-ost, rivaste
+- 1 glass (800 g) sterk tomatsaus
+- 2,5 dl (115 g) Monterey Jack-ost, revet
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonane, avløp. I mellomtida, i ei stor ikkje-klebrig panne, varm vegetaroljen. Tillsett løken og paprika-skivene og braisér over medium varme til dei blir visne, omtrent 5 minutter. Tillsett storfekjøttet og braisér, rør konstant, til det er brunt. Fjern frå varmen og flytt til ei 23 x 33 x 5 cm bakingform. Tillsett pastaen og bland.
-2. I ein mikrobølgje-sikker form eller ei medium gryte, varm pasta-sausen. Hell over pastaen, storfekjøttet og grønnsakane og bland. Top med ost og bak ved 200 °C i eit minutt eller to, berre lange nok til å smelte osten.
+1. Kok pastaen etter anvisningene på pakken, og sil av vannet. I mellomtiden, i en stor, ikke-klebrig stekepanne, varm vegetabilsk olje. Tilsett løk og paprikaskiver, og stek over middels varme til de er myke, ca. 5 minutter. Tilsett kjøttdeigen og stek, rør jevnlig, til den er brun. Fjern fra varmen og overfør til en form på 23 x 33 x 5 cm. Tilsett pastaen og bland godt.
+2. I en form som tåler mikrobølgeovn, eller i en middels stor kjele, varm pastasausen. Hell sausen over pastaen, kjøttdeigen og grønnsakene, og bland godt. Topp med ost og stek i ovnen ved 200 °C i ett eller to minutter, kun lenge nok til at osten smelter.
 
 ## Info
 

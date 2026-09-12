@@ -2,36 +2,34 @@
 created: 2026-05-05
 ---
 
-# Laks Fylt Pastaskjell
-
 ## Ingredienser
 
-- 24 Jumbo-skjell, ukokt
-- 2 egg, slåtte
-- 5 dl ricottaost med delvis skummet melk
-- 0,5 dl hakket løk
-- 1 rød paprikafrukt, ribber og frø fjernet, hakket
-- 0,5 dl snitt persille
+- 24 store sjøkreps, ukokt
+- 2 egg, pisket
+- 5 dl ricottaost med delvis fettredusert melk
+- 0,5 dl finhakket løk
+- 1 rød paprika, uten kjerner og frø, finhakket
+- 0,5 dl hakket persille
 - 1/2 ts finrevet sitronskall
-- 1 boks laks, avhelt og søkkete
-- 1 ts sjømatskrydring
-- 2,5 dl fordampet skummet melk
+- 1 boks laks, uten bein og skinn
+- 1 ts sjømatkrydder
+- 2,5 dl kokt, fettredusert melk
 **Dillsaus**
 - 22 ml margarin
-- 22 ml hvetmel
+- 22 ml hvetemel
 - 1/4 ts salt
 - 1/8 ts pepper
 - 1 ss sitronsaft
-- 3,5 dl skummet melk
-- 3 ss finsnitt frisk dill eller 2 ts tørket dill
+- 3,5 dl kokt, fettredusert melk
+- 3 ss finhakket frisk dill, eller 2 ts tørket dill
 
 ## Fremgangsmåte
 
-1. Kok pasta etter pakningens anvisning; hell av godt. Kjøl på voksemperket eller aluminiumsfolie for å holde skjellene fra å klebe seg sammen.
-2. Kombiner egg, ricottaost, løk, paprikafrukt, persille, sitronskall, laks og sjømatskrydring. Hell fordampet skummet melk inn i en lett smurt bakefat på ca. 23x30x5 cm.
-3. Fyll hvert pastaskjell med en stor ss fyll. Arrange skjellene i en kasseroll; dekk med aluminiumsfolie. Bak ved 175°C i 30-35 minutter, eller til det er varmt og bobler.
-4. Mens skjellene bakes, smelt margarinen i en liten gryte over medium varme; rør inn hvetermelet, salt og pepper. Fjern gryten fra varmen; tilsett sakte skummet melk, stir til blandingen er glatt. Returner til medium varme; varm til kokende, stir konstant. Reduser varmen, simr 1 minutt. Fjern fra varmen; rør inn dill og sitronsaft.
-5. Fjern kasserolle fra ovnen; arrange skjellene på en serveringsplate. Server med dillsaus.
+1 . Kok pastaen etter anvisningene på pakken; hell av vannet godt. Kjøl ned på et kjøkkenunderlag eller aluminiumsfolie for å hindre at pastaen klistrer seg sammen.
+ 2 . Bland egg, ricotta, løk, paprika, persille, sitronskall, laks og sjømatkrydder. Hell en lett smurt form (ca. 23x30x5 cm) med en forsiktig oppvarmet melk.
+ 3 . Fyll hvert pastaskall med en generøs spiseskje fyll. Legg skallene i en ildfast form; dekk med aluminiumsfolie. Stek i ovnen ved 175 °C i 30 - 35 minutter, eller til det er gjennomvarmt og begynner å boble.
+ 4 . Mens skallene steker, smelt margarinen i en liten kjele over middels varme; rør inn hvetemel, salt og pepper. Ta kjelen av varmen; tilsett gradvis den oppvarmede melken, og rør til blandingen er glatt. Sett kjelen tilbake på middels varme; varm opp til den begynner å koke, og rør konstant. Reduser varmen, og la det småkoke i 1 minutt. Ta kjelen av varmen; rør inn dill og sitronsaft.
+ 5 . Ta formen ut av ovnen; arranger skallene på et serveringsfat. Server med dillsaus.
 
 ## Info
 

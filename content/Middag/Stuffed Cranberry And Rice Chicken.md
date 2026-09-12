@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Stuffed Cranberry And Rice Chicken
-
-*Juicy, tart cranberries surprise you in every bite!*
+*Kyllingrulader fylt med brun ris, tranebær og urter.*
 
 ## Ingredienser
 
-- 3 whole chicken breasts, halved, boned, skinned, and pounded to 1/2" thickness
-- 3 cups cooked brown rice
-- 1/2 cup rehydrated cranberries, drained
-- 1 Tbs olive oil
-- 1/2 cup diced celery
-- 1/2 cup diced onion
-- 2 tsp minced fresh thyme
-- 1 cup dry white wine
+- 3 kyllingbryst, delt i to, banket til ca. 1 cm tykkelse
+- 7,2 desiliter kokt brun ris.
+- 1,2 dl bløtlagte tørkede tranebær, avrent
+- 1 ss olivenolje
+- 1,2 dl selleri i terninger
+- 1,2 dl løk i terninger
+- 2 teskjeer finhakket fersk timian.
+- 2,4 dl tørr hvitvin
 
 ## Fremgangsmåte
 
-1. Prepare the chicken breasts and set aside. Combine the rice and rehydrated cranberries and mix well. Set aside.
-2. Heat the oil in a small saucepan over medium-high heat. Add the celery and onion and saute for 5 minutes. Add the vegetables and thyme to the rice.
-3. On a flat surface, take about 1/2 cup of the rice mixture and place on the lower third of each chicken breast. Fold over the sides of the chicken breast and roll up. Secure each breast with a toothpick. Continue with all chicken breasts.
-4. Place all the chicken rolls in a casserole dish. Pour wine in the bottom of the dish. Cover and bake in a preheated 350 degree oven for 20 minutes. Uncover and bake for 10 more minutes.
+1. Gjør klar kyllingbrystene og sett dem til side. Bland risen og de bløtlagte tranebærene.
+2. Varm oljen i en liten kjele over middelhøy varme. Tilsett selleri og løk, og stek i 5 minutter. Tilsett grønnsakene og timianen til risen.
+3. På en flat overflate, ta omtrent 1,2 dl av risblandingen og legg den på den nederste tredjedelen av hver kyllingbryst. Brett inn sidene på kyllingbrystet og rull det sammen. Fest hvert bryst med en cocktailpinne. Fortsett med alle kyllingbrystene.
+4. Legg alle kyllingruladene i en ildfast form. Hell vin i bunnen av formen. Dekk til og stek i en forvarmet ovn på 175 grader i 20 minutter. Fjern lokket og stek videre i 10 minutter.
 
 ## Info
 
 - **Porsjoner**: 6
-- **Type**: Chicken, Diabetic, Main Dish, Poultry
+- **Type**: Kylling, Diabetesvennlig, Hovedrett, Fjørfe
 - **Kilde**: American Diabetes Association, http://www.diabetes.org

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Pastalatik med ananas-mynte-salsa
-
 ## Ingredienser
 
 - 450 g Mostaccioli, Ziti eller annan mellanstørrel pastaform, ukokt

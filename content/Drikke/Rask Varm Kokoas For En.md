@@ -2,15 +2,13 @@
 created: 2026-05-05
 ---
 
-# Rask Varm Kokoas For En
-
 *Behandle deg selv til en stor mugg med kremete varm sjokolade med denne rask-som-et-blikk oppskriften.*
 
 ## Ingredienser
 
-- 120 ml tørr NESTLÉ® CARNATION® omedelbar fettfritt tørt melk
+- 120 ml tørr fettfritt melkepulver
 - 1-2 ss granulert sukker
-- 1,5 ss NESTLÉ® TOLL HOUSE® bakingskakao
+- 1,5 ss bakingskakao
 - 250 ml kokende vann
 - Pisket krem eller
 - miniatyr marshmallows (valgfritt)

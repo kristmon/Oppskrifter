@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Krepperrollen med skjærte fersken og ricotta
-
 ## Ingredienser
 
 - 6 fersken, steinfritt og tynnt skjært
@@ -11,7 +9,7 @@ created: 2026-05-05
 - 1 ss sukker
 - 4 ss melk
 
-**Krepperrollen**
+**Kremrøre**
 - 4 egg
 - 4 dl melk
 - 0,75 dl universalmel
@@ -20,14 +18,14 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en bolle kombiner ricotta, 1 ss sukker og 2 ss melk.
-2. Bland til kremete, tilsett mer melk hvis ønsket. Det skal være lett å spre.
-3. Kombiner egg og melk i en bolle og visp, deretter, lite om lite, visp in mel, salt og sukker for å lag en tynn, klump-fri deig. Hvis det, til tross for beste innsats dine, fortsatt er klumper, sil deigen gjennom flere tykkelser av ostelkle. Dekk deigen og kjøl i 2 timer.
-4. Hvis deigen fortsatt ser for tykk ut - den skal være konsistensen av tykk fløte - tynn den ved å slag in litt melk.
-5. Varm en 30 cm stekepanne, helst ikke-klart. Pannen er klar når en dråpe vann plassert i det sizzles og spatter. Dråpe in en teskje smør og smelt det over medium-høy varme, kappe pan ved å vippe det fra side til side.
-6. Hell en knapp 1,25 dl deig inn i pan, fort vippe og vending pan til kappe bunnen. Hell av overskudd. I en veldig kort tid, vil deigen begynne å ha bobler på overflaten og kanten vil begynne å trekke seg bort fra siden av pan.
-7. Ved hjelp av en spatel, vend kreppen over og kok den bare en moment på andre siden. Fjern til en dekket plate og hold varm. Gjenta til all deigen er brukt.
-8. For å servere, spread halv av hver krepp med litt ricotta, top med skjærte fersken og fold over. Strø med litt puljekaker sukker. Server krepperrollen varm eller ved romtemperatur.
+1. I en bolle, bland ricotta, 1 ss sukker og 2 ss melk.
+2. Bland godt til kremete konsistens. Tilsett mer melk hvis ønskelig. Deigen skal være lett å smøre ut.
+3. I en bolle, kombiner egg og melk, og visp godt. Tilsett deretter gradvis mel, salt og sukker, og visp for å lage en tynn, jevn deig uten klumper. Hvis det likevel er klumper, sikt deigen gjennom et osteklede. Dekk deigen og sett den i kjøleskapet i 2 timer.
+4. Hvis deigen fortsatt virker for tykk – den skal ha konsistens som tykk fløte – kan du tynne den ut ved å tilsette litt melk.
+5. Varm en stekepanne på 30 cm i diameter, helst en panne med slippbelegg. Pannen er klar når en dråpe vann som slippes i den, begynner å bruse og sprute. Smelt en teskje smør i pannen over middelhøy varme, og roter pannen ved å vippe den fra side til side.
+6. Hell omtrent 1,25 dl deig i pannen. Vipp og roter pannen raskt for å dekke bunnen. Hell av overflødig deig. Etter kort tid vil deigen begynne å danne bobler på overflaten, og kantene vil begynne å løsne fra pannen.
+7. Bruk en slikkepott til å snu crepen, og stek den bare et øyeblikk på den andre siden. Legg den over på et lokket fat og hold den varm. Gjenta til all deigen er brukt.
+8. For servering, smør halvparten av hver crepe med litt ricotta. Legg over skivede fersken, og brett crepen. Dryss over litt melis. Server crepen varm eller ved romtemperatur.
 
 ## Info
 

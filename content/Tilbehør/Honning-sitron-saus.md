@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning-sitron-saus
-
 ## Ingredienser
 
 - 1,2 dl honning

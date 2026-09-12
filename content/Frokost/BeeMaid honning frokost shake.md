@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# BeeMaid honning frokost shake
-
 *Ingen fett, ingen kolesterol.*
 
 ## Ingredienser

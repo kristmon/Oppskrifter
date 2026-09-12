@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning-sprøtt
-
 *Dette er en fantastisk sovekvartssnack.*
 
 ## Ingredienser
@@ -27,6 +25,6 @@ created: 2026-05-05
 
 ## Info
 
-- **Porsjoner**: 30 utbytte: ca 30 kaker
+- **Porsjoner**: 30 utbytte: ca. 30 kaker
 - **Type**: Kake, Dessert
 - **Kilde**: National Honey Board, www.honey.com

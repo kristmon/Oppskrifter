@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Chimichurri-marinade
-
 ## Ingredienser
 
 - 6 fedd hvitkløk

@@ -9,7 +9,7 @@ created: 2009-11-24
 - 1 ss smør
 - 1 stor løk, finhakket
 - 1 fedd hvitløk, i tynne skiver
-- ca 100 g gulrøtter, i tynne skiver
+- ca. 100 g gulrøtter, i tynne skiver
 - 3 selleristenger, finhakket
 - 1/2 boks hakkede tomater
 - 5 dl grønnsaksbuljong

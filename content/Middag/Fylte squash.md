@@ -6,15 +6,15 @@ Mat fra Syria stod for tur, og fredag ble en fin dag å spise syrisk på. Fylte 
 ![[Bilder/FylteSquash1.jpg|300]]
 
 Du trenger:
-- 4-6 gule squash
+- 4 - 6 gule squash
 - 1 fedd hvitløk
-- 2 dl kikerter fra boks, eller 1 dl tørre (brukes tørre, må disse ligge i bløt natten i forveien, og deretter kokes i 20 min, og skrelles)
+- 2 dl kikerter fra boks, eller 1 dl tørre kikerter (Hvis du bruker tørre, må de ligge i bløt over natten, og deretter kokes i 20 minutter og skaleres).
 - 2 dl ris
-- 2-3 never hakket persille
+- 2 - 3 never hakket persille
 - 1 liten neve hakket mynte
 - 4 vårløk, hakket
 - 1 ts salt
-- 1/4 ts cayenne pepper
+- 1/4 ts cayennepepper
 - 1/2 dl olivenolje
 - 1 boks grovhakkede tomater
 - Saft av 1 sitron
@@ -24,11 +24,11 @@ Squashene skal hules ut ved hjelp av en såkalt "squash corer". De skal hules ut
 
 ![[Bilder/FylteSquash2.jpg|300]]
 
-I en bolle blander du sammen kikerter, ris, persille, mynte, vårløk, salt, cayenne pepper og halvparten av olivenoljen. Så er det bare å begynne å fylle squashene. Fyllet skal ligge løst, ikke presses kompakt ned i squashen. Risen trenger rom til å utvide seg. Fyll opp til ca 1-2 cm fra åpningen.
+I en bolle blander du sammen kikerter, ris, persille, mynte, vårløk, salt, cayennepepper og halvparten av olivenoljen. Deretter kan du begynne å fylle squash. Fyllet skal ligge løst, ikke presses hardt ned i squashen. Risen trenger plass til å utvide seg. Fyll opp til ca. 1-2 cm fra åpningen.
 
 ![[Bilder/FylteSquash3.jpg|300]]
 
-Plasser squashene i en gryte, så vertikalt som mulig. Hell over tomater, resten av olivenoljen, sitronsaft og vann. Sørg for at det kommer litt væske inn i hver av squashene. Kok opp, og la småkoke i ca 45 minutter. Server. Spis.
+Legg squash i en gryte, så vertikalt som mulig. Hell over tomater, resten av olivenoljen, sitronsaft og vann. Pass på at litt væske kommer inn i hver squash. Kok opp, og la det småkoke i ca. 45 minutter. Server. Spis.
 
 ![[Bilder/FylteSquash4.jpg|300]]
 

@@ -2,34 +2,32 @@
 created: 2026-05-05
 ---
 
-# Old-Fashioned Peanut Butter Chocolate Chip Cookies
-
-*Everyone will love this classic cookie combination of peanut butter and chocolate!*
+Alle kommer til å elske denne klassiske kombinasjonen av peanøttsmør og sjokolade!
 
 ## Ingredienser
 
-- 3,8 dl all-purpose mel
+- 3,8 dl mel
 - 1 ts natron
-- 2,5 dl (2 sticks) smør or margarine, softened
-- 1,2 dl creamy or chunky peanøttsmør
-- 1,2 dl granulated sukker
-- 1,2 dl packed brunt sukker
+- 2,5 dl (2) smør eller margarin, myknet
+- 1,2 dl kremet eller klumpete peanøttsmør
+- 1,2 dl sukker
+- 1,2 dl pakket brunt sukker
 - 1 ts vaniljeekstrakt
-- 1 large egg
-- 1 3/10 dl (11.5-oz. pkg.) NESTLÉ® TOLL HOUSE® melk sjokolade Morsels
-- Granulated sukker
+- 1 egg, stort
+- 1 3/10 dl (11.5) melk sjokoladebiter
+- Sukker
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 375° F.
-2. bland sammen mel and natron in small bowl. Beat smør, peanøttsmør, granulated sukker, brunt sukker and vaniljeekstrakt in large mixer bowl til creamy. Beat in egg. Gradually beat in mel mixture. rør in morsels.
-3. Drop dough by rounded tablespoon onto ungreased baking sheets. Press down slightly with bottom of glass dipped in granulated sukker.
-4. bak for 8 to 10 minutter eller til edges are set but centers are still soft. Cool on baking sheets for 4 minutter; remove to wire racks to cool completely.
+1. Forvarm ovnen til 191 °C.
+2. Bland mel og natron i en liten bolle. Pisk smør, peanøttsmør, hvitt sukker, brunt sukker og vaniljeekstrakt i en stor miksebolle til blandingen er jevn og kremete. Tilsett eggene og pisk godt. Tilsett melblandingen gradvis og bland godt. Vend inn sjokoladebiter.
+3. Legg deigen i runde skjeer på ubestikkede stekebrett. Trykk lett ned med bunnen av et glass dyppet i hvitt sukker.
+4. Stek i 8 til 10 minutter, eller til kantene er faste, men midten fortsatt er myk. Avkjøl på stekebrettene i 4 minutter; overfør deretter til rist for å avkjøles helt.
 
 ## Info
 
 - **Porsjoner**: 42
-- **Preparation Time**: 20 minutes
-- **Cooking Time**: 8 minutes
+- **Forberedelsestid**: 20 minutter
+- **Tilberedningstid**: 8 minutter
 - **Type**: Dessert
 - **Kilde**: Nestlé, www.verybestbaking.com

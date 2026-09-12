@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Pasta Vegetable Soup with Croutons
-
 ## Ingredienser
 
-- 8 oz Small Shells, Orzo or other small pasta shape, uncooked
-- 6 cups low-sodium chicken broth
-- 4 cups water
-- 4 medium carrots, peeled and diced (about 1 1/2 cups)
-- 2 ribs celery, diced (about 1 cup)
-- 1 onion, peeled and diced (about 1 cup)
-- 1/2 cup croutons
-- 1/2 cup chopped fresh parsley
-- 1/4 tsp ground black pepper
-- Salt to taste
-- 1/2 cup Parmesan cheese
+- 227 g små skjell, orzo eller annen liten pastaform, naturell.
+- 14,4 dl buljong av kylling, med redusert saltinnhold.
+- 9,6 dl vann.
+- 4 middels store gulrøtter, skrelt og i terninger (ca. 3,6 dl).
+- 2 stilker selleri, i terninger (ca. 2,4 dl).
+- 1 løk, skrelt og i terninger (ca. 2,4 dl).
+- 1,2 dl crostini.
+- 1,2 dl hakket, fersk persille.
+- 1/4 ts malt svart pepper.
+- Salt etter smak.
+- 1,2 dl revet parmesanost.
 
 ## Fremgangsmåte
 
-1. Combine chicken broth, water, carrots, celery and onions in a 5-quart heavy pot. Heat to boiling, reduce heat to a simmer and cover pot. Simmer 15 minutes.
-2. Stir pasta into chicken broth mixture. Increase heat to boiling. Cook 5 minutes, stirring often. Stir in parsley, pepper and salt to taste. Continue boiling until pasta is al dente, tender but firm to the bite, about 8 minutes. Ladle some pasta and broth into each serving bowl. Sprinkle croutons and Parmesan cheese over each serving.
+1. Ha kyllingkraft, vann, gulrøtter, selleri og løk i en stor, tykkbunnet gryte. Varm opp til kokepunktet, senk varmen til svak varme og sett lokk på gryten. La det småkoke i 15 minutter.
+2. Rør pastaen inn i kyllingkraften. Øk varmen til kokepunktet. Kok i 5 minutter, rør ofte. Rør inn persille, pepper og salt etter smak. Fortsett å koke til pastaen er al dente, fast men myk, i omtrent 8 minutter. Øs pasta og kraft i hver serveringsskål. Dryss over crostini og parmesanost på hver servering.
 
 ## Info
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Svinekjøtt-penslingsaus
-
 ## Ingredienser
 
 - 1 ss honning
@@ -14,8 +12,8 @@ created: 2026-05-05
 ## Fremgangsmåte
 
 1. I en liten bolle, bland ingrediensene.
-2. Grill opptidet kjøttkotletter omkring 8–10 minutter, vend og pensl ofte med saus.
-3. For indrefilet: grill over medium-høy varme, vend og pensl ofte i 30–35 minutter eller til indre temperatur når 71°C.
+2. Grill kjøttkotelettene over middels høy varme i 8 – 10 minutter. Vend dem ofte og pensl med saus.
+3. For indrefilet: grill over middels høy varme, vend den ofte og pensl med saus i 30 – 35 minutter, eller til den når en kjernetemperatur på 71 °C.
 
 ## Info
 

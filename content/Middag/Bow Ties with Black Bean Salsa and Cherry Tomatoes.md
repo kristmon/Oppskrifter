@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Bow Ties with Black Bean Salsa and Cherry Tomatoes
-
 ## Ingredienser
 
-- 8 oz Bow Ties, Elbow Macaroni or other medium pasta shape, uncooked
-- 2 Tbs olive oil or vegetable oil
-- 1 bunch scallions, trimmed and thinly sliced (green and white parts)
-- 1 1/2 tsp ground cumin
-- 1 1/2 Tbs fresh lime juice
-- 1 15-oz. can black beans, drained and rinsed well
-- 1/4 tsp salt, or to taste
-- Freshly ground black pepper to taste
-- 8 cherry tomatoes, rinsed and quartered
-- 2 Tbs chopped fresh cilantro
+- 227: Bow ties, albuepasta eller annen pastaform, ukokt.
+- 2: SS olivenolje eller vegetabilsk olje.
+- 1: En bunt vårløk, rensede og i tynne skiver (både grønn og hvit del).
+- 1 1/2: ts malt spisskummen.
+- 1 1/2: SS fersk limejuice.
+- 1 15: En boks (ca. XX gram) svarte bønner, skylt og avrent.
+- 1/4: ts salt, eller etter smak.
+- Nymalt svart pepper, etter smak.
+- 8: Kirsebærtomater, skylt og delt i fire.
+- 2: SS hakket fersk koriander.
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions. While pasta is cooking, heat the oil in a medium saucepan over medium heat. Add scallions and cumin and cook for 2 minutes. Remove from heat and stir in the lime juice. Add the beans, salt and pepper and toss to coat. (The salsa can be made and refrigerated up to one day in advance.)
-2. Just before draining the pasta, measure 1/2 cup of the cooking water into the black bean salsa. Drain the pasta, return it to the pot and add the bean mixture. Cook over medium heat until the sauce is boiling and thick enough to lightly coat the pasta. Remove the pot from heat and gently stir in cherry tomatoes and cilantro. Serve immediately.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, varm oljen i en middels stor kjele over middels varme. Tilsett vårløk og spisskummen, og la det steke i 2 minutter. Ta kjelen av varmen og rør inn limesaften. Tilsett bønnene, salt og pepper, og bland godt for å fordele. (Salsaen kan lages og oppbevares i kjøleskapet opptil en dag i forveien.)
+2. Rett før du heller av pastaen, ta 1,2 dl av kokevannet og tilsett det i svarte bønnesalsaen. Hell av pastaen, ha den tilbake i kjelen og tilsett bønneblandingen. Kok opp over middels varme, og la det putre til sausen begynner å tykne og dekker pastaen lett. Ta kjelen av varmen og rør forsiktig inn cherrytomater og koriander. Server umiddelbart.
 
 ## Info
 

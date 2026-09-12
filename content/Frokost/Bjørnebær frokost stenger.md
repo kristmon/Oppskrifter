@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Bjørnebær frokost stenger
-
 *Disse stengene er ikke bare en eksepsjonell måte å starte dagen på, men de er også flott for rask pause - en rask energi snack mellom alle sommeraktivitetene.*
 
 ## Ingredienser
@@ -22,10 +20,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. For fyll, i en medium gryteerpanne kombiner bærene, sukker, vann, sitronsaft og 1/2 ts kanel. Bring til koking. Reduser varmen. Simrer, ajouriert, i ca 8 minutter eller til lett fortyket, rør ofte. Fjern fra varme.
-2. I en blanding bolle rør sammen mel, havre, brunt sukker, 1/4 ts kanel, og natron. Rør in smelt margarin eller smør til grundig kombinert.
-3. Sett til side 1 dl av havreblandingen til topping. Press gjenværende havrblanding inn i en usmurt 23x23x5 cm pan. Bak i 175°C ovn i 20-25 minutter.
-4. Forsiktig spread fyll på toppen av bakt skorpe. Strø med reservert havrblanding. Lette press havrblanding inn i fyll. Bak i 175°C ovn i 20-25 minutter til eller til topping er satt. Kjøl i pan på en viretrase. Kutt inn stenger.
+1 . For fyllet, ha bærene, sukker, vann, sitronsaft og 1/2 teskje kanel i en middels stor stekepanne. Kok opp. Senk varmen. La det småkoke, rør av og til, i ca. 8 minutter, eller til det tykner litt. Fjern fra varmen.
+ 2 . I en bolle, bland sammen mel, havregryn, brunt sukker, 1/4 teskje kanel og natron. Bland inn smeltet margarin eller smør til alt er godt blandet.
+ 3 . Sett til side 1 desiliter av havreblandingen til topping. Press resten av havreblandingen ned i en smurt 23x23x5 cm form. Stek i ovn ved 175 °C i 20 - 25 minutter.
+ 4 . Fordel fyllet forsiktig over den stekte bunnen. Strø over den reserverte havreblandingen. Press havreblandingen lett ned i fyllet. Stek videre i ovn ved 175 °C i 20 - 25 minutter, eller til toppingen er stivnet. Avkjøl i formen på en rist. Skjær i stenger.
 
 ## Info
 

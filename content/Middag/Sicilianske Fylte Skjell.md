@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Sicilianske Fylte Skjell
-
 ## Ingredienser
 
-- 225 g jumbo skjell
-- 1 medium løk, hakket
-- 2 ts olivolje
+- 225 g jumbo skjellpasta
+- 1 middels løk, finhakket
+- 2 ss olivenolje
 - 425 g ricottaost
 - 1 dl gule rosiner
-- 1 dl hakket grønn oliven
-- Salt og fersk malt svart pepper, etter smak
+- 1 dl hakkede grønne oliven
+- Salt og ferskmalt svart pepper, etter smak
 - 1 boks (425 g) tomatsaus
-- 0,5 dl reven Parmesan
-- 2,5 dl reven mozarellaost
+- 0,5 dl revet parmesan
+- 2,5 dl revet mozzarellaost
 
 ## Fremgangsmåte
 
-1. Kok skjellene etter pakningens anvisning. Skyll, hell av og spred på en bakestål mens du tilberer fyllingen.
-2. Forvarm ovnen til 175°C.
-3. I en liten sautépanne, rør sammen løken og olivoljen. Kok over medium varme til løken er visnet, ca. 5 minutter. Overføring til en medium bolle og rør inn ricottaost, rosinene, olivenen og salt og pepper etter smak.
-4. Fyll hvert skjell med litt av ricottablandingen. Arrange skjellene, åpent-siden-opp, i en bakefat. Skje tomatsausen over skjellene og deretter strø dem med Parmesan og mozarellaost. Bak, dekket, til det bobler og er varmt, ca. 35-40 minutter. Fjern dekkelet og bak 5 minutter til. Server varmt.
+1 . Kok skalldyrene etter anvisningene på pakken. Skyll dem, hell av vannet og fordel fyllet over.
+ 2 . Forvarm ovnen til 175 °C.
+ 3 . I en liten stekepanne, fres løk og olivenolje sammen. Stek over middels varme til løken er myk, ca. 5 minutter. Hell over i en bolle og bland inn ricotta, rosiner, oliven, salt og pepper etter smak.
+ 4 . Fyll hvert skall med litt av ricotta-blandingen. Legg skallene i et ildfast fat, med åpningen opp. Fordel tomatsausen over skallene, og dryss over parmesan og mozzarella. Stek i ovnen, dekket, til det bobler og er gjennomvarmt, ca. 35 - 40 minutter. Fjern lokket og stek i ytterligere 5 minutter. Server varmt.
 
 ## Info
 

@@ -2,11 +2,11 @@
 created: 2020-06-11
 ---
 - 1/2 rødløk, finhakket
-- 1 boks cherrytomater eller ca 30 stk, finhakket 
-- 1 jalapeño, finhakket uten frø 
-- Et par never koriander, finhakket 
-- 1,5 ss olivenolje 
-- 1,5 ss limesaft 
+- 1 boks cherrytomater eller ca. 30 stk, finhakket
+- 1 jalapeño, finhakket uten frø
+- Et par never koriander, finhakket
+- 1,5 ss olivenolje
+- 1,5 ss limesaft
 - salt
 - pepper
 

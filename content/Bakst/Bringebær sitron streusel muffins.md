@@ -2,35 +2,33 @@
 created: 2026-05-05
 ---
 
-# Bringebær sitron streusel muffins
-
 ## Ingredienser
 
-**Streusel topping**
-- 60 ml smalt smør eller margarin
+**Smuldretopping**
+- 60 ml smeltet smør eller margarin
 - 120 ml mel
 - 30 ml sukker
-- 7 ml fint revelt sitronskall
+- 7 ml finrevet sitronskall
 **Muffins**
 - 600 ml mel
 - 10 ml bakepulver
-- 5 ml bakesoda
+- 5 ml natron
 - 315 ml sukker
-- 15 ml fint revelt sitronskall
+- 15 ml finrevet sitronskall
 - 1 egg
-- 240 ml kulturmelk
-- 120 ml smalt smør eller margarin
-- 15 ml sitronjuice
-- 350 g (170 g) hele fryst bringebær - ikke tint
+- 240 ml kefir eller kulturmelk
+- 120 ml smeltet smør eller margarin
+- 15 ml sitronsaft
+- 350 g (170 g) frosne bringebær – ikke tint
 - 15 ml mel
 
 ## Fremgangsmåte
 
-1. Justér ovnrist til midtstilling og forvarm ovnen til 200 °C.
-2. Rør alle streusel-ingrediensene sammen for å danne myk, kornete deig. Sett til side.
-3. Pisk sammen tørre muffin-ingrediensene og sitronskallet. I en annen bolle blander du alle flytende ingrediensene. Tilsett i tørre ingrediensene og rør til det er nesten helt blandet. Kast fryst bringebær med mel for å dekke, og fold deretter forsiktig inn i deigen, håndter bare nok til å inkorporere bærene.
-4. Bruk bakepapir muffin-former, fyll hver form til 5 mm fra toppen. Krumbl streusel-toppingen over hver.
-5. Bak i 15 minutter, reduser deretter varmen til 175 °C og bak i ytterligere 10 minutter, eller til lett brunt og muffin springer tilbake når du presser lett med fingeren.
+1 . Juster ovnsristen til midten og forvarm ovnen til 200 °C.
+2 . Bland alle ingrediensene til strøssel sammen for å få en myk, kornete deig. Sett til side.
+3 . Visp sammen de tørre ingrediensene til muffins og sitronskallet. I en annen bolle blander du alle de flytende ingrediensene. Tilsett de tørre ingrediensene og rør til det er nesten helt blandet. Vend inn frosne bringebær lett i melet, og vend deretter forsiktig inn i deigen, bare nok til å inkorporere bærene.
+4 . Bruk muffinsformer med bakepapir. Fyll hver form til 5 mm fra toppen. Strø strøssel over hver muffin.
+5 . Stek i 15 minutter, reduser deretter varmen til 175 °C og stek videre i ytterligere 10 minutter, eller til de er lett brunet og muffinsene spretter tilbake når du trykker lett med fingeren.
 
 ## Info
 

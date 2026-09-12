@@ -2,29 +2,27 @@
 created: 2026-05-05
 ---
 
-# Spaghetti with Mushroom Clam Sauce
-
 ## Ingredienser
 
-- 2 1/5 dl Fresh sopp, sliced
-- 0,8 dl løk, diced
-- 3/4 ts hvitløk, finely minced
-- 1,2 dl Salad or olivenolje
-- 10 1/2 oz can Minced Clams or 1 dozen Cherrystone Clams
-- 2 ss Sweet pepper Flakes
-- 1/1 kg Spaghetti, cooked
-- 1/8 ts timian Leaves
+- 2 1/5 dl fersk sopp, i skiver
+- 0,8 dl løk, i terninger
+- 3/4 ts hvitløk, finhakket
+- 1,2 dl salat- eller olivenolje
+- 298 g hermetiske, hakkede kamskjell, eller 1 dusin Cherrystone-kamskjell
+- 2 ss chiliflak
+- 1/1 kg spaghetti, kokt
+- 1/8 ts timianblader
 - 3,8 dl vann
-- 16 oz can tomat Paste
-- 1 medium tomat, diced
+- 454 g hermetisk tomatpuré
+- 1 middels tomat, i terninger
 - 2 1/2 ts salt
-- 1/4 ts Ground Black pepper
-- 2,5 dl Mozzarella ost, shredded
+- 1/4 ts malt svart pepper
+- 2,5 dl mozzarellaost, revet
 
 ## Fremgangsmåte
 
-1. Using fresh sopp, approximately 1/2 pound, sauté with løk and hvitløk in olje. bland sammen sopp with vann, clams, tomat paste, tomat and seasonings.
-2. bring til kokepunktet, la småkoke for 1 time. hell sauce over spaghetti and servér hot.
+1. Bruk ca. 225 gram fersk sopp, og stek den sammen med løk og hvitløk i olje. Bland soppen med vann, blåskjell, tomatpuré, tomater og krydder.
+2. Kok opp, og la det småkoke i 1 minutter. Hell sausen over spagetti og server varmt.
 
 ## Info
 

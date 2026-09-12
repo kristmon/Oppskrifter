@@ -2,18 +2,16 @@
 created: 2026-05-05
 ---
 
-# Boston bakt bønner
-
 ## Ingredienser
 
-- 1 kg dried navy bønner
-- 2 løk, hakket
+- 1 kg tørkede navybønner
+- 2 løk, finhakket
 - 1/2 dl brunt sukker
 - 1/4 dl melasse
-- 1/3 dl catsup
-- 1/4 kg bacon, kutt i terninger
+- 1/3 dl ketchup
+- 1/4 kg bacon, kuttet i terninger
 - 1 ss salt
-- 1 1/2 ts dry sennep
+- 1 1/2 ts tørr sennep
 - 1/4 ts pepper
 
 ## Fremgangsmåte

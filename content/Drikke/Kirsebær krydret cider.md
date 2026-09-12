@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Kirsebær krydret cider
-
 *Dette smakelig Drikke er en treat for youngsters.*
 
 ## Ingredienser
@@ -20,8 +18,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Put apple cider, appelsin saft, maraschino kirsebær saft, kanel sticks, appelsin peel, nellikker og allehånde i en stor kasserolle; bring til en kok. Reduser varm; la småkooke 15 minutter.
-2. Strain out kanel sticks, appelsin peel, nellikker og allehånde. Plasser 2 maraschino cherries og 1 appelsin skjær i skiver half i hver av six mugs. Hell omtrent 2/3 dl spiced cider over cherries. Servér warm.
+1. Ha eplemost, appelsinsaft, kirsebærsaft, kanelstenger, appelsinskall, nelliker og allehånde i en stor kjele; kok opp. Senk varmen; la småkoke i 15 minutter.
+2. Sil bort kanelstenger, appelsinskall, nelliker og allehånde. Fordel 2 kirsebær og 1 appelsinskiver i hver av seks krus. Hell omtrent 2/3 dl krydret eplemost over kirsebærene. Server varmt.
 
 ## Info
 

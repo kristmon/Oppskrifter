@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Kylling Cacciatore i en Hurry
-
 ## Ingredienser
 
-- 1 (3.5-kg.) frisk hele kylling, kutt up
-- 1 ss olje
-- 1 løk, skåret i skiver
-- 1 (14.5-g.) hermetikk stewed tomater
-- 2 ss firmly packed brunt sukker
-- 1 packet spaghetti Saus bland
+- 1 hel kylling, ca. 1,6 kg, delt opp
+- 1 ss olje.
+- 1 løk, i skiver.
+- 1 boks hakkede tomater, ca. 400 g
+- 2 ss godt pakket brunt sukker.
+- 1 pakke krydderblanding til pastasaus
 
 ## Fremgangsmåte
 
-1. Varm en stor deep stekepanne over Medium høy varm. Tilsett olje og varm til hot, men ikke røyking. Kok kylling til gyllent brun på alle sides, omtrent 5 minutter. Tilsett løk og stek til myk, omtrent 3 mer minutter.
-2. Rør tomater (undrained), sukker og spaghetti Saus bland inn i stekepanne med kylling og løk. Bring blanding til en kok, dekk og reduser varm. forsiktig la småkooke til kylling er ferdig, omtrent 30 minutter. Servér warm.
+1. Varm en stor, dyp stekepanne på middels høy varme. Tilsett oljen og brun kyllingen på alle sider, omtrent 5 minutter. Tilsett løken og stek videre i omtrent 3 minutter, til den er myk.
+2. Rør inn tomater med væske, sukker og krydderblanding. Kok opp, legg på lokk og senk varmen. La småkoke forsiktig i omtrent 30 minutter, til kyllingen er gjennomstekt. Server varm.
 
 ## Info
 

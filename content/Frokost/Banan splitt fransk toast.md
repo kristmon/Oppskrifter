@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Banan splitt fransk toast
-
 *Overrask familien din med denne herlige brunch-retten.*
 
 ## Ingredienser
@@ -18,17 +16,17 @@ created: 2026-05-05
 - 4 egg
 - 0,75 dl melk
 - 4 små modne bananer, halverte lengdevis
-- 5 dl fryst pisket toppping (ca 2/3 av en 225 g beholder), smeltet
+- 5 dl fryst pisket toppping (ca. 2/3 av en 225 g beholder), smeltet
 - 0,5 dl hakket pekannøtt
 - Lønn sirup, varmet
 
 ## Fremgangsmåte
 
-1. Kutt 4 marasjino kirsebær i halvdeler; sett til side til dekorasjon. Hakk gjenstående kirsebær. Kutt av og kast endene på brødlisten. Skjær gjenværende brød i 16 (1-2 cm) skiver.
-2. Kombiner fløtepakke, sukker og vanilje i en medium blanding bolle; slag med elektrisk visp på medium hastighet i 3-4 minutter, eller til kremete. For hånd, rør in ananas, sjokoladebiter og hakket kirsebær; bland godt.
-3. Spray en 38x25x2,5 cm bakepanne med ikke-klebrende spray. Kombiner egg og melk i en grunn bolle eller pai form. Dypp en side av 1 brødskive inn i egg-blandingen. Plasser på bakepanne, dyppet side ned. Spread forsiktig med 1/8 av fløtepakke-blandingen; top med en banan halvdel. Gjenta med 7 flere skiver.
-4. Dypp en side av hver av de gjenstående 8 brødskivene i egg-blandingen. Plasser, dyppet side opp, på toppen av banan. Bak i en forvarmet 175°C ovn i 35-40 minutter, eller til toppene er lettbrun og sentrum er satt.
-5. For å servere, top hver serversing med 0,5 dl pisket toppping, 1,5 ts hakket pekannøtt og 1 reservert kirsebær halvdel. Serverer med lønn sirup.
+1. Kutt 4 maraschino-kirsebær i to; sett til side for dekorasjon. Hakk de resterende kirsebærene. Kutt av og kast endene på brødskivene. Skjær resten av brødet i 16 (1-2 cm) tykke skiver.
+2. Bland fløte, sukker og vanilje i en middels stor bolle; pisk med elektrisk mikser på middels hastighet i 3-4 minutter, eller til blandingen er kremet. For hånd, bland inn ananas, sjokoladebiter og hakkede kirsebær; bland godt.
+3. Smør en 38x25x2,5 cm bakeform med formfett. Bland egg og melk i en grunn bolle eller paiform. Dypp den ene siden av hver 1 brødskive i eggeblandingen. Legg på bakeformen, med den dyppede siden ned. Smør forsiktig med 1/8 av fløteblandingen; topp med en halv banan. Gjenta med 7 flere skiver.
+4. Dypp den ene siden av hver av de resterende 8 brødskivene i eggeblandingen. Legg, med den dyppede siden opp, på toppen av bananen. Stek i en forvarmet 175°C ovn i 35-40 minutter, eller til toppene er lett gyllen og midten er gjennomstekt.
+5. For servering, topp hver servering med 0,5 dl krem, 1,5 ts hakkede pekannøtter og 1 reserverte kirsebærhalvdel. Server med lønnesirup.
 
 ## Info
 

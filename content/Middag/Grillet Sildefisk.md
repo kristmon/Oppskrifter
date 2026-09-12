@@ -2,17 +2,15 @@
 created: 2026-05-05
 ---
 
-# Grillet Sildefisk
-
 ## Ingredienser
 
-- 6 medium helt sildefisk, renset
-- 3/4 dl olivenolje
-- Saft fra 6 sitron
-- 1 ts Dijon sennep
-- 2 ss Worcestershire saus
-- 1/2 ts salt
-- 1 ts paprika
+- 6 mellomstore, helt rensede sild.
+- 3/4 dl olivenolje.
+- Saft fra 6 sitroner.
+- 1 ts Dijon-sennep.
+- 2 ss Worcestershire-saus.
+- 1/2 ts salt.
+- 1 ts paprika.
 
 ## Fremgangsmåte
 

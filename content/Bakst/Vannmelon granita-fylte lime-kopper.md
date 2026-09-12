@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Vannmelon granita-fylte lime-kopper
-
 *Disse mini-melon lookaliker vil glede gjestene dine.*
 
 ## Ingredienser
@@ -17,14 +15,14 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. For å lage lime-kopper: Kutt limer på halvdelen langsgående; kutt rundt pulp av hver halvdel med skarp kniv, la skal intakt. Skje ut pulp, bruke spoon til å løsne pulp fra skal, og reserver 30 ml lime-saft for granita. Sett lime-kopper til side.
-2. Rør sammen sukker og vann i liten gryte; varm til kooking. Kjøl litt.
-3. Plasser vannmelon i beholder av matprosessor; puls til å purér vannmelon.
-4. Plasser kolander over bolle; hell purert vannmelon inn i kolander til å sile ut frø, tvinge vannmelon gjennom med bakside av spoon, hvis nødvendig.
-5. Rør reserver lime-saft og kjølt sukker-blanding inn i purert vannmelon.
-6. Hell inn 33 x 23 x 5 cm panne; frys til fast, ca. 4 timer.
-7. For å serv, skrape fryst vannmelon-blanding med spoon til å lage granita.
-8. Rør inn korinter for frø. Haug granita i lime-kopper; serv på seng av knust is.
+1 . For å lage limekopper: Kutt limene på langs; skjær ut fruktkjøttet rundt hver halvdel med en skarp kniv, men la skallet være intakt. Skrap ut fruktkjøttet, bruk en skje for å løsne det fra skallet, og reserver 30 ml limesaft til granita. Sett limekopper til side.
+ 2 . Bland sukker og vann i en liten kjele; varm opp til sukkeret er oppløst. Avkjøl litt.
+ 3 . Ha vannmelonen i en beholder til en kjøkkenmaskin; puls til den er purert.
+ 4 . Plasser en sil over en bolle; hell den purerte vannmelonen i silen for å fjerne frøene. Press vannmelonen gjennom silen med baksiden av en skje, om nødvendig.
+ 5 . Bland den reserverte limesaften og den avkjølte sukkerblandingen inn i den purerte vannmelonen.
+ 6 . Hell blandingen i en  33 x 23 x 5 cm dyp form; frys til den er fast, ca. 4 timer.
+ 7 . For å servere, skrap den frosne vannmelonblandingen med en skje for å lage granita.
+ 8 . Bland inn rosiner for ekstra smak. Fordel granitaen i limekopper; server på en seng av knust is.
 
 ## Info
 

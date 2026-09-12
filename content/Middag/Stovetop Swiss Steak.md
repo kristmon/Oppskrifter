@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Stovetop Swiss Steak
-
 ## Ingredienser
 
-- Cooking spray, as needed
-- 1 lb round steak, cut into 4 equal portions with fat removed
-- 1 can tomato sauce - (8 oz)
-- 1/3 cup water
-- 1 Tbs Worcestershire sauce
-- 1/4 cup diced onion
-- 1/2 tsp salt
-- 1/8 tsp freshly-ground black pepper
-- 1/2 tsp crushed oregano
-- 1 Tbs dried parsley flakes
-- 1 can peas - (8 1/2 oz), drained, rinsed
+- Stekespray, etter behov
+- 455 g rundstek, skjært i 4 like store stykker, med fett fjernet
+- 1 boks tomatpuré (227 g)
+- 0,8 dl vann
+- 1 ss Worcestershire-saus
+- 0,6 dl finhakket løk
+- 1/2 ts salt
+- 1/8 ts ferskmalt svart pepper
+- 1/2 ts knust oregano
+- 1 ss tørkede persilleflak
+- 1 boks erter (241 g), avrent og skylt
 
 ## Fremgangsmåte
 
-1. Warm a large nonstick skillet coated with cooking spray over medium-high heat. Add steak and brown on both sides. Drain off any fat.
-2. In a small bowl, combine tomato sauce, water, Worcestershire sauce, onion, salt, pepper, oregano, and parsley; mix well. Pour over meat in skillet, cover, and simmer for 30 minutes or until meat is tender.
-3. Gently stir in peas and cook an additional 2 to 3 minutes until peas are thoroughly heated.
+1. Varm en stor stekepanne som er smurt med olje, på middels varme. Legg kjøttet i pannen og brun det på begge sider. Hell av eventuelt overflødig fett.
+ 2. I en liten bolle, bland tomatsaus, vann, Worcestershire-saus, løk, salt, pepper, oregano og persille; rør godt sammen. Hell blandingen over kjøttet i pannen, dekk til og la det småkoke i 30 minutter, eller til kjøttet er mørt.
+ 3. Rør forsiktig inn ertene og la dem koke videre i 2 til 3 minutter, til de er gjennomvarme.
 
 ## Info
 

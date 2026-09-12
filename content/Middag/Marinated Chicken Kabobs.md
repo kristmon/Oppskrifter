@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Marinated Chicken Kabobs
-
 ## Ingredienser
 
-- 4 tsp fresh lemon juice
-- 1/2 tsp cayenne pepper
-- Freshly-ground black pepper, to taste
-- 1 piece fresh ginger - (abt 1"), peeled, minced
-- 1 tsp curry powder
-- 4 tsp olive oil
-- 2 whole boneless skinless chicken breasts, halved, and cut into 1/4" strips
+- \- 4 ts fersk sitronsaft
+- \- 1/2 ts cayennepepper
+- \- Nymalt svart pepper, etter smak
+- \- 1 bit fersk ingefær – (omtrent 1"), skrelt og finhakket
+- \- 1 ts karripulver
+- \- 4 ts olivenolje
+- \- 2 hele, uten bein og uten skinn, kyllingbryst, delt i to og skjært i 1/4" strimler.
 
 ## Fremgangsmåte
 
-1. In a medium bowl, combine all ingredients except the chicken. Add the chicken and let marinate overnight in the refrigerator.
-2. Thread the chicken onto metal or wooden skewers.
-3. Grill over medium heat until chicken is cooked throughout, about 15 minutes. Transfer to a platter and serve.
-4. This recipe yields 4 servings. Serving size: 3 to 4 ounces.
-5. Exchanges Per Serving: 3 Lean Meat.
+1 . I en middels stor bolle, blander du alle ingrediensene, unntatt kyllingen. Tilsett kyllingen og la den marinere i kjøleskapet over natten.
+ 2 . Legg kyllingen på et metall- eller treskuff.
+ 3 . Grill over middels varme til kyllingen er gjennomstekt, ca. 15 minutter. Legg den over på et fat og server.
+ 4 . Denne oppskriften gir 4 porsjoner. Porsjonsstørrelse: 3 til 113 gram.
+ 5 . Næringsinnhold per porsjon: 3 andel magert kjøtt.
 
 ## Info
 

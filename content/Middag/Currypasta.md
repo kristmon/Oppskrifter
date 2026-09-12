@@ -16,8 +16,8 @@ created: 2010-02-02
 
 ## Fremgangsmåte
 
-1. Fres karripulver i oljen. Tilsett purre og hvitløk, og la det surre til purren er myk. Ha så i squash, og la det surre til også denne er myk, cirka 10 minutter. Smak til med salt og pepper.
-2. Server med pasta, og gjerne et dryss med parmesan.
+1. Tilsett ferskt karripulver i oljen. Ha i purre og hvitløk, og la det surre til purren er myk. Tilsett deretter squash, og la det surre til den også er myk, omtrent 10 minutter. Smak til med salt og pepper.
+2. Server med pasta, og gjerne litt parmesan over.
 
 ## Info
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Glazed Corned Storfekjøtt
-
 ## Ingredienser
 
 - 1 kg til 4 kg corned storfekjøtt brisket
@@ -14,8 +12,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en sakte cooker, dekk corned storfekjøtt med vann. Dekk og kok på lav 10-12 timer eller til mørt. Tapp corned storfekjøtt; plasser på en grill panne eller ovenproof platter.
-2. forvarme over til 400F. I en liten bolle, kombiner sennep, horseradish, eddiksyre og melasse. pensle på alle sides av Kjøtt. Bak, brushing med Saus several times, omtrent 20 minutter eller til Kjøtt begins til brun. Kutt inn i thin slices.
+1. I en sakte koketopp, dekk saltet storfekjøtt med vann. Dekk til og kok på lav varme i 10 - 12 timer, eller til kjøttet er mørt. Ta saltet storfekjøtt ut av koketoppen; legg det på en stekepanne eller en ovnsfast tallerken.
+2. Forvarm ovnen til 400 grader. I en liten bolle, bland sennep, pepperrot, eddik og melasse. Pensle kjøttet på alle sider. Stek i ovnen, pensle med sausen flere ganger, i omtrent 20 minutter, eller til kjøttet begynner å bli brunt. Skjær i tynne skiver.
 
 ## Info
 

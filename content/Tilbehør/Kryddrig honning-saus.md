@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Kryddrig honning-saus
-
 ## Ingredienser
 
 - 2,4 dl flasket chili-saus

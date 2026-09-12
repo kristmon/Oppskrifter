@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# BBQ Storfekjøtt Sandwiches
-
 ## Ingredienser
 
-- 2.5 til 3 lbs magert beinløs chuck rist
-- 1/4 dl tomat ketchup
-- 1 ss Dijon-style sennep
-- 2 ss brunt sukker
-- 1 hvitløk nellik, knust
-- 1 ss worcestershire saus
-- 2 ss red wine eddiksyre
-- 1/4 ts liquid smoke flavoring
-- 1/4 ts salt
-- 1/8 ts pepper
-- 10 til 12 French rolls eller sandwich buns
+- 2,5 til 1,4 kg magert, benfritt kjøtt av høyrygg.
+- 1/4 dl tomatketchup.
+- 1 ss dijonsennep.
+- 2 ss brunt sukker.
+- 1 fedd hvitløk, knust.
+- 1 ss worcestershiresaus.
+- 2 ss rødvinsekstrakt.
+- 1/4 ts flytende røksmak.
+- 1/4 ts salt.
+- 1/8 ts pepper.
+- 10 til 12 franske rundstykker eller sandwichbrød.
 
 ## Fremgangsmåte
 

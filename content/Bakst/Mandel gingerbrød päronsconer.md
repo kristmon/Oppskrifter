@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Mandel gingerbrød päronsconer
-
 ## Ingredienser
 
 - 5 dl universalmel
@@ -22,11 +20,11 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Varm opp ovnen til 220°C.
-2. I en stor bolle, bland mel, sukker, bakepulver, malt ingefær, natron og salt. Skjær i smør med pastry blender eller to kniver til blandingen ligner grove krummer. Tilsett pærene, 0,75 dl mandler og kandisert ingefær; rør. Bland i kulturmelk bare til det blandes.
-3. Samle i en ball og knead forsiktig 3-4 ganger på lettmelgt overflate. Trykk eller rull ut 2 cm tykt. Kutt ut sirkler med 6-8 cm rund cutter, ruller kraps etter behov.
-4. Legg på bakplate, med avstand mellom. Pensl toppen med egg, strø gjenstående mandler, fordelt likt, og strø med sukker.
-5. Bak i midten av ovnen 12-15 minutter til det er elastisk ved berøring og lett brunt. Fjern til rist for å kjøle. Serverer varm eller ved romtemperatur.
+1. Forvarm ovnen til 220°C.
+2. I en stor bolle, bland mel, sukker, bakepulver, malt ingefær, natron og salt. Kutt smøret inn i blandingen med en deigkutter eller to kniver, til blandingen ligner grove smuler. Tilsett pærene, 0,75 dl mandler og kandisert ingefær; rør forsiktig. Bland inn kulturmelk bare til deigen akkurat er blandet.
+3. Form deigen til en ball og elt forsiktig 3-4 ganger på en lett melstrødd overflate. Trykk eller kjevle ut til en tykkelse på 2 cm. Bruk en rund utstikker på 6-8 cm for å skjære ut sirkler, og samle eventuelt opp deigrester og bruk dem igjen.
+4. Legg sirklene på et stekebrett, med litt avstand mellom dem. Pensl toppen med egg, strø over gjenværende mandler, jevnt fordelt, og dryss over sukker.
+5. Stek midt i ovnen i 12-15 minutter, til de er smidige når du trykker på dem og lett brunet. Ta ut på en rist for å avkjøles. Server varme eller ved romtemperatur.
 
 ## Info
 

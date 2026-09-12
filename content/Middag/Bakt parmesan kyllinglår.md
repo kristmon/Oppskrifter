@@ -2,16 +2,14 @@
 created: 2026-05-05
 ---
 
-# Bakt parmesan kyllinglår
-
 ## Ingredienser
 
 - 1 dl majones
-- 1 dl revnet Parmesan ost
-- 1 ts Italian krydring
-- 2 lbs frisk beinløs, skinløs kylling thigh cutlets
+- 1 dl revet parmesanost
+- 1 ts italiensk krydderblanding
+- 905 g fersk, uten bein og uten skinn, kyllinglårfilet
 - 1/4 ts salt
-- 1/8 ts malt sort pepper
+- 1/8 ts malt svart pepper
 
 ## Fremgangsmåte
 

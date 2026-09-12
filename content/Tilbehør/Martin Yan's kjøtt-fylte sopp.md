@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Martin Yan's kjøtt-fylte sopp
-
 ## Ingredienser
 
 - 6 store rå reker, avventet og finhakket
@@ -24,8 +22,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kombiner reker, kjøtt, ris, vin, soyasaus og ingefær i bolle; bland godt. Lett dust sopp-lokker med maisstivelse. Spre 30-45 ml reke-kjøtt-fyll inni hver sopp-lokk. Plasser stor stekepanne med ikke-stikkende overflate over medium-høy varme.
-2. Tilsett olje, svirling for å dekke overflaten. Steket søllte sopp, kjøtt-side ned, til brun. Hell in braset-saus; dekk til, reduser varmen og småkok i 8-10 minutter. Fjern lokket og fortsett å kok til sausen er lett fortykket.
+1. Bland reker, kjøtt, ris, vin, soyasaus og ingefær i en bolle; bland godt. Vend sopplokkene med maisstivelse. Fordel 30 - 45 ml rekekjøtt-fyll i hvert sopplokk. Sett en stekepanne med slippbelegg over middelhøy varme.
+2. Tilsett olje og sirkuler den for å dekke overflaten. Stek soppene, med kjøttfyllet ned, til de er brunet. Hell over braisesaus; sett på lokk, reduser varmen og la det småkoke i 8 - 10 minutter. Fjern lokket og fortsett å koke til sausen er lett tyknet.
 
 ## Info
 

@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Turkey Hash Au Gratin
-
 ## Ingredienser
 
 - 1/1 kg hakket kalkun
-- 2,5 dl løk chopped
-- 5 dl cooked poteter
+- 2,5 dl finhakket løk
+- 5 dl kokte poteter
 - 1/2 ts salt
 - 1/4 ts pepper
-- 1,2 dl reduced-fat cheddarost
+- 1,2 dl mager cheddarost
 
 ## Fremgangsmåte
 
-1. In medium skillet, over medium-high varm, bland sammen kalkun and løk. kok 5 minutter eller til kalkun is no longer pink. tilsett potato, breaking up larger pieces of potato with spoon if necessary; kok 2 to 3 minutter. tilsett salt and pepper.
-2. Into 1-quart ovn-proof casserole, lightly coated with vegetable cooking spray, bak kalkun mixture in 375 degree F. ovn 10 to 15 minutter. Top casserole with ost and continue baking til ost melts.
+1. I en middels stor stekepanne, på middels høy varme, bland kalkun og løk. Stek i 5 minutter, eller til kalkunen ikke lenger er rosa. Tilsett poteter, og del eventuelt opp større potetbiter med en skje; kok i 2 til 3 minutter. Tilsett salt og pepper.
+2. Hell kalkunblandingen i en ovnsikker form på 1 liter, som er lett smurt med vegetabilsk spray. Stek i ovn ved 190 grader Celsius i 10 til 15 minutter. Strø ost over formen og fortsett å steke til osten er smeltet.
 
 ## Info
 

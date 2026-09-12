@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Pesto-Kylling Manicotti
-
 ## Ingredienser
 
 - 225 g Manicotti-skjell, ukokt

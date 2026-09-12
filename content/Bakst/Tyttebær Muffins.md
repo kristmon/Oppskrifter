@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Tyttebær Muffins
-
 ## Ingredienser
 
 - 3 1/2 dl ubleket hvetemel

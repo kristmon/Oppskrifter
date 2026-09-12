@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Oksefilé Bourguignon med fettuccine
-
 ## Ingredienser
 
 - 350 g fettuccine, ukokt
@@ -22,12 +20,12 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pasta etter pakningsleiing. Tilsett gulrot under siste 5 minutter av koketiden.
-2. I mellomtiden, optint løken i mikrobølgeovn på høy kraft ca. 2 minutter eller i bolle med kaldt vann; drenert. Kombiner mel, salt og pepper i plastpose. Tilsett halvparten av oksefilé til pose; rist til dekket.
-3. Smelt 15 ml margarin i stor, dyp stekepanne med ikke-stikkende overflate over medium-høy varme; tilsett melet oksefilé. Quickly brown oksefilé, snu en gang, ca. 2 minutter. Flytt til plate og sett til side.
-4. Smelt gjenværende 15 ml margarin i stekepannen; gjenta brunning med gjenværende oksefilé, reserve noen melblanding i pose. Flytt oksefilé til samme plate.
-5. Tilsett hvitløk til saftene i stekepannen; kok 2 minutter, rør av og til. Tilsett noen gjenværende mel; bland godt. Tilsett oksebuljong, optint perlehvitløk, vin og timian til stekepannen; varm til kooking. Rør inn reservert oksefilé. Småkok åpen ca. 4 minutter eller til oksefilé er rosa i sentrum og sausen har fortykket seg litt.
-6. Drenert pasta og gulrot; arranger i grunne suppeboller. Bland pasta med oksefiléblandingen; strø over frisk timian eller petersilie hvis ønsket.
+1. Kok pastaen etter anvisningene på pakken. Tilsett gulrot de siste 5 minuttene av koketiden.
+2. I mellomtiden, blancher løken i mikrobølgeovn på høy effekt i ca. 2 minutter, eller i en bolle med kaldt vann; hell av vannet. Bland mel, salt og pepper i en plastpose. Tilsett halvparten av oksefileten i posen; rist godt til den er dekket.
+3. Smelt 15 ml margarin i en stor, dyp stekepanne med non-stick overflate over middelhøy varme; tilsett oksefileten. Brun oksefileten raskt, snu den én gang, i ca. 2 minutter. Flytt til et fat og sett til side.
+4. Smelt resten av 15 ml margarin i stekepannen; gjenta bruningen med resten av oksefileten, og sett til side noe av melblandingen fra posen. Flytt oksefileten til samme fat.
+5. Tilsett hvitløk til kraften i stekepannen; kok i 2 minutter, rør av og til. Tilsett noe av den reserverte melblandingen; bland godt. Tilsett oksebuljong, blanchert hvitløk, vin og timian til stekepannen; varm opp til kokepunktet. Rør inn den reserverte oksefileten. Småkok åpen i ca. 4 minutter, eller til oksefileten er rosa i midten og sausen har tyknet litt.
+6. Sil av pastaen og gulroten; fordel i grunne suppeboller. Bland pastaen med oksefiletblandingen; dryss over frisk timian eller persille, om ønskelig.
 
 ## Info
 

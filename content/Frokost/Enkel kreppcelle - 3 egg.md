@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Enkel kreppcelle - 3 egg
-
 ## Ingredienser
 
 - 3 egg
@@ -11,7 +9,7 @@ created: 2026-05-05
 - 1 ts sukker
 - en klype salt
 - 3,5 dl melk
-- 2 ss smelt smør eller olje
+- 2 ss smeltet smør eller olje
 
 ## Fremgangsmåte
 

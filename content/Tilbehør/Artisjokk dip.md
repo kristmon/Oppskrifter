@@ -2,14 +2,12 @@
 created: 2026-05-05
 ---
 
-# Artisjokk dip
-
 ## Ingredienser
 
-- 1 jar (6 g) marinated artichoke hearts
-- 2 ss hermetikk kutt i terninger green chiles
+- 1 glass (6 g) marinerte hjertesalat
+- 2 ss hermetikk, finhakket grønn chili
 - 1/4 dl majones
-- 1 dl (4 g) strimlat cheddar ost
+- 1 dl (4 g) revet cheddarost
 
 ## Fremgangsmåte
 

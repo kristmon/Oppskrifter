@@ -2,37 +2,35 @@
 created: 2026-05-05
 ---
 
-# Italian Vegetable Creamy Fettuccine
-
-*Italian Vegetable Creamy Fettuccine is full of tender broccoli and other garden treats. Try this satisfying dish for a change from meat and pasta combinations.*
+Italiensk kremet pasta med grønnsaker er full av mør broccoli og andre godsaker fra hagen. Prøv denne mettende retten som et alternativ til tradisjonelle kjøtt- og pastaretter.
 
 ## Ingredienser
 
-- dried fettuccine, cooked, drained and kept warm
+- Tørket fettuccine, kokt, avrent og holdt varm.
 - 1 ss olivenolje
-- 5 dl broccoli florets
-- 2,5 dl (2 large stalks) diagonally sliced selleri
-- 1 large løk, cut into wedges
-- 2 cloves hvitløk, finely chopped
-- 3/4 ts dried basilikum, crushed
-- 3,8 dl (12 fluid-ounce can) NESTLÉ® CARNATION® Evaporated Fat Free melk
-- 3 ss grated Parmesan ost
-- 1/8 ts ground white pepper
-- 2 ss cornstarch
+- 5 dl brokkolibuketter
+- 2,5 dl (2 store stilker) selleri, skivet diagonalt
+- 1 stor løk, delt i spiser
+- 2 fedd hvitløk, finhakket
+- 3/4 ts tørket basilikum, knust
+- 3,8 dl (12 unser) lettmelk.
+- 3 ss revet parmesanost
+- 1/8 ts hvit pepper
+- 2 ss maisstivelse
 - 1,9 dl kyllingbuljong
-- 2,5 dl (1 large) thinly sliced red paprika strips
-- 1,2 dl loose-pack frozen peas
-- Grated Parmesan ost (optional)
+- 2,5 dl (1 stor) paprika i tynne strimler
+- 1,2 dl frosne erter
+- Revet parmesanost (valgfritt)
 
 ## Fremgangsmåte
 
-1. Varm olivenolje in large skillet over medium-high varm. tilsett broccoli, selleri, løk, hvitløk and basilikum; kok, stirring iblant, for 5 minutter eller til vegetables are tender. rør in evaporated melk, ost and pepper; bring just to a kok. reduser varmen to low; kok, covered, for 5 minutter.
-2. bland sammen cornstarch and small amount of broth in small bowl; tilsett to skillet. Gradually rør in remaining broth, paprika and peas. kok over medium varm, stirring konstant, til sauce is thickened and vegetables are tender (do not kok). servér over pasta. Sprinkle with ost.
+1. Varm olivenolje i en stor stekepanne over middels varme. Tilsett brokkoli, selleri, løk, hvitløk og basilikum; kok, rør av og til, i 5 minutter, eller til grønnsakene er møre. Rør inn melk, ost og pepper; varm opp til den begynner å koke. Reduser varmen til lav; kok under lokk i 5 minutter.
+2. Bland maisstivelse og en liten mengde kraft i en liten bolle; tilsett i stekepannen. Rør gradvis inn resten av kraften, paprika og erter. Kok over middels varme, rør hele tiden, til sausen tykner og grønnsakene er møre (ikke la det koke). Server over pasta. Dryss over ost.
 
 ## Info
 
 - **Porsjoner**: 6
-- **Preparation Time**: 15 minutes
-- **Cooking Time**: 20 minutes
+- **Forberedelsestid**: 15 minutter
+- **Tilberedningstid**: 20 minutter
 - **Type**: Main Dish, Pasta
 - **Kilde**: Nestlé, www.verybestbaking.com

@@ -15,4 +15,4 @@ Fint tilbehør til f.eks. entrecote. Ikke for mye pepper!!
 
 ## Fremgangsmåte
 
-1. Skjær poteter i skiver og legg dem på et stekeark med litt olje og krydder. Vi brukte 225 grader ca en time, og så reduserte vi og lot dem vel ligge tilsammen over to timer. De ble svingode. Så de takler mye juling. Bør faktisk ligge ganske lenge, får fin, litt markert overflate da.
+1. Skjær potetene i skiver og legg dem på et stekeark med litt olje og krydder. Vi brukte 225 grader i ca. en time, og deretter reduserte vi varmen og lot dem stå ytterligere over to timer. De ble veldig gode. De tåler mye. De bør faktisk ligge lenge, da får de en fin, litt markert overflate.

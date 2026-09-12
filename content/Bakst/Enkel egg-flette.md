@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Enkel egg-flette
-
 *Lag dette tradisjonelle brødet helt i brødmaskinen din eller form det til en flette og bak i ordinær ovn.*
 
 ## Ingredienser
@@ -11,7 +9,7 @@ created: 2026-05-05
 - 7,5 ml aktiv tørrgjær
 - 500 ml brødmel
 - 7,5 ml salt
-- 20 ml kaldt smør (kuttet i 2,5 ml stykker)
+- 20 ml kaldt smør (kuttet i biter på 2,5 ml)
 - 30 ml honning
 - 1 stort egg
 - 50 ml melk
@@ -23,11 +21,11 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. For å bake Easy Egg Braid i ordinær ovn: Del inn i 3 deler.
-2. Rull hver tredjedel inn 30 cm tau. Klype topp-endene sammen. På fetet bakepapir, løst flette.
-3. Stikk endene under for å forsegle. Dekk til; la stå opp på varm plass til nesten fordoblet, ca. 30 minutter. Bak ved 200°C 25-30 minutter eller til gyllent brun. Fjern fra bakepapir.
-4. Kombiner alle ingredienser; bland godt.
-5. Pensl honning-glasur på brød mens ennå varmt.
+Ved steking av eggeflettet brød i vanlig ovn: Del deigen i tre deler.
+ 2 . Rull hver tredjedel til et tau på ca. 30 cm. Klem de øverste endene sammen. Legg på et smurt bakepapir og flett løst.
+ 3 . Brett endene inn under for å forsegle. Dekk til og la stå på et varmt sted til de er nesten doblet i størrelse, ca. 30 minutter. Stek i ovnen ved 200 °C i 25 - 30 minutter, eller til de er gyllenbrune. Fjern fra bakepapiret.
+ 4 . Bland alle ingrediensene godt sammen.
+ 5 . Pensle honningglasur på brødene mens de fortsatt er varme.
 
 ## Info
 

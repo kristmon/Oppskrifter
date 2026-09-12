@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# CC sin penslingsaus
-
 ## Ingredienser
 
 - 9,5 dl epler-eddik

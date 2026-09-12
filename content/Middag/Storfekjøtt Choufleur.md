@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Storfekjøtt Choufleur
-
 *Dette rett er en fusion av east og west; it combines smør-brun storfekjøtt med en savory Saus av soyasaus, hvitløk og broth.*
 
 ## Ingredienser
@@ -22,8 +20,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kutt Kjøtt inn i ½-cm squares. brun Kjøtt i smør omtrent 5 minutter. Tilsett cauliflower, green pepper, soyasaus og hvitløk. Rør lett til dryss vegetables med soyasaus. Dekk panne og la småkooke til vegetables are barely mørt, omtrent 10 minutter.
-2. Bland cornstarch, sukker og broth. Tilsett til Kjøtt blanding med green løk. Kok, rørende constantly, til grundig oppvarmet og Saus er thickened. Servér over beds av fluffy ris.
+1. Kutt kjøttet i terninger på ½ centimeter. Brun kjøttet i smør i omtrent 5 minutter. Tilsett blomkål, grønn paprika, soyasaus og hvitløk. Rør forsiktig slik at grønnsakene dekkes med soyasaus. Legg lokk på pannen og la det småkoke til grønnsakene er nesten ferdige, omtrent 10 minutter.
+ 2. Bland maisstivelse, sukker og kraft. Tilsett blandingen til kjøttet sammen med grønn løk. Kok under konstant omrøring til alt er gjennomvarmt og sausen har tyknet. Server over en seng med løs ris.
 
 ## Info
 

@@ -2,18 +2,16 @@
 created: 2026-05-05
 ---
 
-# Rik kalkun-buljong
-
 ## Ingredienser
 
-- 900 g beinan kalkun-stykker (ryggen, nakken, og vingene)
+- 900 g bein og kalkunstykker (rygg, nakke og vinger)
 - 1,5 liter vann
-- 3 stilk bleikrot med blader grovt hakket
-- 2 medium gulrot grovt hakket
-- 1 stor løk kuttet i stykker
-- 3 hele nellikker
-- 2 lorbærblad
-- 1 fedd hvitløk (juster mengde brukt etter smak bruk opp til 10) skaln
+- 3 stilker blekksopp med blader, grovt hakket
+- 2 middels store gulrøtter, grovt hakket
+- 1 stor løk, kuttet i biter
+- 3 hele nelliker
+- 2 laurbærblad
+- 1 fedd hvitløk (juster mengden etter smak, bruk opp til 10 fedd)
 - 5 ml salt
 - 1,25 ml hvit pepper
 

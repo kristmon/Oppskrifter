@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Jordbær Mynte Salsa
-
 ## Ingredienser
 
 - 950 ml jordbær

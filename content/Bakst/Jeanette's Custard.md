@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Jeanette's Custard
-
 ## Ingredienser
 
-- 2 eggs
-- 3 Tbs sugar
-- 1 tsp vanilla
-- 1 2/3 cups fat-free (skim) milk
-- 1/2 tsp nutmeg
+- 2 egg
+- 3 ss sukker
+- 1 ts vanilje
+- 4 dl mager melk
+- 1/2 ts muskat
 
 ## Fremgangsmåte
 
-1. Heat the oven to 325 degrees.
-2. Combine the eggs, sugar, vanilla, and milk in a medium bowl. Beat well and pour into individual custard cups or a baking dish.
-3. Sprinkle nutmeg over the mixture and bake for 35 minutes. The custard is done when a knife inserted in the center of the custard comes out clean.
+1. Varm opp ovnen til 325 grader.
+2. Bland egg, sukker, vanilje og melk i en middels stor bolle. Visp godt og hell blandingen i individuelle porsjonsformer eller en ildfast form.
+3. Strø muskat over blandingen og stek i 35 minutter. Custarden er ferdig når en kniv stukket i midten kommer ut ren.
 
 ## Info
 

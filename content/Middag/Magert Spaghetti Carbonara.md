@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Magert Spaghetti Carbonara
-
 ## Ingredienser
 
-- 450 g Spaghetti eller tynt spaghetti, ukokt
-- 170 g kalkun-bacon, finhakket
-- 3 hvitløksfedd, finhakket
-- 160 ml tørr kvit vin
-- 2,5 dl eggeerstatning
-- 80 ml hakket persille
-- 80 ml rives Parmesan-ost
-- Salt og fersk malt pepper etter smak
+- 450 g spaghetti eller tynn spaghetti, ukokt
+- 170 g kalkunbacon, finhakket
+- 3 fedd hvitløk, finhakket
+- 160 ml tørr hvitvin
+- 2,5 dl erstatning for egg
+- 80 ml finhakket persille
+- 80 ml revet parmesanost
+- Salt og ferskmalt pepper etter smak
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonene. Medan pastaen koker, kok bacon og hvitløk i ei liten braiséerpanne over medium-lav varme til hvitløken luktar godt og bacon er lett brun, omtrent 3 til 4 minutter.
-2. Tilsett vinen, auk varmen, bring vinen til kokepunktet og kok til ho har redusert med omkring halvparten. Hell blandinga over i ei stor serveringsbolle og la ho kjøle i 5 minutter. Rør inn eggeerstatninga og persillen.
-3. Når pastaen er ferdig, avløp ho godt og tilsett ho umiddelbart til bacon-blandinga. Tilsett Parmesan-ost og blan raskt. Krydre med salt og fersk malt pepper og server.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, stek bacon og hvitløk i en liten stekepanne over middels lav varme, til hvitløken dufter godt og baconet er lett brunet, i omtrent 3 til 4 minutter.
+2. Tilsett vinen, øk varmen, og la vinen koke opp. La den reduseres med omtrent halvparten. Hell blandingen over i en stor serveringsbolle og la den avkjøles i 5 minutter. Rør inn eggeerstatning og persille.
+3. Når pastaen er ferdig, sil den godt og tilsett den umiddelbart til baconblandingen. Tilsett parmesanost og bland raskt. Smak til med salt og ferskmalt pepper, og server.
 
 ## Info
 

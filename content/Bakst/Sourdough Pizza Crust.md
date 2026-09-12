@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Sourdough Pizza Crust
-
 ## Ingredienser
 
-- 1 1/2 packages dry yeast
+- 1 1/2 pakker tørrgjær
 - 5 dl vann
 - 1 ts sukker
 - 1 ss salt
-- 1,2 dl prepared sourdough starter
+- 1,2 dl ferdig eltebakst
 - 6 1/5 dl mel
 
 ## Fremgangsmåte
 
-1. In a large bowl, dissolve yeast in vann with sukker. Let stand til foam appears.
-2. Tilsett salt, sourdough starter and mel. bland approximately 5-10 minutter in mixer with dough hook or knead til a soft silky dough is produced. Let stand 5-10 minutter.
-3. Divide into five equal parts. Wrap each individual piece in plastic and freeze or refrigerate at least overnight.
-4. Thaw dough at room temperature. DO NOT KNEAD. Sprinkle with mel and stretch or roll to desired size.
+1 . I en stor bolle, løs opp gjær i vann med sukker. La det stå til det dannes et skum.
+ 2 . Tilsett salt, surdeig og mel. Bland i ca. 5 - 10 minutter i en kjøkkenmaskin med eltekrok, eller elt til en myk og smidig deig er ferdig. La deigen hvile i 5 - 10 minutter.
+ 3 . Del deigen i fem like store deler. Pakk hver enkelt del inn i plastfolie og frys, eller sett i kjøleskapet, minst over natten.
+ 4 . La deigen tine ved romtemperatur. Ikke elt deigen. Dryss over mel og strekk eller kjevle den ut til ønsket størrelse.
 
 ## Info
 

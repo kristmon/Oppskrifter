@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Winter Pesto Pasta with Shrimp
-
 ## Ingredienser
 
-- 12 oz Fettuccine, uncooked
-- 2,5 dl chopped fresh kale, stems removed
-- 1,2 dl fresh basilikumblader (about 1/2 oz.)
-- 2 cloves hvitløk, halved
-- 0,6 dl grated Parmesan ost
+- 34 g fettuccine, ukokt
+- 2,5 dl finhakket, fersk kål, stilk fjernet
+- 1,2 dl ferske basilikumblader (omtrent 14 g)
+- 2 fedd hvitløk, delt i to
+- 0,6 dl revet parmesanost
 - 1/8 ts salt
-- 2,5 dl plain, non-fat yogurt
-- 1 ts vegetarolje
-- 0,5 kg medium shrimp, peeled and deveined
-- 1 medium red paprika, cut into bite-size pieces
+- 2,5 dl naturell, mager yoghurt
+- 1 ts vegetabilsk olje
+- 0,5 kg middels store reker, skrellet og renset
+- 1 middels stor rød paprika, skjært i biter.
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions.
-2. While pasta is cooking, puree kale, basilikum, hvitløk, Parmesan ost and salt in a food processor or blender til smooth. rør in yogurt.
-3. Place olje in large skillet. Saute the shrimp and red paprika in the skillet over medium-low varm for 4 minutter eller til shrimp is bright pink and cooked through.
-4. When pasta is done, tøm well and transfer it to a serving bowl. tilsett the kale mixture and toss well. tilsett shrimp and paprika, tossing forsiktig. servér immediately.
+1 . Kok pastaen etter anvisningene på pakken.
+ 2 . Mens pastaen koker, mos kål, basilikum, hvitløk, parmesan og salt i en kjøkkenmaskin eller blender til en jevn masse. Rør inn yoghurt.
+ 3 . Varm olje i en stor stekepanne. Stek rekene og rød paprika i pannen over middels varme i  4  minutter, eller til rekene er lyse rosa og gjennomstekte.
+ 4 . Når pastaen er ferdig, hell av vannet og overfør den til en serveringsbolle. Tilsett kålblandingen og bland godt. Tilsett reker og paprika, og bland forsiktig. Server umiddelbart.
 
 ## Info
 

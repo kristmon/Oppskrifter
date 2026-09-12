@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Fruktete Mousse
-
 ## Ingredienser
 
-- 1 pakke Philadelphia Brand Free fettfri kremost - (225 g), myk
-- 1 beholder Crystal Light rosa limonadesmak
-- kaloriredusert mykkost mix, delt
-- 1 dl skummet melk
-- 1 beholder Cool Whip Lite slagget topping - (225 g), tint
+- 1 pakke Philadelphia Naturell, lett kremost - (225 g), myk.
+- 1 beholder Crystal Light, rosa sitron smak.
+- Kalorireduksjon blandning for mykkost, delt.
+- 1 dl lettmelk.
+- 1 beholder pisket kremfløte Lite, kremfløte - (225 g), tint.
 
 ## Fremgangsmåte
 
-1. Slå kremost og 1 1/2 teskjei av drikke mixen i stor bolle med elektrisk mikser på medium fart til vel blandet og glatt. Tilsett gradvis melk og bland til vel blandet.
-2. Rør forsiktig inn slagget topping til vel blandet. Hell i serveringsfat eller individuelle retter.
-3. Kjøleskaps i 3 timer eller til fast. Server med fersk frukt, hvis ønskelig.
-4. Denne oppskriften gir 10 porsjoner. Porsjonstørrelse: 1/2 dl.
-5. Utbyttepunkter Per Porsjon: 1/2 Karbohydrat, 1/2 Mettfett.
+1.  Visp sammen kremost og 1 1/2 teskjeer av drikkeblandingen i en stor bolle med en elektrisk mikser på middels hastighet, til det er godt blandet og glatt. Tilsett melken gradvis og bland godt.
+2.  Rør forsiktig inn sjokoladetoppingen til den er godt blandet. Hell blandingen over i serveringsfat eller individuelle serveringsskåler.
+3.  Avkjøl i kjøleskapet i 3 timer, eller til den har stivnet. Server med frisk frukt, om ønskelig.
+4.  Denne oppskriften gir 10 porsjoner. Porsjonsstørrelse: 1/2 desiliter.
+5.  Næringsinnhold per porsjon: 1/2 karbohydrat, 1/2 mettet fett.
 
 ## Info
 

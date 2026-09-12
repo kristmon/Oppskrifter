@@ -12,7 +12,7 @@ Ingredienser:
 - 2 ts karrikrydder
 - 1 ts hvitløkskrydder
 - Salt og pepper
-- Evt. Maisennajevning 
+- Evt. Maisennajevning
 
 Fremgangsmåte:
 

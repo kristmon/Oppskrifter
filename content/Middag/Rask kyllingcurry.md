@@ -1,7 +1,7 @@
 ---
 created: 2017-11-13
 ---
-Tar ca 25 min, fire porsjoner
+Tar ca. 25 min, fire porsjoner
 
 ## Ingredienser
 

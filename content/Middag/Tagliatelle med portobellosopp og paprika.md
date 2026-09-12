@@ -6,18 +6,18 @@ created: 2010-08-07
 
 ## Ingredienser
 
-- 2-3 ss extra virgin olivenolje
+- 2-3 ss ekstra virgin olivenolje
 - ca. 100 g tagliatelle
 - 2 portobellosopp, grovhakket
 - 1 grønn paprika, grovhakket
-- 1 fedd hvitløk, skivet
+- 1 fedd hvitløk, i skiver
 - 1 ss balsamicoeddik
 - salt
 - pepper
 
 ## Fremgangsmåte
 
-1. Kok tagliatellen i saltet vann etter anvisningen på pakken. Varm oljen over svak varme i en stekepanne. Sauter soppen i 10–15 minutter, til den er myk og har fått en mørk farge. Ha i paprika og hvitløk. Rør i grønnsakene innimellom, og tilsett balsamico, salt og pepper. Hell vannet av pastaen og ha den i panna med grønnsakene. Bland godt og server med et dryss parmesan.
+1. Kok tagliatellen i saltet vann etter anvisningene på pakken. Varm oljen over svak varme i en stekepanne. Surr soppen i 10–15 minutter, til den er myk og har fått en mørk farge. Tilsett paprika og hvitløk. Rør innimellom, og smak til med balsamico, salt og pepper. Hell av vannet fra pastaen og ha den i pannen med grønnsakene. Bland godt og server med litt parmesan over.
 
 ## Info
 

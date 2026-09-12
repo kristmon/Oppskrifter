@@ -2,9 +2,7 @@
 created: 2026-05-05
 ---
 
-# Pepperkaker utskjæringer
-
-*Ingefær er bare en av krydderne i denne tidløse utskjæring keks oppskrift. Bruk dine favoritt keks-kuttere for å personalisere keksene.*
+*Ingefær er bare en av krydderne i denne tidløse utskjæring kjeks oppskrift. Bruk dine favoritt kjeks-kuttere for å personalisere kjeksene.*
 
 ## Ingredienser
 
@@ -22,9 +20,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en miksebolle visp vegetabilsk fett med elektrisk mixer på medium til høy hastighet 30 sekunder. Tilsett sukker, bakepulver, ingefær, bakingpulver, kanel og nellik. Visp til kombinert, skrap bolle. Visp inn melasse, egg og eddik til kombinert. Visp inn så mye mel som du kan med mikseren. Rør inn gjenværende mel. Del deigen i halvdeler. Dekk og kjøl i 3 timer eller til lett å håndtere.
-2. Smør et kakefat; sett til side. På lett melet overflate, rull halve deigen av gangen til 0,3 cm tykk. Bruk 6 cm keks-kutter for å kutte til ønsket form. Plassere 2,5 cm fra hverandre på det forberedt kakefatet.
-3. Bak på 190°C oven i 5 til 6 minutter eller til kantene er lett brunt. Kjøl på kakefat 1 minutt. Overfør keks til ristekjøl og la kjølne. Hvis ønsket, dekorere keks med isglasur og godteri. Gir 36 til 48 keks.
+1. I en kjøkkenmaskin, visp vegetabilsk fett med elektrisk mikser på middels til høy hastighet i 30 sekunder. Tilsett sukker, bakepulver, ingefær, natron, kanel og nellik. Visp til alt er godt blandet, skrap ned sidene i bollen. Visp inn melasse, egg og eddik til alt er godt blandet. Visp inn så mye mel du kan med mikseren. Rør inn resten av melet. Del deigen i to like store deler. Dekk til og sett i kjøleskapet i 3 timer, eller til deigen er lett å håndtere.
+2. Smør et kakefat; sett til side. På en lett melis, kjevle halve deigen om gangen ut til 0,3 cm tykkelse. Bruk en kakakutter på 6 cm for å skjære ut kjeks i ønsket form. Plasser dem med 2,5 cm mellomrom på det forberedte kakefatet.
+3. Stek i forvarmet ovn på 190°C i 5 til 6 minutter, eller til kantene er lett brunet. La kjeksene avkjøles på kakefatet i 1 minutt. Overfør kjeksene til en rist for å avkjøles helt. Ved ønske, pynt kjeksene med melisglasur og godteri. Gir 36 til 48 kjeks.
 
 ## Info
 

@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Savory Ham and Noodle Casserole
-
 ## Ingredienser
 
-- 12 oz Medium or Wide egg nudler
-- 1 15-oz. low-fat ricotta ost
-- 2,5 dl low-fat surmelk
-- 1,9 dl skim melk
-- 2,5 dl finely chopped, cooked skinke
-- 0,8 dl grated Parmesan or Romano ost
-- 1 10-oz. package frozen peas, thawed
-- 3 egg whites, lightly beaten or 1,9 dl egg substitute
-- 2 ss chopped fresh dill or your favorite herb or 2 ts. dried herbs
+- 340 g mellomstore eller brede eggnudler
+- 425 g mager ricotta
+- 2,5 dl mager yoghurt naturell
+- 1,9 dl skummet melk
+- 2,5 dl finhakket, kokt skinke
+- 0,8 dl revet parmesan eller pecorino
+- 280 g frosne erter, tint
+- 3 eggehviter, lett pisket, eller 1,9 dl eggeerstatning
+- 2 ss hakket fersk dill eller annen urt, eller 2 ts tørkede urter
 - 1/4 ts salt
-- 1/4 ts freshly ground black pepper
+- 1/4 ts nykvernet svart pepper
 
 ## Fremgangsmåte
 
-1. Varm ovn to 350° F. Prepare nudler according to package directions.
-2. Meanwhile, bland sammen ricotta ost, surmelk, melk, Parmesan and skinke in a large bowl; bland well. tilsett peas, egg whites, dill or other herb, salt and pepper. tøm nudler; rinse with cool vann.
-3. Tilsett nudler to bowl; toss to coat with ricotta mixture. bred evenly into 9 x 13-inch glass baking dish coated with cooking spray. bak 40 to 45 minutter eller til gyllen brown. Let stand 5 minutter before serving.
+1. Varm ovnen til 177 °C. Tilbered nudler i henhold til instruksjonene på pakken.
+2. I mellomtiden, bland ricottaost, creme fraiche, melk, parmesan og skinke i en stor bolle; rør godt. Tilsett erter, eggehviter, dill eller annen urtekrydder, salt og pepper. Hell nudlene i en sil; skyll med kaldt vann.
+3. Tilsett nudlene i bollen og bland godt med ricottablandingen. Fordel jevnt i en smurt ildfast form på ca. 23 × 33 cm. Stek i 40–45 minutter, til overflaten er gyllen. La retten hvile i 5 minutter før servering.
 
 ## Info
 
 - **Porsjoner**: 8
-- **Type**: Main Dish, Meat, Pasta
+- **Type**: Hovedrett, Kjøtt, Pasta
 - **Kilde**: National Pasta Association, www.ilovepasta.org

@@ -5,9 +5,9 @@ created: 2020-08-12
 ![[Bilder/Sitron-rosmarin-laks.jpg|300]]
 Perfekt romantisk middag for to, servert med en Oregon Pinot Noir, sprøtt brød, villris og salat.
 
-**Porsjoner**: 2  
-**Tid**: 30 min (10 prep + 20 cook)  
-**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/80388/lemon-rosemary-salmon/)  
+**Porsjoner**: 2
+**Tid**: 30 min (10 prep + 20 cook)
+**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/80388/lemon-rosemary-salmon/)
 **Plan to Eat-tag**: Fisk
 
 ## Ingredienser

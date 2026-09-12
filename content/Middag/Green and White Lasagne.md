@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# Green and White Lasagne
-
 ## Ingredienser
 
-- 6 pieces Lasagne, uncooked
-- 1/2 cup chopped onion
-- 2 Tbs margarine
-- 2 Tbs cornstarch
-- 1 Tbs dried parsley flakes
-- 1 tsp dried basil, crushed
-- 1/4 tsp garlic powder
-- 1/8 tsp ground nutmeg
-- 2 cups skim milk
-- 1 10-oz. package frozen chopped spinach, thawed and drained
-- 1 2 1/4-oz. can sliced pitted ripe olives, drained
-- 1 15-oz. carton part-skim ricotta cheese
-- 1 beaten egg
-- 1 8-oz. package shredded mozzarella cheese
-- 1/2 cup grated Parmesan cheese
+- 6 lasagneplater, ubehandlet
+- 1,2 dl hakket løk
+- 2 ss smør
+- 2 ss potetmel
+- 1 ss tørkede persilleflak
+- 1 ts tørket basilikum, knust
+- 1/4 ts hvitløkpulver
+- 1/8 ts malt muskatnøtt
+- 4,8 dl mager melk
+- 1 10 pakke frossen, hakket spinat, tint og drenert
+- 1 2 1/4 boks skivede, utkjernede oliven, drenert
+- 1 15 pakke lett ricottaost
+- 1 ett egg, pisket
+- 1 8 pakke revet mozzarellaost
+- 1,2 dl revet parmesanost
 
 ## Fremgangsmåte
 
-1. Cook lasagne according to package directions; drain. Rinse in cold water; drain well. In a medium saucepan, cook onion in margarine until tender. Stir in cornstarch, parsley, basil, garlic powder and nutmeg. Add milk all at once. Cook and stir until thickened and bubbly. Stir in spinach and olives.
-2. In a medium bowl, stir together ricotta and egg. Add mozzarella and half of the Parmesan; mix well.
-3. Preheat oven to 350-o F. Arrange three of the lasagne pieces in the bottom of a greased 12 x 7 x 2-inch baking dish. Top with half of the spinach mixture and half the ricotta mixture. Repeat layers. Top with remaining Parmesan cheese.
-4. Bake for 40 minutes or until mixture is bubbly. Let stand 10 minutes.
+1. Tilbered lasagne i henhold til instruksjonene på pakken; sil av. Skyll i kaldt vann; sil godt av. I en middels stor kjele, stek løk i margarin til den er myk. Rør inn maismel, persille, basilikum, hvitløkspulver og muskat. Tilsett melk i en gang. Kok opp og rør til blandingen tykner og bobler. Rør inn spinat og oliven.
+ 2. I en middels stor bolle, bland ricotta og egg sammen. Tilsett mozzarella og halvparten av parmesanosten; bland godt.
+ 3. Forvarm ovnen til  350 °C. Legg tre lasagneplater i bunnen av en smurt,  12 x 7 x 2-tommers ildfast form. Fordel halvparten av spinatblandingen og halvparten av ricotta-blandingen over. Gjenta lagene. Strø over resten av parmesanosten.
+ 4. Stek i  40 minutter, eller til blandingen bobler. La den stå i  10 minutter.
 
 ## Info
 

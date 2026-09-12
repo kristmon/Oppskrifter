@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Sommer rød paprika-saus
-
 ## Ingredienser
 
 - 450 g pasta
 - 2 ss olivenolje
-- 2,4 dl hakket løk
-- 3 store fedd hvitkløk, hakket
-- 1 boks (390 g) stekt paprika, drenet og hakket (2 store paprikaer)
-- 1,2 dl drenet hele hermetisert tomater
+- 2,4 dl finhakket løk
+- 3 store fedd hvitløk, finhakket
+- 1 boks (390 g) stekt paprika, avrent og finhakket (tilsvarende 2 store paprikaer)
+- 1,2 dl avrente, hele hermetiske tomater
 - 0,8 dl ricotta salata
-- 6 ansjoser, skyllet og tørket
-- 1 ss hakket frisk persille
+- 6 ansjoser, skylt og tørket
+- 1 ss finhakket frisk persille
 - Salt etter smak
-- Nymalte pepper etter smak
-- Gnidd parmesanost, til å strø på toppen
+- Nymalt pepper etter smak
+- Revet parmesanost, til å strø på toppen.
 
 ## Fremgangsmåte
 
-1. Varm oljen i en stekepanne over medium varme. Tilsett løk og hvitkløk og steik 5 minutter, til den blir myk. Overfør løken og hvitkløken til matprosessoren og tilsett den stekte paprikaken, tomatene, ricotta salata og ansjoser. Prosesser til purert. Rør inn persilien og smak til med salt og pepper.
-2. Bland med varm pasta, og rør inn 0,6 dl av pasta-stekevann, og serv umiddelbart, med parmesanost separat.
+1. Varm oljen i en stekepanne over middels varme. Tilsett løk og hvitløk og stek i 5 minutter, til løken er myk. Overfør løken og hvitløken til en kjøkkenmaskin, og tilsett den stekte paprikaen, tomatene, ricotta salata og ansjosene. Kjør til en puré. Rør inn persille og smak til med salt og pepper.
+2. Bland med varm pasta, og rør inn 0,6 desiliter av pastavannet, og server umiddelbart, med parmesanost ved siden av.
 
 ## Info
 

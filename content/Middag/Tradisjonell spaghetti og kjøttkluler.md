@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Tradisjonell spaghetti og kjøttkluler
-
 ## Ingredienser
 
 - 500 g spaghetti, linguine eller tynn spaghetti, ukokt
 
-**Kjøttkluler**
+**Kjøttklubber**
 - 4 skiver hvitt brød
-- 125 ml magert melk
-- 2 store eggegris
-- 225 g malt kalkun
-- 225 g ekstra magert malt oksekjøtt
-- 50 ml rast Romano-ost
-- 15 ml finhakket frisk basilikum eller 5 ml tørka basilikum
-- 5 ml finhakket frisk oregano eller 2,5 ml tørka oregano
+- 125 ml mager melk
+- 2 store egg
+- 225 g kalkun, kjøttdeig
+- 225 g ekstra magert oksekjøtt, kjøttdeig
+- 50 ml revet Pecorino Romano-ost
+- 15 ml finhakket fersk basilikum, eller 5 ml tørket basilikum
+- 5 ml finhakket fersk oregano, eller 2,5 ml tørket oregano
 - 2,5 ml salt
 - 1,25 ml pepper
 
@@ -26,10 +24,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Putt brødet inn i medium miksebolle og hell melken over det. La stå 5 minutter. Tilsett eggegrisene, malt kalkun, malt oksekjøtt, Romano-ost, basilikum, oregano, salt og pepper. Knead blandingen med hendene dine til den er glatt. For å forhindre stikking, dipp hendene dine inn i kaldt vann før du former hver kjøttkule. Form blanding inn i 30 4 cm baller.
-2. Hell tomatssausen inn i stor, tykk-bunn gryte og varm til småkok over lav varme. Varm 2,5 ml vegetarolje i stor stekepanne med ikke-stikkende overflate. Tilsett halvparten av kjøttklulernen til stekepannen og brun dem på alle sider.
-3. Skje kjøttklulernen inn i tomatssausen. Tilsett gjenværende 2,5 ml vegetarolje til stekepannen og brun resten av kjøttklulernen, så tilsett dem til sausen. Småkok, rørende, i 20 minutter.
-4. Mens sausen småkoker, forbered pasta etter pakningsleiing; drenert. Overfør til stor serveringsbolle. Fjern lorbærblad fra saus; hell saus over pasta og serv.
+1 . Ha brødet i en middels stor bolle, og hell melken over. La det stå i 5 minutter. Tilsett eggegrøt, malt kalkun, malt oksekjøtt, romanosalat, basilikum, oregano, salt og pepper. Kna blandingen godt med hendene til den er jevn. For å unngå at de fester seg, dypp hendene i kaldt vann før du former hver kjøttkule. Form blandingen til 30 kjøttkuler, ca. 4 cm i diameter.
+ 2 . Hell tomatssausen i en stor, tykkbunnet gryte og varm den forsiktig opp på lav varme. Varm 2,5 ml vegetarolje i en stor stekepanne med non-stick overflate. Tilsett halvparten av kjøttkulene i stekepannen og brun dem på alle sider.
+ 3 . Legg kjøttkulene over i tomatssausen. Tilsett resten av de 2,5 ml vegetaroljen i stekepannen og brun resten av kjøttkulene. Legg dem deretter over i sausen. La sausen småkoke, rør av og til, i 20 minutter.
+ 4 . Mens sausen småkoker, kok pastaen etter anvisning på pakken; sil av vannet. Overfør pastaen til en stor serveringsbolle. Fjern laurbærbladene fra sausen; hell sausen over pastaen og server.
 
 ## Info
 

@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Dessert Waffles with Spiced Blueberry Sauce
-
 ## Ingredienser
 
-- 5 dl fresh blueberries, divided
+- 5 dl ferske blåbær, delt i to
 - 3 ss sukker
-- 1-1/2 ss cornstarch
-- 1 ts ground kanel
-- 1/4 to 1/2 ts ground black pepper
-- 4 (4-1/2 inch) fresh or frozen waffles
-- 4 scoops vanilje frozen yogurt or ice fløte
+- 1 1/2 ss maisstivelse
+- 1 ts malt kanel
+- 1/4–1/2 ts malt sort pepper
+- 4 ferske eller frosne vafler, ca. 12 cm
+- 4 kuler vaniljefrossenyoghurt eller iskrem
 
 ## Fremgangsmåte
 
-1. In a small saucepan, bland sammen half of the blueberries, the sukker, cornstarch, kanel, black pepper and 1/3 cup vann. Over medium varm, bring til kokepunktet: kok for 1 minutt; ta av varmen. rør in remaining blueberries; cool.
-2. Toast waffles; place on dessert plates. Scoop frozen yogurt onto waffles; top with blueberry sauce.
+1. I en liten kjele, bland halvparten av blåbærene, sukker, maisstivelse, kanel, svart pepper og 0,8 dl vann. Ved middels varme, kok opp: kok i 1 minutt; ta kjelen av varmen. Rør inn resten av blåbærene; avkjøl.
+2. Varm eller rist vaflene, og legg dem på desserttallerkener. Legg en kule frossenyoghurt eller iskrem på hver vaffel, og topp med blåbærsaus.
 
 ## Info
 
 - **Porsjoner**: 4
-- **Preparation Time**: 10 minutes
-- **Cooking Time**: 7 minutes
-- **Type**: Breakfast, Brunch, Dessert
+- **Forberedelsestid**: 10 minutter
+- **Tilberedningstid**: 7 minutter
+- **Type**: Frokost, brunsj, dessert
 - **Kilde**: North American Blueberry Council, www.blueberry.org

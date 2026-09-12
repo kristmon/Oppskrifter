@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Rotini med Svinekjøtt og Brokkoli
-
 ## Ingredienser
 
 - 450 g rotini, vridninger eller spiraler, ukjøkt
@@ -20,10 +18,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Forbered pasta etter pakkedetaljer; dren og legg til side. Kutt svinekjøttet i 1,25 cm strimler og legg til side.
-2. Varm olje i stor stekepanne over medium-høy varme. Stekk svinekjøtt til det er veldig gjennomstekt, ta ut og legg til side. Tilsett løk og hvitløk og rør til løk visner og er lett brunfarget, ca. 4 minutter. Tilsett brokkoli, gulrøtter og svinekjøtt, stekk til grønnsakene er sprø og møre, ca. 1-2 minutter.
-3. Kombiner soyasaus, melasse og vann og tilsett til stekepanne. Varm til kok.
-4. Tilsett pasta til svinekjøtt-brakkoli blandingen og rør til pasta er godt blandet. Serveres umiddelbart. Garnish med hakket jordnøtter.
+1 . Forbered pastaen i henhold til instruksjonene på pakken; kok den og sett til side. Kutt svinekjøttet i strimler på ca. 1,25 cm og sett til side.
+ 2 . Varm olje i en stor stekepanne over middelhøy varme. Stek svinekjøttet til det er gjennomstekt, ta det ut av pannen og sett til side. Tilsett løk og hvitløk og rør til løken er myknet og lett gyllen, ca. 4 minutter. Tilsett brokkoli, gulrøtter og svinekjøttet, og stek til grønnsakene er sprø og møre, ca. 1 - 2 minutter.
+ 3 . Bland soyasaus, melasse og vann, og hell blandingen i stekepannen. Varm opp til kokepunktet.
+ 4 . Tilsett pastaen til svine- og brokkoliblandingen og rør godt til alt er godt blandet. Server umiddelbart. Pynt med hakkede peanøtter.
 
 ## Info
 

@@ -2,9 +2,7 @@
 created: 2026-05-05
 ---
 
-# Festlig kirsebær punch
-
-*bolle 'em over med dette party Drikke.*
+Overøs dem med denne festdrikken.
 
 ## Ingredienser
 
@@ -14,9 +12,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Bare før servering, kombiner kirsebær saft bland og ingefær ale i en stor punch bolle. Tilsett ice ring.
-2. Plasser en ring mold eller annen decorative mold i freezer; la chill. Rinse inside av mold med cold vann; return til freezer til thin coating av ice forms.
-3. Dekk den bunn av den mold i en decorative pattern med maraschino cherries. forsiktig tilsett enough kirsebær saft bland til bare dekk fruit. Freeze til firm. forsiktig tilsett mer kirsebær saft bland til fill mold helt. Freeze over natt, eller til firm.
+1. Bland kirsebærsaft og ingefærøl i en stor punchbolle, rett før servering. Tilsett isbiter.
+2. Plasser en isform eller annen dekorativ form i fryseren; la den fryse. Skyll innsiden av formen med kaldt vann; sett den tilbake i fryseren til et tynt lag med is har dannet seg.
+3. Dekk bunnen av formen med et dekorativt mønster av syltede kirsebær. Tilsett forsiktig nok kirsebærsaft til at frukten akkurat dekkes. Frys til den er fast. Tilsett deretter forsiktig mer kirsebærsaft til formen er helt full. Frys over natten, eller til den er fast.
 
 ## Info
 

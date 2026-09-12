@@ -5,8 +5,8 @@ created: 2021-03-11
 ![[Bilder/Gresk tzatziki.jpg|300]]
 Denne kalde greske dippen blir bare bedre med tid. Server med pitabrød, i gyros, til lammekjøtt eller hva enn du liker!
 
-**Porsjoner**: 4  
-**Tid**: 20 min  
+**Porsjoner**: 4
+**Tid**: 20 min
 **Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/145409/greek-tzatziki/)
 
 ## Ingredienser
@@ -23,4 +23,4 @@ Denne kalde greske dippen blir bare bedre med tid. Server med pitabrød, i gyros
 
 ## Fremgangsmåte
 
-1. Bland yoghurt, revet agurk, hvitløk, sitronsaft og olivenolje i en bolle. Tilsett sitronskall, dill, salt og pepper. Visp til glatt. Hell over i serveringsskål, dekk godt til og sett i kjøleskap i 8 timer før servering.
+1. Bland yoghurt, revet agurk, hvitløk, sitronsaft og olivenolje i en bolle. Tilsett sitronskall, dill, salt og pepper. Visp godt til en jevn masse. Hell over i en serveringsskål, dekk til og sett i kjøleskapet i 8 timer før servering.

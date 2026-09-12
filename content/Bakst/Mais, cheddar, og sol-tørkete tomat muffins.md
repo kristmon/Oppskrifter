@@ -2,34 +2,32 @@
 created: 2026-05-05
 ---
 
-# Mais, cheddar, og sol-tørkete tomat muffins
-
-*Dette er vår versjon av en finere mais muffin. Vi serverer dem ved brunch som et salt alternativ til alle godteriene. De er også flott spread med pesto eller servert ved siden av enten Chiapas Tortilla Soup eller Cuban Black Bean Soup.*
+Dette er vår variant av en mer raffinert maismuffins. Vi serverer dem ved frokostbuffé som et salt alternativ til alle søtsakene. De er også nydelige med pesto, eller som tilbehør til enten Chiapas Tortillasuppe eller kubansk svartbønnesuppe.
 
 ## Ingredienser
 
-- 1,25 dl kake mel (ikke selvhevende)
-- 2,5 dl gul maisgrit
+- 1,25 dl kake mel (ikke selvhevet)
+- 2,5 dl maisgryn
 - 1/2 ss bakepulver
 - 1,5 ss sukker
 - 1/2 ts salt
-- 1/2 ts nylig malt svart pepper
-- 170 g (3,75 dl) rasp hvass hvit cheddar ost
-- 1,75 dl hakket rehydratisert sol-tørkete tomater
-- 1,25 dl tynnt skjært løk
-- 3,5 dl varmet hele melk
-- 170 g (3 stanger) usalt smør, smelt og kjølt
-- 0,75 dl vegetarolje
+- 1/2 ts ferskmalt svart pepper
+- 170 g (3,75 dl) revet cheddar ost
+- 1,75 dl hakket, rehydrerte soltørkede tomater
+- 1,25 dl tyntskivet løk
+- 3,5 dl varm melk
+- 170 g (3 stenger) usaltet smør, smeltet og avkjølt
+- 0,75 dl vegetabilsk olje
 - 1 egg
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 200°C. Smør en 12-amps muffins form.
-2. Kombiner mel, maisgrit, bakepulver, sukker, salt, og pepper i en stor blanding bolle; bland godt. Tilsett ost, sol-tørkete tomater, og løk og toss godt.
-3. Visp sammen den varme melken, smelt smør, olje, og egg i en egen bolle.
-4. Tilsett våte ingredienser til tørre og bland sammen bare til et mykt deig former. (Vær forsiktig ikke å overblanding deigen.) Fyll forberedte muffins kopper til kanten med deig. Bak til topper begynner å bli litt brunt, 20-25 minutter.
-5. Kjøl i 2-3 minutter, deretter vend ut på en viretrase for å kjøle. Server varm eller ved romtemperatur.
-6. Fjern til en rist og la kjøle til romtemperatur. Dekk og kjøl i minst 2 timer eller opp til 2 dager.
+1. Forvarm ovnen til 200°C. Smør en muffinsform (12 store).
+2. Bland mel, maisgryn, bakepulver, sukker, salt og pepper i en stor bolle; rør godt. Tilsett ost, soltørkede tomater og løk, og bland godt.
+3. Visp sammen varm melk, smeltet smør, olje og egg i en egen bolle.
+4. Tilsett de våte ingrediensene til de tørre og bland forsiktig sammen til deigen er myk. (Unngå å overarbeide deigen.) Fyll de forberedte muffinsformene helt med deig. Stek til toppene begynner å bli litt gyllen, i 20-25 minutter.
+5. La avkjøles i 2-3 minutter, før du snur dem ut på en rist for å avkjøles helt. Server varme eller ved romtemperatur.
+6. Overfør til en rist og la avkjøles til romtemperatur. Dekk til og sett i kjøleskapet i minst 2 timer, eller opptil 2 dager.
 
 ## Info
 

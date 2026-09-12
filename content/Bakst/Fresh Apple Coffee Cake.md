@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# Fresh Apple Coffee Cake
-
 ## Ingredienser
 
-- 2 cups biscuit mix
-- 2/3 cup applesauce
-- 1/4 cup milk
-- 2 Tbs sugar
-- 2 Tbs butter or margarine, softened or melted
-- 2 apples, peeled, cored and diced
-- 1 tsp cinnamon
-- 1 tsp vanilla
-- 1 egg, lightly beaten
-- 1/4 cup biscuit mix
-- 1/4 cup brown sugar
-- 2 Tbs firm butter or margarine
-- 1 tsp cinnamon
-- 1/4 cup chopped nuts, if desired
+- 4,8 dl kakeblanding
+- 1,6 dl eplemos
+- 0,6 dl melk
+- 2 ss sukker
+- 2 ss smør eller margarin, myknet eller smeltet
+- 2 epler, skrelt, uten kjernehus og i terninger
+- 1 ts kanel
+- 1 ts vanilje
+- 1 egg, lett pisket
+- 0,6 dl kakeblanding
+- 0,6 dl brunt sukker
+- 2 ss fast smør eller margarin
+- 1 ts kanel
+- 0,6 dl hakkede nøtter, etter ønske
 
 ## Fremgangsmåte
 
-1. Combine first 9 ingredients. Spread in a lightly greased 3 1/2 quart crock pot (or spread in a lightly greased baking dish which fits in a larger sized crock pot).
-2. Combine streusel ingredients with a fork or pastry blender; sprinkle over the batter. Cover and cook on high for about 2 1/2 hours, until a toothpick inserted in the center comes out clean.
+1. Kombiner de første 9 ingrediensene. Fordel blandingen i en smurt, 3,5 liters slow cooker (eller fordel blandingen i en smurt ildfast form som passer i en større slow cooker).
+2. Bland ingrediensene til smuldretoppingen sammen med en gaffel eller en deigkutter; strø over røren. Dekk til og stek på høy varme i omtrent 2 1/2 timer, til en spisepinne stukket inn i midten kommer ut ren.
 
 ## Info
 
 - **Porsjoner**: 8
-- **Type**: Breakfast, Brunch, Dessert
+- **Type**: Frokost, brunsj, dessert
 - **Kilde**: Culinary Café, www.culinarycafe.com

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Frukt-pizza
-
 ## Ingredienser
 
 - 1 30 cm forvakt tynn pizza-bunn ELLER 30 cm ordinær pizza-bunn

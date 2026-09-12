@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Savory Turkey Gravy
-
 ## Ingredienser
 
-- 5 cups turkey stock
-- 1/4 cup all-purpose flour
-- 1 cup water
-- 1 tsp poultry seasoning
-- 1 tsp salt
-- 1/2 tsp ground black pepper
-- 1/4 tsp celery salt
+- 12 dl kalkkraft
+- 0,6 dl hvetemel
+- 2,4 dl vann
+- 1 ts hønsegrillingsblanding
+- 1 ts salt
+- 1/2 ts malt svart pepper
+- 1/4 ts sellersalt
 
 ## Fremgangsmåte
 
-1. In a medium saucepan, bring the turkey stock to a boil. In a small bowl, dissolve flour in water. Gradually whisk into the turkey stock. Season with poultry seasoning, salt, pepper, and celery salt. Bring to a boil, reduce heat, and simmer for 8 to 10 minutes, or until thickened.
+1. I en middels stor kjele, varm opp kalkonkraften til den koker. I en liten bolle, løs opp mel i vann. Rør gradvis inn i kalkonkraften. Krydre med krydderblanding for fjørfe, salt, pepper og sellerisalt. Kok opp, senk varmen og la det småkoke i 8 til 10 minutter, eller til sausen tykner.
 
 ## Info
 
-- **Porsjoner**: 24 Yield: 6 cups
-- **Preparation Time**: 5 minutes
-- **Cooking Time**: 15 minutes
-- **Total Time**: 20 minutes
+- **Porsjoner**: 24 Yield: 14,4 dl
+- **Forberedelsestid**: 5 minutter
+- **Tilberedningstid**: 15 minutter
+- **Total Time**: 20 minutter
 - **Kilde**: AllRecipes.com, http://www.allrecipes.com

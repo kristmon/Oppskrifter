@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Minnesota villris-fylt kylling
-
-*Lag lag med denne eple-glazert fuglen med en sikori og rød løk-salat dressa med blåost vinaigrette.*
+*Helstekt kylling med villrisfyll, epler, sopp og grønnsaker.*
 
 ## Ingredienser
 
-- 1 170 g pakke langt korn- og villris-blanding
-- 2 medium appl-epler (som f.eks Granny Smith eller Jonathan), kjernet og hakket
-- 225 g skåret frisk sopp (750 ml)
-- 250 ml raget gulrot
-- 125 ml tynnt skåret grønn løk
-- 2,5 ml pepper
-- 1 2,25 til 2,75 kg hele steik-kylling
-- 30-45 ml eple-gelé, smelt
-- 1 medium eple, kuttet i kiler (valgfritt)
+- 1 170 g pakke med en blanding av langt korn og villris.
+- 2 middels epler (for eksempel Granny Smith eller Jonathan), kjernehus fjernet og hakket.
+- 225 g skivet, fersk sopp (750 ml).
+- 250 ml revet gulrot.
+- 125 ml tynne skiver med vårløk.
+- 2,5 ml pepper.
+- 1 kylling, ca. 2,25 til 2,75 kg, hel.
+- 30-45 ml eplegele, smeltet.
+- 1 middels eple, delt i båter (valgfritt).
 
 ## Fremgangsmåte
 
-1. For fyllingen, kok ris i henhold til pakke-veiled, bortsett fra tilsett epler, sopp, gulrot, løk og pepper til ris før matlaging.
-2. I mellomtiden, skyll kylling; tørk med papirservietter. Skje noe av fyllingen løst inn i hals-hulromet. Trekk halsen hud til bakdel og stift med liten spyd. Lett skje gjenværende fyllingen inn i kroppshulromet. Tuck trommestikk under bandet av hud som krysser halen. Hvis det er ikke band, bind trommestikk til hale. Vri vingespissene under fuglen.
-3. Plassere fylt kylling, bryst-siden opp, på et rist i grunn stekepanne. Sett inn kjøttermometer i sentrum av en av lårmuskler. Pæren skal ikke røre beinet. Rist, avdekket, på 160°C ovn i 1,75 til 2,5 timer eller til kjøttermometer viser 82°C til 85°C. På dette tidspunktet er kyllingen ikke lengre rosa og trommestikkene beveger lett i socketene. Når fuglen er to-tredjedel ferdig, kutt bandet av hud eller streng mellom trommestikkene så låren koker jevnt. Børst kylling med smelt gelé en eller to ganger under siste 10 minutter av ristingen.
-4. Fjern kylling fra ovnen og dekk den med folie. La hvile 10 til 20 minutter før oppskjæring. Overfør kyllingen til serveringsfat. Skje fyllingen rundt kyllingen. Dekorere med eple-kiler, hvis ønsket. Gir 10 porsjoner.
+1. Kok risen etter anvisningen på pakken, men tilsett epler, sopp, gulrot, vårløk og pepper før kokingen.
+2. Tørk kyllingen med kjøkkenpapir. Fyll den løst med risblandingen og bind sammen beina med kjøkkenhyssing. Brett vingespissene inn under fuglen.
+3. Legg kyllingen med brystet opp på en rist i en grunn langpanne. Stikk et steketermometer inn i den tykkeste delen av låret uten å treffe beinet. Stek uten tildekking ved 160 °C i 1 time og 45 minutter til 2 timer og 30 minutter, til termometeret viser minst 75 °C. Pensle kyllingen med smeltet eplegelé én eller to ganger de siste 10 minuttene.
+4. Dekk kyllingen løst med folie og la den hvile i 10–20 minutter før oppskjæring. Legg fyllet rundt kyllingen på et serveringsfat og pynt eventuelt med eplebåter.
 
 ## Info
 

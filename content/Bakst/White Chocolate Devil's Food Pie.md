@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# White Chocolate Devil's Food Pie
-
 ## Ingredienser
 
-- 2 cups cold skim milk, divided
-- 1 package Jello devil's food-flavor fat-free instant pudding & pie filling, (4-serv size)
-- 1 container Cool Whip Lite whipped topping - (8 oz), thawed, divided
-- 1 prepared reduced-fat graham cracker crumb crust - (6 oz)
-- 1 package Jello white chocolate-flavor fat-free instant pudding & pie filling, (4-serv size)
+- 4,8 dl lettmelk, delt opp
+- 1 pakke puddingpulver, sjokoladesmak (uten fett), for hurtig pudding og pai, (porsjon for 4)
+- 1 beger pisket kremfløte Lite kremfløte, (227 g), tint, delt opp
+- 1 ferdiglaget bunn av knuste kjeks med redusert fettinnhold (17 g)
+- 1 pakke puddingpulver, hvit sjokoladesmak (uten fett), for hurtig pudding og pai, (porsjon for 4)
 
 ## Fremgangsmåte
 
-1. Pour 1 cup of the cold milk into medium bowl. Add devil's food flavor pudding mix. Beat with wire whisk 1 minute. (Mixture will be thick.) Gently stir in 1/2 of the whipped topping. Spoon evenly into crust.
-2. Pour remaining 1 cup cold milk into another medium bowl. Add white chocolate flavor pudding mix. Beat with wire whisk 1 minute. (Mixture will be thick.) Gently stir in remaining whipped topping. Spread over pudding layer in crust.
-3. Refrigerate 4 hours or until set. Garnish with additional whipped topping, if desired. Store leftover pie in refrigerator.
+1. Hell 2,4 desiliter kald melk i en middels stor bolle. Tilsett pulverblanding med sjokoladesmak. Visp kraftig i 1 minutter. (Blandingen vil være tykk.) Rør forsiktig inn 1/2 av kremen. Fordel jevnt i bunnen.
+2. Hell resten av 2,4 desiliter kald melk i en annen middels stor bolle. Tilsett pulverblanding med hvit sjokoladesmak. Visp kraftig i 1 minutter. (Blandingen vil være tykk.) Rør forsiktig inn resten av kremen. Fordel over sjokoladelaget i bunnen.
+3. Sett i kjøleskapet i 4 timer, eller til den er stivnet. Pynt eventuelt med ekstra krem. Oppbevar eventuelle rester i kjøleskapet.
 
 ## Info
 

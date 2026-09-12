@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Yummy Dessert Sauce
-
-*A creamy sauce that complements many desserts at only 20 calories per tablespoon.  The spirits add flavor and richness without many calories.*
+En fyldig saus som passer godt til mange desserter, og inneholder kun 20 kalorier per ss. Alkoholtilsetningene gir smak og fylde uten å tilføre mange kalorier.
 
 ## Ingredienser
 
-- 1 can evaporated skim milk - (14 oz), undiluted
-- 2 1/2 Tbs sugar
-- 2 Tbs cornstarch
-- 1/3 cup skim milk
-- 1 tsp vanilla
-- 2 tsp orange liqueur
-- 1 tsp brandy
+- 1 boks (397 g) usukret skummet melk, ufortynnet
+- 2 1/2 ss sukker
+- 2 ss maismel
+- 0,8 dl skummet melk
+- 1 ts vanilje
+- 2 ts appelsinlikør
+- 1 ts brandy
 
 ## Fremgangsmåte
 
-1. Combine the evaporated milk and sugar and place over low heat.
-2. Combine the cornstarch and milk, stirring into a smooth paste. Slowly add this to the heated milk and sugar, stirring constantly until the sauce thickens.
-3. Add the vanilla, liqueur, and brandy. Simmer the sauce 1 minute longer. Serve warm.
+1 . Bland melken og sukkeret, og varm forsiktig opp.
+ 2 . Bland maismel og melk, og rør til du får en jevn røre. Tilsett denne røren sakte i den varme melken og sukkeret, mens du rører kontinuerlig til sausen tykner.
+ 3 . Tilsett vanilje, likør og brandy. La sausen småkoke i 1 minutter til. Server varm.
 
 ## Info
 

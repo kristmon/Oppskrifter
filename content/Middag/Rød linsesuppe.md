@@ -8,7 +8,7 @@ created: 2010-01-14
 
 - 1,5 dl røde linser
 - 1 potet, i små terninger
-- 1 løk, hakket
+- 1 løk, finhakket
 - 2 fedd hvitløk, presset
 - 1 liter grønnsaksbuljong
 - 1 ts paprikapulver

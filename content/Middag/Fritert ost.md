@@ -7,14 +7,14 @@ Nå var tiden inne for å prøve mat fra Tsjekkia. Da prøvde vi noe som var nyt
 
 %embed% [Fritert ost](https://youtu.be/ZamMym4OlaI)%%
 
-- 2 skiver edamer ost, ca 1 cm tykke
+- 2 skiver edamer ost, ca. 1 cm tykke
 - 1 egg
-- ca 1 dl hvetemel
-- ca 1 dl griljermel
+- ca. 1 dl hvetemel
+- ca. 1 dl griljermel
 - olje til fritering
 
 Visp egget lett sammen i en liten bolle. Strø mel utover en asjett, og griljermel utover en annen. Dypp hver osteskive i mel først, på begge sider, slik at de blir dekket med et tynt lag mel. Dypp så i egg, og til slutt i griljermel.
 
-Fyll en stekepanne med olje, litt over 1 cm dypt, og vent til oljen er varm før du friterer en og en osteskive. Stek i ca 20-30 sekunder på hver side til de har fått en gyllen brunfarge. Server med poteter i en eller annen form, f.eks. ovnsstekte potetbåter, litt salat og eventuelt tartarsaus eller majones.
+Fyll en stekepanne med olje, litt over 1 cm dypt, og vent til oljen er varm før du friterer osteskivene én om gangen. Stek i ca. 20 - 30 sekunder på hver side, til de har fått en gyllenbrun farge. Server med poteter i en eller annen form, for eksempel ovnsstekte potetbåter, litt salat, og eventuelt tartarsaus eller majones.
 
 ![[Bilder/FritertOst2.jpg|300]]

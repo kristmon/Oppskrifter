@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Ristet rød paprika-saus
-
 *Serv med kalkun-roulade med ristet rød paprika-saus.*
 
 ## Ingredienser
@@ -17,9 +15,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I liten stekepanne med ikke-stikkende overflate, spray med vegetat-matspray, over medium varme, sauté løken 2-3 minutter eller til lett brun. Tilsett hvitløk og rør 30 sekunder. La kjøl i ca. 4-5 minutter.
-2. I matprosessor fittet med metallblad, purér løk-blanding, paprika og salt. Med motor gåande, sakte tilsett posjering-væske til rød paprika-blanding til sausen er glatt.
-3. Hell saus inn i 500 ml glassmal og varm i mikrobølgeovn på HIGH (100% styrke) 30 sekunder eller til varm.
+1 . I en liten stekepanne med non-stick-belegg, spray med vegetabilsk olje og varm over middels varme. Stek løken i 2 - 3 minutter, eller til den er lett brun. Tilsett hvitløk og rør i 30 sekunder. La blandingen avkjøles i ca. 4 - 5 minutter.
+ 2 . I en kjøkkenmaskin med metallkniv, mos løkblandingen, paprika og salt. Mens maskinen går, tilsett gradvis posjeringsvæsken til paprikablandingen til sausen er glatt.
+ 3 . Hell sausen i glasskrukker på 500 ml og varm i mikrobølgeovn på høyeste effekt ( 100 %) i 30 sekunder, eller til den er varm.
 
 ## Info
 

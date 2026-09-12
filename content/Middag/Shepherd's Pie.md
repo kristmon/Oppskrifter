@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Shepherd's Pie
-
 ## Ingredienser
 
-- 4 to 5 large poteter
-- 6 Sliced sopp
+- 4 til 5 store poteter
+- 6 Skived sopp
 - salt
 - 2 ss smør/margarine
-- 2 ss Chopped parsley
-- 1 ss tomat paste
-- 1 dash melk/whipping fløte
-- 1 dash worcestershiresaus
-- 1 pinch pepper
-- 2,5 dl Brown gravy
-- 0,5 kg Lean hakket storfekjøtt
-- 1 pkg (10-oz) frozen peas or 0,5 kg peas shelled
-- 1 large tomat chopped
+- 2 ss hakket persille
+- 1 ss tomatpuré
+- 1 en skvett melk/vispet fløte
+- 1 en skvett worcestershiresaus
+- 1 en klype pepper
+- 2,5 dl brun saus
+- 0,5 kg magert kjøttdeig
+- 1 pakke (10-oz) frosne erter eller 0,5 kg erter, rensede
+- 1 store, hakkede tomater
 
 ## Fremgangsmåte
 
-1. olje poteter in salted vann to cover. tøm, cool and peel. Mash in large bowl with smør, melk and season to taste with salt and pepper. Set aside. Saute storfekjøtt til browned, stirring to keep meat crumbly. Season to taste with salt and pepper. tilsett tomater, sopp, parsley, tomat paste, worcestershire and gravy. rør to bland. tilsett peas and kok about 5 minutter. Turn mixture into casserole. bred poteter evenly over meat. bak at 400 grader 40 minutter til top is crispy brown.
+1. Kok potetene i saltet vann, slik at de er dekket. Hell av vannet, avkjøl og skrell dem. Mos potetene i en stor bolle med smør og melk, og smak til med salt og pepper. Sett til side. Brun kjøttet i en stekepanne, rør for å holde det smulret. Smak til med salt og pepper. Tilsett tomater, sopp, persille, tomatpuré, worcestershire og kraft. Rør godt for å blande. Tilsett erter og kok i ca. 5 minutter. Hell blandingen i en ildfast form. Fordel potetene jevnt over kjøttet. Stek i ovnen på 200 grader i 40 minutter, eller til toppen er sprø og gyllenbrun.
 
 ## Info
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Mintepasta og fruktlatik
-
 ## Ingredienser
 
 - 225 g rotini, sløyfepasta eller små skjel, ukokt
@@ -22,9 +20,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonene; avløp. Lat pastaen kjøle.
-2. I ei medium bolle, bland pærer med sitronjuice. Tillsett druer, apelsinar, fetaost, salat, oregano, mynte og pasta.
-3. I liten bolle, visp saman eddik, appelsinskjuice, olje og pepper og tillsett pasta-blandinga. Del salat mellom salatskålar og skjé pastalatik på toppen. Blan lett før servering. Server kald eller ved romtemperatur.
+1 . Kok pastaen etter anvisningene på pakken, og hell av vannet. La pastaen avkjøles.
+ 2 . I en middels stor bolle, bland pærer med sitronsaft. Tilsett druer, appelsiner, fetaost, salat, oregano og mynte, samt pastaen.
+ 3 . I en liten bolle, visp sammen eddik, appelsinjuice, olje og pepper, og hell blandingen over pastablandingen. Fordel salaten i serveringsskåler og legg pastasalaten over. Bland forsiktig før servering. Server kald eller ved romtemperatur.
 
 ## Info
 

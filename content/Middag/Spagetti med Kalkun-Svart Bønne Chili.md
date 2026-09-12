@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Spagetti med Kalkun-Svart Bønne Chili
-
 ## Ingredienser
 
 - 450 g Spagetti eller Linguine, ukokt
@@ -21,8 +19,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Varm oljen i en stor, dyp stekepanne over medium varme. Mull kalkunen inn i stekepannen. Kok, stir for å mule opp kalkunen, til væsken er fordampet fra stekepannen og kalkunen begynner å brune, ca. 5 minutter. Tilsett løken, jalapeño, chilipulveret, kumminen og hvitløken og kok til løken er mørknet, ca. 5 minutter. Tilsett bønnene, tomatene, koriandelen og vannet. Varm til kokende, reduser varmen og simr, dekket, 15 minutter. Smak til med salt og pepper etter smak. (Chilien kan lages inntil en dag i forveien.)
-2. Tilbered pasta etter pakningens anvisning. Hell av pastaen og returner den til gryten. Tilsett chilien og rør over medium varme til sausen simrer og pastaen er belagt med saus. Del mellom boller og server umiddelbart.
+1 . Varm oljen i en stor, dyp stekepanne over middels varme. Legg kalkunen i stekepannen. Kok, rør for å snu kalkunen, til væsken er fordampet fra stekepannen og kalkunen begynner å få farge, ca. 5 minutter. Tilsett løk, jalapeño, chilipulver, spisskummen og hvitløk, og kok til løken er myknet, ca. 5 minutter. Tilsett bønnene, tomatene, korianderen og vannet. Varm opp til kokepunktet, senk varmen og la det småkoke, under lokk, i 15 minutter. Smak til med salt og pepper etter behov. (Chilien kan lages opptil en dag i forveien.)
+ 
+2 . Kok pastaen etter anvisningene på pakken. Hell av vannet og ha pastaen tilbake i kjelen. Tilsett chilien og rør over middels varme til sausen småkoker og pastaen er dekket av saus. Fordel mellom serveringsboller og server umiddelbart.
 
 ## Info
 

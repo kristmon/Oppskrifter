@@ -2,18 +2,16 @@
 created: 2026-05-05
 ---
 
-# Kylling crunch
-
 *bakt kyllingfilet get en lagt til crunch og smak boost fra knust fyling bland.*
 
 ## Ingredienser
 
-- 1 (10.75-g.) hermetikk fløte av kylling condensed suppe, delt
-- 1/4 dl 2% melk
-- 4 (4-6-g.) frisk beinløs, skinløs kyllingfilet
-- 2 ss mel
-- 1 1/2 dl fyling bland, knust
-- 2 ss smør eller Margarine, smeltet
+- 1 (10,75 g) hermetisert fløte av kylling, kondensert suppe, delt.
+- 1/4 dl 2% melk.
+- 4 (4-6 g) fersk, beinløs og skinløs kyllingfilet.
+- 2 ss mel.
+- 1 1/2 dl fyllingsblanding, knust.
+- 2 ss smør eller margarin, smeltet.
 
 ## Fremgangsmåte
 

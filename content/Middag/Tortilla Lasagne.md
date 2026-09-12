@@ -2,9 +2,7 @@
 created: 2026-05-05
 ---
 
-# Tortilla Lasagne
-
-*Hvetmjøl tortilla erstatte tradisjonell lasagnestrenger i denne sør-for-grensen-inspirert kasserolle. Fullføre det med en sprø cæsar salat og Libbys Kerns nektar.*
+*Hvetetortillaer erstatter lasagneplater i denne tex-mex-inspirerte formen. Server gjerne med en sprø salat.*
 
 ## Ingredienser
 
@@ -12,9 +10,9 @@ created: 2026-05-05
 - 450 g malt kylling eller kalkun
 - 2 små grønn eller rød paprika, sejet og hakket
 - 1 liten løk, skalett og hakket
-- 1 boks (115 g) Ortega® hakket grønn chili
-- 1 pakke (35 g) Ortega® taco krydder blandingen
-- 1 glass (450 g) Ortega® medium taco saus
+- 1 boks (115 g) hakket grønn chili
+- 1 pakke (35 g) tacokrydder blandingen
+- 1 glass (450 g) medium tacosaus
 - 10 (15 cm) fajita-størrelse hvetmjøl tortilla, delt
 - 500 ml revet mexicansk blanding eller monterey jack ost, delt
 

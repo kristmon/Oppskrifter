@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Bulgur Salat Med Røykt Kalkun
-
 ## Ingredienser
 
 - 5 dl fettfattig natriumfattig hønebuljong, kokende
@@ -22,8 +20,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Hell kokende buljong over bulgur hveten i en kuldebestandig bolle og la stå i 1 time. Drenerer eventuell overflødig væske. Kombiner bulgur hveten med grønne løker, gulrøtter, agurk, persille og terningskåret kalkun.
-2. I en blender eller matprosessor, prosesser de gjenværende ingrediensene, hell over salaten og server.
+1. Hell kokende kraft over bulgurhvete i en varmebestandig bolle, og la det stå i 1 timer. Sil av eventuell overflødig væske. Bland bulgurhvete med vårløk, gulrøtter, agurk, persille og terningkuttet kalkun.
+2. I en blender eller kjøkkenmaskin, mos de resterende ingrediensene. Hell blandingen over salaten og server.
 
 ## Info
 

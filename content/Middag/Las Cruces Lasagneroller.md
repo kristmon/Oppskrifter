@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# Las Cruces Lasagneroller
-
 ## Ingredienser
 
-- 12 lasagneplateer, ukokta
-- 1 boks (425 g) delvis magert ricotta-ost
+- 12 lasagneplater, ukokte
+- 1 boks (425 g) mager ricottaost
 - 2 egg eller eggeerstatning
-- 45 ml fersk koriander, hakket, eller 15 ml tørket koriander
+- 45 ml fersk koriander, finhakket, eller 15 ml tørket koriander
 - 2,5 dl Monterey Jack-ost
 **Saus**
-- 1 medium løk, hakket
-- 30 ml fersk koriander, hakket, eller 10 ml tørket
-- 15 ml chilividutt
-- 2 bokser (hver 450 g) lavt natriumstykkede tomater
+- 1 middels løk, finhakket
+- 30 ml fersk koriander, finhakket, eller 10 ml tørket
+- 15 ml chilipulver
+- 2 bokser (hver 450 g) hermetiske tomater med redusert saltinnhold
 - 1 boks (115 g) hakket grønn chili
-- 30 ml vegetarolje
-- 1 hvitløksfedd, finhakket
+- 30 ml vegetabilsk olje
+- 1 fedd hvitløk, finhakket
 - 1,5 ts malt kommen
 - 1 ts pepper
 - 1/2 ts oregano
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonene, avløp. For å forberede saus, i en stor panne, braisér løk og finhakket hvitløk i olje. Tilsett tomater, chilier og gjenværende saussingrediensar. Kok sakte i omtrent 15 minutter. Fjern fra varmen. Reserver omtrent 2,5 dl saus til å ha ved siden av ferdigretten.
-2. For å forberede fyllingen, bland ricotta-ost, pisket egg og koriander i en bolle. Reserver 1,2 dl Monterey Jack-ost, tilsett resten til fyllingen og bland godt.
-3. For å montere, dekk bunnen av en 25 x 15 cm eller 1,5 liters oblongform med 1/4 av sausen. Spread omtrent 60 ml oststopping på hver nudel, og rull til en sylinder. Ordne roller på toppen av sausen i bakingslaget. Dekk med saus. Strø over reservert ost. Dekk og bak ved 175 °C i omtrent 45 minutter. Fjern fra ovnen. Server reservert saus ved siden av etter ønske.
+1. Kok pastaen etter anvisningene på pakken, og sil av vannet. For å lage sausen, varm en stor stekepanne, og fres løk og finhakket hvitløk i olje. Tilsett tomater, chili og resten av ingrediensene til sausen. La sausen småkoke i omtrent 15 minutter. Ta pannen av varmen. Sett til side omtrent 2,5 dl av sausen, som skal serveres ved siden av retten.
+2. For å lage fyllingen, bland ricottaost, eggeplommer og koriander i en bolle. Reserver 1,2 dl Monterey Jack-ost, og tilsett resten til fyllingen. Bland godt.
+3. For å sette sammen retten, hell 1/4 av sausen i en 25 x 15 cm eller 1,5 liters rektangulær form. Fordel omtrent 60 ml ostefyll på hver pastarull, og rull sammen til en sylinder. Legg rollene oppå sausen i formen. Dekk med resten av sausen. Strø over den reserverte Monterey Jack-osten. Dekk formen med lokk, og stek i ovnen ved 175 °C i omtrent 45 minutter. Ta formen ut av ovnen. Server den reserverte sausen ved siden av, etter ønske.
 
 ## Info
 

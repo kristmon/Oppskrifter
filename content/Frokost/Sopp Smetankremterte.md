@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Sopp Smetankremterte
-
 ## Ingredienser
 
 - 340 g ferske sopp
-- 23 cm smetandeig
+- 23 cm smørdig
 - 3 ss smør eller margarin, delt
-- 120 ml hakket løk
+- 120 ml finhakket løk
 - 3 store egg
-- 240 ml smetankrem
+- 240 ml matfløte
 - 1 ts salt
-- 1/2 ts tarragon blader, knust
-- 1/4 ts malt sort pepper
-- 60 ml sveitseros, revet
+- 1/2 ts tarragonblader, knust
+- 1/4 ts malt svart pepper
+- 60 ml sveitserost, revet
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 220°C. Skyll, tørk og skjær sopp (lager ca. 1000 ml); legg til side. Ruller deigen 3 mm tykk; feste i 23 cm piéform; bøy under og kamflyse kantene; prikk med gaffeltopper. Bak i 5 minutter; ta ut fra ovnen.
-2. I en stor stekepanne smelter du 1 ss smør. Tilsett løk; stekk til mørt, ca. 5 minutter. Ta ut fra stekepannen, legg til side. Smelt gjenværende 2 ss smør i stekepannen; tilsett sopp. Stekk til mørt, ca. 5 minutter; legg til side.
-3. I en medium bolle slår du lett egg. Tilsett smetankrem, salt, tarragon og sort pepper; bland godt. Reservert 1/3 av soppene; tilsett gjenværende steakte sopp og løk til smetankremblandingen; bland godt.
-4. Hell i delvis bakt piéskal. Strø over med ost. Bak til en kniv stukket i midten kommer ut ren, 20-25 minutter. Varm reservert steakte sopp til varmt. Arrangement på toppen av pie. La pie stå 5 minutter før skjæring.
+1. Forvarm ovnen til 220 °C. Skyll, tørk og skjær sopp (mengden tilsvarer ca. 1000 ml); sett til side. Kjevle deigen ut til 3 mm tykkelse; legg den i en paiform på 23 cm i diameter; brett kantene innover og trykk dem forsiktig; prikk bunnen med en gaffel. Stek i ovnen i 5 minutter; ta ut.
+2. I en stor stekepanne smelter du 1 ss smør. Tilsett løk; stek til den er myk, ca. 5 minutter. Ta ut av pannen og sett til side. Smelt de resterende 2 ss smør i stekepannen; tilsett sopp. Stek til soppen er myk, ca. 5 minutter; sett til side.
+3. I en middels stor bolle visper du eggene lett. Tilsett fløte, salt, tarragon og sort pepper; bland godt. Reserver 1/3 av soppen; tilsett resten av den stekte soppen og løken til fløteblandingen; bland godt.
+4. Hell blandingen i den delvis stekte paibunnen. Strø over ost. Stek til en kniv stukket i midten kommer ut ren, ca. 20 - 25 minutter. Varm den reserverte, stekte soppen til den er varm. Legg den over paien. La paien hvile i 5 minutter før du skjærer den opp.
 
 ## Info
 

@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Grunnleggende tomatssaus
-
 ## Ingredienser
 
-- 5 ml vegetarolje
-- 1 medium løk, hakket
-- 2 fedd hvitløk, hakket
-- 2 (800 g) bokser hele tomater
-- 1 (180 g) boks tomatpure
-- 10 ml tørket italiensk krydder
-- 2 lorbærblad
+- 5 ml vegetabilsk olje
+- 1 middels stor løk, finhakket
+- 2 fedd hvitløk, finhakket
+- 2 (800 g) bokser med hermetiske tomater
+- 1 (180 g) boks tomatpuré
+- 10 ml tørket italiensk krydderblanding
+- 2 laurbærblad
 - Salt etter smak
 - Pepper etter smak
 
 ## Fremgangsmåte
 
-1. I medium tykk-bunn gryte, rør sammen olje, løk og hvitløk. Kok over lav varme, rør ofte, til løken er veldig mør og aromatisk, ca. 6-8 minutter.
-2. I matprosessor eller blender, purér tomatene. Tilsett tomatene og tomatpure til løken og varm til småkok over medium-høy varme. Reduser varmen til svært lav og la sausen småkok langsomt i 30 minutter, rør ofte på bunnen for å unngå brenning.
-3. Dersom du legger til kjøttkluler, gjør det nå, og småkok dem i sausen i 20 minutter, rør ofte. Dersom du ikke legger til kjøttkluler, småkok sausen i ytterligere 20 minutter (50 minutter totalt). Smak til med salt og pepper. Fjern lorbærblad før servering.
+1. I en middels tykkbunnet gryte, rør sammen olje, løk og hvitløk. Kok opp på lav varme, rør ofte, til løken er veldig myk og aromatisk, ca. 6-8 minutter.
+2. I en kjøkkenmaskin eller blender, mos tomatene. Tilsett tomatene og tomatpuré til løken og varm opp til svak kok på middels høy varme. Reduser varmen til svært lav og la sausen småkoke sakte i 30 minutter, rør ofte i bunnen for å unngå at den brenner seg.
+3. Hvis du tilsetter kjøttboller, gjør det nå, og la dem småkoke i sausen i 20 minutter, rør ofte. Hvis du ikke tilsetter kjøttboller, la sausen småkoke ytterligere 20 minutter (totalt 50 minutter). Smak til med salt og pepper. Fjern laurbærblad før servering.
 
 ## Info
 

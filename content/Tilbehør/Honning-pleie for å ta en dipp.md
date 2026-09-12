@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning-pleie for å ta en dipp
-
 *Overrask familien din og lag denne oppskriften for en dessert som smaker godt og er bra for deg*
 
 ## Ingredienser

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Nektarin pålegg
-
 ## Ingredienser
 
 - 4 terningskåret fersk kalifornisk nektarin

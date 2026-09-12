@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# grillet Kylling Med Linguine og Pesto
-
 *Den ristet valnøtter perfectly accent den grillet kylling og pesto i dette quick og easy oppskrift. Servér med en prepackaged green Salat og warm hvitløk brød.*
 
 ## Ingredienser
 
-- 1 (9-g.) pakke Buitoni® refrigerated Linguine, kokt ifølge til pakke instruksjoner
-- 1 kg grillet kylling, kutt i terninger
-- 3 ss olivenolje
-- 3 nellik hvitløk, finely hakket
-- 1 (7-g.) pakke Buitoni® Refrigerated Pesto med Basil
-- 1/2 dl hakket valnøtter, ristet
-- 1/4 dl revnet Parmesan ost
+- 1 (9-g) pakke kjølte Linguine, kokt i henhold til instruksjonene på pakken.
+- 1 kg grillet kylling, skjært i terninger.
+- 3 ss olivenolje.
+- 3 fedd hvitløk, finhakket.
+- 1 (7-g) pakke kjølt Pesto med basilikum.
+- 1/2 dl hakkede valnøtter, ristet.
+- 1/4 dl revet Parmesan ost.
 
 ## Fremgangsmåte
 

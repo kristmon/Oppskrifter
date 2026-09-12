@@ -2,34 +2,32 @@
 created: 2026-05-05
 ---
 
-# Northwest Chili
-
-*At the core of this chili are the Northwest’s chickpeas and lentils.*
+I hjertet av denne chilien ligger nordvestens kikerter og linser.
 
 ## Ingredienser
 
-- 2,5 dl chopped løk
-- 2 large hvitløksfedd, minced
-- 1 1/2 ss canola olje
-- 2,5 dl dry lentils, rinsed
-- 2,5 dl diced potato
-- 1,2 dl shredded gulrøtter
-- 1 green paprika, seeded and chopped
-- 1 ss chilipodd, or to taste
+- 2,5 finhakket løk
+- 2 store fedd hvitløk, finhakket
+- 1 1/2 ss rapsolje
+- 2,5 dl tørkede linser, skylt
+- 2,5 dl poteter i terninger
+- 1,2 dl revet gulrot
+- 1 grønn paprika, uten kjerner og i små biter
+- 1 ss chilipulver, eller etter smak
 - 2 1/5 dl vann
-- 2 ts storfekjøtt bouillon granules or 2 storfekjøtt bouillon cubes
-- 1 141/2-ounce can tomater
-- 1 8-ounce can tomatsaus
-- 1 15-ounce can chickpeas, drained and rinsed, or about 5 dl boiled
-- 1/4 ts crushed rød paprika, or to taste
-- salt, to taste
-- Freshly ground pepper, to taste
+- 2 ts oksekjøttbuljonggranulat, eller 2 oksekjøttbuljongterninger
+- 1 en boks (omtrent 141/2) tomater
+- 1 en boks (omtrent 8) tomatsaus
+- 1 en boks (omtrent 15) kikerter, avrent og skylt, eller ca. 5 dl kokte
+- 1/4 ts knust paprikapulver, eller etter smak
+- Salt, etter smak
+- Nymalt pepper, etter smak
 
 ## Fremgangsmåte
 
-1. In a large, heavy saucepan, kok løk and hvitløk in olje for 3 to 4 minutter. tilsett lentils, and rør to coat them with olje.
-2. Tilsett poteter, gulrøtter, paprika, chilipodd, vann, and bouillon. bring til kokepunktet. reduser varmen, cover, and la småkoke about 25 minutter, eller til lentils are tender.
-3. Tilsett tomater, breaking them up as you do, and tomatsaus, chickpeas, and rød paprika. la småkoke for another 15 minutter. Season to taste with rød paprika, salt, and black pepper.
+1. I en stor, tung gryte, fres løk og hvitløk i olje i 3 til 4 minutter. Tilsett linser, og rør for å dekke dem med olje.
+2. Tilsett poteter, gulrøtter, paprika, chili, vann og kraft. Kok opp. Senk varmen, sett på lokk, og la småkoke i ca. 25 minutter, eller til linsene er møre.
+3. Tilsett tomater, og mos dem litt mens du tilsetter. Tilsett også tomatpuré, kikerter og rød paprika. La småkoke i ytterligere 15 minutter. Smak til med rød paprika, salt og svart pepper.
 
 ## Info
 

@@ -2,17 +2,15 @@
 created: 2026-05-05
 ---
 
-# Sparkling Peach Spritzer
-
 ## Ingredienser
 
-- 4 chilled fresh peaches, peeled, pitted (or 1 chilled 29-oz can of peaches in juice, drained)
-- 2 cups chilled club soda
+- Oppbevar 4 ferske, avkjølte frukter, skrelt og uten stein (eller 1 en 29-liters boks med frukter i saft, avrent).
+- Oppbevar 4,8 dl avkjølt mineralvann.
 
 ## Fremgangsmåte
 
-1. Place peaches in blender and process until smooth.
-2. Pour peach mixture into tall pitcher and add club soda slowly. Stir and serve immediately.
+1. Legg fersken i blenderen og kjør til blandingen er glatt.
+2. Hell ferskneblandingen i et høyt glass og tilsett brus forsiktig. Rør og server umiddelbart.
 
 ## Info
 

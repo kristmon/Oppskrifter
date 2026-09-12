@@ -2,16 +2,14 @@
 created: 2026-05-05
 ---
 
-# Situs-grillsaus
-
 ## Ingredienser
 
 - 1 stor løk, finhakket
 - 1 ss malt rød chili
 - 1/4 ts malt rød pepper
-- 1 Ancho-chili, frøet ut og finhakket
+- 1 Ancho-chili, uten frø og finhakket
 - 1 ss vegetarolje
-- 2,4 dl appelsinsjuice
+- 2,4 dl appelsinjuice
 - 1,2 dl limejuice
 - 2 ss sukker
 - 2 ss sitronsaft

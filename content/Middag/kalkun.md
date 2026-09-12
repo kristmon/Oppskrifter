@@ -3,7 +3,7 @@ created: 2023-12-30
 ---
 
 ![[Bilder/kalkun.jpg|300]]
-**Porsjoner**: 1  
+**Porsjoner**: 1
 **Plan to Eat-tag**: Fjærkre
 
 ## Fremgangsmåte

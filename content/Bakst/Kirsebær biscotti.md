@@ -2,33 +2,31 @@
 created: 2026-05-05
 ---
 
-# Kirsebær biscotti
-
 *Disse dobbelbaket italienske kakene er perfekt for å dyppe i kaffe eller melk.*
 
 ## Ingredienser
 
 - 1,75 dl granulert sukker
 - 2 egg
-- 0,5 dl vegetarolje
+- 0,5 dl vegetabilsk olje
 - 1 ss appelsinjuice
-- 2 ts rasp appelsinskal
-- 1,5 ts vanilje ekstrakt
+- 2 ts revet appelsinskall
+- 1,5 ts vaniljeekstrakt
 - 5 dl universalmel
-- 1,25 dl fint hakket valnøtt
+- 1,25 dl finhakkede valnøtter
 - 1 ts bakepulver
 - 1/4 ts salt
-- 2,5 dl hakket tørkete sureste kirsebær
+- 2,5 dl hakkede, tørkede tranebær
 - 1 eggehvite
 - 1 ss vann
 - Granulert sukker
 
 ## Fremgangsmåte
 
-1. Kombiner 1,75 dl sukker og egg i en stor blanding bolle. Slag med elektrisk visp på medium hastighet, skrap bolle ofte, 2-3 minutter, eller til tykt og bleikgult i farge. Tilsett olje, appelsinjuice, appelsinskal og vanilje; slag 1-2 minutter, eller til godt blandet. Kombiner mel, valnøtt, bakepulver og salt; gradvis tilsett til egg blanding. Bland på lav hastighet 1-2 minutter, eller til godt blandet. Rør in kirsebær for hånd.
-2. Vend deig på lett meltet overflate (deig vil være mykt og klebrigt). Lette strø med ekstra mel; knead mel inn i deig. Med meltet hender, form inn i 2 (20x5 cm) logs. Plasser 8-10 cm fra hverandre på en smurt bakplate; flatten topper litt. Kombiner eggehvite og vann; børste på logs. Strø med granulert sukker.
-3. Bak i en forvarmet 175°C ovn i 25-30 minutter, eller til lettbrun og fast ved berøring. La kjøle på bakplate i 15 minutter.
-4. Reduser ovnen temperatur til 150°C. Kutt logs diagonalt inn i 1 cm skiver med en sagkant kniv; ordne skiver, kutt-side ned, på bakplate. Bak 8-10 minutter; vend skiver. Bak 8-10 minutter, eller til gyllen brun. Fjern til viretrase; la kjøle helt.
+1. Bland 1,75 dl sukker og egg i en stor bolle. Visp med elektrisk mikser på middels hastighet, skrap bollen ofte, i 2-3 minutter, eller til blandingen er tykk og lys gul. Tilsett olje, appelsinjuice, appelsinskall og vanilje; visp i 1-2 minutter, eller til alt er godt blandet. Bland mel, valnøtter, bakepulver og salt; tilsett gradvis til eggeblandingen. Bland på lav hastighet i 1-2 minutter, eller til alt er godt blandet. Vend inn kirsebær for hånd.
+2. Hell deigen på en lett melet overflate (deigen vil være myk og litt klissete). Strø over litt ekstra mel; elt melet inn i deigen. Form med fuktige hender deigen til 2 (20x5 cm) lange ruller. Plasser rullene 8-10 cm fra hverandre på et smurt stekebrett; trykk litt ned på toppen av hver rull. Bland eggehviter og vann; pensle rullene med blandingen. Strø over granulert sukker.
+3. Stek i en forvarmet ovn på 175°C i 25-30 minutter, eller til de er lett brune og faste. La avkjøles på stekebrettet i 15 minutter.
+4. Senk ovnstemperaturen til 150°C. Skjær rullene diagonalt i 1 cm tykke skiver med en sagkantet kniv; legg skivene på stekebrettet med kutt-siden ned. Stek i 8-10 minutter; vend skivene. Stek i 8-10 minutter, eller til de er gyllenbrune. Overfør til en rist; la avkjøles helt.
 
 ## Info
 

@@ -17,18 +17,18 @@ created: 2010-01-20
 
 **Dressing**
 
-- 1/2 ts sennep
-- 2 ss olivenolje
-- 1/2 ss sitronsaft
-- 1/2 ss hvitvinseddik
+- 1/2 teskje sennep
+- 2 spiseskjeer olivenolje
+- 1/2 spiseskje sitronsaft
+- 1/2 spiseskje hvitvinseddik
 - salt
 - pepper
 - oregano
 
 ## Fremgangsmåte
 
-1. Tilbered/kok quinoa etter pakkeanvisningen, og sett til avkjøling. Hakk de andre grønnsakene i passe biter. Bland quinoa og grønnsakene sammen i en bolle. Vent med fetaosten og krydder.
-2. Bland alle ingrediensene til dressingen i en liten skål, og hell over salaten, og bland den godt inn. Bland til slutt i fetaosten. Strø over litt urtesalt og nykvernet pepper, og server!
+1. Tilbered/kok quinoa etter anvisningene på pakken, og la den avkjøles. Hakk de andre grønnsakene i passende biter. Bland quinoa og grønnsakene sammen i en bolle. Hold fetaosten og krydderne til side.
+2. Bland alle ingrediensene til dressingen i en liten bolle, og hell den over salaten. Bland godt. Tilsett fetaosten til slutt. Strø over litt urtesalt og nykvernet pepper, og server!
 
 ## Info
 

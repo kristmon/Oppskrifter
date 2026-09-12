@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Dessert for underveis
-
 *Iskremkjegler smakte aldri så godt.*
 
 ## Ingredienser
@@ -17,11 +15,11 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Plasser et kulesi eller stresil i en bolle. Hell kirsebær inn i stresilen, drenering av jusen inn i bollen. Spar jusen for å legge til oransjejus eller andre drikker; du trenger ikke jusen til denne oppskriften.
-2. Legg de drente kirsebærene på en snittebrett. Med en skarp kniv, nøye kutt hver kirsebær i halvdelen. La en voksen vise deg hvordan du bruker kniven. Sett til side.
-3. Forbered budding i henhold til pakkeinstruksjoner ved å bruke 4 dl kald melk. Kjøl budding i 10 minutter.
-4. I mellomtiden, legg kirsebærets halvdeler i en stor røreboll. Med en gummi spatula, skuff pisket topping inn i bollen. Vorsiktig rør til kirsebær blandes med pisket topping.
-5. Fyll hver kjegle med 60 ml budding. Topp hver med 1 dl kirsebær-blanding. Dekorerer med fargede sprinkler eller en maraschino-kirsebær. Serv umiddelbart. Denne desserten spises best med en skje.
+1 . Plasser en hullsil eller en dørslag i en bolle. Hell kirsebærene over i dørslaget, og la saften renne ned i bollen. Ta vare på saften, da den kan brukes i appelsinjuice eller andre drikker; du trenger den ikke til denne oppskriften.
+ 2 . Legg de drenerte kirsebærene på et skjærebrett. Bruk en skarp kniv, og skjær forsiktig hver kirsebær i to. La en voksen vise deg hvordan du bruker kniven. Sett til side.
+ 3 . Tilbered puddingen i henhold til instruksjonene på pakken, ved å bruke  4  desiliter kald melk. Avkjøl puddingen i  10  minutter.
+ 4 . I mellomtiden, ha kirsebærhaldene i en stor blandebolle. Bruk en slikkepott til å forsiktig blande inn kremen. Rør forsiktig til kirsebærene er godt blandet med kremen.
+ 5 . Fyll hver kjegle med  60  milliliter pudding. Topp hver med  1  desiliter kirsebærblanding. Pynt med fargede strøssel eller en maraschino-kirsebær. Server umiddelbart. Denne desserten smaker best med en skje.
 
 ## Info
 

@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Pasta and Walnut Fruit Salad
-
 ## Ingredienser
 
-- 8 oz Medium Shells, Rotini or other medium pasta shape, uncooked
-- 1 cup non-fat, plain yogurt
-- 1 Tbs honey
-- 1/4 cup frozen orange juice concentrate, thawed
-- 1 11-oz. can juice-packed mandarin oranges, drained
-- 1 cup seedless red grapes, cut into halves
-- 1 cup seedless green grapes, cut into halves
-- 1 apple, cored and chopped
-- 1/2 cup sliced celery
-- 1/2 cup walnut halves
+- 227 g middelsstore pastaformer, for eksempel skjell eller rotini, uten tilberedning.
+- 2,4 dl mager, naturell yoghurt.
+- 1 ss honning.
+- 0,6 dl frossen appelsinjuicekonsentrat, tint.
+- 1 - 11 - dl mandarinappelsiner i saft, tappet og avrent.
+- 2,4 dl røde druer uten frø, delt i to.
+- 2,4 dl grønne druer uten frø, delt i to.
+- 1 eple, uten kjernehus og i biter.
+- 1,2 dl skivet selleri.
+- 1,2 dl valnøtter, delt i to.
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; drain. In a small bowl, blend yogurt, honey and orange juice concentrate. In a large bowl, combine pasta and remaining ingredients. Add yogurt mixture; toss to coat. Cover and chill thoroughly.
+1. Kok pastaen etter anvisningene på pakken; sil av vannet. I en liten bolle, bland yoghurt, honning og appelsinjuicekonsentrat. I en stor bolle, bland pastaen med de resterende ingrediensene. Tilsett yoghurtblandingen og bland godt for å dekke pastaen. Dekk til og sett i kjøleskapet for å bli godt avkjølt.
 
 ## Info
 

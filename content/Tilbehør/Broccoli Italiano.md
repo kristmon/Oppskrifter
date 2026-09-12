@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Broccoli Italiano
-
 ## Ingredienser
 
 - 450 g fersk brokkoli rosetter (eller tint fryst)
@@ -11,8 +9,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Plasser brokkoli rosetter i damper kurv over 5 cm kokende vann. Dekk til og damp i 4 minutter eller til brokkoli er lys grønn og sprø-møyk når den stikkes med gaffel.
-2. Fjern fra dampkokingen og plasser brokkoli i serveringsfat. Dryss over italiensk dressing og bland for å dekke. Server umiddelbart.
+1. Legg brokkolibuketter i en dampkurv over 5 cm kokende vann. Dekk til og damp i 4 minutter, eller til brokkolien er lys grønn og sprø – den skal kjennes fast når den stikkes med en gaffel.
+2. Ta brokkolien ut av dampkoker og legg den i et serveringsfat. Dryss over italiensk dressing og bland godt for å fordele den jevnt. Server umiddelbart.
 
 ## Info
 

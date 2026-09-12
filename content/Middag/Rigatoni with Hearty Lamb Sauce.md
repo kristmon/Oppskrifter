@@ -2,31 +2,29 @@
 created: 2026-05-05
 ---
 
-# Rigatoni with Hearty Lamb Sauce
-
 ## Ingredienser
 
-- 0,5 kg Rigatoni, Medium Shells or other medium pasta shape, uncooked
-- 12 oz lamb stew meat or 2 pounds shoulder lamb chops
-- 2,5 dl canned Italian plum tomater, or 2,5 dl canned crushed tomater
-- 1 ss olive or vegetarolje
-- 2 cloves hvitløk, peeled and finely chopped
-- 1 medium løk, finely chopped
-- 1 ts finely chopped fresh rosmarin or 1/2 ts. dried rosmarin*
-- 1/2 ts finely chopped fresh timian or 1/4 ts. dried timian
-- 3,8 dl dry rødvin
-- 1 pinch each ground muskatnøtt and ground cloves
-- salt to taste
-- pepper to taste
-- 0,8 dl grated Parmesan ost
+- 0,5 kg rigatoni, medium shells eller annen pastaform av middels størrelse, ukokt.
+- 34 g lammekjøtt til gryterett, eller 905 g lammekoteletter fra skulder.
+- 2,5 dl hermetiske plommetomater, eller 2,5 dl hermetiske knuste tomater.
+- 1 ss olivenolje eller vegetabilsk olje.
+- 2 fedd hvitløk, skrelt og finhakket.
+- 1 middels stor løk, finhakket.
+- 1 ts finhakket fersk rosmarin, eller 1/2 ts tørket rosmarin.
+- 1/2 ts finhakket fersk timian, eller 1/4 ts tørket timian.
+- 3,8 dl tørr rødvin.
+- 1 knivspiss hver av malt muskatnøtt og malt nellik.
+- Salt etter smak.
+- Pepper etter smak.
+- 0,8 dl revet parmesanost.
 
 ## Fremgangsmåte
 
-1. Ask the grocery butcher to remove fat from the meat and coarsely grind the lamb for you. Or, remove the fat and bone and coarsely hakk the meat in a food processor. Place the plum tomater in a bowl and break up with a fork til coarsely crushed.
-2. Varm olje in a medium saucepan over medium-high varm. tilsett the lamb and hvitløk and kok til the meat begins to brown, about 3 minutter. tilsett the løk, rosmarin and timian; kok 1 minutt. tilsett the crushed tomater, wine, muskatnøtt, cloves and salt and pepper to taste.
-3. Varm to a kok and reduce the varm to simmering. kok, uncovered, til the lamb is very tender, about 45 minutter. Check the lamb iblant. There should always be enough liquid to cover the meat. If not, tilsett a small amount of vann.
-4. Prepare pasta according to package directions; tøm. Return the pasta to the pot.
-5. Tilsett the lamb sauce to the pot and kok over low varm til heated through, stirring konstant. rør in half the Parmesan ost. Divide pasta among serving bowls. Sprinkle with remaining ost and servér.
+1 . Be kjøteren på butikken om å fjerne fett fra kjøttet og grovhakke lammet for deg. Eller, fjern fett og bein, og grovhakk kjøttet i en kjøkkenmaskin. Legg plommetomater i en bolle og mos dem med en gaffel til de er grovt knuste.
+ 2 . Varm olje i en middels stor kjele over middels høy varme. Tilsett lam og hvitløk, og stek til kjøttet begynner å brunes, ca.  3  minutter. Tilsett løk, rosmarin og timian; kok i  1  minutt. Tilsett de knuste tomatene, vin, muskatnøtt, nellik, salt og pepper etter smak.
+ 3 . Varm opp til kokepunktet og reduser varmen til svak varme. Kok, uten lokk, til lammet er veldig mørt, ca.  45  minutter. Sjekk lammet av og til. Det skal alltid være nok væske til å dekke kjøttet. Hvis ikke, tilsett en liten mengde vann.
+ 4 . Kok pastaen etter anvisningene på pakken; hell av vannet. Ha pastaen tilbake i kjelen.
+ 5 . Tilsett lamsausen i kjelen og varm opp over svak varme til den er gjennomvarm, mens du rører jevnlig. Rør inn halvparten av parmesanosten. Fordel pastaen i serveringsboller. Dryss over resten av osten og server.
 
 ## Info
 

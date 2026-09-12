@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Tex-Mex Lasagne
-
 ## Ingredienser
 
-- 12 pieces Lasagne, uncooked
-- 3 cups tomato or spaghetti sauce
-- 1 cup water
-- 1 15 1/2-oz. can kidney beans, drained
-- 1 10-oz. package frozen corn, thawed
-- 1 package chili seasoning mix
-- 2 cups part-skim ricotta cheese
-- 1 1/2 cups reduced-fat Monterey Jack cheese, grated
+- 12 porsjoner lasagne, ukokt
+- 7,2 dl tomatsaus eller spaghettisaus
+- 2,4 dl vann
+- 1 15 1/2 boks kidneybønner, avrent
+- 1 10 pakke frosne mais, tint
+- 1 pakke chilimiks
+- 4,8 dl mager ricottaost
+- 3,6 dl mager Monterey Jack ost, revet
 
 ## Fremgangsmåte
 
-1. In a medium bowl, stir together the spaghetti sauce, water, beans, corn and chili seasoning mix.
-2. Spread 1 cup of the sauce mixture over the bottom of a 9 x 13-inch baking pan. Arrange 4 pieces of lasagne (3 lengthwise, 1 widthwise) over the sauce. Cover with 1 cup of sauce. Spread 1/2 of the ricotta on top. Arrange another 4 pieces of lasagne over the ricotta and top with another cup of sauce. Spread remaining ricotta on top. Arrange final 4 pieces of lasagne on top. Cover with remaining sauce. Refrigerate for at least 6 hours.
-3. Preheat oven to 350-o F. Cover lasagne with foil and bake for 45 minutes covered. Uncover lasagne, sprinkle Monterey Jack cheese on top and bake an additional 15 minutes uncovered. Let stand 15 minutes before serving.
+1. I en middels stor bolle, bland sammen tomatsaus, vann, bønner, mais og kryddermiksen.
+2. Fordel 2,4 dl av sausblandingen over bunnen av en 9 x 13-tommers stekebrett. Legg 4 lasagneplater over sausen (legg dem 3 i lengden, 1 i bredden). Dekk med 2,4 dl av saus. Fordel 1/2 av ricottaosten over. Legg et nytt lag med 4 lasagneplater over ricottaosten og dekk med en kopp saus til. Fordel resten av ricottaosten over. Legg et siste lag med 4 lasagneplater over. Dekk med resten av sausen. Sett i kjøleskapet i minst 6 timer.
+3. Forvarm ovnen til 350 °F. Dekk lasagnen med aluminiumsfolie og stek i 45 minutter med lokk. Fjern lokket, dryss Monterey Jack-ost over og stek ytterligere 15 minutter uten lokk. La den hvile i 15 minutter før servering.
 
 ## Info
 

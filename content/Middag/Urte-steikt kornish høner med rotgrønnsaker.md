@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Urte-steikt kornish høner med rotgrønnsaker
-
 ## Ingredienser
 
-- 2 450 til 675 g kornish spill-høner
-- 4 medium gulrøtter, skal og kutt i 5 cm lengder
-- 4 medium pastinak, skal og kutt i 5 cm lengder
-- 2 små roer, skal og kutt i kiler
-- 1 medium løk, kuttet i kiler
-- 45 ml olivenoglje eller matolje
-- 1 hvitløk-nellik, minket
+- 2 poussin eller små vårkyllinger på 450–675 g hver
+- 4 middels store gulrøtter, skrellet og kuttet i 5 cm lange biter
+- 4 middels store pastinakker, skrellet og kuttet i 5 cm lange biter
+- 2 små rødbeter, skrellet og kuttet i kiler
+- 1 middels stor løk, kuttet i kiler
+- 45 ml olivenolje eller matolje
+- 1 fedd hvitløk, finhakket
 - 10 ml tørket rosmarin, knust
 - 10 ml tørket oregano, knust
 - 2,5 ml salt
 
 ## Fremgangsmåte
 
-1. Spyd hals-hudenav høner til ryggen; bind ben til halen. Vri vinger under ryggen. Plassere høner, bryst opp, på et rist i en stor grunn stekepanne. Plassere gulrøtter, pastinak, roer og løk rundt høner i pan. Kombiner olje, hvitløk, rosmarin, oregano og salt; børst på høner og grønnsaker.
-2. Rist, avdekket, på 190°C ovn i 1,25 til 1,5 timer eller til høner er ikke lengre rosa og trommestikkene beveger lett i socketene. (Indre temperatur skal være 82°C med en instant-read termometer.) Under ristingen, vend grønnsaker av og til. Overfør høner fra stekepanne til serveringsfat. Dekk og hold varm. Fjern rist fra stekepanne. Rør grønnsaker. Øk ovn-temperatur til 230°C. Fortsett å rist grønnsaker i 15 til 20 minutter til eller til møre og brunt.
-3. For å servere, bruk en slottet skje, skje grønnsaker rundt høner på fatet. Gir 4 porsjoner.
+1. Bind sammen beina på fuglene og brett vingespissene inn under ryggen. Legg dem med brystet opp på en rist i en stor, grunn langpanne. Fordel gulrøtter, pastinakk, rødbeter og løk rundt. Bland olje, hvitløk, rosmarin, oregano og salt, og pensle blandingen over fuglene og grønnsakene.
+2. Stek uten tildekking ved 190 °C i 1 time og 15 minutter til 1 time og 30 minutter, til kjøttet er gjennomstekt og har en kjernetemperatur på minst 75 °C. Vend grønnsakene av og til. Legg fuglene på et serveringsfat, dekk dem til og hold dem varme. Fjern risten, vend grønnsakene og øk temperaturen til 230 °C. Stek grønnsakene videre i 15–20 minutter, til de er møre og gylne.
+3. Fordel grønnsakene rundt fuglene på fatet og server.
 
 ## Info
 

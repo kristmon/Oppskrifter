@@ -2,33 +2,31 @@
 created: 2026-05-05
 ---
 
-# Bow Ties with Chicken and Cranberries
-
 ## Ingredienser
 
-- 12 oz Bow Tie pasta, uncooked
-- 3/4 cup dried cranberries
-- 1/3 cup cranberry liqueur or port wine
-- 2 Tbs butter or margarine
-- 1/2 cup sliced shallots or chopped sweet onion
-- 1/4 cup all-purpose flour
-- 1 tsp paprika
-- 1 tsp dried thyme leaves
-- 1/2 tsp salt
-- 1/2 tsp freshly ground black pepper
-- 1 1/2 lbs boneless, skinless chicken breast, cut into 1 1/2-inch pieces
-- 1 1/4 cups canned low-sodium chicken broth
-- Chopped fresh thyme or parsley (optional)
+- 34 g Bow Tie pasta, naturell
+- 1,8 dl tørkede tranebær
+- 0,8 dl tranbærlikør eller portvin
+- 2 ss smør eller margarin
+- 1,2 dl skivede sjalotter eller hakket søt løk
+- 0,6 dl hvetemel
+- 1 ts paprikapulver
+- 1 ts tørkede timianblader
+- 1/2 ts salt
+- 1/2 ts ferskmalt svart pepper
+- 680 g kyllingbryst uten bein og skinn, skjært i 1 1/2 cm store biter
+- 3 dl kyllingkraft, redusert natrium
+- Hakket fersk timian eller persille (valgfritt)
 
 ## Fremgangsmåte
 
-1. Combine cranberries and liqueur in a small microwave safe bowl. Cook in microwave oven at high power 50 seconds or until hot. Let stand while preparing pasta and chicken.
-2. Cook pasta according to package directions. Meanwhile, melt butter in a large, deep nonstick skillet. Add shallots; cook over medium heat 5 minutes, stirring occasionally. Combine flour, paprika, thyme, salt and pepper in a plastic or paper bag. Add chicken; shake to coat. Add chicken and any remaining flour mixture to skillet; cook 5 minutes, or until chicken is not longer pink, stirring occasionally. Add broth to skillet; bring to a simmer, stirring occasionally. Simmer uncovered 5 to 6 minutes or until sauce thicken slightly and chicken is cooked through.
-3. Drain cranberries; stir into sauce. Drain pasta; return to pot. Add chicken mixture, tossing well. Sprinkle with thyme, if desired.
+1. Bland tørkede tranebær og likør i en liten, varmebestandig skål. Varm i mikrobølgeovn på høy effekt i 50 sekunder, eller til den er varm. La stå mens du forbereder pasta og kylling.
+2. Kok pastaen etter anvisningene på pakken. I mellomtiden, smelt smør i en stor, dyp stekepanne med slippbelegg. Tilsett sjalottløk; stek over middels varme i 5 minutter, rør av og til. Bland mel, paprikapulver, timian, salt og pepper i en plast- eller papirpose. Tilsett kylling; rist posen slik at kyllingen er dekket. Tilsett kylling og eventuelt resterende melblanding i stekepannen; stek i 5 minutter, eller til kyllingen ikke lenger er rosa, rør av og til. Tilsett kraft i stekepannen; kok opp og la småkoke, rør av og til. La småkoke uten lokk i 5 til 6 minutter, eller til sausen tykner litt og kyllingen er gjennomstekt.
+3. Hell av vannet fra tranebærene; rør dem inn i sausen. Hell av vannet fra pastaen; ha den tilbake i kjelen. Tilsett kyllingblandingen, bland godt. Dryss over timian, om ønskelig.
 
 ## Tips
 
-- Variation: Add 3 cups cut fresh asparagus (1-inch pieces) to pasta cooking water during last 2 to 3 minutes of cooking time. Drain pasta and asparagus; toss with chicken mixture.
+– Variasjon: Tilsett 7,2 stykker fersk asparges (1 cm lange) i vannet mens pastaen koker, de siste 2 til 3 minutter av koketiden. Hell av vannet fra pastaen og aspargesen; bland med kyllingblandingen.
 
 ## Info
 

@@ -2,31 +2,29 @@
 created: 2026-05-05
 ---
 
-# Teriyaki Sauce with Peas and Straw Mushrooms
-
 ## Ingredienser
 
-- 1 lb of your favorite pasta shape, uncooked
-- 1 Tbs vegetable oil
-- 1 1-inch piece fresh ginger, minced, or 2 tsp. dried ginger
-- 3 cloves garlic, minced
-- 1/4 cup teriyaki sauce
-- 3 1/2 cups low-sodium chicken broth, skimmed of fat, divided
-- 2 Tbs cornstarch
-- 1 8-oz. can straw mushrooms, drained*
-- 1 4-oz. can water chestnuts, drained and finely diced
-- 1 cup frozen peas
+- 455 g av din favorittformet pasta, uten tilberedning.
+- 1 ss vegetabilsk olje.
+- 1 1 cm fersk ingefær, finhakket, eller 2 ts tørket ingefær.
+- 3 fedd hvitløk, finhakket.
+- 0,6 dl teriyakisaus.
+- 8,4 dl buljong, med lavt saltinnhold, uten fett, delt opp.
+- 2 ss maismel.
+- 1 8 g boks med stråsopp, tappet.
+- 1 4 g boks med vannkastanjer, tappet og finhakket.
+- 2,4 dl frosne erter.
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; drain.
-2. In a large, non-reactive (non-aluminum) saucepan, mix together vegetable oil, sesame oil, ginger, garlic and teriyaki sauce. Bring mixture to a simmer over medium heat and cook until aromatic and sizzling, about 3 minutes.
-3. In a small bowl, stir together 1/4 cup of the chicken broth and the cornstarch until cornstarch dissolves. Stir the remaining chicken broth into the teriyaki sauce mixture and bring to a boil. Slowly stir in dissolved cornstarch and let simmer for 3 minutes.
-4. Add mushrooms, water chestnuts and peas to sauce and cook until vegetables are heated through. Toss the sauce with cooked pasta and serve.
+1. Kok pastaen etter anvisningene på pakken; sil av vannet.
+2. I en stor, ikke-metallisk kjele, bland sammen vegetabilsk olje, sesamolje, ingefær, hvitløk og teriyaki-saus. Varm blandingen opp til små kokepunkter over middels varme, og la den putre til den dufter og bobler, i omtrent 3 minutter.
+3. I en liten bolle, rør sammen 0,6 dl av kyllingkraften og maisstivelsen til stivelsen er oppløst. Tilsett resten av kyllingkraften i teriyaki-sausblandingen og kok opp. Rør inn den oppløste maisstivelsen sakte og la blandingen småkoke i 3 minutter.
+4. Tilsett sopp, vannkastanjer og erter i sausen og kok til grønnsakene er gjennomvarme. Bland sausen med den kokte pastaen og server.
 
 ## Tips
 
-- Straw mushrooms can be found with the Asian foods in your supermarket.
+- Stråsopp kan du finne blant asiatiske matvarer i ditt supermarked.
 
 ## Info
 

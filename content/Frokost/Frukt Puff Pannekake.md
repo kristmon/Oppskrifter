@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Frukt Puff Pannekake
-
 ## Ingredienser
 
 - 5 eggeerstatninger tilsvarende
@@ -14,7 +12,7 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 220°C. Sprayek en paiform eller ovnsfri stekepanne med ikke-stikkende kokesprayek. I en stor bolle kombinerer du eggene og melken. Tilsett mel og vanilj.
+1. Forvarm ovnen til 220°C. Sprayek en paiform eller ovnsfri stekepanne med ikke-stikkende formfett. I en stor bolle kombinerer du eggene og melken. Tilsett mel og vanilj.
 2. Hell deigen i det forberedte stekkeret og plasser det i ovnen. Bak i 15 til 20 minutter til deigen er oppsvullet og kantene er brunt. Fjern puff pannekaken, fyll senteret med frukten, kutt i stykker og server.
 
 ## Info

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Corny Ham og Potato Scallop
-
 ## Ingredienser
 
 - 5 baking poteter, skalett og kutt inn i 1" kuber
@@ -17,8 +15,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en 3-1/2 til 4 liter crockpot sakte cooker, kombiner poteter, skinke, mais, pepper og løk; bland godt. I liten bolle, kombiner suppe, melk og mel; slå med wire visp til smooth.
-2. Hell suppe blanding over potet blanding; rør forsiktig til bland. Dekk; kok på lav setting for 7 til 9 timer eller til poteter are mørt.
+1. I en 3 - 1/2 til 4 liters slow cooker, kombiner poteter, skinke, mais, paprika og løk; bland godt. I en liten bolle, kombiner suppe, melk og mel; visp godt med en visp til blandingen er jevn.
+2. Hell suppeblandingen over potetblandingen; rør forsiktig til alt er godt blandet. Dekk til; kok på lav varme i 7 til 9 timer, eller til potetene er møre.
 
 ## Info
 

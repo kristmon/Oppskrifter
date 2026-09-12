@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Varm smørtet sider
-
 ## Ingredienser
 
 - 2000 ml eple-sider eller appeljuice

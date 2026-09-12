@@ -6,25 +6,25 @@ created: 2026-05-05
 
 ## Ingredienser
 
-- 1 lb Elbow Macaroni, Rotini or other medium pasta shape, uncooked
-- 1 lb lean ground beef
-- 3 Tbs olive or vegetable oil
-- 1 28-oz. can tomatoes with juice
-- 1 quart tomato juice
-- 2 cups chopped onions
-- 3 cloves garlic
-- 1 tsp salt
-- 1 Tbs chili powder
-- 1 tsp ground cumin
-- 1/2 tsp dried oregano
-- 1/2 tsp pepper
-- 1 bay leaf
-- 1 20-oz. can red kidney beans, drained
+- 455 g albuepasta, rotini eller annen pastaform av middels størrelse, ukokt
+- 455 g magert kjøttdeig
+- 3 ss olivenolje eller vegetabilsk olje
+- 1 28 g hermetiske tomater i saus
+- 1 liter tomatjuice
+- 4,8 dl finhakket løk
+- 3 fedd hvitløk
+- 1 ts salt
+- 1 ss chilipulver
+- 1 ts malt spisskummen
+- 1/2 ts tørket oregano
+- 1/2 ts pepper
+- 1 laurbærblad
+- 1 20 g hermetiske kidneybønner, avrent
 
 ## Fremgangsmåte
 
-1. Cook pasta according to package directions; drain. In a Dutch oven or large skillet, brown beef in oil, stirring frequently. Add undrained tomatoes, tomato juice, onions, garlic, salt and remaining seasonings. Cover and simmer for 45 minutes. Stir in kidney beans. Cook for an additional 30 minutes. Remove bay leaf.
-2. Meanwhile, gradually add cooked pasta to the chili. Serve in bowls.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet. I en jerngryte eller stor stekepanne, brun kjøttet i olje, og rør ofte. Tilsett tomater (uten å helle av), tomatjuice, løk, hvitløk, salt og resten av krydderne. Dekk til og la det småkoke i 45 minutter. Tilsett kidneybønner. La det koke i ytterligere 30 minutter. Fjern laurbærbladet.
+2. I mellomtiden, tilsett gradvis den kokte pastaen i chilen. Server i skåler.
 
 ## Info
 

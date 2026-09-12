@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Marionbaer Crisp
-
 *Denne saftige og sterkt smakende crispen blir tykkere når den kjøler ned. Deilig servert med vaniljeis eller fryst yoghurt.*
 
 ## Ingredienser

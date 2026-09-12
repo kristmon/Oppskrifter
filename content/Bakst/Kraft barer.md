@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Kraft barer
-
 *En flott oppkvikking når som helst på dagen. Disse barrekakene fryses godt. De ville være ideelle for en Valentinsdags-fest på skolen.*
 
 ## Ingredienser
@@ -20,10 +18,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Sett smør og brunt sukker i en stor røreboll og pisk med elektrisk mikser på medium hastighet 3–4 minutter eller til det er godt blandet. Bland mel, havregryn og bakesoda. Tilsett melblandingen til sukker-blandingen og bland på lav hastighet til det blir kornete.
-2. Spre to tredjedeler av havregryn-blandingen i bunnen av en usmirutbakepanne på 33 x 23 x 5 cm. Press ned for å lage et fast lag.
-3. Bland kirsebær-fyllingen med en elektrisk blender eller matprosessor til det er glatt. Hell blandet kirsebær-fyllning i en medium gryte. Bland hvitt sukker og maisstivelse og rør inn i kirsebær-fyllningen. Kok, rør konstant, over lav varme til blandingen er tykk og bobler. Rør inn mandel-ekstakt. Hell kirsebær-blandingen over havregryn-laget, spre jevnt. Top med gjenværende havregryn-blanding.
-4. Bak i forvarmmet 175 °C ovn i 30–35 minutter, eller til det er gyllent brunt. La kjøle før du skjærer i barer.
+1. Ha smør og brunt sukker i en stor bolle, og pisk med elektrisk mikser på middels hastighet i 3 – 4 minutter, eller til det er godt blandet. Bland mel, havregryn og bakepulver. Tilsett melblandingen til sukkerblandingen, og bland på lav hastighet til det blir kornete.
+2. Fordel to tredjedeler av havregrynblandingen i en smurt bakeform på 33 x 23 x 5 cm. Press ned for å lage et fast lag.
+3. Kjør kirsebérfyllet i en blender eller kjøkkenmaskin til det er glatt. Hell den blandede kirsebérfyllet i en middels stor kjele. Bland hvitt sukker og maisstivelse, og rør det inn i kirsebérfyllet. Kok opp under konstant omrøring over svak varme, til blandingen tykner og begynner å boble. Rør inn mandelekstrakten. Hell kirsebérblandingen over havregrynlaget, og fordel den jevnt. Strø over resten av havregrynblandingen.
+4. Stek i en forvarmet ovn ved 175 °C i 30 – 35 minutter, eller til den er gyllenbrun. La den avkjøles før du skjærer den i stykker.
 
 ## Info
 

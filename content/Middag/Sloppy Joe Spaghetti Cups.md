@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# Sloppy Joe Spaghetti Cups
-
 ## Ingredienser
 
-- 8 oz spaghetti, uncooked, broken in half
-- vegetable cooking spray
-- 1 egg, lightly beaten
-- 1,2 dl fat-free surmelk
-- 1,9 dl fat-free sharp cheddarost, grated and divided
-- 1/4 ts salt
-- 3/4 kg lean hakket storfekjøtt
-- 1 1.31 oz package Sloppy Joe seasoning bland
-- 1 6 oz can tomat paste
-- 2,5 dl vann
+- 227 g spaghetti, tørrvekt, delt i to.
+- vegetabilsk matolje.
+- 1 egg, lett pisket.
+- 1,2 dl fettfri kulturmelk
+- 1,9 dl mager cheddarost, revet og delt.
+- 1/4 ts salt.
+- 3/4 kg magert kjøttdeig.
+- 1 pakke (37 g) med smakstilsetning til "Sloppy Joe".
+- 1 boks (17 g) tomatpuré.
+- 2,5 dl vann.
 
 ## Fremgangsmåte
 
-1. Spray a 12-cup muffin tin with vegetable cooking spray; set aside. forvarm ovn to 350 grader F.
-2. Break spaghetti in half; kok pasta according to package directions.
-3. While pasta is cooking, bland together egg, surmelk and 1/2 cup ost. When spaghetti is cooked al dente, tøm and rinse under cold vann til completely cool. tøm completely. Transfer back to cooking pot. tilsett surmelk mixture to the spaghetti and toss til well mixed. Set aside.
-4. Meanwhile, kok storfekjøtt in skillet til browned. tøm well and pat storfekjøtt dry with paper towels. Return storfekjøtt to skillet; tilsett seasoning bland, tomat pasta and vann. bland well. kok over medium varm 10 minutter, stirring frequently. Set aside.
-5. Divide spaghetti mixture evenly among muffin cups (about 1/4 cup spaghetti each). Press pasta firmly into cups with back of spoon. Spoon storfekjøtt mixture into center of each cup (about 1-1/2 tablespoons each), dividing evenly among cups. Top each with 1 teaspoon ost.
-6. bak til firm and heated through, about 20 minutter. Let stand 8 to 10 minutter. Loosen edges with a knife and remove from muffin cups. servér immediately.
+1. Smør et muffinsbrett med 12 fordypninger. Forvarm ovnen til 175 °C.
+2. Del spagettien i to og kok den etter anvisningen på pakken.
+3. Bland egg, kulturmelk og 1,2 dl ost. Skyll den kokte spagettien i kaldt vann og la den renne godt av. Ha den tilbake i kjelen, tilsett kulturmelkblandingen og vend godt sammen.
+4. Brun kjøttdeigen i en stekepanne og hell av fettet. Rør inn krydderblanding, tomatpuré og vann. Kok på middels varme i 10 minutter under hyppig omrøring.
+5. Fordel spagettiblandingen i muffinsformene, ca. 0,6 dl i hver, og press den ned med baksiden av en skje. Legg ca. 1½ ss kjøttblanding i midten av hver og topp med 1 ts ost.
+6. Stek i omtrent 20 minutter, til porsjonene er faste og gjennomvarme. La dem hvile i 8–10 minutter, løsne kantene med en kniv og løft dem ut. Server straks.
 
 ## Info
 
-- **Porsjoner**: 6 Yield: 12 cups
-- **Type**: Main Dish, Meat, Pasta
+- **Porsjoner**: 6. **Mengde**: 12 porsjoner
+- **Type**: Hovedrett, Kjøtt, Pasta
 - **Kilde**: National Pasta Association, www.ilovepasta.org

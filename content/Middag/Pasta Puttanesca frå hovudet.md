@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Pasta Puttanesca frå hovudet
-
 ## Ingredienser
 
 - 225 g Mostaccioli, Rigatoni eller annan mellanstørrel pastaform, ukokt
@@ -22,11 +20,11 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonane. Medan pastaen koker, gjenoppheat svært magert tomat-saus i ei 2 liter gryte over medium varme, rør av og til, til den er varm. Rør tunfisken, persillen, oliver og ansjos-ane (om dei vert brukt) inn i sausen og simrer i 5 minutter. Kontroller kryddring og tillsett salt og pepper om naudsynt.
-2. Når pastaen er ferdig, avløp godt og kom ho tilbake i gryten. Tillsett sausen og rør til den er jamnt fordelt. Flytt pastaen til serveringsboller eller fat og server umiddelbart. Gje osten vekk separat.
-3. Kok pastaen etter pakningsinstruksjonane. Medan pastaen koker, kombiner gjenværande ingrediensar i ei 2 liter gryte og varm til kokepunkt.
-4. Reduser varmen og simrer til væsken er redusert med halvparten, omtrent 10-20 minutter. I ein matprosessor eller blender, blanda små mengdar av sausen til ønskt konsistens, bruk 3 til 4 raske på-av-rørsler for ei klumpete saus, lengre for ei glattare saus.
-5. Når pastaen er ferdig, avløp. Hell sausen over pastaen og server umiddelbart.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, varm en svært lett tomatbasert saus i en 2-liters kjele over middels varme, rør av og til til den er gjennomvarm. Rør inn tunfisk, persille, oliven og ansjos (hvis brukt) i sausen, og la den småkoke i 5 minutter. Smak til med salt og pepper om nødvendig.
+2. Når pastaen er ferdig, sil den godt og ha den tilbake i kjelen. Tilsett sausen og rør godt til den er jevnt fordelt. Fordel pastaen i serveringsboller eller på fat, og server umiddelbart. Server osten ved siden av.
+3. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, bland de resterende ingrediensene i en 2-liters kjele og varm opp til kokepunktet.
+4. Senk varmen og la sausen småkoke til væsken er redusert med halvparten, omtrent 10-20 minutter. I en kjøkkenmaskin eller blender, bland små mengder av sausen til ønsket konsistens. Bruk 3 til 4 korte pulsfunksjoner for en litt klumpete saus, eller lengre tid for en jevnere saus.
+5. Når pastaen er ferdig, sil den. Hell sausen over pastaen og server umiddelbart.
 
 ## Info
 

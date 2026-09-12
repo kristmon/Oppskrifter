@@ -3,18 +3,18 @@ created: 2020-09-29
 ---
 
 ![[Bilder/Lapskaus.jpg|300]]
-**Porsjoner**: 4  
-**Tid**: 390 min (30 prep + 360 cook)  
+**Porsjoner**: 4
+**Tid**: 390 min (30 prep + 360 cook)
 **Plan to Eat-tag**: Crock Pot
 
 ## Ingredienser
 
-- poteter, kuttet i biter
-- gulrøtter
-- selleri
-- 2 stk kjøttbuljong
-- 4 dl vann, evt tilpasset, se directions
-- grytekjøtt, eller pølser
+- Poteter, kuttet i biter
+- Gulrøtter
+- Selleri
+-  2  stk kjøttkraft
+-  4  dl vann, eventuelt tilpasset, se instruksjoner
+- Grytekjøtt, eller pølser
 - Kålrot
 
 ## Fremgangsmåte

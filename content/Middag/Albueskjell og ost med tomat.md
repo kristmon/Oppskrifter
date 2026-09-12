@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Albueskjell og ost med tomat
-
 ## Ingredienser
 
 - 225 g albueskjell, ukokt
@@ -18,8 +16,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonene; avløp i eit sil. Forvarm ovnen til 190 °C. Skjer tomatane i 1 cm tjukke skivor. Set til side på ei liten tallerken. Knuses brodraspen med fingrytuppane dine. Set til side på ei annan liten tallerken.
-2. I ei 2 liter gryte over medium varme, smelt smøret eller margarinen. Tilsett hvetefløta, tørr sennepp og salt, deretter kok saman i 2 til 3 minutter. Tilsett melka litt etter litt og hald fram å røre til blandinga blir tjukk. Tilsett ost og rør til den smelter. Plasser to tomatskivor på botn av form, deretter halvparten av pastaen. Plasser ytterlegare to tomatskivor, resten av pastaen, og hell sausen over alt. Arranger tre tomatskivor på toppen og strø med brodrasp. Bak i 20 minutter. Server umiddelbart.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet i et sil. Forvarm ovnen til 190 °C. Skjær tomatene i skiver som er 1 cm tykke. Sett til side på en liten tallerken. Smuldre brødraspene med fingertuppene. Sett til side på en annen liten tallerken.
+2. I en kjele på 2 liter, varm smøret eller margarinen på middels varme. Tilsett hvetemel, sennepspulver og salt, og la det koke sammen i 2 til 3 minutter. Tilsett melken gradvis, mens du rører til blandingen tykner. Tilsett ost og rør til den er smeltet. Legg to tomatskiver i bunnen av formen, deretter halvparten av pastaen. Legg ytterligere to tomatskiver, resten av pastaen, og hell sausen over. Legg tre tomatskiver på toppen og strø over brødrasp. Stek i 20 minutter. Server umiddelbart.
 
 ## Info
 

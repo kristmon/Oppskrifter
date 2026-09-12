@@ -17,7 +17,7 @@ Det ble en litt grå og fargeløs rett fra Bangladesh, nemlig nasjonalretten Byr
 - 1 knivspiss kanel
 - 2 dl yoghurt
 - 3 dl ris
-- ca 4,5 dl vann
+- ca. 4,5 dl vann
 
 - salt
 

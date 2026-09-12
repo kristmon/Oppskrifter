@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Ostsaus
-
 *Denne sausen passer godt til fjærkre.*
 
 ## Ingredienser
@@ -12,9 +10,9 @@ created: 2026-05-05
 - 1/2 ss mel
 - Salt
 - Pepper
-- Et snev cayennepeppar
+- En klyve cayennepepper
 - 2,4 dl melk
-- 1 eggepl
+- 1 eggeplomme
 - 1 ss parmesanost
 
 ## Fremgangsmåte

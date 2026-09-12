@@ -11,7 +11,7 @@ Til 1 liten langpanne trenger du:
 
 - 6 egg
 - 1,5 dl kesam eller rømme
-- 100-200 g revet ost (bruk gjerne forskjellige typer som jarlsberg, cheddar, norvegia, mozzarella)
+- 100-200 g revet ost (bruk gjerne ulike typer, for eksempel jarlsberg, cheddar, norvegia eller mozzarella)
 - 1 stor purreløk
 - 1 rød paprika
 - 1 grønn paprika
@@ -25,7 +25,7 @@ Slik gjør du:
 
 ![[Bilder/Langpanneomelett2.jpg|300]]
 
-2) Bland sammen egg, revet ost, rømme og krydder. Ha en de steke grønnsakene og smak til med kryder.
+2) Bland egg, revet ost, rømme og krydder. Tilsett de stekte grønnsakene og smak til med krydder.
 
 ![[Bilder/Langpanneomelett3.jpg|300]]
 
@@ -33,6 +33,6 @@ Slik gjør du:
 
 3) Fordel røren i en liten langpanne med bakepapir.
 
-4) Stekes på 190 grader midt i ovnen, i ca 30 min.
+4) Stekes på 190 grader midt i ovnen, i ca. 30 min.
 
 Serveres som middag med rundstykke og salat eller som tapas :)

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Linguine og svinekjøtt stekk
-
 ## Ingredienser
 
 - 450 g Linguine, Spaghetti eller tynt spaghetti, ukokt
@@ -19,8 +17,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonene; avløp.
-2. I en gryte eller stor panne, varm oljen. Tilsett gjenværande ingrediensar, bortsett frå svinekjøtt og linguine. Stekk til det er mørt. Tilsett kjøttet og stekk lett til det er stekt. Tilsett het linguine; blan for å mikse. Server umiddelbart.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet.
+2. I en gryte eller stor stekepanne, varm oljen. Tilsett resten av ingrediensene, unntatt svinekjøtt og linguine. Stek til det er mykt. Tilsett kjøttet og stek lett til det er gjennomstekt. Tilsett den ferdigkokte linguinen; bland godt. Server umiddelbart.
 
 ## Info
 

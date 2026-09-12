@@ -1,7 +1,7 @@
 ---
 created: 2020-10-13
 ---
-**Porsjoner**: 4  
+**Porsjoner**: 4
 **Plan to Eat-tag**: Storfe
 
 ## Ingredienser

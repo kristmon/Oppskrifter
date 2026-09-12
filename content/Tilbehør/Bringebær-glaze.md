@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Bringebær-glaze
-
 ## Ingredienser
 
 - 0,6 dl frøfritt bringebær-syltetøy

@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Spicy Fried Onion Rings
-
 ## Ingredienser
 
 - 2,5 dl mel
 - 1/2 ts salt
-- 1/4 ts black pepper
-- 1 ts dried oregano flakes
-- 1 ts Cajun spice
-- 4 large løk
-- 7,5 dl mais olje for frying
+- 1/4 ts svart pepper
+- 1 ts tørkede oregano blader
+- 1 ts cajun krydderblanding
+- 4 store løk
+- 7,5 dl maisolje til steking
 - salt
 
 ## Fremgangsmåte
 
-1. Cut løk into very thin slices and separate into rings. Soak løk in ice vann for one time. Set aside.
-2. bland sammen mel, salt, pepper, oregano and Cajun spice in a large bowl. varm olje.
-3. Remove løk from ice vann and dry grundig with paper towels. Dredge in coating, then stekk til brown.
-4. tøm on paper towels. Season with salt and servér.
+1. Skjær løken i svært tynne skiver og del den opp i ringer. Legg løken i isvann et øyeblikk. Sett til side.
+2. Bland mel, salt, pepper, oregano og Cajun-krydder i en stor bolle. Varm olje.
+3. Ta løken ut av isvannet og tørk den godt med kjøkkenpapir. Vend den i paneringen og stek den til den er gyllenbrun.
+4. Legg den over på kjøkkenpapir. Krydre med salt og server.
 
 ## Info
 

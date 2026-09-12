@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# Magert Grønnsakslasagne
-
 ## Ingredienser
 
-- 9 lasagneplateer, ukokta
-- 1 medium gul løk, hakket (omtrent 2,5 dl)
+- 9 lasagneplater, ukokte
+- 1 middels stor gul løk, finhakket (omtrent 2,5 dl)
 - 5 ml vegetarolje
-- 2 hvitløksfedd, knust
-- 225 g sopp, skåret tynt (valfritt)
-- 60 ml fersk persille, hakket
-- 1 pakke (280 g) fryst spinat, tiløyst, avløpt grundig
+- 2 fedd hvitløk, knust
+- 225 g sopp, i tynne skiver (valgfritt)
+- 60 ml fersk persille, finhakket
+- 1 pakke (280 g) fryst spinat, tint og godt presset
 - 1/4 ts salt
 - 1/2 ts tørket basilikum
 - 1/2 ts tørket oregano
-- 5 dl kjøttlaus tomat- eller spaghetisaus
-- 1 boks (425 g) delvis magert eller redusert fett ricotta-ost
-- 180 ml rivast, delvis magert mozzarella-ost
-- 30 ml rives Parmesan-ost
+- 5 dl kjøttfri tomatsaus eller spaghettisaus
+- 1 boks (425 g) ricottaost, med redusert fettinnhold
+- 180 ml revet mozzarellaost, med redusert fettinnhold
+- 30 ml revet parmesanost
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonene; avløp og dekk med kaldt vann til klar til bruk.
-2. Medan pastaen koker, kombiner løken og oljen i ei panne over medium varme til gullbrun, omtrent 5 minutter. Tilsett hvitløken og kok omtrent 1 minutt. Skjé ut halvparten av løken og reserver for seinare. Tilsett soppene (om dei vert brukt) til løken i pannen. Kok, rør over medium varme, til soppene er møre og litt bruner, omtrent 7 minutter. Tilsett persillen og ei liten smule salt; flytt til ei bolle.
-3. Tilsett den reserverte steikja løken og spinaten til pannen. Dekk og kok over medium varme til spinaten er visna, omtrent 3 minutter. Fjern lokket og kok over medium varme for å fordampe overskytande fukt, omtrent 1 minutt. Krydre med ei liten smule salt.
-4. Varm ovnen til 175 °C. Avløp lasagnen og tørk med papirtørkle. Bland oregano og basilikum med tomatsausen. Spre 1,2 dl tomatsaus på botn av ei 33 x 23 x 8 cm form. Arranger 3 lasagneplateer, litt overlappande, i forma. Skjé spinat-blandinga på toppen i eit jamnt lag. Spre med halvparten av ricotataosten. Strø med 60 ml av det rivaste mozzarella-osten.
-5. Arranger eit lag av 3 fleire lasagneplateer. Spre med soppene, den gjenværande ricotta-blandinga, og 60 ml av mozzarella-osten. Top med dei gjenværande 3 lasagneplatiene, 1,2 dl tomatsaus og 1,2 dl av mozzarella-osten. Strø med Parmesan-ost. Bak til brunn og bobler, omtrent 45 minutter.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet og skyll med kaldt vann til den er klar for bruk.
+2. Mens pastaen koker, kombiner løk og olje i en panne over middels varme til løken er gyllenbrun, omtrent 5 minutter. Tilsett hvitløk og stek i omtrent 1 minutt. Skje ut halvparten av løken og sett til side. Tilsett sopp (hvis brukt) i pannen sammen med løken. Stek, rør av og til over middels varme, til soppen er myk og lett brunet, omtrent 7 minutter. Tilsett persille og en liten klype salt; overfør til en bolle.
+3. Tilsett den reserverte stekte løken og spinaten i pannen. Dekk til og stek over middels varme til spinaten er redusert, omtrent 3 minutter. Fjern lokket og stek over middels varme for å fordampe overflødig fuktighet, omtrent 1 minutt. Krydre med en liten klype salt.
+4. Forvarm ovnen til 175 °C. Hell av lasagnen og tørk den med et kjøkkenpapir. Bland oregano og basilikum med tomatsausen. Fordel 1,2 dl tomatsaus i bunnen av en form som er 33 x 23 x 8 cm. Legg 3 lasagneplater i formen, med litt overlapping. Fordel spinatblandingen over platene i et jevnt lag. Fordel halvparten av ricottaosten over spinatblandingen. Strø over 60 ml revet mozzarellaost.
+5. Legg et lag med 3 lasagneplater til. Fordel soppen, resten av ricottaosten og 60 ml mozzarellaost over platene. Topp med de resterende 3 lasagneplatene, 1,2 dl tomatsaus og 1,2 dl mozzarellaost. Strø over parmesanost. Stek i ovnen til den er gyllen og bobler, omtrent 45 minutter.
 
 ## Info
 

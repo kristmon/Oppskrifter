@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Teriyaki-marinade
-
 ## Ingredienser
 
 - 2,4 dl teriyaki-saus
@@ -13,10 +11,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en liten bolle, bland teriyaki-saus, hvitkløks-pulver, løk-pulver og ingefær-pulver.
-2. Ved hjelp av en sprøyte, sprøyt marinen inn i alle deler av den opptidet kalkunen. Massér kalkunen forsiktig for å fordele marinen.
-3. Plasser kalkunen i en stor plastpose (stekepause eller ren søppelbag). Lukk posene og oppbevar i kjøleskapet over natt.
-4. Dyp fritt eller stekbiff ifølge anbefalinger fra The National Turkey Federation.
+1. I en liten bolle, bland teriyakisaus, hvitløkspulver, løkpulver og ingefærpulver.
+2. Bruk en sprøyte til å fordele marinaden i alle deler av kalkunen. Masser kalkunen forsiktig for å sikre at marinaden fordeler seg jevnt.
+3. Legg kalkunen i en stor plastpose (for eksempel en stekepose eller en ren søppelpose). Lukk posen(e) og oppbevar i kjøleskapet over natten.
+4. Stek kalkunen etter anbefalt tid og kjernetemperatur for kalkun.
 
 ## Info
 

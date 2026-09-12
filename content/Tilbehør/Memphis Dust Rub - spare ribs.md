@@ -3,7 +3,7 @@ created: 2025-04-02
 ---
 
 ![[Bilder/Memphis Dust Rub - spare ribs.jpg|300]]
-From amazingribs.com. Omregnet, og noe modifisert.
+Fra amazingribs.com. Omregnet og noe endret.
 
 Spiseskjeer måles, ble mer enn nok til 2 store slabs, 2.7 kg.
 
@@ -11,16 +11,16 @@ Spiseskjeer måles, ble mer enn nok til 2 store slabs, 2.7 kg.
 
 ## Ingredienser
 
-- 6 enheter dark brown sugar
-- 6 enheter white sugar
+- 6 enheter mørk brunt sukker
+- 6 enheter hvitt sukker
 - 4 enheter paprika
-- 3 enheter salt, (jeg bruker kosher pga utbredt i oppskrifter i USA) (2 ts Maldon havsaltflak ble testet i 2020; veld
-- 2 enheter garlic powder
-- 2 enheter ground black pepper, (bruk pulver, ikke grovmalt)
-- 1 enhet ground ginger powder
-- 1 enhet onion powder
+- 3 enheter salt (jeg bruker kosher salt, da det er vanlig i oppskrifter i USA). (2 teskjeer Maldon havsaltflak ble testet i 2020; veldig godt)
+- 2 enheter hvitløkspulver
+- 2 enheter malt svart pepper (bruk pulver, ikke grovmalt)
+- 1 enhet malt ingefær
+- 1 enhet løkpulver
 - 1 enhet kajennepepper
-- 1/3 enhet rosemary powder
+- 1/3 enhet rosmarinpulver
 
 ## Fremgangsmåte
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Kirsebær-smoothie
-
 *Dette er en oppfriskende lift på hvilken som helst tid av dagen.*
 
 ## Ingredienser

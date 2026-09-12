@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Chicago-Style Deep-Dish Pizza
-
 ## Ingredienser
 
-- 3/4 kg ground round
-- 7,5 dl sliced fresh sopp
-- 5 dl chopped løk
-- 2,5 dl chopped green paprika
-- 2,5 dl chopped red paprika
-- 1 ts dried whole basilikum
-- 1/2 ts dried whole oregano
-- 1/2 ts fennel seeds, crushed
-- 5 dl shredded part-skim mozzarella ost
+- 3/4 kg kjøttdeig
+- 7,5 dl skivet, fersk sopp
+- 5 dl hakket løk
+- 2,5 dl hakket grønn paprika
+- 2,5 dl hakket rød paprika
+- 1 ts tørket, hel basilikum
+- 1/2 ts tørket, hel oregano
+- 1/2 ts fennikelfrø, knust
+- 5 dl revet mager mozzarellaost
 - 1/2 ts salt
-- 1 deep-dish version of Basic Crust
-- 2,5 dl Pizza Sauce
+- 1 en variant med tykk bunn, basert på grunndeigen
+- 2,5 dl pizzasaus
 
 ## Fremgangsmåte
 
-1. Kok storfekjøtt and next 7 ingredients in a large skillet over medium-high varm til browned, stirring to crumble storfekjøtt. tøm well and place in a large bowl; rør in ost and salt.
-2. Spoon storfekjøtt mixture into pizza crust; bred 1 cup pizza sauce over storfekjøtt mixture. bak at 425 grader F for 20 minutter on bottom rack of ovn.
+1. Stek storfekjøtt og de neste 7 ingrediensene i en stor stekepanne over middelhøy varme til kjøttet er brunt, mens du rører for å smuldre kjøttet. Hell av fettet og ha blandingen i en stor bolle; rør inn ost og salt.
+2. Fordel kjøttdeigblandingen utover pizzabunnen; hell deretter 2,4 dl pizzasaus over kjøttdeigblandingen. Stekes ved 425 grader Fahrenheit i 20 minutter på nederste rille i ovnen.
 
 ## Info
 

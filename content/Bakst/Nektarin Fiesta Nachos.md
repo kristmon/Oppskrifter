@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Nektarin Fiesta Nachos
-
 ## Ingredienser
 
 - 1 15 cm hvetmjøltortilla

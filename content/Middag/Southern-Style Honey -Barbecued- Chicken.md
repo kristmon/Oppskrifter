@@ -6,24 +6,24 @@ created: 2026-05-05
 
 ## Ingredienser
 
-- 1 (2-1/2 to 3 Ibs.) kylling, cut-up
-- salt to taste
-- pepper to taste
-- 2,5 dl thinly sliced løk
+- 1 (2-1/2 til 3 Ibs.) kylling, delt opp
+- salt etter smak
+- pepper etter smak
+- 2,5 dl løk, i tynne skiver
 - 1,9 dl tomatsaus
 - 0,6 dl honning
-- 0,6 dl eddiksyre
+- 0,6 dl eddik
 - 2 ss worcestershiresaus
 - 1 ts paprika
-- 1/4 ts bottled hot pepper sauce
+- 1/4 ts ferdiglaget sterk chilisaus
 
 ## Fremgangsmåte
 
-1. Place kylling, skin side down, in a large baking dish.
-2. Sprinkle with salt and pepper. bland sammen remaining ingredients; bland well.
-3. hell mixture over kylling.
-4. bak, uncovered, at 375°F for 30 minutter.
-5. Turn pieces and bak 20 minutter longer eller til kylling is glazed and no longer pink.
+1 . Legg kyllingen, med skinnsiden ned, i en stor, ovnsikker form.
+ 2 . Strø over salt og pepper. Bland de resterende ingrediensene godt.
+ 3 . Hell blandingen over kyllingen.
+ 4 . Stek, uten lokk, ved  191  °C i  30  minutter.
+ 5 . Vend kjøttstykkene og stek  20  minutter lenger, eller til kyllingen er glasert og ikke lenger rosa.
 
 ## Info
 

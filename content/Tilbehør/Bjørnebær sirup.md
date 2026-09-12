@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Bjørnebær sirup
-
 ## Ingredienser
 
 - 5 dl bjørnebærsaft (fra omtrent 1,5 liter bjørnebær)
@@ -12,8 +10,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Mål saften inn i 6-8 liter gryte. Heat saften til koking; tilsett sukker, rør til oppløst. Tilsett maisstøpt, heat til koking, og simrer ca fem minutter.
-2. Hell inn i varme, steriliserte glass. Tett lokk med skruebånd. Plasser i kokende vannbad i 10 minutter.
+1. Hell saften over i en kjele på 6-8 liter. Varm saften til den koker; tilsett sukker og rør til det er oppløst. Tilsett maisstivelse, varm opp til kokepunktet, og la det småkoke i ca. fem minutter.
+2. Hell blandingen over i varme, steriliserte glass. Lukk med skrukork. Sett glassene i et kokende vannbad i 10 minutter.
 
 ## Info
 

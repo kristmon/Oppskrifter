@@ -5,8 +5,8 @@ created: 2020-08-26
 ![[Bilder/Eggwrap med pesto.jpg|300]]
 En fin kombinasjon for de som liker frokostwraps. Hvis du liker mye pesto, smør det på wrapen før eggene. Passer godt med druer ved siden.
 
-**Porsjoner**: 1  
-**Tid**: 25 min (10 prep + 15 cook)  
+**Porsjoner**: 1
+**Tid**: 25 min (10 prep + 15 cook)
 **Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/182811/egg-pesto-breakfast-wrap/)
 
 ## Ingredienser
@@ -23,8 +23,8 @@ En fin kombinasjon for de som liker frokostwraps. Hvis du liker mye pesto, smør
 
 ## Fremgangsmåte
 
-1. Visp eggene i en bolle med rømmen til godt blandet, og rør inn cheddaren.
-2. Spray en stekepanne med stekespray og stek løken og pestoen over middels varme til løken er gjennomsiktig, ca. 6 minutter. Tilsett tomatene og hell i eggeblandingen. Stek og rør til eggene er ferdige men ikke tørre, ca. 3 minutter. Ta ut eggene og sett til side.
-3. Legg kalkunbaconen i pannen og stek den vendt én gang, til den er gjennomstekt og begynner å bli sprø, ca. 3 minutter per side. (Dersom du har artisjokker: legg dem i pannen og varm i ca. 1 minutt etter at baconen er ferdig.)
-4. Spray pannen igjen og legg inn lefsen. Varm til den er myk og bøyelig, ta ut på en tallerken.
-5. Skje eggene, kalkunbacon (og evt. artisjokker) midt i lefsen og smak til med salt og pepper. Brett opp nederste 5 cm av lefsen for å lukke fyllet, og rull stramt sammen.
+1. Visp eggene i en bolle med rømmen til alt er godt blandet, og rør inn cheddaren.
+2. Spray en stekepanne med olje og stek løken og pestoen over middels varme til løken er blank, ca. 6 minutter. Tilsett tomatene og hell i eggeblandingen. Stek og rør til eggene er ferdige, men ikke tørre, ca. 3 minutter. Ta ut eggene og sett til side.
+3. Legg kalkunbaconen i pannen og stek den vendt én gang, til den er gjennomstekt og begynner å bli sprø, ca. 3 minutter per side. (Hvis du har artisjokker: legg dem i pannen og varm i ca. 1 minutt etter at baconen er ferdig.)
+4. Spray pannen igjen og legg i lefsen. Varm til den er myk og smidig, ta ut på en tallerken.
+5. Fordel eggene, kalkunbacon (og eventuelt artisjokker) midt på lefsen og smak til med salt og pepper. Brett opp de nederste 5 cm av lefsen for å lukke fyllet, og rull stramt sammen.

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning og fruktpålegg
-
 ## Ingredienser
 
 - 120 ml smør eller margarin, bløtgjort

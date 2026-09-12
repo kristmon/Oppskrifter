@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Western Wagon Wheels
-
 ## Ingredienser
 
-- 1 lb Wagon Wheels, Rotini or other medium pasta shape, uncooked
-- 1/4 cup all-purpose flour
-- 1/2 tsp pepper
-- 1 1/2 lbs skinless, boneless chicken breasts, cut into bite-sized pieces
-- 3 Tbs vegetable oil, divided
-- 2-3 cups broccoli florets
-- 2 carrots, thinly sliced
-- 1 cup frozen whole kernel corn
-- 1 Tbs water
-- 1 18-oz. bottle barbecue sauce
+- 455 Vognformet pasta, rotini eller annen pastaform av middels størrelse, ukokt.
+- 0,6 dl mel.
+- 1/2 ts pepper.
+- 680 g kyllingbryst uten skinn og bein, skjært i biter.
+- 3 ss vegetabilsk olje, delt.
+- 2 - 7,2 dl brokkolibuketter.
+- 2 gulrøtter, i tynne skiver.
+- 2,4 dl frosne maiskorn.
+- 1 ss vann.
+- 1 18 - flaske barbecuesaus.
 - Western Wagon Wheels
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions. While pasta is cooking, combine flour and pepper in a zip-top plastic bag. Add chicken and shake until well coated.
-2. Heat one tablespoon oil in a large skillet. Add half the chicken and stir-fry until brown on all sides. Remove from pan. Repeat with 1 tablespoon oil and remaining chicken. Remove from pan. Add remaining 1 tablespoon oil to skillet and heat . Add broccoli, carrots and corn; stir-fry 2 minutes. Add water ; cover and cook 3 to 4 minutes or until vegetables are tender-crisp. Add chicken and barbecue sauce to skillet; cook until thoroughly heated.
-3. When pasta is done, drain well. Place in a large bowl; add hot chicken mixture and toss well
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, bland mel og pepper i en plastpose med glidelås. Tilsett kylling og rist posen slik at kyllingen er godt dekket.
+ 2. Varm én ss olje i en stor stekepanne. Tilsett halvparten av kyllingen og wok den til den er brun på alle sider. Ta den ut av pannen. Gjenta med 1 ss olje og resten av kyllingen. Ta den ut av pannen. Tilsett resten av 1 ss olje i stekepannen og varm opp. Tilsett brokkoli, gulrøtter og mais; wok i 2 minutter. Tilsett vann, dekk til og kok i 3 til 4 minutter, eller til grønnsakene er møre, men fortsatt sprø. Tilsett kylling og barbecuesaus i stekepannen; kok til alt er gjennomvarmt.
+ 3. Når pastaen er ferdig, hell av vannet godt. Ha den i en stor bolle; tilsett den varme kyllingblandingen og bland godt.
 
 ## Info
 

@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Lemon Tartar Sauce
-
 ## Ingredienser
 
 - 1,2 dl majones
-- 2 ss dill pickle, finely chopped
-- 2 ss green løk, finely chopped
-- 1 ss lemon peel, freshly grated
-- 2 ts lemon juice, freshly squeezed
+- 2 ss syltet agurk, finhakket
+- 2 ss vårløk, finhakket
+- 1 ss sitronskall, ferskrivet
+- 2 ts sitronsaft, ferskpresset
 
 ## Fremgangsmåte
 
-1. In a small bowl, bland sammen all ingredients.
-2. Keep covered in refrigerator at least 4-6 timer before serving.
+1. I en liten bolle, bland alle ingrediensene godt sammen.
+2. Oppbevar det i kjøleskapet, dekket, i minst 4-6 timer før servering.
 
 ## Info
 
-- **Porsjoner**: 6 Yield: 3/4 cup
+- **Porsjoner**: 6 Yield: 1,8 dl
 - **Type**: Sauce
 - **Kilde**: Omaha Steaks, www.omahasteaks.com

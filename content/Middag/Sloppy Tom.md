@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Sloppy Tom
-
 ## Ingredienser
 
-- 2 ss vegetarolje
-- 1 Medium løk chopped
-- 1 Medium green paprika seeded and chopped
-- 2 Cloves hvitløk minced
-- 1-1/1 kg hakket kalkun
-- 12 oz chili sauce
+- 2 vegetarolje
+- 1 Medium løk, finhakket
+- 1 Medium grønn paprika, uten kjerner og finhakket
+- 2 Hvitløk, finhakket
+- 1–1/1 kg kalkun, finhakket
+- 34 g chilisaus
 - 2 ss worcestershiresaus
-- 1/2 ts black pepper
-- 6 hamburger buns toasted
+- 1/2 ts svart pepper
+- 6 Hamburgerbrød, ristet
 
 ## Fremgangsmåte
 
-1. Varm olje in large skillet over medium varm. tilsett løk, paprika and hvitløk; kok til softened, about 5 minutter.
-2. Tilsett kalkun and kok, breaking up kalkun with a wooden spoon. kok til no longer pink, about 5 minutter.
-3. Rør in chili sauce, worcestershiresaus, salt and pepper to taste.
-4. kok, covered, over low varm, 10 minutter.
-5. servér over rolls, dividing mixture evenly.
+1. Varm olje i en stor stekepanne over middels varme. Tilsett løk, paprika og hvitløk; stek til det er mykt, ca. 5 minutter.
+2. Tilsett kalkun og stek, og del kalkunen opp med en tresleiv. Stek til kalkunen ikke lenger er rosa, ca. 5 minutter.
+3. Rør inn chilisaus, worcestershiresaus, salt og pepper etter smak.
+4. Kok under lokk på svak varme i 10 minutter.
+5. Server over rundstykker, og fordel blandingen jevnt.
 
 ## Info
 

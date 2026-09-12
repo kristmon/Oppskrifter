@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Roastbiff hash
-
 ## Ingredienser
 
 - 2 poteter, terningskåret
@@ -16,9 +14,9 @@ created: 2026-05-05
 ## Fremgangsmåte
 
 1. Forvarm ovnen til 190 °C.
-2. I en medium gryte bringer du terningskåret poteter, dekket i vann, til kokepunkt på høy varme. Ta av varmen, sil av og sett potetene tilbake i gryten. Sett tilbake på høy varme og rør lett til potetene er tørre. Sett til side.
-3. Stei terningskåret bacon i en stor stekepanne på høy varme, ca. 5 minutter. Tilsett hakket løk og rør til løken blir gyllent brun. Tilsett potetene og rør godt. Tilsett fint hakket roastbiff og oksebuljong.
-4. Overfør til en rektangulær gratinfat og bak i 15 minutter, dekket. Ta av dekselet og øk varmen til 220 °C, bak til væsken har fordampet, ca. 20–30 minutter. Server med posjerte egg.
+2. I en middels stor kjele, kok opp poteter i terninger som er dekket med vann, på høy varme. Ta kjelen av varmen, sil av vannet og ha potetene tilbake i kjelen. Sett kjelen tilbake på høy varme og rør forsiktig til potetene er tørre. Sett til side.
+3. Stek bacon i terninger i en stor stekepanne på høy varme, i ca. 5 minutter. Tilsett hakket løk og rør til løken er gyllenbrun. Tilsett potetene og rør godt. Tilsett fint hakket roastbiff og oksebuljong.
+4. Hell blandingen over i en rektangulær ildfast form og stek i ovnen i 15 minutter, med lokk. Fjern lokket og øk temperaturen til 220 °C. Stek til væsken er fordampet, i ca. 20 – 30 minutter. Server med posjerte egg.
 
 ## Info
 

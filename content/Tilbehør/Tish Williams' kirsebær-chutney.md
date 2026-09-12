@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Tish Williams' kirsebær-chutney
-
 ## Ingredienser
 
 - 7 dl ferske eller frosne søte kirsebær
@@ -19,8 +17,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Legg søte kirsebær, tørket sur kirsebær, sukker, eddiksyre, valnøtter, kanel, nellik, ingefær, salt og cayennepeppar i en tykk gryte; bland godt. Varm til det koker over høy varme, og rør konstant. Reduser varmen til medium; kok, og rør konstant, i 30 minutter, eller til blandingen blir tykkere. Ikke overkoke.
-2. Oppbevar i kjøleskapet, dekket, til du er klar til å bruke det; denne chutneyen holder i flere uker. Det er godt å serve med alle slags kjøtt eller som forrett med kjeks over fløteskrim.
+1. Ha søte kirsebær, tørkede sure kirsebær, sukker, eddiksyre, valnøtter, kanel, nellik, ingefær, salt og cayennepepper i en tykk gryte; bland godt. Varm opp til det koker på høy varme, og rør jevnlig. Senk varmen til middels; kok, og rør jevnlig, i 30 minutter, eller til blandingen tykner. Unngå å koke den for lenge.
+2. Oppbevar i kjøleskapet, dekket, til du skal bruke den; denne chutneyen holder i flere uker. Den smaker godt til alle typer kjøtt, eller som forrett med kjeks og fløteskrim.
 
 ## Info
 

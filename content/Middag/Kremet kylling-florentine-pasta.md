@@ -5,9 +5,9 @@ created: 2022-01-04
 ![[Bilder/Kremet kylling-florentine-pasta.jpg|300]]
 Kremet og trøstefull pastagrateng med kylling og spinat. Det ristede brødsmuletoppen gir en hyggelig knasende kontrast. Skaler opp pastaen for flere munner.
 
-**Porsjoner**: 8  
-**Tid**: 75 min (20 prep + 55 cook)  
-**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/285990/creamy-chicken-florentine-pasta/)  
+**Porsjoner**: 8
+**Tid**: 75 min (20 prep + 55 cook)
+**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/285990/creamy-chicken-florentine-pasta/)
 **Plan to Eat-tag**: Fjærkre
 
 ## Ingredienser

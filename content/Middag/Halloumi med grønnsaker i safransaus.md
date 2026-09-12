@@ -8,7 +8,7 @@ created: 2017-11-03
 - 1 ss olivenolje
 - 4 dl grønnsaksbuljong
 
-- ca 1/2 g safran
+- ca. 1/2 g safran
 - 1 ts tørket fennikel
 - 1 ts tørket timian
 
@@ -18,7 +18,7 @@ created: 2017-11-03
 - 1 pakke halloumi
 
 - 1/2 - 1 brokkoli, i buketter
-- 10 cherrytomater, delt i to
+- 10 cherrytomater, delt på to
 - salt
 - pepper
 - 2-3 ss crème fraîche
@@ -27,4 +27,4 @@ Selleri og hvitløk freses litt i oljen. Hell  på buljong og la det koke opp. H
 
 Skjær halloumiosten i 1/2 cm tykke skiver, og stek i grillpanne eller på grill hvis du har, ellers kan de stekes i vanlig panne. Noen minutter på hver side til de får litt farge. Sett til side.
 
-Ha brokkoli i gryta på slutten av koketiden. Når koketiden er over har du i tomater og smaker til med salt og pepper. Hell av kraften, og bland den med crème fraîche. Ha sausen på tallerkener og topp med ost og grønnsaker.
+Ha brokkoli i gryta mot slutten av koketiden. Når koketiden er over, tilsetter du tomater og smaker til med salt og pepper. Hell av kraften, og bland den med crème fraîche. Legg sausen på tallerkenene og topp med ost og grønnsaker.

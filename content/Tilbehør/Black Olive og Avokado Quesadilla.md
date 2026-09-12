@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# Black Olive og Avokado Quesadilla
-
 ## Ingredienser
 
-- 1 6-g hermetikk pitted ripe black olives (omtrent 1 1/3 dl)
-- 1 firm-ripe California avokado
-- 1 liten red paprika
-- 1/3 dl hakket frisk koriander sprigs
-- 2 ss finely hakket red løk
-- 1 1/2 ss frisk lime saft
+- 1 6-g hermetiserte, modne, svarte oliven (omtrent 1 1/3 dl)
+- 1 faste, modne California-avokadoer
+- 1 liten, rød paprika
+- 1/3 dl hakket, frisk koriander
+- 2 ss finhakket rød løk
+- 1 1/2 ss fersk limesaft
 - 4 6- til 7-cm mel tortillas
-- 1/2 ts vegetarolje
-- 1 1/3 dl revnet pepper Jack ost (omtrent 5 g)
+- 1/2 ts vegetabilsk olje
+- 1 1/3 dl revet pepperjackost (omtrent 5 g)
 
 ## Fremgangsmåte
 

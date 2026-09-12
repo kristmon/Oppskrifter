@@ -2,35 +2,33 @@
 created: 2026-05-05
 ---
 
-# Chicken Potpie in a Bowl
-
 ## Ingredienser
 
-- 1 (9-inch) pie shell, thawed
-- 5 dl Nestlé Carnation® Evaporated melk
-- 2 ss smør
-- 7,5 dl frozen mixed vegetables, thawed and drained
-- 1 3/10 dl kyllingbuljong
-- 0,6 dl all-purpose mel
-- 2 1/5 dl diced cooked kylling
-- 1 1/2 ts chopped fresh rosmarin
-- 1 ts powdered kylling bouillon bland
-- 1/4 ts crushed dried tarragon
-- 1/4 ts salt, or to taste
-- 1/4 ts ground black pepper
+- 1 (9 -inch) paideform, tintet.
+- 5 dl usøtet kondensert melk.
+- 2 ss smør.
+- 7,5 dl frosne blandede grønnsaker, tintet og avrent.
+- 1 3/10 dl kyllingkraft.
+- 0,6 dl hvetemel.
+- 2 1/5 dl ferdigkokt, i terninger kuttet kylling.
+- 1 1/2 ts finhakket fersk rosmarin.
+- 1 ts pulverisert kyllingbuljongblanding.
+- 1/4 ts knust, tørket tarragon.
+- 1/4 ts salt, eller etter smak.
+- 1/4 ts malt svart pepper.
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 350°F.
-2. Using cookie cutters, cut out pastry into shapes; brush lightly with evaporated melk and place on foil-lined baking sheet. bak in ovn for 15 minutter eller til browned.
-3. In a heavy saucepan, melt smør over medium-high varm; kok mixed vegetables, stirring often, for 2 to 3 minutter eller til softened. tilsett broth.
-4. In a small bowl, gradually rør 1 cup evaporated melk into mel til smooth; rør into broth. tilsett kylling, rosmarin, kylling bouillon bland and tarragon; kok, stirring, over medium varm til just boiling and thickened. tilsett salt and pepper to taste.
-5. Spoon into serving bowls; top each with baked pastry cutouts.
+1. Forvarm ovnen til 177 °C.
+2. Bruk kakeutstikkere til å skjære ut figurer fra deigen; pensle lett med melk og legg på et stekebrett kledd med aluminiumsfolie. Stek i ovnen i 15 minutter, eller til de er gyllenbrune.
+3. I en tykkbunnet kjele, smelt smør over middelhøy varme. Kok blandet grønnsaksblanding, rør ofte, i 2 til 3 minutter, eller til den er myk. Tilsett kraft.
+4. I en liten bolle, visp gradvis 2,4 dl melk inn i melet til du får en jevn masse. Rør inn i kraften. Tilsett kylling, rosmarin, kyllingbuljongblanding og tarragon. Kok opp under omrøring over middels varme til det begynner å fosskoke og tykner. Tilsett salt og pepper etter smak.
+5. Fordel i serveringsskåler; topp hver skål med de stekte figurene.
 
 ## Info
 
 - **Porsjoner**: 5
-- **Preparation Time**: 15 minutes
-- **Cooking Time**: 20 minutes
+- **Forberedelsestid**: 15 minutter
+- **Tilberedningstid**: 20 minutter
 - **Type**: Main Dish, Poultry
 - **Kilde**: Nestlé, www.verybestmeals.com

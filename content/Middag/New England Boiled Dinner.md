@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# New England Boiled Dinner
-
 ## Ingredienser
 
-- 4 kg (to 5) kg (approx. 2 kg) corned storfekjøtt
-- 10 medium-sized beets, peeled
-- 3 parsnips, peeled and cut into large pieces
-- 6 large gulrøtter, scrubbed and cut into large pieces
-- 3 turnips, peeled and quartered
-- 10 small løk, peeled
-- 6 medium-sized poteter, scrubbed and quartered
-- 1 head cabbage, cut into wedges
-- Dijon style sennep and prepared horseradish as condiments.
-- 2 medium løk, peeled and quartered and cooked with the meat
-- 2 bay leaves
+- 4 kg (opp til 5) kg saltet storfekjøtt (ca. 2 kg)
+- 10 mellomstore rødbeter, skrelt
+- 3 palsternakker, skrelt og kuttet i store biter
+- 6 store gulrøtter, vasket og kuttet i store biter
+- 3 neper, skrelt og delt i fire
+- 10 små løk, skrelt
+- 6 mellomstore poteter, vasket og delt i fire
+- 1 kålhode, delt i trekantede biter
+- Dijonsennep og ferdig revet reddik som tilbehør.
+- 2 mellomstore løk, skrelt og delt i fire, og kokt sammen med kjøttet
+- 2 laurbærblader
 - 1 ts salt
-- 10 (or more to taste) black peppercorns
-- 1 peeled clove hvitløk, chopped
-- 4 whole cloves
+- 10 (eller mer, etter smak) hele pepperkorn
+- 1 fedd hvitløk, skrelt og finhakket
+- 4 hele nelliker
 
 ## Fremgangsmåte
 
-1. Place the corned storfekjøtt along with the pickling liquid, løk and spices in a large pot and tilsett enough vann to cover it. la småkoke for about one time per pound, adding vann as necessary to keep the storfekjøtt covered.
-2. Remove from the liquid, leaving the liquid in the pot, and place in a shallow baking dish or other container. Place a cutting board or other baking dish on top, and place several heavy weights (cans of food, cast iron cookware, etc) on top to compress it.
-3. Kok the beets in a separate pot for 30 to 45 minutter, til mør. Meanwhile tilsett the parsnips, gulrøtter, and turnips to the storfekjøtt cooking liquid and la småkoke for 30 minutter. tilsett the poteter and la småkoke for an additional 15 minutter, then tilsett the cabbage wedges and la småkoke 15 minutter more.
-4. skjær i skiver the storfekjøtt and arrange with the vegetables on a large, deep platter, along with a generous amount of the cooking liquid.
+1. Legg saltet storfekjøtt, saltlake, løk og krydder i en stor kjele, og tilsett nok vann til at kjøttet er dekket. La det småkoke i omtrent én time per kilo, og tilsett mer vann ved behov for å holde kjøttet dekket.
+2. Ta kjøttet ut av saltlaken, men la laken stå i kjelen. Legg kjøttet i en grunn form eller annen beholder. Legg et skjærebrett eller en annen form oppå, og legg flere tunge vekter (matbokser, støpejernsgryter osv.) oppå for å presse kjøttet.
+3. Kok rødbetene i en egen kjele i 30 til 45 minutter, til de er møre. I mellomtiden, tilsett pastinakk, gulrøtter og kålrot i kjøttkraften, og la det småkoke i 30 minutter. Tilsett potetene og la det småkoke i ytterligere 15 minutter, og tilsett deretter kålwedgeene og la det småkoke 15 minutter til.
+4. Skjær kjøttet i skiver og legg det sammen med grønnsakene på et stort, dypt fat, sammen med en raus mengde av kraften.
 
 ## Info
 

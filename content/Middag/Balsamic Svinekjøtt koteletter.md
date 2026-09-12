@@ -2,22 +2,20 @@
 created: 2026-05-05
 ---
 
-# Balsamic Svinekjøtt koteletter
-
 ## Ingredienser
 
-- 8 beinløs svinekjøtt koteletter, omtrent ¾-cm thick
-- 12 g (1 ½ dl) balsamic vinaigrette dressing
+- 8 benfrie svinekoteletter, ca. 2 cm tykke
+- 1,5 dl balsamicovinaigrette
 
 ## Fremgangsmåte
 
-1. Plasser koteletter i stor, resealable bag; hell vinaigrette dressing over. Seal bag og Kjøl for 2 til 24 timer.
-2. Prepare Medium-hot grill.
-3. Fjern koteletter fra marinade og pat dry. Discard resterende marinade. grill koteletter directly over varm for omtrent 8 til 10 minutter, vending en gang.
-4. Servér ønsket number av koteletter for dinner; wrap og Kjøl resterende koteletter for up til three days.
+1. Legg kotelettene i en stor pose med lukking og hell vinaigretten over. Lukk posen og mariner i kjøleskapet i 2–24 timer.
+2. Gjør klar grillen på middels høy varme.
+3. Ta kotelettene ut av marinaden og tørk dem. Kast resten av marinaden. Grill kotelettene direkte over varmen i 8–10 minutter og vend dem én gang.
+4. Server ønsket antall koteletter. Pakk inn restene og oppbevar dem i kjøleskapet i opptil tre dager.
 
 ## Info
 
 - **Porsjoner**: 8
 - **Type**: Hovedrett, Kjøtt
-- **Kilde**: National Svinekjøtt Brett, www.theotherwhitemeat.com
+- **Kilde**: National Pork Board, www.theotherwhitemeat.com

@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Gazpacho Pasta Salad
-
 ## Ingredienser
 
-- 8 oz Rotini, Twists or Spirals, uncooked
-- 4 medium ripe tomatoes, peeled, seeded and chopped
-- 1/2 cup sliced green onions (scallions)
-- 1/2 cup peeled, seeded and chopped cucumber
-- 1 clove garlic, minced
-- 2 Tbs chopped cilantro, or 2 tsp. dried cilantro
-- 2 Tbs olive oil
-- 1 Tbs red or white wine vinegar
-- 1 tsp salt
-- Cayenne pepper to taste
+- 227 g rotini, vridde eller spiralformede pasta, uten tilberedning
+- 4 middels store, modne tomater, skrelt, uten kjerner og hakket
+- 1,2 dl skivede vårløk
+- 1,2 dl agurk, skrelt, uten kjerner og hakket
+- 1 fedd hvitløk, finhakket
+- 2 ss hakket koriander, eller 2 ts tørket koriander
+- 2 ss olivenolje
+- 1 ss rødvinseder eller hvitvinedder
+- 1 ts salt
+- Cayennepepper etter smak
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; drain. Combine pasta with remaining ingredients. Cover and chill at least 1 hour.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet. Bland pastaen med de resterende ingrediensene. Dekk til og sett i kjøleskapet i minst én time.
 
 ## Info
 

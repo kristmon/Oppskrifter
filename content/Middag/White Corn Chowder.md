@@ -2,33 +2,31 @@
 created: 2026-05-05
 ---
 
-# White Corn Chowder
-
-*Serve this hearty chowder on a chilly fall evening.*
+Server denne fyldige fiskesuppen på en kjølig høstkveld.
 
 ## Ingredienser
 
-- 2 oz smør
-- 1 medium løk, diced
-- 3 stalks selleri, diced
-- 2 gulrøtter, peeled and diced
+- 57 g smør
+- 1 middels løk, i små terninger
+- 3 stilker selleri, i små terninger
+- 2 gulrøtter, skrelt og i små terninger
 - 2 ss mel
-- 5 dl kyllingbuljong
+- 5 dl kyllingkraft
 - 10 dl melk
-- 2 medium poteter, diced and boiled
-- 7,5 dl White mais
-- salt to taste
-- pepper to taste
+- 2 middels poteter, i terninger og kokt
+- 7,5 dl mais
+- salt etter smak
+- pepper etter smak
 
 ## Fremgangsmåte
 
-1. Melt the smør in a heavy soup pot. tilsett the løk, selleri, and gulrøtter. kok over medium varm til just soft.
-2. Sprinkle on the mel and kok for 3 minutter, stirring frequently. rør in the broth. rør in the melk. varm til steaming. tilsett the cooked poteter and mais.
-3. Kok for 45-55 minutter over low varm. Check the seasoning. servér warm.
+1. Smelt smøret i en tykk kjele. Tilsett løk, selleri og gulrøtter. Kok opp på middels varme til de er myke.
+2. Strø over melet og kok i 3 minutter, rør ofte. Rør inn kraften. Rør inn melken. Varm opp til den er dampvarm. Tilsett kokte poteter og mais.
+3. Kok på svak varme i 45 – 55 minutter. Smak til. Server varmt.
 
 ## Info
 
 - **Porsjoner**: 4
-- **Preparation Time**: 3 minutes
+- **Forberedelsestid**: 3 minutter
 - **Type**: Soup
 - **Kilde**: Living Cookbook Staff, www.livingcookbook.com

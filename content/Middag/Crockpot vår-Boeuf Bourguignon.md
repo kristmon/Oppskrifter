@@ -5,9 +5,9 @@ created: 2020-09-02
 ![[Bilder/Crockpot vår-Boeuf Bourguignon.jpg|300]]
 God greie. Serverte med ris. Kan sikkert bruke noe brød også. Kan stå 6–10 timer. Gang nr to brukte jeg fårikålkjøtt og hverdagslam-strimler. Sistnevnte ble noe tørt, mens fårikålkjøttet var veldig godt.
 
-**Porsjoner**: 6  
-**Tid**: 565 min (25 prep + 540 cook)  
-**Kilde**: [delish.com](https://www.delish.com/cooking/recipe-ideas/recipes/a46976/slow-cooker-spring-beef-bourginon-recipe/)  
+**Porsjoner**: 6
+**Tid**: 565 min (25 prep + 540 cook)
+**Kilde**: [delish.com](https://www.delish.com/cooking/recipe-ideas/recipes/a46976/slow-cooker-spring-beef-bourginon-recipe/)
 **Plan to Eat-tag**: Crock Pot
 
 ## Ingredienser
@@ -27,5 +27,5 @@ God greie. Serverte med ris. Kan sikkert bruke noe brød også. Kan stå 6–10 
 
 ## Fremgangsmåte
 
-1. Varm en stor stekepanne på middels-høy varme. Vend kjøttet med oljen mens den varmes opp. Brun kjøttet i porsjoner, 3 minutter per side. Mellom hver porsjon: deglassér pannen med litt rødvin, skrap opp brunede rester med en tresleiv. Hell over i slow cooker etter hvert som kjøttet er klart.
-2. Tilsett kjøttkraft, sopp, gulrøtter, løk, hvitløk, timian, rosmarin og resten av rødvinen i slow cooker. Kok på høy i 6–7 timer til kjøttet faller fra hverandre. Tretti minutter før servering: fjern urtene og tilsett asparges. Kok til aspargesen er akkurat mør. Pynt med persille og server.
+1 . Varm en stor stekepanne på middels høy varme. Vend kjøttet i olje mens pannen varmes opp. Brun kjøttet i porsjoner, 3 minutter per side. Mellom hver porsjon: hell i litt rødvin i pannen og skrap opp de brunede restene med en tresleiv. Hell over i en slow cooker etter hvert som kjøttet er ferdig.
+ 2 . Tilsett kjøttkraft, sopp, gulrøtter, løk, hvitløk, timian, rosmarin og resten av rødvin i slow cookeren. Kok på høy varme i 6 – 7 timer, til kjøttet faller fra hverandre. Tretti minutter før servering: fjern urtene og tilsett asparges. Kok til aspargesen er akkurat mør. Pynt med persille og server.

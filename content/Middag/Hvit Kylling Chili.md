@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Hvit Kylling Chili
-
 ## Ingredienser
 
-- 450 g tørt hvit bønner
-- 1500 ml kylling kraft
-- 2 hvitløk fedd, knust
-- 1,5 løk, hakket
-- 225 g grønn chili pepper, hakket
-- 10 ml kummen
+- 450 g tørre, hvite bønner
+- 1500 ml kyllingbuljong
+- 2 fedd hvitløk, knust
+- 1,5 løk, finhakket
+- 225 g grønn chili, finhakket
+- 10 ml spisskummen
 - 7,5 ml oregano
 - 5 ml nellik
-- 1 ml cayenne pepper
-- 1000 ml hakket kokt kylling
-- 750 ml kylling kraft
+- 1 ml cayennepepper
+- 1000 ml kokt kylling, grovhakket
+- 750 ml kyllingbuljong
 
 ## Fremgangsmåte
 
-1. I stor kjele kombinerer du tørt hvit bønner, kylling kraft, knust hvitløk fedd og 1 hakket løk. Bring til kok, reduser varmen og simrer, dekket, til bønnene er møre, cirka 2 til 3 timer.
-2. I stor stekepanne, bløt 250 ml hakket løk til mørt. Tilsett hakket grønn chili pepper, kummen, oregano, nellik og cayenne pepper; bland grundig. Tilsett kokt, hakket kylling og kylling kraft. Simrer i 1 time.
+1. I en stor kjele kombinerer du tørkede, hvite bønner, kyllingkraft, finhakket hvitløk og 1 finhakket løk. Kok opp, reduser varmen og la det småkoke, under lokk, til bønnene er myke, i omtrent 2 til 3 timer.
+2. I en stor stekepanne, fres 250 ml finhakket løk til den er myk. Tilsett finhakket grønn chili, spisskummen, oregano, nellik og cayennepepper; bland godt. Tilsett kokt, hakket kylling og kyllingkraft. La det småkoke i 1 time.
 
 ## Info
 

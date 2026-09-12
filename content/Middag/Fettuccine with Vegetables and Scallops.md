@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Fettuccine with Vegetables and Scallops
-
 ## Ingredienser
 
-- 12 oz Fettuccine, uncooked
-- 2 Tbs olive or vegetable oil
-- 2 stalks celery, julienned
-- 1 red bell pepper, julienned
-- 2 carrots, julienned
-- 3 green onions, julienned
-- 1 lb raw ocean scallops or bay scallops
-- 1/2 cup fresh orange juice
-- Red pepper flakes to taste
-- 1 tsp grated orange zest
-- 3/4 cup grated Romano cheese
-- Parsley for garnish
+- 34 g fettuccine, ukokt
+- 2 ss olje (oliven- eller vegetabilsk)
+- 2 stilker selleri, i tynne strimler
+- 1 rød paprika, i tynne strimler
+- 2 gulrøtter, i tynne strimler
+- 3 vårløk, i tynne strimler
+- 455 g ferske kamskjell eller buescalloper
+- 1,2 dl fersk appelsinjuice
+- Chiliflak etter smak
+- 1 ts revet appelsinskall
+- 1,8 dl revet romanosalat
+- Persille til pynt
 
 ## Fremgangsmåte
 
-1. Cook pasta according to package directions; drain. Heat oil in large skillet; add celery, peppers, carrots and green onions. Cook, tossing until crisp but tender. Slice scallops in thirds (bay scallops can be used whole). Add to vegetables and toss until opaque, about 1 to 2 minutes. Add orange juice, pepper flakes and orange zest. Cook 2 more minutes; pour over cooked pasta. Toss with cheese. Garnish with parsley.
+1. Kok pastaen etter anvisningene på pakken; sil av vannet. Varm olje i en stor stekepanne; tilsett selleri, paprika, gulrøtter og vårløk. Stek, rør ofte, til grønnsakene er sprø, men møre. Del sjøkrepsene i tre (små sjøkreps kan brukes hele). Tilsett dem til grønnsakene og rør til de er gjennomstekte, ca. 1 til 2 minutter. Tilsett appelsinjuice, chiliflak og appelsinskall. Stek i ytterligere 2 minutter; hell over den kokte pastaen. Bland med ost. Pynt med persille.
 
 ## Info
 

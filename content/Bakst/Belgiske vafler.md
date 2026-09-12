@@ -5,21 +5,21 @@ created: 2021-01-04
 ![[Bilder/Belgiske vafler.jpg|300]]
 Skulle gjerne hatt litt mer flytende røre
 
-**Porsjoner**: 10 (10 PORSJONER)  
-**Tid**: 80 min  
+**Porsjoner**: 10 (10 PORSJONER)
+**Tid**: 80 min
 **Kilde**: [matprat.no](https://www.matprat.no/oppskrifter/kos/belgiske-vafler/)
 
 ## Ingredienser
 
-- 4 egg, skilt i plommer og hviter
-- 0.25 ts salt
+- 4 egg, skilt i plommer og eggehviter
+- 0,25 ts salt
 - 100 g sukker
 - 3 ts vaniljesukker
 - 150 g smeltet smør
-- 3.5 dl melk, runde litt opp?
-- 3.5 dl vann
+- 3,5 dl melk, eventuelt litt mer
+- 3,5 dl vann
 - 25 g fersk gjær
-- 500 g hvetemel, bytt ut med litt fint sammalt
+- 500 g hvetemel, eventuelt erstatt med litt fint sammalt mel
 - 1 ss smeltet smør, til pensling
 
 ## Fremgangsmåte

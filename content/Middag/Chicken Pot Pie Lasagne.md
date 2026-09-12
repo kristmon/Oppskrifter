@@ -2,33 +2,31 @@
 created: 2026-05-05
 ---
 
-# Chicken Pot Pie Lasagne
-
 ## Ingredienser
 
-- 12 pieces Lasagne, uncooked
-- 1 lb boneless, skinless chicken breasts, diced
-- 3 cups sliced fresh mushrooms
-- 1 cup thinly sliced carrots
-- 1/2 cup sliced spring onions
-- 1 cup frozen green peas, thawed and well drained
-- 1 tsp ground thyme
-- 1/2 tsp salt
-- 1/2 cup all-purpose flour
-- 3 1/2 cups skim milk
-- 1/2 cup dry sherry
-- 1/4 tsp ground red pepper (cayenne)
-- 1 15-oz. carton low-fat ricotta cheese
-- 1 1/2 cups grated part-skim mozzarella cheese, divided
-- 1/2 cup grated reduced-fat Swiss cheese
+- 12 lasagneplater, ukokte
+- 455 g kyllingbryst, uten bein og uten skinn, i terninger
+- 7,2 dl ferske sopp i skiver
+- 2,4 dl gulrøtter i tynne skiver
+- 1,2 dl vårløk i skiver
+- 2,4 dl frosne erter, tint og godt drenert
+- 1 ts tørket timian
+- 1/2 ts salt
+- 1,2 dl hvetemel
+- 8,4 dl mager melk
+- 1,2 dl tørr sherry
+- 1/4 ts chilipulver (cayenne)
+- 425 g lett ricotta
+- 3,6 dl revet mager mozzarellaost, delt
+- 1,2 dl revet mager sveitserost
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions. Spray a Dutch oven or large skillet with cooking spray; place over medium-high heat until hot. Add chicken and saute 4 minutes or until cooked through. Drain well and set aside. Recoat Dutch oven with cooking spray and place over medium-high heat until hot. Add mushrooms, carrots and onions; saute 6 minutes. Set aside.
-2. Place flour in a medium saucepan. Gradually add milk, stirring with a wire whisk until blended; stir in sherry. Bring to a boil over medium heat and cook for 5 minutes or until thickened, stirring constantly. Stir in salt and red pepper. Reserve one cup of sauce and set aside.
-3. In a bowl, combine ricotta cheese, 1 cup mozzarella cheese and Swiss cheese.
-4. Preheat oven to 350-o F. Spread 1 cup of the sauce over the bottom of a 13 x 9 x 2-inch pan. Arrange 4 pieces of the lasagne (3 lengthwise, 1 widthwise) over the sauce. Top with half of ricotta cheeese mixture, half of chicken mixture and half of remaining sauce mixture. Repeat layers, ending with 4 pieces of lasagne. Spread reserved 1 cup of sauce over the last complete layer of lasagne, being sure to cover the lasagne completely.
-5. Cover lasagne with foil and bake 1 hour. Uncover lasagne, sprinkle remaining 1/2 cup mozzarella cheese on top and bake an additional 5 minutes uncovered. Re-cover and let stand 15 minutes before serving.
+1. Kok pastaen etter anvisningene på pakken. Spray en jerngryte eller stor stekepanne med olje; sett over middelhøy varme til den er varm. Tilsett kylling og stek 4 minutter, eller til den er gjennomstekt. Hell av vannet og sett til side. Spray jerngryten på nytt med olje og sett over middelhøy varme til den er varm. Tilsett sopp, gulrøtter og løk; stek 6 minutter. Sett til side.
+2. Ha mel i en middels stor kjele. Tilsett melken gradvis, mens du rører med en visp til det er blandet; rør inn sherry. Kok opp over middels varme og kok i 5 minutter, eller til den tykner, mens du rører konstant. Rør inn salt og chilipulver. Reserver en desiliter av sausen og sett til side.
+3. I en bolle, bland ricottaost, 2,4 dl mozzarellaost og sveitserost.
+4. Forvarm ovnen til 175 °C. Fordel 2,4 dl av sausen i bunnen av en form på ca. 23 × 33 cm. Legg fire lasagneplater over. Fordel halvparten av ricottablandingen, halvparten av kyllingblandingen og halvparten av den resterende sausen over. Gjenta lagene og avslutt med fire lasagneplater. Fordel den reserverte sausen over slik at platene er helt dekket.
+5. Dekk lasagneformen med aluminiumsfolie og stek i 1 time. Fjern folien, strø den resterende 1,2 dl mozzarellaost over og stek i ytterligere 5 minutter uten folie. Dekk til igjen og la den stå i 15 minutter før servering.
 
 ## Info
 

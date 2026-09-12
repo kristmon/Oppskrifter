@@ -24,6 +24,6 @@ Sitronglasur:
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 175 °C. Sikt sammen mel, bakepulver og salt, sett til side. Visp sukker og smør lyst og luftig. Tilsett sitronskall, vaniljeekstrakt og egg, ett om gangen, pisk godt mellom hver tilsetning. Tilsett melblandingen vekselvis med yoghurten, pisk til en glatt røre. Stek i en brødform i 40–45 minutter, eller til en tannpirker stukket i midten kommer ut ren.
-2. Lag sitronglasur: rør sammen ½ dl sukker og 2 ss sitronsaft i en liten bolle til sukkeret er løst opp.
-3. Smør glasuren over toppen og sidene av kaken til alt er brukt opp. Strø melis over og nyt.
+1. Forvarm ovnen til 175 °C. Bland mel, bakepulver og salt i en bolle, sett til side. Visp sukker og smør lyst og luftig. Tilsett sitronskall, vaniljeekstrakt og egg, ett om gangen, og pisk godt mellom hver gang. Tilsett melblandingen vekselvis med yoghurt, og pisk til deigen er jevn. Stek i en brødform i 40 – 45 minutter, eller til en kakepinne stukket i midten kommer ut ren.
+2. Lag sitronglasur: Rør sammen ½ dl sukker og 2 ss sitronsaft i en liten bolle til sukkeret er oppløst.
+3. Smør glasuren over toppen og sidene av kaken, og bruk opp alt. Strø melis over og nyt.

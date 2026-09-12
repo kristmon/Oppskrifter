@@ -8,11 +8,11 @@ Enchilada er en kjempegod mexicansk rett som dessuten er kjempeenkel å lage. Ma
 ![[Bilder/Enchilada1.jpg|300]]
 
 - 6 maistortillaer
-- Enchiladasaus (oppskrift under) 
-- Grønnsaksfyll (oppskrift under) 
+- Enchiladasaus (oppskrift under)
+- Grønnsaksfyll (oppskrift under)
 - 1 pose revet ost
 
-Sett stekeovnen på 175º C/350º F.Varm tortillaene i mikroen i 30 sekunder. Dypp de så i enchiladasaus slik at de dekkes av saus på begge sider. Legg de i en stabel på en tallerken. Når alle er dekket med saus, heller du litt saus i bunnen av formen, men spar på mesteparten av sausen, for den skal på toppen etterpå. Tilsett litt mer vann i sausen om det er lite igjen. Begynn med å legge litt ost på den øverste tortillaen, deretter grønnsaksfyll, og rull sammen. Legg tortillaen i formen. Gjenta med de andre tortillaene, men spar litt av osten. Til slutt heller du over resten av enchiladasausen, og strør over resten av osten. Sett inn i forvarmet ovn i ca 20 minutter. Så er det klart til å spises!
+Forvarm ovnen til 175 °C / 350 °F. Varm tortillaene i mikrobølgeovnen i 30 sekunder. Dypp deretter tortillaene i enchiladasaus, slik at de er dekket med saus på begge sider. Legg dem i en stabel på en tallerken. Når alle er dekket med saus, heller du litt saus i bunnen av formen, men sett av mesteparten av sausen, da den skal på toppen senere. Tilsett litt mer vann i sausen hvis det er lite igjen. Begynn med å legge litt ost på den øverste tortillaen, deretter grønnsaksfyllet, og rull sammen. Legg tortillaen i formen. Gjenta med de andre tortillaene, men sett av litt ost. Til slutt heller du over resten av enchiladasausen og strør over resten av osten. Sett formen inn i den forvarmede ovnen i ca. 20 minutter. Nå er den klar til servering!
 
 ![[Bilder/Enchilada2.jpg|300]]
 
@@ -25,10 +25,10 @@ Enchilada saus
 - 1 ts chilipulver
 - 1 ts spisskummen
 
-Rødløk og hvitløk surres i litt olje til de er myke. Ha i resten av ingrediensene og bland godt sammen. Sausen skal være så tykk at om du dypper en sleiv ned i sausen og løfter den opp igjen, så skal det ikke dryppe fra sleiven. Men den bør ikke være for tykk heller. Juster buljong og tomatpuré til du får riktig konsistens. Sausen trenger ikke varmes opp, men la den ligge i panna inntil du trenger den. 
+Rødløk og hvitløk surres i litt olje til de er myke. Ha i resten av ingrediensene og bland godt sammen. Sausen skal være så tykk at om du dypper en sleiv ned i sausen og løfter den opp igjen, så skal det ikke dryppe fra sleiven. Men den bør ikke være for tykk heller. Juster buljong og tomatpuré til du får riktig konsistens. Sausen trenger ikke varmes opp, men la den ligge i panna inntil du trenger den.
 
-Grønnsaksfyll
-- olje
+Grønnsaksfyll:
+- Olje
 - 1/2 løk, finhakket
 - 1/2 squash, finhakket
 - 1/4 rød paprika, finhakket
@@ -36,6 +36,6 @@ Grønnsaksfyll
 - Salt
 - Pepper
 
-Løk, squash, paprika og jalapeño stekes litt i olje til de er blitt myke. Krydre med salt og pepper.
+Løk, squash, paprika og jalapeño stekes lett i olje til de er myke. Krydre med salt og pepper.
 
 ![[Bilder/Enchilada3.jpg|300]]

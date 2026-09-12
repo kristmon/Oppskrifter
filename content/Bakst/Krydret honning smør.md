@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Krydret honning smør
-
 *En frisk snop til muffins og rundstykker.*
 
 ## Ingredienser

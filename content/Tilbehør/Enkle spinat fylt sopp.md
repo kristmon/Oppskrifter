@@ -2,17 +2,15 @@
 created: 2026-05-05
 ---
 
-# Enkle spinat fylt sopp
-
 ## Ingredienser
 
-- 16 hver stor Frisk white sopp
-- 1 pkg (12 g.) fryst spinat souffle, thawed
+- 16 store, ferske, hvite sopper
+- 1 pakke (12 g) frossen spinatsufflé, tint
 
 ## Fremgangsmåte
 
-1. forvarme ovn til 400 grader. Fjern sopp stems. Spray begge sides av caps med ikke-stekepanne matspray. Plasser caps, cavity side down, på en grunn baking panne.
-2. Bak til mørt og gyllent, omtrent 10 minutter. Vend caps cavity side up. Fill hver cap med spinich souffle. Bak til hot, omtrent 10 minutter.
+1. Forvarm ovnen til 400 grader. Fjern stilken fra soppen. Spray begge sider av hatten med stekespray beregnet for bruk i ovn. Plasser hatten, med hulrommet ned, på et stekebrett.
+2. Stek til den er myk og gyllen, omtrent 10 minutter. Vend hatten, med hulrommet opp. Fyll hver hatt med spinatsufflé. Stek til den er varm, omtrent 10 minutter.
 
 ## Info
 

@@ -5,8 +5,8 @@ created: 2020-10-22
 ![[Bilder/Appelsin-gulrot-smoothie.jpg|300]]
 En sunn smoothie med gulrot og appelsin.
 
-**Porsjoner**: 1  
-**Tid**: 5 min  
+**Porsjoner**: 1
+**Tid**: 5 min
 **Kilde**: [jensfavoritecookies.com](http://jensfavoritecookies.com/2013/09/20/orange-carrot-smoothie/)
 
 ## Ingredienser

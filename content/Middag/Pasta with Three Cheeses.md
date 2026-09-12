@@ -2,25 +2,24 @@
 created: 2026-05-05
 ---
 
-# Pasta with Three Cheeses
-
 ## Ingredienser
 
-- 1 lb Elbow Macaroni, Wagon Wheels or other medium pasta shape, uncooked
+- 455 g Elbow Macaroni, Wagon Wheels or other medium pasta shape, uncooked
 - 4 Tbs margarine
 - 4 Tbs flour
-- 1 tsp dry mustard
-- 4 cups skim milk, room temperature
-- Salt and freshly ground black pepper to taste
+- 1 ts dry mustard
+- 9,6 dl skim milk, room temperature
+- Salt og ferskmalt svart pepper, etter smak.
 - 1 15-oz. container part-skim ricotta cheese
-- 8 oz white or yellow low-fat Cheddar cheese, grated and divided
-- 1/2 cup grated Parmesan cheese, divided Chopped fresh parsley for garnish
+- 227 g naturell eller gul, mager cheddarost, revet og delt opp.
+- 1,2 dl revet parmesanost, fordelt.
+Finhakket, fersk persille til pynt.
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; drain.
-2. Heat margarine in a large saucepan over medium heat until melted. Add flour and stir until flour is lightly golden, about 2 to 3 minutes. Add dry mustard. Gradually whisk in the milk until smooth. Cook until the sauce boils and is thickened, whisking constantly over low heat, about 10 minutes. Season with salt and freshly ground black pepper.
-3. In a mixing bowl, combine pasta with ricotta cheese, half of the Cheddar cheese, and half of the Parmesan cheese. Add the sauce. Spoon into a lightly oiled 9 x 13-inch baking dish. Sprinkle remaining Cheddar and Parmesan cheese on top. Bake at 350° F until browned on top, about 30 minutes. Let cool for 10-15 minutes before serving. Garnish with chopped fresh parsley.
+1 . Kok pastaen etter anvisningene på pakken; sil av vannet.
+ 2 . Varm smør i en stor kjele over middels varme til det er smeltet. Tilsett mel og rør til melet er lett gyllen, i omtrent  2  til  3  minutter. Tilsett tørket sennep. Visp gradvis inn melken til blandingen er jevn. Kok til sausen koker og tykner, rør hele tiden over svak varme, i omtrent  10  minutter. Smak til med salt og ferskmalt svart pepper.
+ 3 . I en blandebolle, bland pasta med ricotta, halvparten av cheddarosten og halvparten av parmesanosten. Tilsett sausen. Hell blandingen i en smurt ildfast form som er  9 x 13  tommer bred. Strø over resten av cheddar- og parmesanosten. Stek i  177  °C til toppen er gyllen, i omtrent  30  minutter. La retten avkjøles i  10 - 15  minutter før servering. Pynt med hakket, fersk persille.
 
 ## Info
 

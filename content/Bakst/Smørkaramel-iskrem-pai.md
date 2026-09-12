@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Smørkaramel-iskrem-pai
-
 *En glatt, smørkaramel-smakssaus dotter med ristet pekannøtter er frossen i en graham-krumellkrust for en deilig dessert.*
 
 ## Ingredienser
 
 - 250 ml graham-krumell
 - 75 ml finhakket, ristet pekannøtter
-- 75 ml smør, smeltet (vi anbefaler LAND O LAKES® Smør)
+- 75 ml smør, smeltet
 
 **Fyll**
 - 500 ml tung krem, delt
 - 2 store egg
 - 0,5 ml muskatnøtt
-- 400 ml (300 g pakke) NESTLÉ® TOLL HOUSE® Smørkaramel-smaksbiter
+- 400 ml (300 g pakke) Smørkaramel-smaksbiter
 - 150 ml hakket pekannøtter, ristet, delt
 
 ## Fremgangsmåte
 
-1. Kombiner graham-krumell, pekannøtter og smør i liten bolle. Trykk fast på bunnen og 2,5 cm opp siden av 23 cm springform-panne. Kjøl.
-2. Kombiner 125 ml krem, egg og muskatnøtt i medium, tykk gryte. Kok over medium-lav varme til blandingen er litt fortykket, rør konstant. Fjern fra varme; tilsett biter. La stå i 3 minutter; rør til glatt. Kjøl til romtemperatur.
-3. Pisk gjenværende krem i kjølt liten mixer-bolle til stive topper dannes; fold inn i smørkaramel-blanding. Hell halvparten av blandingen i krust; strø med 75 ml pekannøtter. Skje gjenværende fyll over nøtt-laget. Strø med gjenværende nøtter. Frys i 3 timer eller til fast.
+1. Bland graham-kjeks, pekannøtter og smør i en liten bolle. Press blandingen godt utover bunnen og 2,5 cm opp langs kantene av en springform på 23 cm. Avkjøl.
+2. Bland 125 ml krem, egg og muskatnøtt i en middels stor, tykk stekepanne. Kok opp over middels lav varme til blandingen tykner litt, rør hele tiden. Fjern fra varmen; tilsett sjokoladebiter. La stå i 3 minutter; rør til blandingen er jevn. Avkjøl til romtemperatur.
+3. Pisk resten av kremen i en kald, liten bolle til den stivner og topper dannes; vend forsiktig inn i smørkaramellblandingen. Hell halvparten av blandingen i bunnen; strø over 75 ml pekannøtter. Fordel resten av fyllet over nøttene. Strø over de resterende nøttene. Frys i 3 timer, eller til den er fast.
 
 ## Info
 

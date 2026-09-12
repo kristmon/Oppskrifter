@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Stekt kalkun med sitron og pasta
-
 ## Ingredienser
 
-- 450 g Linguine, Spaghetti eller tynt spaghetti, ukokt
-- 700 g kalkuntynne skiver, skåret i 1 cm strimler
-- 15 ml sojakilde
+- 450 g linguine, spaghetti eller tynn spaghetti, ukokt
+- 700 g kalkunfilet, skjært i strimler på ca. 1 cm
+- 15 ml soyasaus
 - 15 ml hvitvineddik
-- 10 ml stivelsesmel
-- 5 ml sitronepepper
-- 30 ml olivenolje eller vegetarolje
-- 6 medium grønn løk, skåret
-- 1 medium fersk sitron, skåret i 10 tynne skivor og silvret
-- 1 hvitløksfedd, finhakket
-- 1 pose (280 g) fersk spinat, vasket, avløpt og hakket
+- 10 ml maismel
+- 5 ml sitronpepper
+- 30 ml olivenolje eller vegetabilsk olje
+- 6 mellomstore vårløk, finhakket
+- 1 stor, fersk sitron, skåret i 10 tynne skiver og presset
+- 1 fedd hvitløk, finhakket
+- 1 pose (280 g) frisk spinat, vasket, drenert og hakket
 
 ## Fremgangsmåte
 

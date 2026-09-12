@@ -2,37 +2,35 @@
 created: 2026-05-05
 ---
 
-# Hungarian Tokany (stew) of Turkey
-
 ## Ingredienser
 
 - 0,8 dl mel
 - 1 ts salt
 - 1/2 ts pepper
-- 2-1/1 kg kalkun thighs skinned & boned; cut into 1-inch cubes
-- 1 ss vegetarolje divided
-- 7,5 dl løk chopped
-- 1,2 dl sopp sliced
-- 1 Medium grønn paprika sliced into 1/4-inch rings
-- 2 gulrøtter sliced into 1/4-inch rounds
-- 1 Can (16 ounces) no-salt added tomater drained
-- 2,5 dl dry hvitvini
+- 2-1/1 kg kalkunlår, uten skinn og ben; skjært i terninger på 1 centimeter.
+- 1 ss vegetarolje, fordelt
+- 7,5 dl løk, finhakket
+- 1,2 dl sopp, i skiver
+- 1 Medium stor, grønn paprika i skiver, skjært i ringer på 1/4 centimeter.
+- 2 gulrøtter i skiver, skjært i runder på 1/4 centimeter.
+- 1 Boks (454 g) tomater uten tilsatt salt, avrent.
+- 2,5 dl tørr hvitvin
 - 1 ss paprika
 - 1/2 ts marjoram
-- 2,5 dl kalkun broth or reduced-sodium kylling bouillon
-- 12 oz dry broad egg nudler cooked according to package directions
-- 6 ss non-fat surmelk
-- 3 Slices kalkun bacon cooked and crumbled
+- 2,5 dl kalkunbuljong eller redusert natrium kyllingbuljong
+- 340 g tørre, brede eggnudler, kokt etter anvisningen på pakken
+- 6 ss mager, syrnet melk
+- 3 Skiver kalkunbacon, stekt og smuldret.
 
 ## Fremgangsmåte
 
-1. In plastic bag, bland sammen mel, salt and pepper. tilsett kalkun several pieces at a time, shaking to coat.
-2. In 5-quart Dutch ovn, over medium varm, saute one-half of the kalkun cubes in 1 teaspoon olje 4 to 5 minutter. Remove kalkun and reserve. Repeat with remaining kalkun cubes and 1 teaspoon olje.
-3. In Dutch ovn, bland sammen remaining olje and løk, saute and rør løk 4 to 5 minutter eller til translucent. tilsett sopp, grønn paprika rings, carrot rounds, tomater and wine. Bring mixture to kok, reduser varmen and la småkoke 10 minutter. rør in paprika, marjoram, bouillon and kalkun; bring mixture to kok. reduser varmen, cover and la småkoke 1-1/4 to 1-1/2 timer eller til kalkun and gulrøtter are tender.
-4. To servér, spoon kalkun stew over cooked nudler, top with 1 tablespoon surmelk and sprinkle with bacon.
+1. Bland mel, salt og pepper i en pose. Tilsett noen kalkunbiter om gangen og rist til de er dekket.
+2. I en 2-liters gryte, ved middels varme, stekes halvparten av kalkunterningene i 1 teskje olje i 4 til 5 minutter. Fjern kalkunen og sett til side. Gjenta prosessen med resten av kalkunterningene og 1 teskje olje.
+3. I en nederlandsk ovn, bland resten av oljen og løken. Fres løken i 4 til 5 minutter, eller til den er blitt blank. Tilsett sopp, grønn paprika i ringer, gulrot i skiver, tomater og vin. Kok opp blandingen, senk varmen og la den småkoke i 10 minutter. Rør inn paprika, oregano, kraft og kalkun; kok opp blandingen igjen. Senk varmen, dekk til og la den småkoke i 1 time og 15 minutter til 1 time og 30 minutter, eller til kalkunen og gulrøttene er møre.
+4. For å servere, hell kalkungryten over kokt pasta, topp med 1 ss rømme og dryss over bacon.
 
 ## Info
 
 - **Porsjoner**: 6
-- **Type**: Main Dish, Soup
+- **Type**: Hovedrett, Suppe
 - **Kilde**: The National Turkey Federation, www.turkeyfed.org

@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Carolina Grits Souffle
-
-*This wonderful side dish is inspired by a recipe from Ben's mama, fancied up a bit. It's cheeze-a-licious!*
+Denne fantastiske tilbehørsoppskriften er inspirert av en oppskrift fra Bens mor, men vi har gjort den litt finere. Den smaker virkelig godt!
 
 ## Ingredienser
 
-- 5 dl homemade kylling stock + 2,5 dl vann (or use 7,5 dl vann instead)
-- 2,5 dl half-and-half
+- 5 dl hjemmelaget kyllingkraft + 2,5 dl vann (eller bruk 7,5 dl vann i stedet)
+- 2,5 dl melk/fløteblanding
 - 2 ts salt
-- 2,5 dl white grits (preferably stone-ground, definitely not instant)
-- 5 egg, separated
-- 3,8 dl white or yellow sharp cheddar, grated
-- 0,6 dl roasted hvitløk puree or 1 ss minced fresh hvitløk
-- 4 ss unsalted smør
-- salt to taste
-- 1,2 dl scallions, sliced thin crosswise
-- coarsely ground black pepper to taste
-- Tabasco to taste
+- 2,5 dl maisgrøt (helst steinmalt, definitivt ikke instant)
+- 5 egg, delt i eggeplommer og eggehviter
+- 3,8 dl revet cheddar, hvit eller gul
+- 0,6 dl puré av ristet hvitløk, eller 1 ss finhakket, fersk hvitløk
+- 4 ss usaltet smør
+- salt etter smak
+- 1,2 dl vårløk, i tynne skiver på tvers
+- grovmalt svart pepper etter smak
+- Tabasco etter smak
 
 ## Fremgangsmåte
 
-1. smør a 2-quart casserole or souffle dish.
-2. In a 3-quart, heavy-bottomed saucepan, bring the stock, vann, half-and-half, and salt to a kok. rør in the grits, reduce the varm to medium, and kok, stirring often, til thick, smooth, and creamy (the consistency of polenta).
-3. Beat the egg yolks, temper with a spoonful of hot grits, and then rør into the grits. rør in the ost, hvitløk puree, and smør, and season with salt, pepper, and Tabasco to taste. Cool at room temperature.
+1. Smør en 2-liters form for grateng eller soufflé.
+2. I en 3-liters kjele med tykk bunn, varm kraften, vannet, fløten og saltet til kokepunktet. Tilsett grøten, reduser varmen til middels og kok, rør ofte, til den er tykk, jevn og kremete (konsistensen skal være som polenta).
+3. Visp eggeplommene, temper dem med en spiseskje varm grøt, og bland deretter inn i grøten. Bland inn osten, hvitløkpuréen og smøret, og smak til med salt, pepper og Tabasco etter behov. Avkjøl ved romtemperatur.
 
 ## Info
 

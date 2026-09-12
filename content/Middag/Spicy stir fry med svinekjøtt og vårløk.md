@@ -1,7 +1,7 @@
 ---
 created: 2024-09-15
 ---
-**Porsjoner**: 2  
+**Porsjoner**: 2
 **Original-kilde**: Bok: Kickstart effektiv vektnedgang med 1000 kcal-dietten
 
 ## Ingredienser

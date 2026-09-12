@@ -11,8 +11,8 @@ Koshari er en egyptisk rett som egentlig lages med sorte linser og egyptisk, kor
 - 3 ss olje
 - 1/2 løk, skivet
 
-- 1/2 løk, hakket
-- 5 fedd hvitløk, hakket
+- 1/2 løk, finhakket
+- 5 fedd hvitløk, finhakket
 - 1 boks hakkede tomater
 - 1 ts spisskummen
 - 1 ts tørkede chiliflak (eller etter smak)
@@ -22,12 +22,12 @@ Koshari er en egyptisk rett som egentlig lages med sorte linser og egyptisk, kor
 
 - en neve kikerter fra boks
 
-Linsene legges i bløt over natten.
+Linsene legges i vann over natten.
 
-Kok linsene i lettsaltet vann i ca 30 minutter. Kok ris og makaroni etter pakkeanvisning.
+Kok linsene i lettsaltet vann i ca. 30 minutter. Kok ris og makaroni etter pakkeanvisning.
 
 Ha 2 ss av oljen i en panne, og stek den skivede løken til den blir mørkebrun og sprø, på middels til middels høy varme. Ta løken ut av panna og legg til side, men spar på oljen.
 
-Varm den siste spiseskjeen med olje i en liten kjele, og stek den hakkede løken til den begynner å få litt farge. Ha i hvitløk og stek i ca 1 minutt til. Tilsett tomat, spisskummen, chili, salt og pepper. La det småputre under lokk i 20 minutter. Tilsett eddik.
+Varm opp en spiseskje med olje i en liten kjele, og stek den hakkede løken til den begynner å få farge. Tilsett hvitløk og stek i omtrent 1 minutt. Ha i tomat, spisskummen, chili, salt og pepper. La det småkoke under lokk i 20 minutter. Tilsett eddik.
 
-I serveringsskåler legger du et lag med ris, et lag med linser, og så litt makaroni. Hell over tomatsaus. Pynt med sprøstekt løk og kikerter, og drypp litt av oljen du sparte på over toppen.
+I serveringsskåler legger du et lag med ris, et lag med linser, og deretter litt makaroni. Hell over tomatsaus. Pynt med sprøstekt løk og kikerter, og dryss litt av oljen du hadde til overs over.

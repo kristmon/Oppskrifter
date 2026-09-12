@@ -5,8 +5,8 @@ created: 2020-08-13
 ![[Bilder/Enkel hvitløk-ingefær-kylling.jpg|300]]
 Lett og smakfullt!
 
-**Porsjoner**: 4  
-**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/8935/easy-garlic-ginger-chicken/)  
+**Porsjoner**: 4
+**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/8935/easy-garlic-ginger-chicken/)
 **Plan to Eat-tag**: Fjærkre
 
 ## Ingredienser

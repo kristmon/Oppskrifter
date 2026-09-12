@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Blåbær granola stenger
-
 ## Ingredienser
 
 - 1,25 dl honning
@@ -15,9 +13,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 175°C. Lette smør en 23 x 23 cm firkant bakepanne. I en medium gryteerpanne, kombiner honning, brunt sukker, olje og kanel. Bring til koking, og kok i 2 minutter; ikke rør.
-2. I en stor blanding bolle, kombiner havre og blåbær. Rør in honning blandingen til grundig blandet. Spread inn i forberedt pan, forsiktig trykking blanding flat.
-3. Bak til lett brunt, ca 40 minutter. Kjøl fullstendig i pan på en viretrase. Kutt inn 4-8 cm stenger.
+1. Forvarm ovnen til 175 °C. Smør en 23 x 23 cm firkantet bakeform. I en middels stor kjele, bland honning, brunt sukker, olje og kanel. Kok opp, og la det koke i 2 minutter; ikke rør.
+2. I en stor bolle, bland havregryn og blåbær. Hell honningblandingen over, og rør godt til alt er blandet. Fordel blandingen i den forberedte bakeformen, og press den forsiktig utover.
+3. Stek til den er lett brun, ca. 40 minutter. La den avkjøles helt i formen på en rist. Skjær den i stenger på 4 - 8 cm.
 
 ## Info
 

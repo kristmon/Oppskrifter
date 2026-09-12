@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Quick Quesadillas
-
 ## Ingredienser
 
-- 12 oz kalkun breast cubed
-- 1 ss vegetarolje
-- 8 8 inch mel tortillas
-- 5 dl cheddarost shredded
-- 2,5 dl green løk chopped
-- 0,6 dl canned mild jalapeno chile chopped
+- 340 g kalkunbryst i terninger
+- 1 ss vegetabilsk olje
+- 8 hvetetortillaer, ca. 20 cm
+- 5 dl revet cheddar
+- 2,5 dl finhakket vårløk
+- 0,6 dl finhakket, syltet jalapeño
 - 2,5 dl mild salsa
-- As needed surmelk optional
-- As needed guacamole optional
-- As needed salsa optional
+- Surmelk, etter behov, valgfritt
+- Guacamole, etter behov, valgfritt
+- Salsa, etter behov, valgfritt
 
 ## Fremgangsmåte
 
-1. rør-stekk kalkun in olje til the pinkness disappears.
-2. Sprinkle 4 tortillas with kalkun, ost, løk and jalapeno. Drizzle salsa over top.
-3. Cover each tortilla with the remaining tortillas. Place on microwavable plates and microwave on high for 1 to 2 minutter til the ost is melted and the kalkun is heated through.
-4. Cut each tortilla into wedges and servér immediately with optional surmelk, guacamole and salsa.
+1. Stek kalkun i olje til kjøttet er gjennomstekt.
+2. Strø kalkun, ost, løk og jalapeno over 4 tortillas. Dryss salsa over.
+3. Legg hver tortilla med resten av tortillaene. Plasser på tallerkener som tåler mikrobølgeovn, og varm i mikrobølgeovn på høy effekt i 1 til 2 minutter, til osten er smeltet og kalkunen er gjennomvarm.
+4. Del hver tortilla i trekantede stykker og server umiddelbart med eventuelt rømme, guacamole og salsa.
 
 ## Info
 
 - **Porsjoner**: 16
-- **Type**: Appetizer, Poultry
+- **Type**: Forrett, Fjørfe
 - **Kilde**: The National Turkey Federation, www.turkeyfed.org

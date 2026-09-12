@@ -2,9 +2,7 @@
 created: 2026-05-05
 ---
 
-# Caribbean Kylling Salat med Peanuts
-
-*Den crunch av jordnøtter, sweet tang av chutney, og tropical papaya i dette healthy Salat skal ha du dreaming av gentle island breezes i ingen time. Servér dette lovely rett for en spring luncheon eller light supper.*
+*En frisk kyllingsalat med peanøtter, chutney og papaya. Passer godt som en lett lunsj eller middag.*
 
 ## Ingredienser
 
@@ -25,7 +23,7 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en blender eller food processor kombiner jordnøtter, majones, chutney, sukker, eddiksyre og currypulver; bland til smooth. Sett til side.
+1. I en blender eller kjøkkenmaskin, bland jordnøtter, majones, chutney, sukker, eddik og currypulver til en jevn masse. Sett til side.
 2. Toss salat med green løk og del among servering fater. Topp med kylling, papaya slices og bringebær; strø med jordnøtter. Servér med dressing.
 
 ## Info

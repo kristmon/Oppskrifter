@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Kalkun Stekepanne Middag
-
 ## Ingredienser
 
 - 1 ss olivenoljer
@@ -21,10 +19,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. For å forberede dressingen, kombinerer du 1 ss olje, hvitløk, sitronjuice, salt og oregano.
-2. Varm oljen i stekepannen. Omrør kokt kalkun til gyllen brun. Krydder med salt og pepper.
-3. Tilsett spinat; dekk og damp til spinaten er visnet. Kombinerer gjenværende ingrediensene, inkludert dressingen, i en stor bolle og rør.
-4. Tilsett pasta blandingen til kalkunen og rør for å kombinere. Garnér med sorte oliven, hvis ønsket.
+1. For å lage dressingen, blander du 1 ss olje, hvitløk, sitronsaft, salt og oregano.
+2. Varm oljen i en stekepanne. Rør kalkun kjøttet til det er gyllenbrunt. Krydre med salt og pepper.
+3. Tilsett spinat; dekk til og damp til spinaten er myk. Bland alle de resterende ingrediensene, inkludert dressingen, i en stor bolle, og rør godt.
+4. Tilsett pastablandingen til kalkunen og rør for å blande. Pynt med svarte oliven, om ønskelig.
 
 ## Info
 

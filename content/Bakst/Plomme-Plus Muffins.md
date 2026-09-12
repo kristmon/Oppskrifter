@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Plomme-Plus Muffins
-
 ## Ingredienser
 
 - teflon matspray

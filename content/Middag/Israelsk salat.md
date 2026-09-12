@@ -10,6 +10,6 @@ created: 2017-11-04
 - salt
 - pepper
 
-Finhakk grønnsaker og persille, og bland sammen i en bolle. Lag dressing av olje, sitron, salt og pepper, og rør inn i salaten.
+Finhakk grønnsakene og persillen, og bland dem sammen i en bolle. Lag en dressing av olje, sitron, salt og pepper, og rør dressingen inn i salaten.
 
 ![[Bilder/IsraelskSalat.jpg|300]]

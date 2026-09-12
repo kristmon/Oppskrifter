@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Mandelgull wok
-
 ## Ingredienser
 
-- 7 ml rapseolje, delt
-- 2 fedd hvitløk, halvert
-- 125 ml hele blansierte mandler
-- blandede grønnsaker, tynne skivor
-- 10-15 ml frisk ingefær, finhakket
+- 7 ml rapsolje, delt
+- 2 fedd hvitløk, delt
+- 125 ml hele, blansjerte mandler
+- Blandede grønnsaker, i tynne skiver
+- 10-15 ml fersk ingefær, finhakket
 - 75 ml vann
 - 45 ml natriumredusert soyasaus
 - 30 ml maisstivelse
 - Salt etter smak
 - Pepper etter smak
 - 5 ml orientalsk sesamolje (valgfritt)
-- 750 ml kokt brunris
+- 750 ml kokt brun ris
 
 ## Fremgangsmåte
 
-1. Varm 7 ml olje og hvitløk i stor stekepanne med ikke-stikkende overflate over medium varme. Tilsett mandler; kok og rør i ca. 8 minutter til lett brunnet, fjern hvitløk etter 4 minutter. Fjern mandler med slotted spoon; sett til side.
-2. Tilsett gjenværende olje i stekepannen; øk varmen til høy og tilsett grønnsaker og ingefær. Wok, rør ofte, ca. 5 minutter til sprø-mør. Reduser varmen til medium.
-3. I liten bolle, kombiner vann, soyasaus og maisstivelse; bland grundig. Tilsett soyasaus-blandingen til stekepannen; kok og rør ca. 2 minutter til varmt gjennom. Smak til med salt og pepper. Bland inn sesamolje og mandler. Serv med ris.
+1 . Varm  7  milliliter olje og hvitløk i en stor stekepanne med slippbelegg over middels varme. Tilsett mandler; kok og rør i ca.  8  minutter til de er lett brunet. Fjern hvitløken etter  4  minutter. Fjern mandlene med en hullsleiv; sett til side.
+ 2 . Tilsett resten av oljen i stekepannen; øk varmen til høy og tilsett grønnsaker og ingefær. Wok, rør ofte, i ca.  5  minutter til grønnsakene er sprø og møre. Reduser varmen til middels.
+ 3 . I en liten bolle, bland sammen vann, soyasaus og maisstivelse; rør godt. Tilsett soyasausblandingen i stekepannen; kok og rør i ca.  2  minutter til alt er varmt. Smak til med salt og pepper. Bland inn sesamolje og mandler. Server med ris.
 
 ## Info
 

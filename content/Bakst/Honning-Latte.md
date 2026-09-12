@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning-Latte
-
 ## Ingredienser
 
 - 15 ml honning

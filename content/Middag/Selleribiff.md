@@ -8,7 +8,7 @@ created: 2010-04-11
 
 - sellerirot
 - salt
-- egg, lett sammenpisket
+- egg, lett vispet
 - mel
 - smør
 

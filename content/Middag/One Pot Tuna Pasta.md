@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# One Pot Tuna Pasta
-
 ## Ingredienser
 
-- 8 oz Elbow Macaroni, Medium Shells or other medium pasta shape, uncooked
+- 227 Albuepasta, middels store skall eller annen middels stor pastaform, ukokt.
 - 2 1/5 dl vann
-- 2 kylling bouillon cubes
-- 1/8 ts black pepper
-- 1 ts fresh basilikumblader
-- 1 4-oz. jar pimento
-- 1 9-oz. package frozen cut green bønner
-- 2,5 dl skim melk
-- 4 oz low-fat cheddarost, grated
-- 1 6 1/8-oz. can white albacore tuna packed in vann, drained
-- 0,6 dl chopped fresh parsley
+- 2 kyllingbuljongterninger
+- 1/8 ts svart pepper
+- 1 ts ferske basilikumblader
+- 1 4-oz. glass med pimiento
+- 1 9-oz. pakke frosne, hakkede grønne bønner
+- 2,5 dl mager melk
+- 113 g mager cheddarost, revet
+- 1 6 1/8-oz. boks med hvit tunfisk i vann, avrent
+- 0,6 dl hakket, fersk persille
 
 ## Fremgangsmåte
 
-1. Bring vann, bouillon cubes, pepper and basilikumblader to a kok in a 4-quart pot. Gradually tilsett pasta so that vann continues to kok. Cover and la småkoke for 7 minutter, stirring iblant.
-2. Meanwhile, kutt i terninger pimento. rør diced pimento, green bønner and melk into pot; cover and la småkoke 6 to 8 minutter eller til pasta and bønner are tender. rør in ost, tuna and parsley til ost is melted.
-3. servér immediately.
+1. Kok opp vann, buljongterninger, pepper og basilikumblader i en kjele på 4 liter. Tilsett pasta gradvis, slik at vannet fortsetter å koke. Dekk til og la det småkoke i 7 minutter, rør av og til.
+2. I mellomtiden, skjær paprika i terninger. Tilsett terninger av paprika, grønne bønner og melk i kjelen; dekk til og la det småkoke i 6 til 8 minutter, eller til pastaen og bønnene er møre. Rør inn ost, tunfisk og persille til osten er smeltet.
+3. Server umiddelbart.
 
 ## Info
 

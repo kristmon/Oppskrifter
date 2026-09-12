@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Røykt Laks Fettuccine Alfredo
-
 ## Ingredienser
 
 - 340 g Fettuccine, ukokt
@@ -19,8 +17,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Smelt smøret eller margarinen i en gryte over lav varme. Tilsett hvitløken; kok 1 minutt. Tilsett hvetermelet, stir konstant. Tilsett gradvis melken, kok, stir konstant, til det er tyktflytende. Tilsett Parmesanost og fløtekrem; kok og rør til osten er smeltet. Rør inn dill. Sett til side og hold varmt.
-2. Kok fettuccine etter pakningens anvisning; hell av. Plasser i en stor bolle; tilsett laks, kapers og saus. Bland godt. Server umiddelbart.
+1. Smelt smøret eller margarinen i en kjele over svak varme. Tilsett hvitløk; kok i 1 minutter. Tilsett hvetemelet, rør kontinuerlig. Tilsett melken gradvis, kok opp og rør kontinuerlig til sausen tykner. Tilsett parmesan og fløte; kok opp og rør til osten er smeltet. Rør inn dill. Sett til side og hold varm.
+ 
+2. Kok fettuccine etter anvisningene på pakken; hell av vannet. Ha pastaen i en stor bolle; tilsett laks, kapers og saus. Bland godt. Server umiddelbart.
 
 ## Info
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Grøn oliven-pesto
-
 ## Ingredienser
 
 - 1,8 dl steinfrie grønne oliven (helst importert)

@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Pasta with Salmon and Dill
-
 ## Ingredienser
 
-- 1 lb Radiatore, Wagon Wheels or other medium pasta shape, uncooked
-- 1 lb salmon steaks, or one 14-oz. can salmon, drained
-- Freshly ground pepper
-- 4 Tbs chopped fresh dill
-- 3 stalks celery, chopped (1 cup)
-- 1 medium onion, chopped (1 cup)
-- 1 carrot, sliced
-- 2 Tbs vegetable oil
-- 2 Tbs lemon juice
-- 1 Tbs white wine vinegar
+- 455 g pasta, for eksempel radiatore, wagon wheels eller annen middels stor form, uten tilberedning.
+- 455 g laksefilet, eller en 14-oz boks laks, avrent.
+- Nymalt pepper.
+- 4 ss hakket fersk dill.
+- 3 stilker selleri, hakket (2,4 dl).
+- 1 middels stor løk, hakket (2,4 dl).
+- 1 gulrot, i skiver.
+- 2 ss vegetabilsk olje.
+- 2 ss sitronsaft.
+- 1 ss hvitvinseddik.
 
 ## Fremgangsmåte
 
-1. Preheat oven to 350-o F. Prepare pasta according to package directions; drain.
-2. Place the salmon in a non-reactive baking dish; season with pepper. Cover with aluminum foil and bake for 25 minutes. Remove the foil and cool. Remove the skin and bones; discard. Flake the salmon into large pieces and place in a large mixing bowl (If using canned salmon, place directly in the bowl and season with pepper). Add dill, celery, onion, carrot and pasta. In a small bowl, whisk together oil, lemon juice and vinegar. Add salmon and pasta and toss gently. Serve well chilled.
+1. Forvarm ovnen til 175 grader Celsius. Kok pastaen etter anvisningene på pakken; hell av vannet.
+2. Legg laksen i en form som ikke reagerer med maten; krydre med pepper. Dekk formen med aluminiumsfolie og stek i 25 minutter. Fjern folien og la laksen avkjøles. Fjern skinnet og beina; kast dem. Del laksen i store stykker og ha den i en stor blandebolle (Hvis du bruker hermetisk laks, ha den direkte i bollen og krydre med pepper). Tilsett dill, selleri, løk, gulrot og pasta. I en liten bolle, visp sammen olje, sitronsaft og eddik. Tilsett laksen og pastaen og bland forsiktig. Server godt avkjølt.
 
 ## Info
 

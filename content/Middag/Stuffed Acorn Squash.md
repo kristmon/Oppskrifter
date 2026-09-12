@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Stuffed Acorn Squash
-
 ## Ingredienser
 
 - 2 acorn squash
-- 2 carrots, grated 1 can (8 oz.)
-- crushed pineapple 2 tbsp.
+- 2 carrots, grated 1 can (227 g.)
+- crushed pineapple 2 ss.
 - dried white raisins
-- 1/4 tsp ginger
+- 1/4 ts ginger
 
 ## Fremgangsmåte
 
-1. Cut squash in half; scoop out seeds. Place in baking dish.
-2. Combine remaining ingredients and spoon into squash cavities.
-3. Bake at 350°F for 30 minutes or until squash is tender.
+1. Del gresskaren i to; fjern frøene. Legg den i en ildfast form.
+2. Bland de resterende ingrediensene og fyll gresskarkavitetene med blandingen.
+3. Stek i ovnen ved 177 °C i 30 minutter, eller til gresskaren er mør.
 
 ## Info
 

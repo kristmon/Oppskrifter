@@ -2,22 +2,20 @@
 created: 2026-05-05
 ---
 
-# Tre-veis fersk sopp-saus
-
 ## Ingredienser
 
 - 2 ss olivenolje
-- 450 g ferske kvite sopper, skåret (1,2 dl)
-- 4,8 dl grovt hakket plommetomater
-- 1,2 dl skåret grønn løk (vårløk)
-- 1 ts hakket hvitkløk
+- 450 g ferske, hvite sopper, i skiver (1,2 dl)
+- 4,8 dl grovhakkede plommetomater
+- 1,2 dl hakket, grønn løk (vårløk)
+- 1 ts finhakket hvitløk
 - 1/2 ts salt
 - 0,13 ts malt svart pepper
 
 ## Fremgangsmåte
 
-1. I en stor ikke-tettende stekepanne, varm oljen til den er varm. Tilsett sopper; kok, og rør ofte, til sopp-væsken begynner å fordampe, omkring 6 minutter. Tilsett tomater, grønn løk, hvitkløk, salt og svart pepper.
-2. Varm til det småkoker, dekk til og kok til en saus dannes, omkring 5 minutter. Serv over varmt tilberedt pasta.
+1. I en stor stekepanne uten lokk, varm oljen til den er varm. Tilsett sopp; kok, og rør ofte, til væsken fra soppen begynner å fordampe, vanligvis rundt 6 minutter. Tilsett tomater, vårløk, hvitløk, salt og svart pepper.
+2. Varm opp til det småkoker, sett på lokk og la det småkoke til en saus er dannet, omtrent 5 minutter. Server over varm, kokt pasta.
 
 ## Info
 

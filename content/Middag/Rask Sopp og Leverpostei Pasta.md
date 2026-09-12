@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Rask Sopp og Leverpostei Pasta
-
 ## Ingredienser
 
 - 225 g (ca. 750 ml) sløyfe-slips pasta, ukjøkt
@@ -16,8 +14,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pasta etter pakkedetaljer; dren. I mellomtiden, i stor stekepanne stekk leverposteien til brunfarget og stekt gjennom, ca. 10 minutter.
-2. Ta ut; legg til side. Dren av alt bortsett fra 1 ss fett eller tilsett olje for å gjøre 1 ss; varm til varmt. Tilsett sopp, grønn paprika og løk; stekk under hyppig omrøring til mørt, 5-7 minutter. Tilsett reservert leverpostei og marinara saus; stekk til varmt gjennom, ca. 5 minutter. Lèdle saus over varm pasta.
+1. Kok pastaen etter anvisningene på pakken; sil av vannet. I mellomtiden, i en stor stekepanne, stek leverpostei til den er gyllenbrun og gjennomstekt, ca. 10 minutter.
+2. Ta ut leverposteien og legg den til side. Hell av alt vann bortsett fra 1 ss fett, eller tilsett olje for å få 1 ss; varm opp. Tilsett sopp, grønn paprika og løk; stek under hyppig omrøring til det er mørt, i 5-7 minutter. Tilsett den reserverte leverposteien og marinara-saus; stek til alt er gjennomvarmt, ca. 5 minutter. Hell sausen over den varme pastaen.
 
 ## Info
 

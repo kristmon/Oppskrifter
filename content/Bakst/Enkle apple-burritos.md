@@ -2,11 +2,9 @@
 created: 2026-05-05
 ---
 
-# Enkle apple-burritos
-
 ## Ingredienser
 
-- 2 smaksatte tortillas (ca 15 cm)
+- 2 smaksatte tortillas (ca. 15 cm)
 - 1 eple, kuttet papirtynn
 - sukker etter smak
 

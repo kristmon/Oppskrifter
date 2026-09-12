@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Maraschino-lemonade-isser
-
 *Denne godteriet er deilig; del den med vennene dine.*
 
 ## Ingredienser

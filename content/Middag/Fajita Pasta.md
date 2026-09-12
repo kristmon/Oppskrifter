@@ -2,35 +2,33 @@
 created: 2026-05-05
 ---
 
-# Fajita Pasta
-
 ## Ingredienser
 
-- 1 lb Penne, Mostaccioli or other medium pasta shape, uncooked
-- 1 lb lean boneless top round steak
-- 1 1/4 cup low-sodium tomato juice, divided
-- 1/4 cup lime juice
-- 2 cloves garlic, minced
-- 1/2 tsp ground cumin
-- 1/2 tsp ground red pepper
-- 1 tsp vegetable oil
-- 1 green bell pepper, seeded and cut into thin strips
-- 1 red bell pepper, seeded and cut into thin strips
-- 1 cup sliced purple onion
-- 1 cup nonfat sour cream
-- 1-2 jalapeño peppers, seeded and minced
-- Shredded reduced-fat Cheddar cheese (optional)
+- 455 g penne, mostaccioli eller annen pastaform av middels størrelse, uten tilberedning.
+- 455 g magert storfekjøtt, uten bein.
+- 3 dl tomatjuice med lavt saltinnhold, delt opp.
+- 0,6 dl limesaft.
+- 2 fedd hvitløk, finhakket.
+- 1/2 ts malt spisskummen.
+- 1/2 ts malt rød pepper.
+- 1 ss vegetabilsk olje.
+- 1 grønn paprika, uten kjerner og skjært i tynne strimler.
+- 1 rød paprika, uten kjerner og skjært i tynne strimler.
+- 2,4 dl skivet rødløk.
+- 2,4 dl mager rømme.
+- 1-2 jalapeño-chili, uten kjerner og finhakket.
+- Revet mager cheddarost (valgfritt).
 
 ## Fremgangsmåte
 
-1. Slice steak diagonally across grain into 1/4-inch strips. Place steak in zip-top plastic bag. Add 1/2 cup tomato juice, lime juice, garlic, cumin and ground red pepper. Marinate in refrigerator at least 4 hours.
-2. Prepare pasta according to package directions. While pasta is cooking, remove steak from marinade. Discard marinade.
-3. Coat a large skillet with cooking spray; add oil and place over high heat until hot. Add steak and cook 3 minutes or until done. Remove steak from skillet and keep warm. Recoat skillet with cooking spray. Add pepper strips and onion to skillet; sauté until crisp-tender.
-4. When pasta is done, drain well. Place in a large bowl. Add steak, pepper mixture, sour cream, jalapeño, and remaining 3/4 cup tomato juice. Toss. Salt and pepper to taste. Serve immediately.
+1. Skjær biff i diagonale strimler, på tvers av kjøttfibrene, i 1/4 centimeter brede strimler. Legg biffen i en plastpose med glidelås. Tilsett 1,2 dl tomatjuice, limesaft, hvitløk, spisskummen og chilipulver. La marinere i kjøleskapet i minst 4 timer.
+2. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, ta biffen ut av marinaden. Kast marinaden.
+3. Spray en stor stekepanne med matolje; tilsett olje og sett over høy varme til den er varm. Tilsett biffen og stek i 3 minutter, eller til den er gjennomstekt. Ta biffen ut av pannen og hold den varm. Spray pannen på nytt med matolje. Tilsett strimler av paprika og løk i pannen; stek til de er sprø og møre.
+4. Når pastaen er ferdig, hell av vannet godt. Legg pastaen i en stor bolle. Tilsett biff, paprikablandingen, rømme, jalapeño og resten av 1,8 dl tomatjuice. Bland godt. Smak til med salt og pepper. Server umiddelbart.
 
 ## Tips
 
-- If desired, sprinkle with shredded reduced-fat Cheddar cheese.
+Valgfritt: Dryss over revet, mager cheddar.
 
 ## Info
 

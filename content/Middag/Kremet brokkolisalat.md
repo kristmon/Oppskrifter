@@ -7,8 +7,8 @@ En frisk og nydelig salat med brokkoli, r&#248;dl&#248;k og pinjekjerner med en 
 
 Hadde den til blackened laks. Var god.
 
-**Porsjoner**: 4  
-**Kilde**: [frukt.no](https://frukt.no/oppskrifter/kremet-brokkolisalat/)  
+**Porsjoner**: 4
+**Kilde**: [frukt.no](https://frukt.no/oppskrifter/kremet-brokkolisalat/)
 **Rating**: 0
 
 ## Ingredienser
@@ -24,4 +24,4 @@ Hadde den til blackened laks. Var god.
 
 ## Fremgangsmåte
 
-1. Del brokkolien i små buketter. Skjær rødløk i tynne skiver. Fordel alle ingrediensene over i en egnet salatbolle. Bland alle ingrediensene til dressingen og vend den forsiktig inn i salaten. Husk å fylle halve tallerken med grønnsaker, frukt og bær - til alle måltider.
+1. Del brokkolien i små buketter. Skjær rødløken i tynne skiver. Fordel alle ingrediensene i en passende salatskål. Bland alle ingrediensene til dressingen og vend den forsiktig inn i salaten. Husk å fylle halvparten av tallerkenen med grønnsaker, frukt og bær – til alle måltider.

@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Pasta-stuvning med rosmarin-svinekjøtt
-
 ## Ingredienser
 
 - 225 g Ditalini, Orzo eller alfabètar, ukokt
 - 5 ml vegetarolje
-- 450 g magert, beinlaust svinekjøtt frå loin, skåret i 2 cm kuber
-- 1/8 ts malt raud pepper
+- 450 g magert, beinfritt svinekjøtt fra loin, skjært i 2 cm terninger
+- 1/8 ts malt rød pepper
 - 1/8 ts svart pepper
 - 2,5 dl hakket løk
 - 1,2 dl hakket selleri
-- 3 bokser (hver 375 ml) fettfritt, lavt natriumoksekjøtt-broth
-- 22,5 ml finhakket fersk rosmarin eller 7,5 ml tørka rosmarin
+- 3 bokser (hver 375 ml) fettfri, natriumfattig oksekjøttkraft
+- 22,5 ml finhakket fersk rosmarin eller 7,5 ml tørket rosmarin
 - 1/2 ts salt
-- 2 medium søt potet, skalett og skåret i 2,5 cm kuber (omtrent 7,5 dl)
-- 5 dl hakka fersk spinat
-- 30 ml lime-juice
+- 2 middels store søtpoteter, skrellet og skjært i 2,5 cm terninger (omtrent 7,5 dl)
+- 5 dl hakket fersk spinat
+- 30 ml limejuice
 
 ## Fremgangsmåte
 
-1. Varm oljen i ei stor gryte eller gryte til ho er varm. Tillsett svinekjøttet; kok til det ikkje lenger er rosa, omtrent 4 til 5 minutter. Avløp godt. Blan svinekjøttet med raud og svart pepper i ei bolle; set til side.
-2. Tillsett 60 ml oksekjøtt-broth til gryten; tillsett løk og selleri, og kok til dei er møre. Tillsett svinekjøttet, gjenværande oksekjøtt-broth, rosmarin og salt. Bring til kokepunkt. Tillsett pasta og søt potet og kok, rør av og til, i 10 til 15 minutter eller til pasta er ferdig. Rør inn spinaten og lime-juice-en. (Stuvninga vil halde fram å absorbere væsken.) Server umiddelbart.
+1. Varm oljen i en stor kjele eller gryte til den er varm. Tilsett svinekjøttet; kok til det ikke lenger er rosa, omtrent 4 til 5 minutter. Hell av vannet. Bland svinekjøttet med rød og svart pepper i en bolle; sett til side.
+2. Tilsett 60 ml oksekjøttkraft til kjelen; tilsett løk og selleri, og kok til de er møre. Tilsett svinekjøttet, resten av oksekjøttkraften, rosmarin og salt. Kok opp. Tilsett pasta og søtpotet, og kok under omrøring i 10 til 15 minutter, eller til pastaen er ferdig. Rør inn spinaten og limesaften. (Stuvningen vil fortsette å absorbere væsken.) Server umiddelbart.
 
 ## Info
 

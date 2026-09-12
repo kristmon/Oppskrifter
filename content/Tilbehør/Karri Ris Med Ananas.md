@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Karri Ris Med Ananas
-
 ## Ingredienser
 
 - 1 løk, hakket
 - 3 1/2 dl vann
 - 3 dl natriumfattig oksebuljong
-- 1 dl ukostet ris
-- 1 ts karri pulver
+- 1 dl ukokt ris
+- 1 ts karripulver
 - 1/4 ts hvitløkspulver
-- 225 g ananaskubber, avlastet
+- 225 g ananasbiter, avrent
 
 ## Fremgangsmåte
 
-1. I en medium gryte kombinerer du løk, vann og oksebuljong. Bring til koking og tilsett ris, karri pulver og hvitløkspulver. Dekk til og reduser varmen. Småkok i 25 minutter.
-2. Tilsett ananas og fortsett å småkok i 5 til 7 minutter til til risen er møyk og vann er absorbert. Overfør til et serveringsfat og server.
+1. Ha løk, vann og oksebuljong i en middels stor kjele. Kok opp og tilsett ris, karripulver og hvitløkspulver. Legg på lokk, senk varmen og la småkoke i 25 minutter.
+2. Tilsett ananas og la småkoke i ytterligere 5–7 minutter, til risen er mør og væsken er absorbert. Ha risen i et serveringsfat og server.
 3. Denne oppskriften gir 4 porsjoner. Porsjonstørrelse: ca. 1/2 dl.
-4. Utbyttepunkter Per Porsjon: 3 Stivelse.
+4. Én porsjon tilsvarer omtrent tre porsjoner stivelsesrik mat i den opprinnelige kostplanen.
 
 ## Info
 

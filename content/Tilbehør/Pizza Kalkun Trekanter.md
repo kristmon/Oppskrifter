@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Pizza Kalkun Trekanter
-
 ## Ingredienser
 
-- 450 g malt kalkun
-- 120 ml løk finhakket
-- 1/2 ts italiensk krydder
+- 450 g kjøttdeig av kalkun
+- 120 ml løk, finhakket
+- 1/2 ts italiensk krydderblanding
 - 1/8 ts pepper
-- 250 ml forberedt pizzasaus
-- 2 270 g rør kjøleskab deig firkanter
-- 120 ml mozarellaost revet
+- 250 ml ferdig pizzasaus
+- 2 firkanter, à 270 g, ferdig pizzadeig
+- 120 ml revet mozzarellaost
 
 ## Fremgangsmåte
 
 1. Forvarm ovnen til 190°C.
-2. I stor teflon stekepanne, over medium-høy varme, stekk kalkun og løk 4-5 minutter eller til kalkunen ikke lenger er rosa. Rør inn italiensk krydder, pepper og pizzasaus. Trekk i småkoking i 5 minutter eller til blandingen tykkner.
-3. Rull ut deigen, og separer hver rør i 4 firkanter. Plasser på smurt 25x38x2,5 cm gelérullbrikke. Strekk deigen litt for å forme firkanter.
-4. Plasser 80 ml fylling på et hjørne av hver firkant. Strø 1 ss ost over fylling. Fold motsatt hjørne av deiuen over fylling og ost for å danne en trekant; trykk kantene med gaffel for å seale. Kutt 3 (1,25 cm) slisser i toppen av hver trekant for å tillate damp å unnslippe. Bak 12-15 minutter eller til gyllenbrun. Fjern trekanter fra panne og la kjøle på ristekjøl.
+2. I en stor stekepanne med teflonbelegg, over middels høy varme, stek kalkun og løk i 4-5 minutter, eller til kalkunen ikke lenger er rosa. Rør inn italiensk krydder, pepper og pizzasaus. La blandingen småkoke i 5 minutter, eller til den tykner.
+3. Kjevle ut deigen, og del hver rull i 4 firkanter. Legg firkantene på en smurt geléplate, 25x38x2,5 cm. Strekk deigen litt for å forme firkantene.
+4. Fordel 80 ml fyll på et hjørne av hver firkant. Strø over 1 ss ost. Brett det motsatte hjørnet av deigen over fyllet og osten for å danne en trekant; trykk kantene med en gaffel for å forsegle. Lag 3 snitt (ca. 1,25 cm brede) i toppen av hver trekant for å slippe ut damp. Stek i 12-15 minutter, eller til de er gyllenbrune. Ta trekantene ut av pannen og la dem avkjøles på en rist.
 
 ## Info
 

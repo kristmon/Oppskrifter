@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Iskrem med kirsebær
-
 *En deilig, enkel dessert når som helst på året.*
 
 ## Ingredienser

@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Hollandaise Sauce
-
 ## Ingredienser
 
-- 3 egg yolks
-- 1/4 cup water
-- 2 Tbs lemon juice
-- 1/2 cup cold butter, cut into 8 pieces
-- 1/8 tsp paprika
-- 1/8 tsp cayenne pepper
+- 3 eggeplommer
+- 0,6 dl vann
+- 2 ss sitronsaft
+- 1,2 dl kald smør, delt i 8 biter
+- 1/8 ts paprika
+- 1/8 ts cayennepepper
 
 ## Fremgangsmåte
 
-1. Prepare hollandaise sauce by heating egg yolks, water and lemon juice in a small saucepan. Cook over very low heat, stirring constantly, until yolk mixture begins to bubble at edges.
-2. Whisk in butter, 1 piece at a time, until melted and sauce is thickened. Stir in paprika and cayenne pepper. Season with salt to taste. Remove from heat.
+1. Lag hollandaisesaus ved å varme eggeplommer, vann og sitronsaft i en liten kjele. Kok over svært svak varme, rør hele tiden, til eggeblandingen begynner å boble langs kantene.
+ 2. Pisk inn smør, 1 bit for bit, til det er smeltet og sausen har tyknet. Rør inn paprika og cayennepepper. Smak til med salt. Ta kjelen av varmen.
 
 ## Info
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Italiensk Sopp- og Kylling Gryte
-
 ## Ingredienser
 
 - 1 ss vegetarolje
@@ -18,8 +16,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en stor teflon stekepanne varmer du oljen til den er varm. Tilsett kyllingen; stekk til den er brun, 3-4 minutter pr. side; ta ut fra pannen. I pannen tilsetter du sopp, løk, selleri og hvitløk; stekk under hyppig omrøring til det er mørt, 6-8 minutter.
-2. Tilsett tomater, salt og kylling; topp med grønne bønner. Dekk over og trekk i småkoking til kyllingen er gjennomstekt, 5-6 minutter til.
+1. I en stor teflonstekepanne varmes oljen opp til den er varm. Tilsett kyllingen; stek til den er brun, 3-4 minutter per side; ta den ut av pannen. I pannen tilsetter du sopp, løk, selleri og hvitløk; stek under hyppig omrøring til det er mørt, 6-8 minutter.
+2. Tilsett tomater, salt og kylling; topp med grønne bønner. Dekk til og la det småkoke til kyllingen er gjennomstekt, 5-6 minutter til.
 
 ## Info
 

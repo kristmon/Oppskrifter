@@ -2,31 +2,29 @@
 created: 2026-05-05
 ---
 
-# Spiced Roast Chicken
-
-*Tex-Mex flavors coat this roast chicken -- serve it with Rice and Beans and El Rancho Potatoes for a down-home dinner.*
+Tex-mex-smaker kler denne ovnsbrente kyllingen – server den med ris og bønner, samt El Rancho-poteter, for en enkel og god middag.
 
 ## Ingredienser
 
-- 2 fresh whole kylling, about 3 pounds each
+– 2 hele, ferske kyllinger, på ca. 1,4 kg hver.
 - 1 diced peeled løk
 - 4 ss lemon juice
-- 2 clove hvitløk, peeled and chopped
-- 1 4-oz. can chopped green chile peppers
+- 2 fedd hvitløk, skrelt og finhakket.
+- 1 boks (118 ml) hakkede grønne chilipepper.
 - 1 ts chilipodd
 - 1 ts cayenne pepper
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 375°F. Remove skin from kylling and discard; place kylling in a bowl and set aside.
-2. In a separate bowl bland together løk, lemon juice, hvitløk, green chiles, chilipodd and pepper. hell over kylling and marinate in refrigerator for 1 time, turning iblant.
-3. Roast the kylling in a shallow pan, basting frequently with the marinade, for 1 to 1¼ timer eller til ferdig. Remove from ovn and servér hot.
+1. Forvarm ovnen til 191 °C. Fjern skinnet fra kyllingen og kast det; legg kyllingen i en bolle og sett til side.
+2. I en annen bolle, bland løk, sitronsaft, hvitløk, grønne chili, chilipulver og pepper. Hell blandingen over kyllingen og la den marinere i kjøleskapet i 1 timer, og vend den av og til.
+3. Stek kyllingen i en stekepanne, pensle den ofte med marinaden, i 1 til 1 ¼ time, eller til den er gjennomstekt. Ta den ut av ovnen og server varm.
 
 ## Info
 
 - **Porsjoner**: 6
-- **Preparation Time**: 5 minutes
-- **Cooking Time**: 1 hour
-- **Total Time**: 1 hour and 5 minutes
+- **Forberedelsestid**: 5 minutter
+- **Tilberedningstid**: 1 hour
+- **Samlet tid**: 1 time og 5 minutter
 - **Type**: Main Dish, Poultry
 - **Kilde**: Nestlé, www.verybestmeals.com

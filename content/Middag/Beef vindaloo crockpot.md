@@ -9,9 +9,9 @@ Lagt på 12:30.
 
 Ny: satte oppkuttede tomater på i titiden mens marinaden jobbet. En pakke. Brukte ikke vann. Brukte rømme i stedet for yoghurt. Tomater på ca ti og kjøtt ca tolv.
 
-**Porsjoner**: 6  
-**Tid**: 90 min (20 prep + 70 cook)  
-**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/217329/beef-vindaloo/)  
+**Porsjoner**: 6
+**Tid**: 90 min (20 prep + 70 cook)
+**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/217329/beef-vindaloo/)
 **Plan to Eat-tag**: Storfe
 
 ## Ingredienser
@@ -19,9 +19,9 @@ Ny: satte oppkuttede tomater på i titiden mens marinaden jobbet. En pakke. Bruk
 Marinade:
 
 - ½ dl hvit eddik
-- ½ dl hvitløkspasta (bruker 4 hvitløksfedd)
-- 3 ss ingefærpasta (bruker fersk ingefær, en grei dose)
-- 2 ss yoghurt (litt mer)
+- ½ dl hvitløkspasta (brukes med 4 fedd hvitløk)
+- 3 ss ingefærpasta (brukes med fersk ingefær, en passende mengde)
+- 2 ss yoghurt (gjerne litt mer)
 - 1 ss salt
 - 1 ss malt sort pepper
 - 900 g høyrygg av storfe, i terninger
@@ -37,6 +37,6 @@ Resten:
 
 ## Fremgangsmåte
 
-1. Visp eddik, hvitløkspasta, ingefærpasta, yoghurt, salt og pepper sammen i en bolle. Vend inn kjøtterningene til alle er dekket. Dekk bollen med plast og marinér i kjøleskap over natta (eller minst 30 minutter).
-2. Varm matoljen i en stor gryte over middels varme. Stek og rør løken i den varme oljen til den er myk og begynner å bli gyllen, ca. 10 minutter. Tilsett kjøtterningene og stek under jevnlig røring til de ikke er rosa lenger på utsiden, ca. 10 minutter til. Rør inn tomatene og kok i 5 minutter.
-3. Hell i vannet og kok opp. Sett på lokket og skru ned varmen til middels-lav. Kok til kjøttet er mørt, ca. 40 minutter. Strø over koriander før servering.
+1. Visp sammen eddik, hvitløkspasta, ingefærpasta, yoghurt, salt og pepper i en bolle. Bland kjøttbitene inn til de er godt dekket. Dekk bollen med plast og la den marinere i kjøleskapet over natten (eller i minst 30 minutter).
+2. Varm olje i en stor gryte over middels varme. Stek og rør løken i den varme oljen til den er myk og begynner å bli gyllen, ca. 10 minutter. Tilsett kjøttbitene og stek under jevnlig omrøring til de ikke lenger er rosa på utsiden, ca. 10 minutter til. Rør inn tomatene og la det koke i 5 minutter.
+3. Hell i vannet og kok opp. Sett på lokket og senk varmen til middels-lav. La det koke til kjøttet er mørt, ca. 40 minutter. Dryss over koriander før servering.

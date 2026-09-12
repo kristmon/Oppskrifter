@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Salsa Kylling Over Ris
-
 *Lag denne salsa kylling middag på under 30 minutter. Alt du trenger å legge til er en dampet eller frisk grønnsaken for å nyte på siden.*
 
 ## Ingredienser
@@ -13,7 +11,7 @@ created: 2026-05-05
 - 450 g beinløs, hudløs kyllingbryst halvdel, kuttet i strimler
 - 1 medium løk, hakket
 - 1 liten rød paprika, skåret
-- 1 (450 g) glass Ortega® salsa prima hjemmestil mild
+- 1 (450 g) glass mild salsa
 - 120 ml 4 ost mexicansk blanding, delt
 **Garneringsforslag**
 - smetankrem
@@ -21,8 +19,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Varm olje i stor stekepanne over medium-høy varme. Tilsett kylling, løk og paprika; stekk under hyppig omrøring i 10-12 minutter eller til kyllingen ikke lenger er rosa. Rør inn salsa; bring til kok. Ta fra varmen; strø over med ost. Dekk over; la stå i 5 minutter eller til ost er smeltet.
-2. Serveres over ris. Garnish etter ønsket.
+1. Varm olje i en stor stekepanne over middels høy varme. Tilsett kylling, løk og paprika; stek under stadig omrøring i 10 - 12 minutter, eller til kyllingen er gjennomstekt. Rør inn salsa; kok opp. Ta pannen av varmen; strø over ost. Dekk til; la stå i 5 minutter, eller til osten er smeltet.
+2. Serveres over ris. Pynt etter smak.
 
 ## Info
 

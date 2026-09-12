@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Bagel Sandwich
-
 ## Ingredienser
 
 - 50 g fettredusert kremost

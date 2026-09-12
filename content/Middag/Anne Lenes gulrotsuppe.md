@@ -2,8 +2,8 @@
 created: 2018-03-24
 ---
 - 1 løk
-- Et par fedd hvitløk 
-- En god bunt gulrøtter 
+- Et par fedd hvitløk
+- En god bunt gulrøtter
 - Evt en potet eller to
 - To-tre bokser kokosmelk
 

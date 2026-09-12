@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Twice-Baked Sweet Potatoes
-
 ## Ingredienser
 
-- 2 medium sweet potatoes
-- 3/4 Tbs fat-free sour cream
-- 1 3/4 tsp Equal for Recipes (or 6 packets Equal sweetener or 1/4 cup Equal Spoonful)
-- 1/2 tsp orange extract
-- Salt, to taste
-- Freshly-ground white pepper, to taste
-- 2 Tbs chopped pecans
+- 2 middels store søtpoteter
+- 3/4 ss mager rømme
+- 1 3/4 ts Equal for Recipes (eller 6 poser Equal søtstoff, eller 0,6 dl Equal)
+- 1/2 ts appelsinekstrakt
+- Salt, etter smak
+- Nymalt hvit pepper, etter smak
+- 2 ss hakkede pekannøtter
 
 ## Fremgangsmåte
 
-1. Lightly grease potatoes; pierce with tines of fork. Place potatoes in baking pan and bake in a 375 degree oven until tender, 35 to 40 minutes. Let stand until cooked enough to handle.
-2. Cut potatoes in half; scoop out flesh. Mash potatoes until smooth; mix in sour cream, Equal, and orange extract. Season to taste with salt and white pepper.
-3. Spoon potato mixture into 4 potato skins. Place potatoes in baking pan and bake in preheated 400 degree oven until browned, about 20 minutes. Sprinkle with pecans or coconut (after baking).
+1. Smør potetene lett; prikk dem med en gaffel. Legg potetene i en ildfast form og stek dem i en ovn på 190 grader Celsius til de er møre, i 35 til 40 minutter. La dem avkjøles litt før du håndterer dem.
+2. Del potetene i to; fjern potetmosen. Mos potetene til de er glatte; bland inn rømme, søtstoff og appelsinekstrakt. Smak til med salt og hvit pepper.
+3. Hell potetfyllet i 4 potetskall. Legg potetene i en ildfast form og stek i forvarmet ovn på 200 grader i omtrent 20 minutter. Strø over pekannøtter eller kokos (etter steking).
 
 ## Info
 

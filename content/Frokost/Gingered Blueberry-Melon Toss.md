@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Gingered Blueberry-Melon Toss
-
 ## Ingredienser
 
-- 1/2 Tbs honey
-- 1 Tbs fresh lime juice
-- 1/2 tsp grated lime peel
-- 1/8 tsp ground ginger
-- 2 cups fresh or frozen blueberries
-- 1 cup diced cantaloupe
+- 1/2 ss honning
+- 1 ss fersk limejuice
+- 1/2 ts revet lime skall
+- 1/8 ts malt ingefær
+- 4,8 dl ferske eller frosne blåbær
+- 2,4 dl terret cantaloupe.
 
 ## Fremgangsmåte
 
-1. In a large bowl combine honey, lime juice, lime peel and ginger until well blended. Add blueberries and cantaloupe. Toss to coat.
-2. Serve at room temperature or chilled over ice cream, pound cake, cut up fruit, etc.
+1. I en stor bolle, bland honning, limesaft, limeskall og ingefær til alt er godt blandet. Tilsett blåbær og cantaloupe. Vend forsiktig sammen.
+2. Server ved romtemperatur, eller kjølt, gjerne sammen med iskrem, vaniljekake, fruktbiter, og lignende.
 
 ## Info
 

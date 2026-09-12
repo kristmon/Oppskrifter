@@ -2,15 +2,13 @@
 created: 2026-05-05
 ---
 
-# Havregryn muffins
-
 ## Ingredienser
 
-- 240 ml hurtigkoking havregryn
-- 240 ml sur melk
+- 240 ml hurtigkokende havregryn
+- 240 ml surmelk
 - 1 egg
 - 120 ml brunt sukker
-- 120 ml smalt fett
+- 120 ml smeltet fett
 - 240 ml mel
 - 2 ml salt
 - 5 ml bakepulver
@@ -18,8 +16,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Legg havregryn i sur melk og la det stå i 1 time. Tilsett egg og pisk godt. Tilsett sukker og bland. Tilsett avkjølt fett. Tilsett mel silt med salt, bakepulver og natron.
-2. Bak i smurte muffin-former i varm ovn (200 °C) i 15–20 minutter.
+1. Ha havregryn i kefir og la det stå i 1 time. Tilsett egg og visp godt. Tilsett sukker og bland. Tilsett avkjølt smør. Bland inn mel som er siktet med salt, bakepulver og natron.
+2. Stek i smurte muffinsformer i en forvarmet ovn (200 °C) i 15–20 minutter.
 
 ## Info
 

@@ -2,13 +2,11 @@
 created: 2026-05-05
 ---
 
-# Honning og nøttrundstykker
-
 *En perfekt snop til frokost eller lunsj*
 
 ## Ingredienser
 
-- 7 ml tørt gjær
+- 7 ml tørrgjær
 - 600 ml brødmel
 - 2 ml salt
 - 2 ml kanel
@@ -17,9 +15,10 @@ created: 2026-05-05
 - 45 ml olje
 - 30 ml honning
 - 1 stort egg
-**Honning og nøtt toppings:**
+
+**Honning og nøttetopp:**
 - 175 ml honning
-- 175 ml finhakket pekannøtter, valnøtter eller mandler
+- 175 ml finhakkede pekannøtter, valnøtter eller mandler
 - 5 ml kanel
 
 ## Fremgangsmåte

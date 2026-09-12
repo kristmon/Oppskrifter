@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Krydret Texas Frokost Kasseroll
-
 ## Ingredienser
 
-- 450 g Medium Eggenuddel
+- 450 g eggeerstatning
 - 340 g mild pølse
-- 1 liten løk, hakket
-- 1 liten rød paprikafrukt, hakket
-- 1 boks (450 g) hakket tomat, avhelt
-- 0,5 dl eggeerstatter, lett slådd
-- 1 boks lavfett kremsopp suppe, blandet med en boks vann
+- 1 liten løk, finhakket
+- 1 liten rød paprika, finhakket
+- 1 boks (450 g) hakket tomat, uten væske
+- 0,5 dl eggeerstatter, lett vispet
+- 1 boks lett kremsoppsuppe, blandet med en boks vann
 - 1/8 ts pepper
-- 1 ts chilipepper
-- 5 dl lavfett Cheddar-ost
-- picante-saus
+- 1 ts chilipulver
+- 5 dl mager Cheddar-ost
+- picante saus
 
 ## Fremgangsmåte
 
-1. Kok pasta etter pakningens anvisning. Mens pastaen koker, sauté pølsen, løken og papikaen i en stekepanne. Hell av pølseblandingen. Mens blandingen er avhelt, rør egg rundt i stekepannen. Når eggen er ferdig, tilsett egg, suppe med vann, tomater, krydringer, pasta og pølseblandingen til en form på ca. 23x33 cm. Strø med ost på toppen. Bak i forvarm ovn ved 175°C i 20 minutter eller til osten er smeltet. Server toppt med picante-saus.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, stek pølser, løk og paprika i en stekepanne. Hell av pølseblandingen. Mens blandingen fortsatt er varm, hell egg i stekepannen. Når egget er ferdig, tilsett egg, kraft, tomater, krydder, pasta og pølseblandingen i en form på omtrent 23x33 cm. Strø ost over på toppen. Stek i forvarmet ovn ved 175°C i 20 minutter, eller til osten er smeltet. Server med picante-saus.
 
 ## Info
 

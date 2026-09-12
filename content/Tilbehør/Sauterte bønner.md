@@ -7,15 +7,15 @@ created: 2010-04-11
 ## Ingredienser
 
 - olje/smør
-- 1 kartong Go Green Ekologisk Mix (eller lag din egen bønnemix, ca 400 g)
+- 1 kartong Go Green Økologisk Mix (eller lag din egen bønneblanding, ca. 400 g)
 - 1 fedd hvitløk
-- 2 ss frisk persille, hakket
+- 2 ss fersk persille, finhakket
 - salt
 - pepper
 
 ## Fremgangsmåte
 
-1. Sauter bønnene i olje eller smør, og smak til med hvitløk, persille, salt og pepper.
+1. Stek bønnene i olje eller smør, og smak til med hvitløk, persille, salt og pepper.
 
 ## Info
 

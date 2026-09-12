@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Morgen stjerne granola
-
 ## Ingredienser
 
 - 700 ml gammelmodig havregryn
@@ -19,10 +17,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en stor usmurt bakepanne blander du havregryn, kokosnøtt og kanel og rør godt.
-2. I en liten bolle blander du nøtter, honning, smør og vanilje. Hell over havregryn-blandingen i pannen.
-3. Bak ved 175 °C i 15–20 minutter eller til lett brunstekt, rør flere ganger. Ta ut av ovnen og rør inn rosinene. Kjøl av i pannen.
-4. For å servere, top med terningskåret epler og yogurt.
+1 . I en stor, ubestrøken stekepanne, blander du havregryn, kokosnøtt og kanel, og rører godt.
+ 2 . I en liten bolle, blander du nøtter, honning, smør og vanilje. Hell blandingen over i stekepannen med havregryn.
+ 3 . Stek ved  175  °C i  15 – 20  minutter, eller til den er lett brun, og rør flere ganger. Ta ut av ovnen og rør inn rosinene. La det avkjøles i pannen.
+ 4 . For servering, topp med terninger av epler og yoghurt.
 
 ## Info
 

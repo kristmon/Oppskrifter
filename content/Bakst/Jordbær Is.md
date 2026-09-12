@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Jordbær Is
-
 ## Ingredienser
 
 - 475 ml jordbær

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Dypfritet kalkun
-
 *Dette er en awesome Cajun oppskrift. Dyp-steking gjør kalkunen sprø på utsiden og super saftig på innsiden (selv det hvite kjøttet). Det etterlater også varmen ute! Du kan dyp-frite kalkunen i enten jordnøtt- eller vegetabilsk olje, ditt valg. Vi bruker en 25-liters aluminiumskrukke med drenerings-kurv.*
 
 ## Ingredienser
@@ -15,13 +13,13 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en stor lagringskrukke eller kalkunsteiker, varm olje til 200°C. Vær sikker på å la rom for kalkunen, eller oljen vil søle over. Lag ett stort fat med matvaresikker papirposer.
-2. Skyll kalkun og tørk grundig med papirservietter. Gni Creole-krydder over kalkun inne og ute. Vær sikker på at hullet i halsen er åpent minst 5 cm så olje kan flyte fritt gjennom fuglen.
-3. Plassere hele løken og kalkunen i drenerings-kurven. Kalkunen skal plasseres i kurven hals-ende først. Sakte senk kurven ned i het olje for å helt dekke kalkunen. Oppretthold temperaturen på oljen ved 175°C og kok kalkun i 3,5 minutter per 450 g, omkring 45 minutter.
-4. Forsiktig fjern kurven fra oljen og drener kalkun. Sett inn kjøttermometer i tykkeste del av låret; den indre temperaturen må være 82°C. Fullfør dreneringen av kalkun på det forberedt fatet.
-5. For mer informasjon, se våre Dyp-fritet kalkun tips.
-6. Redaktørens notat:
-7. Vi har bestemt ernæringsverdien av olje til steking basert på en retensjonverdi på 1 prosent etter matlaging. Det nøyaktige beløpet kan variere avhengig av koketid og temperatur, ingrediens-tetthet og spesifikk type olje som brukes.
+1 . I en stor beholder eller kalkunpanne, varm olje til 200 °C. Pass på å ha plass til kalkunen, ellers kan oljen sprute over. Legg ut et stort fat med matvaregodkjente papirposer.
+ 2 . Skyll kalkunen og tørk den grundig med papirhåndklær. Gni Creole-krydder over kalkunen, både innvendig og utvendig. Sørg for at åpningen ved halsen er minst 5 cm bred, slik at oljen kan sirkulere fritt gjennom fuglen.
+ 3 . Plasser hele løken og kalkunen i en kurv med drenering. Kalkunen skal plasseres i kurven med halsen først. Senk kurven forsiktig ned i den varme oljen, slik at kalkunen er helt dekket. Hold oljetemperaturen på 175 °C og kok kalkunen i 3,5 minutter per 450 g, tilsvarende omtrent 45 minutter.
+ 4 . Fjern kurven forsiktig fra oljen og la kalkunen renne av. Sett inn et kjøtttermometer i den tykkeste delen av låret; den indre temperaturen må være 82 °C. La kalkunen renne helt av på det forberedte fatet.
+ 5 . For mer informasjon, se våre tips for dypstekt kalkun.
+ 6 . Redaktørens notat:
+ 7 . Vi har beregnet næringsverdien til oljen som brukes til steking, basert på en retensjonsverdi på 1 prosent etter tilberedning. Det nøyaktige beløpet kan variere avhengig av koketid og temperatur, ingrediensenes tetthet og den spesifikke typen olje som brukes.
 
 ## Info
 

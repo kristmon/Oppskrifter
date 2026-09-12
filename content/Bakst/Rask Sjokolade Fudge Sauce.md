@@ -2,20 +2,18 @@
 created: 2026-05-05
 ---
 
-# Rask Sjokolade Fudge Sauce
-
-*Fordampet melk, semi-søt sjokoladebiter og vanilje gjør en kremete sjokoladesaus som er flott over is eller brownies.*
+Ferdigmelk, halvsøt sjokolade og vanilje gir en kremet sjokoladesaus som er nydelig over is eller brownies.
 
 ## Ingredienser
 
-- 375 ml (355 ml boks) NESTLÉ® CARNATION® fordampet melk
-- 500 ml (340 g pakke) NESTLÉ® TOLL HOUSE® semi-søte sjokolade biter
+- 375 ml (355 ml boks) usøtet kondensert melk
+- 500 ml (340 g pakke) semi-søte sjokolade biter
 - 2 ts vaniljeekstrakt
 
 ## Fremgangsmåte
 
-1. Bland fordampet melk og biter i medium, tung panne. Kok over lav varme under hyppig omrøring til biter er smeltet. Ta fra varmen; rør inn vaniljeekstrakt.
-2. Serveres varmt som dyppingssaus for frisk frukt eller skje over is eller kake. Lagre gjenværende saus tett dekket i kjøleskapet.
+1. Bland varmet melk og sjokoladebiter i en middels stor, tykkbunnet kjele. Varm opp over svak varme under stadig omrøring til sjokoladebitene er smeltet. Ta kjelen av varmen og rør inn vaniljeekstrakt.
+2. Serveres varmt som en dippsaus til frisk frukt, eller over is eller kake. Oppbevar eventuelt overskytende saus i et tett lukket beger i kjøleskapet.
 
 ## Info
 

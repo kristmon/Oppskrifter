@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# Autumn Chicken and Apple Stew
-
 ## Ingredienser
 
-- 1 kylling, cut in parts
-- 0,6 dl apple cider eddiksyre
+- 1 kylling, delt i stykker
+- 0,6 dl eplecidereddik
 - 1/2 ts muskatnøtt
-- 6 whole cloves
+- 6 hele nelliker
 - 1/2 ts salt
-- 3 gulrøtter, peeled, sliced
+- 3 gulrøtter, skrelt og i skiver
 - 1/4 ts pepper
-- 6 apples, peeled, sliced
-- 2 ts Dijon sennep
-- 2,5 dl shredded cabbage
-- 1 3/10 dl low sodium kyllingbuljong, warm
-- 2,5 dl applesauce
+- 6 epler, skrelt og i skiver
+- 2 ts Dijon-sennep
+- 2,5 dl strimlet kål
+- 1 3/10 dl kyllingbuljong med lavt natriuminnhold, varm
+- 2,5 dl eplemos
 
 ## Fremgangsmåte
 
-1. Spray large Dutch ovn with vegetable cooking spray and varm over medium high temperature.
-2. Tilsett kylling and kok, turning to brown on all sides, about 10 minutter.
-3. Sprinkle with muskatnøtt, salt and pepper. bred sennep over kylling pieces; tilsett warm broth, eddiksyre, cloves and gulrøtter; bring til kokepunktet. Cover, reduser varmen to low and kok 15 minutter.
-4. Tilsett apples and kok 5 minutter.
-5. Tilsett cabbage, stirring into liquid. kok, covered, about 10 minutter more eller til fork can be inserted in kylling with ease.
-6. With slotted spoon, remove kylling and vegetables to warm serving bowl and keep warm.
-7. Into liquid, rør applesauce; kok on high temperature 5 minutter and hell over kylling and vegetables. servér with brown ris, if desired.
+1 . Spray en stor nederlandsk ovn med vegetabilsk olje og sett ovnen på middels høy varme.
+ 2 . Legg kylling i ovnen og stek, snu den for å få bruning på alle sider, i omtrent  10  minutter.
+ 3 . Dryss over muskat, salt og pepper. Smør sennep over kyllingbitene; tilsett varm kraft, eddik, nellik og gulrøtter; kok opp. Dekk til, senk varmen til lav og kok i  15  minutter.
+ 4 . Tilsett epler og kok i  5  minutter.
+ 5 . Tilsett kål, rør inn i væsken. Kok, under lokk, i omtrent  10  minutter til, eller til kyllingen kan skjæres lett fra hverandre med en gaffel.
+ 6 . Fjern kylling og grønnsaker med en hullsleiv og legg dem i en varm serveringsbolle. Hold dem varme.
+ 7 . Rør inn eplemos i væsken; kok på høy varme i  5  minutter og hell over kylling og grønnsaker. Server gjerne med brun ris.
 
 ## Info
 

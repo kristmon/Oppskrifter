@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Purpur ku
-
 ## Ingredienser
 
 - 10 dl Oregon-bjørnebær, ferske eller frosne

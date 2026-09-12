@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Lett pastalatik med fersk tunfiskfilet
-
 ## Ingredienser
 
 - 450 g Rotini, Tvinninger eller spiraler, ukokta
@@ -22,7 +20,7 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Del tunfisken i små bitmål; reserver. Kok pastaen; avløp og skylt med kaldt vann. Kombiner alle dressingingrediensar; bland godt. Blan pastaen, paprikaer, bønner, løk, tunfisk og dressing. Om mogleg, kjøl salatens over natt for å tillate smaker å blande seg. Server kald.
+1. Del tunfisken i små biter; sett til side. Kok pastaen; hell av vannet og skyll med kaldt vann. Bland alle ingrediensene til dressingen; rør godt. Bland pasta, paprika, bønner, løk, tunfisk og dressing. Om mulig, sett salaten i kjøleskapet over natten for at smakene skal blande seg. Server kald.
 
 ## Info
 

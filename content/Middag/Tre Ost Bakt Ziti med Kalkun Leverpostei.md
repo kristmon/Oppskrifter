@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Tre Ost Bakt Ziti med Kalkun Leverpostei
-
 ## Ingredienser
 
 - 450 g italiensk kalkun leverpostei kasse fjernet, kokt og knust

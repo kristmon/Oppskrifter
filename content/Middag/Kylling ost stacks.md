@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Kylling ost stacks
-
-*Servér med carrot og selleri sticks og warm Nestlé Toll House Cookies for Dessert.*
+*Servér med carrot og selleri sticks og warm Cookies for Dessert.*
 
 ## Ingredienser
 
-- 2 (6.5-g.) packages Stouffer's® fryst Creamed Kylling, defrosted ifølge til pakke instruksjoner
-- 1 (2.5-g.) hermetikk skåret i skiver sopp, tappet
-- 1/4 dl sur fløte
-- 1 ss hakket løk
-- 8 English muffins, split i half
-- 1 (16-g.) hermetikk hele cranberry Saus, warmed
+- 2 (6.5-g) pakker fryst Creamed Kylling, tint i henhold til pakkeinstruksjonene.
+- 1 (2.5-g) boks med hermetisk sopp i skiver, avrent.
+- 1/4 dl rømme.
+- 1 ss finhakket løk.
+- 8 English muffins, delt i to.
+- 1 (16-g) boks med hermetisk kranberrysaus, varmet.
 
 ## Fremgangsmåte
 
-1. forvarme ovn til 350° F.
-2. Kombiner creamed kylling, sopp, sur fløte og løk i Medium bolle. Plasser four muffin halves på baking sheet; skje kylling blanding over hver. Topp med resterende muffin halves. Dekk med foil.
-3. Bak for 15 til 20 minutter; topp med cranberry Saus.
+1. Forvarm ovnen til 177 °C.
+2. Bland kremet kylling, sopp, rømme og løk i en middels stor bolle. Plasser halve muffins på et stekebrett; legg kyllingblandingen over hver halve muffin. Topp med resten av muffinhalvdelene. Dekk med aluminiumsfolie.
+3. Stek i 15 til 20 minutter; server med kransekakeglasur.
 
 ## Info
 

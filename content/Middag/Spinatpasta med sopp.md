@@ -29,9 +29,9 @@ created: 2010-04-18
 
 ## Fremgangsmåte
 
-1. Linguine kokes etter pakkeanvisning. Hell av vannet.
-2. Sauter løk i litt olje i et par minutter. Tilsett hvitløk og spinat, og ha i buljong, fløte og cajunkrydder etter 30 sekunder. La det koke i 10–12 minutter. Ha i sitron og parmesan. Smak til med salt; både cajunkrydderet og buljongen kan være salte. Rør pastaen inn i sausen. Server med ønsket topping, for eksempel fisk, kylling eller sopp og paprika som beskrevet i neste punkt.
-3. Smelt smør i en panne på middels varme. Fres sopp og paprika noen minutter, og ha på persille, salt og pepper.
+1. Linguine kokes etter anvisningene på pakken. Hell av vannet.
+2. Fres løk i litt olje i et par minutter. Tilsett hvitløk og spinat, og tilsett kraft, fløte og cajunkrydder etter 30 sekunder. La det småkoke i 10–12 minutter. Tilsett sitron og parmesan. Smak til med salt; både cajunkrydderet og kraften kan være salte. Bland pastaen inn i sausen. Server med ønsket topping, for eksempel fisk, kylling eller sopp og paprika, som beskrevet i neste punkt.
+3. Smelt smør i en panne på middels varme. Stek sopp og paprika et par minutter, og tilsett persille, salt og pepper.
 
 ## Info
 

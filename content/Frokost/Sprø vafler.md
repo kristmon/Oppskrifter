@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Sprø vafler
-
 ## Ingredienser
 
 - 5 dl kiks blanding

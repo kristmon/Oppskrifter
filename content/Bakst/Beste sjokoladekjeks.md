@@ -5,22 +5,22 @@ created: 2020-10-03
 ![[Bilder/Beste sjokoladekjeks.jpg|300]]
 Sprø kanter, seig midt.
 
-**Porsjoner**: 24  
-**Tid**: 30 min (20 prep + 10 cook)  
+**Porsjoner**: 24
+**Tid**: 30 min (20 prep + 10 cook)
 **Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/)
 
 ## Ingredienser
 
 - 230 g smør, romtemperert
 - 200 g sukker
-- 200 g farin
+- 200 g brunt sukker
 - 2 store egg
 - 2 ts vaniljeekstrakt
 - 1 ts natron
 - 2 ts varmt vann
 - ½ ts salt
 - 375 g hvetemel
-- 4,8 dl mørke sjokoladebiter (brukte 1 plate lys kokesjokolade)
+- 4,8 dl mørk sjokolade, grovhakket (brukte 1 plate lys kokesjokolade)
 - 100 g hakkede valnøtter
 
 ## Fremgangsmåte

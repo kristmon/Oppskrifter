@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Picnic Fried Chicken
-
 ## Ingredienser
 
 - 1,2 dl mel
-- 2 ts seasoned salt
-- 2 ts lemon pepper
-- 1 1/2 ts ground kanel
-- 1,4 kg fresh whole kylling, cut up
-- 5 dl vegetarolje
+- 2 ts kryddersalt
+- 2 ts sitronpepper
+- 1 1/2 ts malt kanel
+- 1,4 kg fersk, hel kylling, delt opp
+- 5 dl vegetabilsk olje
 
 ## Fremgangsmåte
 
-1. bland sammen mel, seasoned salt, lemon pepper and kanel in a shallow bowl. Wash kylling pieces and pat dry. Dredge kylling in mel mixture to coat evenly, shake off excess.
-2. forvarm ovn to 350°F.
-3. In a large skillet, varm olje til hot, about 375°F. Brown kylling on all sides. Remove to a shallow baking dish and bak, covered, for 30 minutter eller til ferdig. For crispier skin, remove cover during the last 10 minutter.
+1. Bland mel, kryddersalt, sitronpepper og kanel i en grunn skål. Vask kyllingbitene og tørk dem godt. Vend kyllingen i melblandingen, slik at den blir jevnt dekket, og rist av overflødig mel.
+2. Forvarm ovnen til 177 °C.
+3. I en stor stekepanne, varm olje til den er varm, omtrent 191 °C. Brun kyllingen på alle sider. Ta kyllingen ut av pannen og legg den i en ildfast form. Stek den i ovnen, dekket, i 30 minutter, eller til den er gjennomstekt. For en sprøere skorpe, fjern lokket de siste 10 minuttene.
 
 ## Info
 
 - **Porsjoner**: 4
-- **Preparation Time**: 6 minutes
-- **Cooking Time**: 35 minutes
+- **Forberedelsestid**: 6 minutter
+- **Tilberedningstid**: 35 minutter
 - **Type**: Main Dish, Poultry
 - **Kilde**: Nestlé, www.verybestmeals.com

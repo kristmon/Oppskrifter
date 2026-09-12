@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Viltkylling Med Tyttebær BBQ-saus
-
 ## Ingredienser
 
 - 3 1/2 dl ferske tyttebær
-- 1/2 dl appelsinjus
-- 1/2 dl kommersiell BBQ saus
+- 1/2 dl appelsinjuice
+- 1/2 dl ferdig BBQ-saus
 - 2 ss sukker
-- 3 Cornish viltkyllinger, delt
+- 3 Cornish-viltkyllinger, delt
 - Salt, etter smak
-- Ferskmalte svart pepper, etter smak
+- Nymalt svart pepper, etter smak
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 175°C.
-2. Kombiner tyttebærene, juice, BBQ saus og sukker og bring til koking over høy varme. Senk varmen og småkok i 10 minutter.
-3. Plasser kyllingene i et stekekaret. Strø over med pepper og salt. Stekt kyllingene, åpen, i 30 minutter. Pensle kyllingene med noe av sausen og fortsett å stekt i ytterligere 20 minutter, til saften kommer klar ut.
-4. Server med tilleggsvarm saus på siden.
+1. Forvarm ovnen til 175 °C.
+2. Bland bringebær, juice, BBQ-saus og sukker, og kok opp på høy varme. Senk varmen og la det småkoke i 10 minutter.
+3. Legg kyllingene i en ildfast form. Strø over med salt og pepper. Stek kyllingen i forvarmet ovn i 30 minutter. Pensle kyllingen med litt av sausen, og fortsett å steke i ytterligere 20 minutter, til kjøttsaften kommer klart ut.
+4. Server med ekstra varm saus ved siden av.
 
 ## Info
 

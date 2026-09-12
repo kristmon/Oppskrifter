@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Søt og Varm Spagetti Toss med Fennikel Gremolata
-
 ## Ingredienser
 
 - 450 g Spagetti eller annen lang pastafasong
@@ -17,12 +15,12 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Tilbered pasta etter pakningens anvisning, hell av.
-2. Mens pastaen koker, i tung sautépanne på ca. 3 l over medium varme, brun pølsen hel etter pakningens anvisning, vend av og til, ca. 20 minutter. Overføring til papirtørkler for å drenere, kutt på tvers i 0,5 cm tykke skiver. Returner pølsen til pannen for å brune på begge sider, vend ofte, ca. 5 minutter. Overføring til papirtørkler. Hell av alt bortsett fra 1 ss drypp fra pannen og fjern fra varmen.
-3. For å tilberede fennikel, trim stilker til innenfor 2,5 cm av løken. Finhákk fjærne blader for å gi 2,5 dl, sett til side og forkast stilker. Kutt av og forkast løkens base. Kutt løken lengdevis i to, deretter på tvers i 0,5 cm tykke skiver (ca. 7,5 dl).
-4. For å tilberede fennikel gremolata, i liten bolle, riv skall fra begge sitroner, rør inn hakket fennikel blader og hvitløk, sett til side. Pres juice fra sitronene i en separat bolle, rør inn sennepa og sett til side.
-5. Returner pannen til medium varme. Sauté skåret fennikel løk til sprø/mørkent, ca. 3 minutter. Fjern fra varmen. Rør inn sitronsaftblandingen og pølsen.
-6. I en stor serveringsskål, kombiner pasta, fennikel, pølse og Parmesan; bland til det er godt blandet. Skje fennikel gremolata og mandler på toppen. Bland for å inkorporere bare før servering.
+1. Kok pastaen etter anvisningene på pakken, hell av vannet.
+2. Mens pastaen koker, brunes pølsen i en stor stekepanne på middels varme (ca. 3 liter), under omrøring, i henhold til pakningens anvisning, ca. 20 minutter. Legg pølsen over på et kjøkkenpapir for å renne av fett. Skjær pølsen i skiver på ca. 0,5 cm tykkelse. Ha pølsen tilbake i pannen for å brune den på begge sider, under omrøring, ca. 5 minutter. Legg pølsen over på et kjøkkenpapir. Hell av alt fettet i pannen, bortsett fra 1 ss, og sett pannen til side.
+3. For å tilberede fennikel, trim stilkene til innenfor 2,5 cm fra løken. Finhakk de ytterste bladene og sett til side (ca. 2,5 dl). Kast stilkene. Skjær av og kast bunnen av løken. Del løken i to på langs, og skjær den deretter i skiver på ca. 0,5 cm tykkelse (ca. 7,5 dl).
+4. For å lage fennikel gremolata, riv skallet fra begge sitronene i en liten bolle. Bland inn finhakket fennikel og hvitløk, og sett til side. Press saften fra sitronene i en separat bolle, bland inn sennep, og sett til side.
+5. Sett pannen tilbake på middels varme. Stek den skivede fennikel løken til den er sprø/myk, ca. 3 minutter. Fjern pannen fra varmen. Bland inn sitronsaftblandingen og pølsen.
+6. I en stor serveringsskål, bland pasta, fennikel, pølse og parmesan. Bland godt. Fordel fennikel gremolata og mandler over. Bland forsiktig inn rett før servering.
 
 ## Info
 

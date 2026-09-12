@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Engle-hår med Reke Sesamssaus
-
 ## Ingredienser
 
 - 225 g Engle-hår (Capellini), ukjørt

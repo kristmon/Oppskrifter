@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Mais brød
-
 ## Ingredienser
 
 - 120 ml gul mais mel

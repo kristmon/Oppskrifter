@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Sjokolade Brikker Kjeks
-
 ## Ingredienser
 
 - 1/2 dl kaloriredusert margarin
@@ -18,9 +16,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 190°C. I en medium bolle kremeres margarinen og fruktosen. Slå inn eggeerstatning, vann og vanilj; bland grundig.
-2. I en sil kombinerer du mel, bakesoda og salt. Sil de tørre ingrediensene inn i den kremede blandingen og bland godt. Rør inn sjokoladebrikker.
-3. Spray kjeksplater lett med ikke-stikkende kokesprayek. Drypp teskjeilfull av deig på kjeksplater og bak i 8 til 10 minutter. Fjern kjeksen fra ovnen og avkjøl dem på rister.
+1. Forvarm ovnen til 190°C. I en middels stor bolle, piskes margarinen og fruktosen sammen. Tilsett eggeerstatning, vann og vanilje; bland godt.
+2. I en sil, bland mel, natron og salt. Sikt de tørre ingrediensene inn i den kremete blandingen og bland godt. Rør inn sjokoladebiter.
+3. Spray kjeksplatene lett med en spray som hindrer at de klistrer seg fast. Fordel teskjeer med deig på kjeksplatene og stek i 8 til 10 minutter. Ta kjeksen ut av ovnen og avkjøl dem på rist.
 
 ## Info
 

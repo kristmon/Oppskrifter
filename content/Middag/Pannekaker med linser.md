@@ -5,14 +5,14 @@ created: 2020-08-13
 ![[Bilder/Pannekaker med linser.jpg|300]]
 Supertynne pannekaker man blir god og mett av. Veldig fargerike og barnevennlige!
 
-**Porsjoner**: 4  
-**Tid**: 60 min (15 prep + 45 cook)  
-**Kilde**: [kolonial.no](https://kolonial.no/oppskrifter/2701-hanne-lenes-vegetar-pannekaker-med-skjulte-linser/)  
+**Porsjoner**: 4
+**Tid**: 60 min (15 prep + 45 cook)
+**Kilde**: [kolonial.no](https://kolonial.no/oppskrifter/2701-hanne-lenes-vegetar-pannekaker-med-skjulte-linser/)
 **Plan to Eat-tag**: Vegetar
 
 ## Ingredienser
 
-- 175 g linser, grønne, skylt
+- 175 g grønne linser, skylt
 - 6 dl melk
 - 2 egg
 - 1 ts salt

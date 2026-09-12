@@ -2,18 +2,16 @@
 created: 2026-05-05
 ---
 
-# Jordbær syltetøy
-
 ## Ingredienser
 
-- 1,9 liter jordbbær, vasket og stjernet
+- 1,9 liter jordbær, renset og vasket
 - 1 pakke (55 g) lavsukkerpektin (som SlimSet)
 - 700 ml honning
 
 ## Fremgangsmåte
 
-1. I en stor gryte pisker du forsiktig bærene. Tilsett pektin til maste bærene. Bring til en vigørøs kok under hyppig omrøring. La det koke 1 minutt.
-2. Ta av varmen. Rør inn honning. Raskt og forsiktig skje syltetøyen inn i 3 varme steriliserte 500 ml glass, fyll til 5 mm fra toppen. Tørk av glassrimmene og top med lokk. Skru på båndene. Plasser glass på rist i dampkjer av varmt vann, tilsett vann hvis nødvendig for å bringe vannivået til 2,5 cm over toppen av glass. Bring vann til vellende kok og la det koke i 10 minutter. Ta ut glass forsiktig og kjøl på stekebrett.
+1. Mos bærene forsiktig i en stor gryte. Rør pektinet inn i de moste bærene. Kok kraftig opp under hyppig omrøring, og la blandingen koke i 1 minutt.
+2. Ta gryten av varmen og rør inn honningen. Fordel syltetøyet raskt og forsiktig i tre varme, steriliserte glass på 500 ml. La det være 5 mm klaring til kanten. Tørk av kantene og sett på lokk. Sett glassene på rist i en kjele med varmt vann; vannet skal stå 2,5 cm over glassene. Kok i 10 minutter. Ta glassene forsiktig ut og la dem avkjøles.
 
 ## Info
 

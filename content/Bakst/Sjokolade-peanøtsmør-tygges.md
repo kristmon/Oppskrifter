@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Sjokolade-peanøtsmør-tygges
-
 ## Ingredienser
 
 - 1,75 dl BeeMaid honning

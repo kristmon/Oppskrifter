@@ -2,24 +2,21 @@
 created: 2026-05-05
 ---
 
-# Eple brankjeks
-
 *En sunn og deilig snack. Disse muffinsene er en flott daglig frokost eller matpakkehit!*
 
 ## Ingredienser
 
 - 2,5 dl universalmel
-- 0,75 dl kompakt brunt sukker
+- 0,75 dl kompakt, mørk sukker
 - 2 ts bakepulver
 - 1/2 ts salt
 - 1/2 ts malt kanel
-- 1/4 ts malt muskatnøtt
-- 2,5 dl (1 medium) skaltet, fint hakket surt eple
+- 1/4 ts malt muskat
+- 2,5 dl (1 mellomstore) skrelt og finhakket eple
 - 1,75 dl vann
-- 1,25 dl tørrmelk NESTLÉ® CARNATION®
-- 0,5 dl vegetarolje
+- 1,25 dl tørrmelk - 0,5 dl vegetabilsk olje
 - 1 stort egg
-- 5 dl kornflakmuggsli
+- 5 dl kornflak
 
 ## Fremgangsmåte
 
@@ -30,7 +27,7 @@ created: 2026-05-05
 ## Info
 
 - **Porsjoner**: 12
-- **Preparation Time**: 12 minutter
-- **Cooking Time**: 15 minutter
+- **Forberedelsestid**: 12 minutter
+- **Tilberedningstid**: 15 minutter
 - **Type**: Brød, Frokost
 - **Kilde**: Nestlé, www.verybestbaking.com

@@ -2,29 +2,27 @@
 created: 2026-05-05
 ---
 
-# Beefy Green Chile og Ost Bak
-
 *En crunchy tortilla crust topped med storfekjøtt, ost, og chiles lager en smakelig casserole som den hele Familie skal love. Servér med warm rolls og Perrier vann.*
 
 ## Ingredienser
 
-- 2 dl knust tortilla chips
+- 2 dl knuste tortilla chips
 - 2 ss vann
-- 1 stor egg, litt pisket
-- 1 kg malt storfekjøtt, kokt og tappet
-- 1 envelope dry løk suppe bland
-- 1 (4-g.) hermetikk Ortega® Kutt i terninger Green Chiles
-- 1/2 dl strimlat cheddar ost, delt
-- 1/2 dl strimlat Monterey Jack ost, delt
-- 1 1/2 dl Ortega® Salsa Prima-3 Bell Peppre
-- 1/2 dl kutt i terninger green paprika
+- 1 stort egg, lett pisket
+- 1 kg kokt og most storfekjøtt
+- 1 pose tørket løksuppeblanding
+- 1 (4-g) boks hakket grønn chili
+- 1/2 dl revet cheddarost, delt
+- 1/2 dl revet Monterey Jack-ost, delt
+- 1 1/2 dl Salsa Prima med 3 paprika
+- 1/2 dl hakket grønn paprika
 
 ## Fremgangsmåte
 
-1. forvarme ovn til 175°C. Grease 9-cm square baking rett.
-2. Kombiner chips, vann og egg i liten bolle. Press inn i forberedt baking rett; bak for 10 minutter.
-3. Kombiner storfekjøtt, suppe bland, chiles, ¼ dl cheddar ost og ¼ dl Monterey Jack ost i Medium bolle. Smør over tortilla crust. Topp med salsa, paprika, resterende cheddar ost og resterende Monterey Jack ost.
-4. Bak for 25 til 30 minutter eller til ost er smeltet.
+1. Forvarm ovnen til 175 °C. Smør en 9 cm kvadratisk bakeform.
+2. Bland chips, vann og egg i en liten bolle. Press blandingen i den forberedte bakeformen; stek i 10 minutter.
+3. Bland kjøttdeig, suppeblanding, chilis, ¼ desiliter cheddarost og ¼ desiliter Monterey Jack-ost i en middels stor bolle. Fordel blandingen over tortillabunnen. Topp med salsa, paprika, resten av cheddarosten og resten av Monterey Jack-osten.
+4. Stek i 25 til 30 minutter, eller til osten er smeltet.
 
 ## Info
 

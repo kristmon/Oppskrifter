@@ -2,15 +2,13 @@
 created: 2026-05-05
 ---
 
-# Blender Hollandaise Saus
-
 ## Ingredienser
 
 - 1/4 kg smør
-- 3 egg yolks
-- 1 ss sitron saft
+- 3 eggeplommer
+- 1 ss sitronsaft
 - 1 ss sherry
-- 3 dashes cayenne pepper
+- 3 dash cayennepepper
 
 ## Fremgangsmåte
 

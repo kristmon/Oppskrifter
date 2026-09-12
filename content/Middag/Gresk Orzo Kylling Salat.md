@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Gresk Orzo Kylling Salat
-
 ## Ingredienser
 
-- 450 g orzo makaróni
+- 450 g orzo-pasta
 - 1 ss olivenolje
 - 1 ss sitronsaft
-- 1 hvitløksklyng, knust
-- 1 ts salt, (valgfritt)
-- Ferskmalte svart pepper, etter smak
+- 1 fedd hvitløk, knust
+- 1 ts salt (valgfritt)
+- Nymalt svart pepper, etter smak
 - 1 ss hakket fersk dill
-- 1/2 spansk løk, fint hakket
-- 1/2 dl hakket steinfrukter kalamata oliver
-- 5 dl hakket kokt kylling
-- 1 dl knust fetaost
-- 1 hode Boston salat, godt vasket og avlastet
+- 1/2 spansk løk, finhakket
+- 1/2 dl hakkede kalamata-oliven
+- 5 dl hakket, kokt kylling
+- 1 dl smuldret fetaost
+- 1 salathode Boston, godt vasket og drenert.
 
 ## Fremgangsmåte
 
-1. Sett orzo i 4 liter kokende vann og kok, rørende av og til, til al dente eller knapt møyk. Drenerer godt og plasser i en stor bolle. Bland olje, sitronsaft, hvitløk, salt, pepper og dill. Hell over varm orzo. Bland godt, deretter avkjøl. Bland forsiktig inn løk, oliver, kylling og fetaost.
-2. Skil 6 hele uplettet blader fra salaten. Plasser på 6 individuelle salatplater. Haug salat på hver blad, fordeling oppskriften likemessig.
+1.  Ha orzo i 4 liter kokende vann og kok, rør av og til, til den er al dente eller nesten gjennomkokt. Hell av vannet godt og ha orzoen i en stor bolle. Bland olje, sitronsaft, hvitløk, salt, pepper og dill. Hell blandingen over den varme orzoen. Bland godt, og la deretter retten avkjøles. Bland forsiktig inn løk, oliven, kylling og fetaost.
+2.  Skill 6 hele, uspirte salatblader. Legg på 6 individuelle salatfat. Legg salat på hvert blad, og fordel oppskriften jevnt.
 
 ## Info
 

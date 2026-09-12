@@ -2,29 +2,27 @@
 created: 2026-05-05
 ---
 
-# Rask Blåbær Muffins
-
-*Prøv disse muffinsene når du vil plassere hjemmebakt godteri på bordet i en fart. Brunt sukker, appelsin skall og ferske blåbær gjør disse muffinene fuktige men fine og fulle av smak.*
+*Raske, saftige muffins med brunt sukker, appelsinskall og blåbær.*
 
 ## Ingredienser
 
-- 500 ml all-purpose bakerblandingen
+- 5 dl lys bakemiks
 - 80 ml granulert sukker
 - 2 ss pakket brunt sukker
-- 2 ts revet appelsin skal
+- 2 ts revet appelsinskall
 - 1 stort egg
-- 160 ml NESTLÉ® CARNATION® fordampet melk
-- 2 ss vegetarolje
-- 250 ml friske eller frosne blåbær, tint, drena
+- 1,6 dl usøtet kondensert melk
+- 2 ss nøytral olje
+- 2,5 dl friske eller frosne blåbær, tint og avrent
 - 2 ts appelsinjuice (valgfritt)
 - 2 ss granulert sukker (valgfritt)
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 200°C. Smør eller papir-linje 12 muffin kopper.
-2. Bland bakerblandingen, granulert sukker, brunt sukker og appelsin skal i stor bolle. Slå egg lett i liten bolle; rør inn fordampet melk og vegetarolje. Tilsett fordampet melkblandingen til bakerblandingen; rør bare til fuktig. Fold forsiktig inn blåbær.
-3. Skje deigen inn i forberedt muffin kopper, fylle 3/4 fullt. Pensl forsiktig toppper med appelsinjuice og strø med granulert sukker.
-4. Bak i 15-18 minutter eller til tannstikk stukket i midten kommer ut ren. La kjøle i panne i 3-4 minutter; fjern til ristekjøl for å kjøle litt. Serveres varmt.
+1. Forvarm ovnen til 200°C. Smør eller kle 12 muffinsformer med bakepapir.
+2. Bland bakemiksen, granulert sukker, brunt sukker og appelsinskall i en stor bolle. Visp eggene lett i en liten bolle; rør inn kondensert melk og vegetabilsk olje. Tilsett blandingen av kondensert melk til bakemiksen; bland bare til det er fuktig. Vend forsiktig inn blåbær.
+3. Fordel deigen i de forberedte muffinsformene, fyll dem omtrent 3/4 fulle. Pensle forsiktig toppen med appelsinjuice og strø over granulert sukker.
+4. Stek i 15-18 minutter, eller til en tannpirker stukket i midten kommer ut ren. La muffinsene avkjøles i formen i 3-4 minutter; overfør dem deretter til en rist for å avkjøles helt. Serveres varmt.
 
 ## Info
 

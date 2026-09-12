@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Bourbon-fersken-glass til kalkun
-
 ## Ingredienser
 
 - 1,2 dl ferskensyltetøy
@@ -12,8 +10,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en liten kasserolle, over lav varme, bland syltetøy, bourbon og bitter. Kok til syltetøy er smeltet.
-2. Bruk blandingen som glaze, penslét over kalkunen i løpet av siste 1/2 time av steikingen.
+1. I en liten kjele, over svak varme, bland syltetøy, bourbon og bitter. Kok til syltetøyet er smeltet.
+2. Bruk blandingen som glasur, pensle den over kalkunen i løpet av den siste 1/2 timen av steketiden.
 
 ## Info
 

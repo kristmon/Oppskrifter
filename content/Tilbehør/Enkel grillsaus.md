@@ -2,20 +2,18 @@
 created: 2026-05-05
 ---
 
-# Enkel grillsaus
-
 ## Ingredienser
 
 - 1 boks (225 g) tomatpuré
-- 3 ss Worcestershiresaus
-- 1,2 dl vegetarolje
-- 0,6 dl eplesideseddik
-- 3 ts tørrsennepe
+- 3 ss Worcestersaus
+- 1,2 dl vegetabilsk olje
+- 0,6 dl eplecidereddik
+- 3 ts tørket sennep
 - 3 ss brunt sukker
-- 2 ts chili-pulver
+- 2 ts chilipulver
 - 2 ts sukker
-- 1/2 ts hvitkløkspulver
-- 2 ss tørket hakket løk
+- 1/2 ts hvitløkspulver
+- 2 ss tørket, hakket løk
 - 1/2 ts salt
 - 1/4 ts svart pepper
 

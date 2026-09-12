@@ -5,8 +5,8 @@ created: 2020-09-28
 ![[Bilder/Matgakkebrød.jpg|300]]
 Med god heving og litt mel oppå er det ikke så verst.
 
-**Porsjoner**: 3  
-**Tid**: 240 min  
+**Porsjoner**: 3
+**Tid**: 240 min
 **Kilde**: [trinesmatblogg.no](https://trinesmatblogg.no/recipe/grovt-matpakkebrod/)
 
 ## Ingredienser

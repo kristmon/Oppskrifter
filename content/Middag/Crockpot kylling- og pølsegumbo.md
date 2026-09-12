@@ -3,13 +3,13 @@ created: 2020-08-29
 ---
 
 ![[Bilder/Crockpot kylling- og pølsegumbo.jpg|300]]
-En bra ukedags-rett. Server over ris.
+En god rett for ukedager. Serveres over ris.
 
 Den var god! Lot den stå i 9 timer. Chorizoen fungerte godt.
 
-**Porsjoner**: 8  
-**Tid**: 418 min (35 prep + 383 cook)  
-**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/255248/slow-cooked-chicken-and-sausage-gumbo/)  
+**Porsjoner**: 8
+**Tid**: 418 min (35 prep + 383 cook)
+**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/255248/slow-cooked-chicken-and-sausage-gumbo/)
 **Plan to Eat-tag**: Crock Pot, Fjærkre
 
 ## Ingredienser

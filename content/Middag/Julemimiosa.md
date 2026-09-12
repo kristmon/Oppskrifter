@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Julemimiosa
-
 ## Ingredienser
 
 - 90 ml Grand Marnier eller annen appelsin-smaksatt likør

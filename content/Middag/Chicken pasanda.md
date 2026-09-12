@@ -3,9 +3,9 @@ created: 2020-09-24
 ---
 
 ![[Bilder/Chicken pasanda.jpg|300]]
-Denne indiske retten er veldig enkel å lage, men må planlegges i forveien da kyllingen har godt av å ligge i marinaden over natten, eller minst i 5-6 timer. Det er en spicy rett som ikke er alt for sterk, men det er akkurat sånn den skal være. Ønsker du den mindre spicy kan du erstatte alt eller deler av chilipulveret med paprikapulver. Vi serverte denne retten med ris og mynteraita.
+Denne indiske retten er veldig enkel å lage, men må planlegges på forhånd, da kyllingen bør marinere over natten, eller i minst 5 - 6 timer. Det er en krydret rett som ikke er for sterk, men akkurat slik den skal være. Ønsker du en mildere smak, kan du erstatte alt eller deler av chilipulveret med paprikapulver. Vi serverte denne retten med ris og myntraita.
 
-**Porsjoner**: 2  
+**Porsjoner**: 2
 **Plan to Eat-tag**: Fjærkre
 
 ## Ingredienser
@@ -29,5 +29,5 @@ Denne indiske retten er veldig enkel å lage, men må planlegges i forveien da k
 
 ## Fremgangsmåte
 
-1. Ha kyllingbitene i en bolle. Er det store biter, kan du stikke hull i dem sånn at de får trukket til seg mest mulig marinade, men det er ikke nødvendig om du har små bitesize biter. Ha i eddik og rør forsiktig, helst med hendene. Sett til side i 15-20 minutter. Eddiken hjelper til for å gjøre kyllingen mør. Deretter har du i yoghurt, garam masala, paprika og chili. Rør godt. Sett i kjøleskap over natten.
-2. Neste dag varmer du olje på middels svak varme og lar hvitløk og ingefær få litt brunfarge, før du har i tomatene. La vann fra tomatene fordampe i noen minutter før du har på lokk og lar det koke til tomatene skiller seg fra oljen. Nå blander du inn den marinerte kyllingen. Sett på lokk og la kyllingen få ligge i fred på middels varme til den er nesten gjennomstekt (10-15 minutter). Imens har du sprøstekt løk i en plastpose som du ruller over med en kjevle, eller slår med en hammer eller stekepanne, slik at det blir grovt pulverisert. Når kyllingen begynner å nærme seg gjennomstekt har du i løken og rører godt. Dette gjør sausen tykkere. Når kyllingen er ferdig stekt smaker du til med salt, og drysser over hakket koriander.
+1 . Ha kyllingbitene i en bolle. Hvis bitene er store, kan du stikke hull i dem, slik at de kan trekke til seg mest mulig marinade, men det er ikke nødvendig hvis du har små, bite-store biter. Tilsett eddik og rør forsiktig, helst med hendene. La stå i 15 - 20 minutter. Eddiken hjelper til med å gjøre kyllingen mørere. Deretter tilsetter du yoghurt, garam masala, paprika og chili. Rør godt. Sett i kjøleskapet over natten.
+ 2 . Neste dag varmer du olje på middels svak varme, og lar hvitløk og ingefær få litt farge, før du tilsetter tomatene. La vannet fra tomatene fordampe i noen minutter, før du setter på lokk og lar det koke til tomatene skiller seg fra oljen. Nå blander du inn den marinerte kyllingen. Sett på lokk og la kyllingen få ligge i fred på middels varme til den er nesten gjennomstekt ( 10 - 15 minutter). Imens har du sprøstekt løk i en plastpose, som du ruller over med en kjevle, eller slår med en hammer eller stekepanne, slik at det blir et grovt pulver. Når kyllingen begynner å nærme seg gjennomstekt, har du i løken og rører godt. Dette gjør sausen tykkere. Når kyllingen er ferdig stekt, smaker du til med salt og drysser over hakket koriander.

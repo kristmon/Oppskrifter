@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# bakt Kylling og Ris
-
 *Veldig enkel bakt rett.*
 
 ## Ingredienser
 
-- 1 kg beinløs skinløs kyllingfilet
-- 1 hermetikk fløte av sopp suppe
+- 1 kg filet av kylling, uten bein og uten skinn
+- 1 boks fløtesoppsuppe
 - 1 dl vann
-- 1 envelope løk suppe bland
-- 1 dl ris, (ikke instant)
+- 1 pose løksuppurblanding
+- 1 dl ris (ikke ferdigkokt)
 
 ## Fremgangsmåte
 
-1. Plasser kylling i forberedt casserole rett.
-2. I separate bolle bland sammen resterende ingredienser. Hell over kylling.
-3. Dekk og bak på 190°C. for 1 time.
+1. Legg kyllingen i en forberedt, ovnsikker form.
+2. I en separat bolle, bland sammen de resterende ingrediensene. Hell blandingen over kyllingen.
+3. Dekk formen og stek i ovnen på 190 °C i 1 timer.
 
 ## Info
 

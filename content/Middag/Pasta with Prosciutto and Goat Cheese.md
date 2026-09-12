@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Pasta with Prosciutto and Goat Cheese
-
 ## Ingredienser
 
-- 1 lb Penne or Ziti, uncooked
-- 4 Tbs olive or vegetable oil
-- 1 medium yellow onion, peeled and diced (about 2/3 cup)
-- 4 oz prosciutto, thinly sliced, diced in 1/2-inch pieces (about 1/2 cup)
-- 1/8 cup toasted almond slivers
-- 8 large basil leaves, finely chopped (about 3 tbsp.) or 2 tbsp. dry basil
-- 1/4 cup diced sun-dried tomatoes
-- 1 1/2 cups chicken stock or broth
-- 4 oz goat cheese, broken into small pieces
-- Salt and pepper to taste
+- 455 g penne eller ziti, ukokt
+- 4 ss olivenolje eller vegetabilsk olje
+- 1 middels stor gul løk, skrelt og hakket (omtrent 1,6 dl)
+- 113 g prosciutto, i tynne skiver, kuttet i biter på omtrent 1/2 cm (omtrent 1,2 dl)
+- 0,3 dl ristede mandelflis
+- 8 store basilikumblader, finhakket (omtrent 3 ss.) eller 2 ss. tørket basilikum
+- 0,6 dl hakkede soltørkede tomater
+- 3,6 dl kyllingkraft eller buljong
+- 113 g geitost, delt i små biter
+- Salt og pepper etter smak.
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions. Drain and plunge in cold water to stop the cooking process; drain again.
-2. In a large sauté pan, heat olive or vegetable oil and sauté onion for 2 minutes. Add prosciutto, almonds, basil and sun-dried tomatoes. Toss together, add chicken stock and cook 5-7 minutes longer. Add the cooked pasta and goat cheese and stir. Warm over low heat for another minute. Season with salt and pepper. Serve while piping hot.
+1. Kok pastaen etter anvisningene på pakken. Hell av vannet og skyll med kaldt vann for å stoppe kokeprosessen; hell av igjen.
+2. Varm olivenolje eller vegetabilsk olje i en stor stekepanne, og stek løk i 2 minutter. Tilsett prosciutto, mandler, basilikum og soltørkede tomater. Bland godt, tilsett kyllingkraft og kok i ytterligere 5-7 minutter. Tilsett den kokte pastaen og geitost, og rør godt. Varm opp over svak varme i et minutt. Smak til med salt og pepper. Server mens den er rykende varm.
 
 ## Info
 

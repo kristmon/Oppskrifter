@@ -1,11 +1,11 @@
 ---
 created: 2017-11-03
 ---
-Kibbeh. Det er nasjonalretten i Libanon. Vårt "Verdens land"-prosjekt har drøyet en stund, og mat fra Libanon har ligget på vent. Men i går fikk jeg endeligi tatt meg sammen. Jeg lagde kibbeh, med brød og salat til. Jeg bakte libanesisk brød, og lagde den libanesiske salaten fattoush. Jeg må ha gjort noe riktig, for mannen, som har vært i Qatar, mente maten smakte sånn som maten i Midtøsten smaker. Og vi var begge godt fornøyde med smaken!
+Kibbeh regnes som en av Libanons nasjonalretter. Server den gjerne med libanesisk brød og fattoush.
 
 Kibbeh
 
-- ca 1,2 dl fin bulgur
+- ca. 1,2 dl fin bulgur
 - 450 g kjøttdeig
 - 1/2 løk
 - 1-2 basilikumblader
@@ -21,8 +21,10 @@ Fyll
 - 1/2 ss "7 spices" (se nederst i innlegget
 - salt
 
-Bulguren skal renses i vann, hell av vannet, men la litt være igjen, og la den stå og trekke i 2 timer. Når disse to timene nærmer seg slutten kan du begynne på fyllet. Stek kjøttdeig (200 g) og løk i litt olje. Når kjøttet er brunt, tilsett mandler, 7 spices og salt. Rør og sett til side.
-Ha bulguren i en foodprocessor og kjører den til den blir deigete. Ha gjerne i 1-2 ss vann. Tilsett rå kjøttdeig (450 g) og kjør til det er blitt en fin deig. Ha det over i en skål. Kjør løk og basilikum i mikseren til det blir en puré. Ha det i skålen sammen med deigen. Tilsett kibbeh krydder og salt, og bland det godt sammen.
+Bulguren skal renses i vann. Hell av vannet, men la litt være igjen, og la den trekke i 2 timer. Når disse to timene nærmer seg slutten, kan du begynne på fyllet. Stek kjøttdeig (200 g) og løk i litt olje. Når kjøttet er brunt, tilsett mandler, 7 krydder og salt. Rør og sett til side.
+
+Ha bulguren i en foodprocessor og kjør den til den blir til en deig. Tilsett gjerne 1–2 ss vann. Tilsett rå kjøttdeig (450 g) og kjør til det er blitt en fin deig. Ha det over i en skål. Kjør løk og basilikum i mikseren til det blir en puré. Ha det i skålen sammen med deigen. Tilsett kibbeh-krydder og salt, og bland det godt sammen.
+
 Nå tar du en liten del av deigen, lag en liten ball og klem den flat i håndflaten slik at den omtrent dekker denne. Legg på litt fyll, og pakk deigen rundt fyllet slik at det blir en ball. Se bildene under.
 
 ![[Bilder/Kibbeh1.jpg|300]]
@@ -67,7 +69,7 @@ Hvis du har, eller får tak i, et krydder som heter sumak, kan du bruke det i st
 
 Libanesisk brød
 
-Dette brødet ble fantastisk godt! Min kjære mann lurte på om de var lette å lage. Han tenkte vi kunne ha dem som lørdagssnacks. Denne oppskriften gir 4 brød, lag gjerne mer om du ønsker flere.
+Brødene passer godt som snacks. Oppskriften gir fire brød; lag gjerne flere ved behov.
 
 - 2 ss tørrgjær
 - 3,5 dl mel
@@ -81,12 +83,12 @@ Sikt melet, og bland med gjær og salt. Ha i vann og kna til en deig. La den hev
 Kibbeh krydder
 
 - 1 ts allehånde
-- 1 ts kummin
+- 1 ts kommen
 - 1 ts koriander
 - 1 ts muskat
-- 1 ts sort pepper
+- 1 ts svart pepper
 - 1/2 ts nellik
-- 1/2 ts cayenne pepper
+- 1/2 ts cayennepepper
 - 1/2 ts kanel
 - 1 ts salvie
 

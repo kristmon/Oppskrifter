@@ -2,20 +2,18 @@
 created: 2026-05-05
 ---
 
-# Vestlig Vogn Hjul
-
 ## Ingredienser
 
-- 450 g Vogn Hjul, Rotini eller annen medium pasta form, ukocht
-- 60 ml universalt mel
-- 2,5 ml pepper
-- 675 g hudløs, beinløs kylling bryst, skåret i bitmål stykker
-- 3 ss vegetarolje, delt
-- 500 ml brokkoli blomst
-- 2 gulrøtter, tynnt skåret
-- 250 ml fryst helt kjerne mais
-- 1 ss vann
-- 1 510 g flaske grillets saus
+- 450 g vogn hjul, rotini eller annen middels pastaform, ukokt.
+- 60 ml universalmel.
+- 2,5 ml pepper.
+- 675 g uten skinn og bein, kyllingbryst, skjært i passende biter.
+- 3 ss vegetabilsk olje, delt.
+- 500 ml brokkolibuketter.
+- 2 gulrøtter, i tynne skiver.
+- 250 ml frosne maiskolber.
+- 1 ss vann.
+- 1 flaske (510 g) grillsaus.
 
 ## Fremgangsmåte
 

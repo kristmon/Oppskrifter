@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Kalkun Nacho Pie
-
 ## Ingredienser
 
 - 115 g beinløst hvit eller mørk kalkun kjøtt skåret i 2,5 cm kuber
@@ -18,9 +16,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I liten stekepanne over medium varme, stekk kalkun i 2,5 ml olje 2 til 3 minutter eller til den ikke lenger er rosa; ta ut og sett til side. Tilsett gjenværende olje, løk og grønn paprika til stekepannen og stekk til løken er transparent og paprikaen myk.
-2. Fold inn kalkunen, salsa, hvitløk og chili-pulver. Hell inn i en 420 ml stekeform. Toppes med mais-chips og ost.
-3. I brødristeren eller vanlig ovn, grill stekeformen i cirka 2 til 3 minutter eller til osten smelter.
+1. I en liten stekepanne over middels varme, stek kalkun i 2,5 ml olje i 2 til 3 minutter, eller til den ikke lenger er rosa. Ta den ut og sett til side. Tilsett resten av oljen, løk og grønn paprika i stekepannen, og stek til løken er blank og paprikaen er myk.
+2. Bland kalkunen, salsa, hvitløk og chilipulver. Hell blandingen i en 420 ml ildfast form. Topp med maischips og ost.
+3. I brødristeren eller i ovnen, sett formen under grillen i omtrent 2 til 3 minutter, eller til osten er smeltet.
 
 ## Info
 

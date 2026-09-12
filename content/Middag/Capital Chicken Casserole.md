@@ -2,34 +2,32 @@
 created: 2026-05-05
 ---
 
-# Capital Chicken Casserole
-
 ## Ingredienser
 
-- 1 kylling, cut in parts
-- 2,5 dl dry hvitvini
-- 4 ss smør
-- 1 ss cooking olje
-- 1 8-oz package fresh sopp, sliced
-- 1 ss mel
-- 1 11-oz can fløte of kylling soup
-- 2,5 dl vann
-- 1,2 dl fløte
-- 1 ts salt
-- 1/4 ts tarragon leaves
-- 1/4 ts pepper
-- 1 15-oz can artichoke hearts, drained
-- 6 green løk, green and white parts included, chopped
-- 2 ss chopped parsley
+- 1 Kylling, delt i stykker
+- 2,5 1 dl tørr hvitvin
+- 4 1 ss smør
+- 1 1 ss matolje
+- 1 Sopp, fersk, i skiver (ca. [8] gram)
+- 1 1 ss mel
+- 1 Kyllingsuppe, hermetisk (ca. [11] gram)
+- 2,5 1 dl vann
+- 1,2 1 dl fløte
+- 1 1 ts salt
+- 1/4 1 ts tarragonblader
+- 1/4 1 ts pepper
+- 1 Hjertesalat, hermetisk (ca. [15] gram), avrent
+- 6 Grønn løk, med både grønne og hvite deler, hakket
+- 2 Hakket persille (1 ss)
 
 ## Fremgangsmåte
 
-1. In large frypan, place smør and olje and varm to medium temperature til smør melts.
-2. Tilsett kylling and kok, turning, about 10 minutter eller til brown on all sides.
-3. Remove kylling and place in baking pan or casserole.
-4. In same frypan, saute sopp about 5 minutter eller til mør. rør in mel. tilsett soup, wine and vann; la småkoke, stirring, about 10 minutter eller til sauce thickens. rør in fløte, salt, tarragon and pepper; hell over kylling.
-5. bak, uncovered, in 350 degree F. ovn for 60 minutter.
-6. bland in artichoke hearts, green løk and parsley. bak about 5 more minutter eller til fork can be inserted in kylling with ease.
+1. I en stor stekepanne, ha smør og olje, og varm opp til middels temperatur til smøret smelter.
+2. Tilsett kylling og stek, vend kyllingen, i omtrent 10 minutter, eller til den er brun på alle sider.
+3. Ta kyllingen ut av pannen og legg den i en ildfast form eller en casserole.
+4. I samme stekepanne, surr sopp i omtrent 5 minutter, eller til den er myk. Rør inn mel. Tilsett supp, vin og vann; la det småkoke, rør av og til, i omtrent 10 minutter, eller til sausen tykner. Rør inn fløte, salt, tarragon og pepper; hell sausen over kyllingen.
+5. Stek, uten lokk, i ovn på 350 grader i 60 minutter.
+6. Bland inn hjertene fra artisjokker, grønn løk og persille. Stek videre i omtrent 5 minutter, eller til en gaffel lett kan stikkes inn i kyllingen.
 
 ## Info
 

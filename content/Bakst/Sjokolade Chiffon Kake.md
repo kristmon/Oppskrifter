@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Sjokolade Chiffon Kake
-
 ## Ingredienser
 
 - 3/4 dl sievet kake og bakermels
@@ -20,13 +18,13 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Forer bunnen av 20 cm kakeform med papirbaker kuttet etter mål. Eller, alternativt, ha 25 cm rørkakeform klar.
-2. I medium bolle kombinerer du mel, kakaopulver, 1/3 dl sukker, bakepulver og salt; bland godt. Hell inn olje, vann, vanilj og eggeplomme. Slå i 1 minutt eller til veldig glatt. Vask slagene.
-3. I stor bolle, og med rene slag, slå eggeklar og vinsteinsyre til myke topper dannes. Tilsett gjenværende sukker og slå til stive topper dannes.
-4. Hell eggeplomme blandingen jevnt over stivslåtte eggeklar. Fold inn til blandet og jevnt farget.
-5. Hell i forberedt form. Med kniv, kutt gjennom deigen for å fjerne luftbobler. Glatt toppen.
-6. Bak i 175°C ovn i 40 minutter eller til tester stukket i senteret kommer ren ut.
-7. Avkjøl på rist. (Eller, hvis rørkakeform brukes, inverter pannen og la den henge opp ned på sin egen rist eller trakt.) Løsne rundt kanten av kaken; inverter på kakefat. Fjern papirbaker.
+1 . Kle bunnen av en 20 cm kakeform med bakepapir som er tilpasset størrelsen. Alternativt, ha en 25 cm springform klar.
+ 2 . I en middels stor bolle, bland mel, kakaopulver, 1/3 dl sukker, bakepulver og salt; rør godt sammen. Tilsett olje, vann, vanilje og eggeplomme. Visp i 1 minutter, eller til blandingen er veldig glatt. Vask vispen.
+ 3 . I en stor bolle, og med rene visper, visp eggehviter og vinsyre til myke topper dannes. Tilsett resten av sukkeret og visp til stive topper dannes.
+ 4 . Hell eggeplomblandingen jevnt over de stivpiskede eggehvitene. Vend forsiktig inn til blandingen er godt blandet og jevn i fargen.
+ 5 . Hell blandingen i den forberedte formen. Bruk en kniv til å skjære gjennom deigen for å fjerne eventuelle luftbobler. Glatt ut overflaten.
+ 6 . Stek i en ovn på 175 °C i 40 minutter, eller til en testpinne stukket i midten kommer ut ren.
+ 7 . Avkjøl på en rist. (Eller, hvis springform brukes, snu formen opp ned og la den henge på sin egen rist eller en trakt.) Løsne kaken rundt kantene; snu den over på et kakefat. Fjern bakepapiret.
 
 ## Info
 

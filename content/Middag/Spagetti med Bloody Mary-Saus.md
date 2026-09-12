@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Spagetti med Bloody Mary-Saus
-
 ## Ingredienser
 
 - 450 g Spagetti, Linguine eller annen lang pastafasong, ukokt
@@ -18,7 +16,7 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Tilbered pasta etter pakningens anvisning; hell av. Varm oljen i en stor stekepanne over medium varme. Tilsett hvitløk og persille, kok til hvitløken lukter, ca. 30 sekunder. Rør inn tomatjuice, vodka, pepperrot, Worcestershire-saus og svart pepper. Varm til kokende og kok 30 sekunder. Rør pasta inn i sausen til den er belagt. Server varmt.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet. Varm olje i en stor stekepanne over middels varme. Tilsett hvitløk og persille, og stek til hvitløken dufter, ca. 30 sekunder. Rør inn tomatjuice, vodka, pepperrot, Worcestershire-saus og svart pepper. Varm opp til kokepunktet og la det koke i 30 sekunder. Bland pastaen inn i sausen til den er godt dekket. Server varmt.
 
 ## Info
 

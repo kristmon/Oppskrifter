@@ -2,29 +2,27 @@
 created: 2026-05-05
 ---
 
-# Fresh Corn, Tomato & Scallop Pasta
-
 ## Ingredienser
 
-- 1 lb Medium Shells, Ziti or other medium pasta shape, uncooked
-- 1 Tbs plus 1 tsp. olive or vegetable oil
-- 3/4 cup sliced red onion
-- 1 lb bay scallops or medium shrimp, peeled and deveined
-- 1 cup fresh or frozen corn kernels (2 ears)
-- 2 cloves garlic, minced
-- 4 large ripe tomatoes, peeled, seeded and diced (4 cups)
-- 2 Tbs minced fresh oregano
-- 1/2 tsp dried rosemary
-- 1/2 to 1 tsp hot sauce
-- 2 Tbs red wine vinegar
-- 1 Tbs lemon juice
-- 1/2 cup crumbled feta cheese (2 oz.)
-- Salt and freshly ground pepper to taste
+- 455 g mediumstore pasta, for eksempel skjell, ziti eller annen middels stor pastaform, ukokt.
+- 1 ss pluss 1 ts olivenolje eller vegetabilsk olje.
+- 1,8 dl skivet rød løk.
+- 455 g kamskjell eller mellomstore reker, rensede og uten skall.
+- 2,4 dl ferske eller frosne maiskorn (2 stk maiskolber).
+- 2 fedd hvitløk, finhakket.
+- 4 store, modne tomater, skrellet, uten kjerner og i terninger (9,6 dl).
+- 2 ss finhakket fersk oregano.
+- 1/2 ts tørket rosmarin.
+- 1/2 til 1 ts chilisaus.
+- 2 ss rødvinsekstrakt.
+- 1 ss sitronsaft.
+- 1,2 dl smuldret fetaost (57 g).
+- Salt og nykvernet pepper etter smak.
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions. While pasta is cooking, heat 1 tbsp. oil in a large skillet. Add red onion and cook about 2 minutes. Add scallops, corn and garlic. Cook 4 minutes, stirring often. Add tomatoes, oregano, rosemary and hot sauce. Simmer just until scallops are done and mixture is thoroughly heated, about 5 minutes. Stir in 2 tablespoons of red wine vinegar and lemon juice.
-2. When pasta is done, drain well. Transfer to a serving bowl. Drizzle with remaining 1 tsp. oil and toss well. Spoon tomato mixture over pasta. Sprinkle with cheese, salt and pepper and serve immediately.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, varm 1 ss olje i en stor stekepanne. Tilsett rødløk og stek i ca. 2 minutter. Tilsett rekker, mais og hvitløk. Stek i 4 minutter, rør ofte. Tilsett tomater, oregano, rosmarin og chilisaus. La det småkoke til rekene er gjennomstekte og blandingen er godt varmet opp, ca. 5 minutter. Rør inn 2 ss rødvinseder og sitronsaft.
+2. Når pastaen er ferdig, hell av vannet godt. Overfør pastaen til en serveringsbolle. Dryss over resten av 1 ts olje og bland godt. Fordel tomatblandingen over pastaen. Dryss over ost, salt og pepper, og server umiddelbart.
 
 ## Info
 

@@ -2,29 +2,27 @@
 created: 2026-05-05
 ---
 
-# Mexican Frittata
-
 ## Ingredienser
 
-- 10 dl leftover Spaghetti, Thin Spaghetti, or Vermicelli (about 8 oz. uncooked)
-- 1 8 oz. carton egg substitute
-- 2,5 dl evaporated skim melk
-- 2,5 dl shredded, reduced-fat cheddarost
-- 1 4 oz. can chopped green chiles, drained
-- 1,2 dl sliced scallions
-- 1/2 ts ground kommen
+- 10 dl ferdigkokt spaghetti, tynn spaghetti eller vermicelli (omtrent 227 g tørrvekt)
+- 1 kartong (227 g) erstatning for egg
+- 2,5 dl skummet melk, tappet
+- 2,5 dl revet, mager cheddarost
+- 1 boks (113 g) hakket grønn chili, avrent
+- 1,2 dl skivede vårløk
+- 1/2 ts malt kommen
 - 1/2 ts salt
-- vegetarolje cooking spray
+- vegetabilsk olje spray
 
 ## Fremgangsmåte
 
-1. bland sammen first 8 ingredients in a large bowl; set aside.
-2. Spray a 9-inch non-stick skillet with cooking spray and varm over medium-high varm. hell 1/3 of the pasta-egg mixture into the pan and cover. kok 4 to 5 minutter til set and lightly golden. Slide out onto a plate, invert the skillet over the frittata on the plate, and flip the frittata back into the skillet. kok another 3 to 4 minutter, covered.
-3. Remove to a serving dish and keep warm. Repeat with remaining mixture.
-4. Top each frittata with salsa and servér immediately
+1. Bland de åtte første ingrediensene i en stor bolle og sett til side.
+2. Sprøyt en stekepanne på 23 cm med non-stick belegg med matolje, og varm den opp på middelhøy varme. Hell 1/3 av pasta- og eggeblandingen i pannen, og legg lokk på. Kok i 4 til 5 minutter, til den er stivnet og lett gyllen. Skyv den ut på et fat, vend pannen over frittataen på fatet, og snu frittataen tilbake i pannen. Kok videre i 3 til 4 minutter, med lokk.
+3. Hell over i et serveringsfat og hold varmt. Gjenta med resten av blandingen.
+4. Topp hver frittata med salsa og server straks.
 
 ## Info
 
 - **Porsjoner**: 4
-- **Type**: Main Dish, Pasta
+- **Type**: Hovedrett, Pasta
 - **Kilde**: National Pasta Association, www.ilovepasta.org

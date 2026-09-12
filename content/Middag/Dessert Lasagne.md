@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Dessert Lasagne
-
 ## Ingredienser
 
-- 12 pieces lasagne
-- 4 cups ricotta cheese
-- 1 cup sugar, divided
-- 8 kiwis, peeled
-- 4 cups strawberries, washed and trimmed, 8 reserved for garnishing
-- 4 cups blackberries, washed
-- 1/2 cup toasted, sliced almonds
-- Mint sprigs, to garnish
+- 12 lasagneplater
+- 9,6 desiliter ricottaost
+- 2,4 desiliter sukker, delt opp
+- 8 kiwi, skrelt
+- 9,6 desiliter jordbær, skylt og trimmet, hvorav 8 reserveres til pynt
+- 9,6 desiliter bjørnebær, skylt
+- 1,2 desiliter ristede, skivede mandler
+- Noen myntekvister, til pynt
 
 ## Fremgangsmåte
 
-1. Cook the pasta according to package directions. Rinse, drain and set aside.
-2. In a medium bowl, stir together the ricotta cheese and 1/2 cup sugar. Set aside.
-3. In the food processor, puree 4 kiwis with 2 tablespoons sugar. Transfer the puree to a bowl and set it aside. Rinse the processor bowl.
-4. In the processor, puree half the strawberries with 2 tablespoons sugar. Strain the puree into a bowl and set it aside. Rinse the processor bowl.
-5. In the processor, puree half the blackberries with 2 tablespoons sugar. Strain the puree and set it aside.
-6. Slice the kiwis into 1/4-inch thick rounds. Slice the strawberries into 1/8-inch thick pieces. Slice the blackberries in half.
-7. Reserve 1/4 cup of each of the purees to use as a garnish when serving.
-8. To assemble the lasagne, first cover the bottom of a 9-inch-by-13-inch glass baking pan with 3 pieces of pasta. Spoon 1/3 of the ricotta on top and spread it evenly. Pour the kiwi puree over the cheese and arrange the kiwi slices on the puree. Lay on 3 more pieces of pasta and cover with 1/2 the remaining cheese. Pour the strawberry puree over the cheese and sprinkle with sliced strawberries. Lay on 3 more pieces of pasta and cover with the remaining cheese. Pour the blackberries puree over the cheese and sprinkle with blackberries. Top with a final layer of pasta. Cover tightly with plastic and refrigerate overnight.
-9. Just before serving, sprinkle the lasagne with the remaining 2 tablespoons sugar and with the toasted almonds. Cut into 8 rectangles and use a spatula to set the pieces on dessert plates. Decorate the plates with dots of reserved purees. Garnish each piece of lasagne with a strawberry and a sprig of mint.
+1. Kok pastaen etter anvisningene på pakken. Skyll, sil og sett til side.
+2. I en middels stor bolle, bland ricottaosten og 1,2 dl sukker. Sett til side.
+3. I kjøkkenmaskinen, mos 4 kiwi med 2 ss sukker. Overfør pureen til en bolle og sett den til side. Skyll bollen i kjøkkenmaskinen.
+4. I kjøkkenmaskinen, mos halvparten av jordbærene med 2 ss sukker. Sil pureen over i en bolle og sett den til side. Skyll bollen i kjøkkenmaskinen.
+5. I kjøkkenmaskinen, mos halvparten av bjørnebærene med 2 ss sukker. Sil pureen og sett den til side.
+6. Skjær kiwiene i ca. 6 mm tykke skiver og jordbærene i ca. 3 mm tykke skiver. Del bjørnebærene i to.
+7. Reserver 0,6 dl av hver av pureene for å bruke som pynt ved servering.
+8. Dekk bunnen av en glassform på ca. 23 × 33 cm med tre lasagneplater. Fordel en tredjedel av ricottablandingen over. Hell kiwipuré over og legg på kiwiskivene. Legg på tre nye plater, halvparten av resten av ricottablandingen, jordbærpuré og jordbærskiver. Gjenta med tre plater, resten av ricottablandingen, bjørnebærpuré og bjørnebær. Avslutt med de siste platene. Dekk godt med plastfolie og sett formen i kjøleskapet over natten.
+9. Rett før servering, dryss den resterende 2 ss sukker og de ristede mandlene over lasagnen. Skjær i 8 rektangler og bruk en palett for å legge stykkene på desserttallerkenene. Pynt tallerkenene med prikker av de reserverte pureene. Pynt hvert stykke lasagne med en jordbær og en kvist mynte.
 
 ## Info
 

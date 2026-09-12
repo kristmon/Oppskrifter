@@ -2,29 +2,27 @@
 created: 2026-05-05
 ---
 
-# Delicious, Nutritious, Date Granola Bars
-
 ## Ingredienser
 
-- 1/2 cup honey
-- 1/2 cup peanut butter
-- 1/4 cup butter or margarine, melted
-- 3 cups rolled oats
-- 2 cups dates, pitted
-- 1 cup flaked or shredded coconut
-- 1/2 cup unsalted peanuts
-- 1/2 cup wheat germ
-- 1/4 cup nonfat dry milk powder
+- 1,2 dl honning
+- 1,2 dl peanøttsmør
+- 0,6 dl smør eller margarin, smeltet
+- 7,2 dl havregryn
+- 4,8 dl dadler, uten stein
+- 2,4 dl kokosflak eller strimlet kokos
+- 1,2 dl usaltede peanøtter
+- 1,2 dl hvetekim
+- 0,6 dl mager melkepulver
 
 ## Fremgangsmåte
 
-1. In large mixing bowl, combine honey, peanut butter and butter to blend. Stir in remaining ingredients.
-2. Spread evenly in glreased 10 x 15 inch baking pan. Bake in 300°F oven 45 to 55 minutes until toasted and golden.
-3. Stir mixture several times during baking. Cool completely.
+1. I en stor bolle, bland sammen honning, peanøttsmør og smør til det er godt blandet. Rør inn de resterende ingrediensene.
+2. Fordel jevnt i en smurt form på 25 x 38 cm. Stek i forvarmet ovn på 149 °C i 45 til 55 minutter, eller til den er gyllen og gjennomstekt.
+3. Rør blandingen flere ganger under steking. Avkjøl helt.
 4. Store in air tight container.
 
 ## Info
 
-- **Porsjoner**: 10 Yield: 9 cups
+- **Porsjoner**: 10 Yield: 21,6 dl
 - **Type**: Snack, Vegetarian
 - **Kilde**: California Date Commission, www.datesaregreat.com

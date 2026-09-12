@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Mornay-saus
-
 ## Ingredienser
 
 - 3 eggepl, litt vipt

@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Pasta Mexicali
-
 ## Ingredienser
 
-- 225 g Penne, Mostaccioli eller Rotini, ukokt
-- 1 boks (450 g) sorte bønner, skyllt og avløpt
-- 1 boks (450 g) cannelini-bønner, skyllt og avløpt
-- 1 boks (310 g) gul kornkjernar, avløpt
+- 225 g penne, mostaccioli eller rotini, ukokt
+- 1 boks (450 g) svarte bønner, skylt og avrent
+- 1 boks (450 g) cannellinibønner, skylt og avrent
+- 1 boks (310 g) gul mais, avrent
 - 2,5 dl hakket rød løk
-- 1,2 dl fint delt rød paprika
-- 60-120 ml hakket fersk koriander
-- 1,2 dl hakket fersk persille eller 30 ml tørka persille
+- 1,2 dl fint hakket rød paprika
+- 60–120 ml hakket fersk koriander
+- 1,2 dl hakket fersk persille eller 30 ml tørket persille
 - 60 ml sidereddik
-- 15 ml Dijon-sennepp
-- 2 hvitløksfedd, finhakket
-- 7,5 ml malt kommen
-- 1/2 ts cayenne-pepper (valfritt)
+- 15 ml dijonsennep
+- 2 fedd hvitløk, finhakket
+- 7,5 ml malt spisskummen
+- 1/2 ts cayennepepper (valgfritt)
 - 1/2 ts svart pepper
-- 60 ml vegetarolje
+- 60 ml vegetabilsk olje
 
 ## Fremgangsmåte
 

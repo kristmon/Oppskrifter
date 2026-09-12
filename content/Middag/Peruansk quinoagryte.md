@@ -23,4 +23,4 @@ I Peru bruker de mye quinoa, noe jeg aldri hadde prøvd før, men vært litt nys
 - 1 knivspiss cayennepepper
 - salt
 
-Kok quinoa i vannet under lokk i 15 minutter (eller følg anvisning på pakken) og sett til side. Varm oljen i en gryte og sauter løk og hvitløk i 5 minutter. La gulrot og selleri steke med i 5 minutter til. Ha så i paprika, squash, tomater og buljong, og rør inn alle krydrene. La småkoke i ca 15 minutter. Ha til slutt i quinoa og server. Om ønskelig kan du strø over litt hakket, frisk koriander eller vårløk.
+Kok quinoa i vann under lokk i 15 minutter (eller følg anvisning på pakken) og sett til side. Varm oljen i en gryte og stek løk og hvitløk i 5 minutter. La gulrot og selleri steke med i 5 minutter til. Tilsett deretter paprika, squash, tomater og buljong, og rør inn alle krydderne. La det småkoke i ca. 15 minutter. Tilsett til slutt quinoaen og server. Om ønskelig kan du strø over litt hakket, frisk koriander eller vårløk.

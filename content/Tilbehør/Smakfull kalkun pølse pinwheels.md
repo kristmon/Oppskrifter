@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Smakfull kalkun pølse pinwheels
-
 ## Ingredienser
 
 - 530 ml mel

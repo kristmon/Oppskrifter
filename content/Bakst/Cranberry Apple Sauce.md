@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Cranberry Apple Sauce
-
-*A good cranberry sauce for those who are avoiding a lot of sugar, which is usually abundant in cranberry sauces.*
+En god tyttebærsaus for de som ønsker å unngå mye sukker, noe som ofte finnes i tyttebærsaus.
 
 ## Ingredienser
 
-- 12 oz cranberries
-- 6 oz unsweetened apple juice concentrate
+- 34 g cranberries
+- 17 g unsweetened apple juice concentrate
 
 ## Fremgangsmåte
 
-1. In a saucepan kok cranberries and apple juice concentrate over medium varm til cranberries have burst. Chill and servér.
+1. I en kjele, kok tyttebær og eplejuicekonsentrat på middels varme til tyttebærene sprekker. Avkjøl og server.
 
 ## Info
 
-- **Porsjoner**: 8 Yield: 2 cups
+- **Porsjoner**: 8 Yield: 4,8 dl
 - **Type**: Dessert, Side Dish
 - **Kilde**: Culinary Café, www.culinarycafe.com

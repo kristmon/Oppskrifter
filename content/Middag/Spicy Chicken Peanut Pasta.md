@@ -2,34 +2,32 @@
 created: 2026-05-05
 ---
 
-# Spicy Chicken Peanut Pasta
-
 ## Ingredienser
 
-- 2 tsp peanut oil
-- 3 garlic cloves, minced
-- 2 tsp minced ginger
-- 2 Tbs minced green onions
-- 2 Tbs minced jalapeño peppers
-- 2 Tbs lite soy sauce
-- 1/4 cup low-fat peanut butter
-- 1 cup lite coconut milk
-- 1/2 tsp Asian chili sauce
-- 1 Tbs brown sugar
-- 1/4 cup low-fat low-sodium chicken broth
-- 1 1/2 lbs boneless skinless chicken breasts, halved, and cut into 2" cubes
-- 1/2 cup sliced shiitake mushrooms
-- 1/2 cup julienned red pepper
-- 1/2 cup sliced carrots
-- 6 cups cooked capellini pasta
+- 2 peanøttolje
+- 3 hvitløksfedd, finhakket
+- 2 ts finhakket ingefær
+- 2 ss finhakket vårløk
+- 2 ss finhakket jalapeño-pepper
+- 2 ss lett soyasaus
+- 0,6 dl mager peanøttsmør
+- 2,4 dl lett kokosmelk
+- 1/2 ts asiatisk chilisaus
+- 1 ss brunt sukker
+- 0,6 dl mager, natriumfattig kyllingkraft
+- 680 g kyllingbryst, uten bein og skinn, delt i to og kuttet i 2 "biter"
+- 1,2 dl skivede shiitake-sopp
+- 1,2 dl strimlet rød paprika
+- 1,2 dl skivede gulrøtter
+- 14,4 dl kokt capellini-pasta
 
 ## Fremgangsmåte
 
-1. Heat the oil in a heavy skillet over medium-high heat. Add the garlic, ginger, green onions, and jalapeños and saute for 4 minutes.
-2. Add the soy sauce, peanut butter, coconut milk, chili sauce, and sugar. Bring to a boil, lower the heat, and simmer for 5 minutes. Set the sauce aside.
-3. Heat the broth in another skillet over medium-high heat. Saute the chicken in the broth for 5 minutes.
-4. Add the mushrooms, red peppers, and carrots. Saute until the chicken is done and vegetables are crisp, about 5 to 8 minutes.
-5. Add the chicken and vegetable mixture to the sauce. Toss the peanut sauce with the capellini and serve.
+1. Varm oljen i en tykk stekepanne over middelhøy varme. Tilsett hvitløk, ingefær, vårløk og jalapeños, og stek i 4 minutter.
+2. Tilsett soyasaus, peanøttsmør, kokosmelk, chilisaus og sukker. Kok opp, senk varmen og la det småkoke i 5 minutter. Sett sausen til side.
+3. Varm kraften i en annen stekepanne over middelhøy varme. Stek kyllingen i kraften i 5 minutter.
+4. Tilsett sopp, røde paprikaer og gulrøtter. Stek til kyllingen er gjennomstekt og grønnsakene er sprø, ca. 5 til 8 minutter.
+5. Tilsett kylling- og grønnsaksblandingen i sausen. Bland peanøttsausen med capellini og server.
 
 ## Info
 

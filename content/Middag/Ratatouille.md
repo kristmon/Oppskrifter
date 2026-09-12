@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Ratatouille
-
 ## Ingredienser
 
-- 1 Tbs olive oil
-- 1 cup chopped onion
-- 2/3 cup finely-chopped bell pepper
-- 1 garlic clove, chopped
-- 1 1/2 lbs eggplant, peeled, and cut in 1/2" cubes
-- 1 lb zucchini, unpeeled, and cut in 1/2" slices
-- 1 tsp basil
-- 1 tsp marjoram
-- 3 medium tomatoes, peeled, quartered
-- 1/2 tsp salt
-- 1/4 tsp freshly-ground black pepper
-- 2 Tbs Parmesan cheese
+- 1 ss olivenolje
+- 2,4 ss hakket løk
+- 1,6 ss finhakket paprika
+- 1 fedd hvitløk, finhakket
+- 680 g aubergine, skrelt og kuttet i 1/2 "biter
+- 455 g squash, med skall, og kuttet i 1/2 "skiver
+- 1 ts basilikum
+- 1 ts oregano
+- 3 mellomstore tomater, skrelt og delt i fire
+- 1/2 ts salt
+- 1/4 ts nykvernet svart pepper
+- 2 ss parmesanost
 
 ## Fremgangsmåte
 
-1. Heat the oil in a large skillet and saute the onion, bell pepper, and garlic for 3 to 4 minutes.
-2. Add all remaining ingredients except the Parmesan cheese, cover, and cook over medium heat, stirring occasionally, for about 10 minutes or until vegetables are tender-crisp. Garnish with cheese to serve.
+1. Varm oljen i en stor stekepanne, og stek løk, paprika og hvitløk i 3 til 4 minutter.
+2. Tilsett alle de resterende ingrediensene, unntatt parmesanosten. Dekk til og la det koke på middels varme, rør av og til, i omtrent 10 minutter, eller til grønnsakene er møre, men fortsatt litt faste. Pynt med ost før servering.
 
 ## Info
 

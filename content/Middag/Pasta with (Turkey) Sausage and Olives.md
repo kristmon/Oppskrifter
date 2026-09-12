@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Pasta with (Turkey) Sausage and Olives
-
 ## Ingredienser
 
-- 1 lb Mostaccioli, Rigatoni or other medium pasta shape, uncooked
-- 8 oz Italian-style turkey sausage
-- 1 Tbs olive or vegetable oil
-- 1 clove garlic, minced
-- 2 cups canned Italian plum tomatoes, crushed
-- 12 medium black olives, pitted and sliced
-- pinch of crushed red pepper
-- Salt and freshly ground pepper to taste
-- 2 Tbs chopped Italian parsley
-- Grated Parmesan cheese (optional)
+- 455 g mostaccioli, rigatoni eller annen pastaform av middels størrelse, uten tilberedning.
+- 227 g italiensk pølse av kalkun.
+- 1 ss olivenolje eller vegetabilsk olje.
+- 1 fedd hvitløk, finhakket.
+- 4,8 dl hermetiske, italienske plommetomater, most.
+- 12 store, svarte oliven, uten stein og i skiver.
+- En klype chiliflak.
+- Salt og nykvernet pepper etter smak.
+- 2 ss hakket italiensk persille.
+- Revet parmesanost (valgfritt).
 
 ## Fremgangsmåte
 
-1. Crumble the sausage into a lightly oiled skillet. Place over medium heat and saute, stirring often to break up the meat, until the sausage is cooked through. Drain and cool the meat.
-2. Heat the oil in a medium skillet over medium heat. Add the garlic and fry until golden brown. Add the tomatoes, olives and crushed red pepper. Return the sausage to the skillet and add salt and pepper to taste. Reduce the heat and simmer until the sauce is thickened, about 5 minutes.
-3. Prepare pasta according to package directions. Before draining, reserve one cup of the pasta cooking liquid. Drain the pasta and return it to the pot over low heat. Add the sauce. If the sauce is too thick to evenly coat the pasta, add some of the reserved pasta cooking liquid. Stir in the parsley. Divide the pasta among serving plates. Garnish with grated Parmesan cheese, if desired.
+1. Smuldre kjøttpølsen i en lett oljet stekepanne. Sett på middels varme og stek, rør ofte for å løse opp kjøttet, til pølsen er gjennomstekt. Hell av fettet og avkjøl kjøttet.
+2. Varm oljen i en stekepanne på middels varme. Tilsett hvitløk og stek til den er gyllenbrun. Tilsett tomater, oliven og chiliflak. Legg kjøttpølsen tilbake i pannen og smak til med salt og pepper. Senk varmen og la sausen småkoke til den tykner, ca. 5 minutter.
+3. Kok pastaen etter anvisning på pakken. Før du heller av vannet, reserver en kopp av pastavannet. Hell av pastaen og ha den tilbake i kjelen over svak varme. Tilsett sausen. Hvis sausen er for tykk til å dekke pastaen jevnt, tilsett litt av det reserverte pastavannet. Rør inn persille. Fordel pastaen på serveringstallerkener. Pynt eventuelt med revet parmesan.
 
 ## Info
 

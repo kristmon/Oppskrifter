@@ -2,32 +2,32 @@
 created: 2026-05-05
 ---
 
-# Turkey Meatball Minestrone
-
 ## Ingredienser
 
 - 0,5 kg hakket kalkun
-- 5 dl chopped løk divided
-- 2,5 dl seasoned bread crumbs
-- 2 ts minced hvitløk divided
-- 1/2 ts Italian seasoning
-- Vegetable cooking spray
-- 2,5 dl selleri chopped
-- 2 ts olivenolje
-- 2 Cans (14-1/2 ounces) no-fat kyllingbuljong
-- 1 Can (14 ounces) chopped tomat undrained
-- 1 Can (8 ounces) chick peas
-- 1 Can (8 ounces) cut green bønner drained
-- 1 ts sage leaves
+- 5 dl finhakket løk
+- 2,5 dl smaksatt brødrasp
+- 2 ts finhakket hvitløk
+- 1/2 ts italiensk krydderblanding
+- Olje til steking
+- 2,5 dl finhakket selleri
+- 2 ss olivenolje
+- 2 bokser (14-14 g) kyllingbuljong uten fett
+- 1 boks (397 g) hakkede tomater, uten å helle av vannet
+- 1 boks (227 g) kikerter
+- 1 boks (227 g) hakkede grønne bønner, uten å helle av vannet
+- 1 ts salvieblader
 - 1 ts basilikum
-- 1 ts parsley
-- 2,5 dl dry rotini pasta
+- 1 ts persille
+- 2,5 dl tørr rotini-pasta
 
 ## Fremgangsmåte
 
-1. In medium bowl bland sammen kalkun, 1 cup løk, bread crumbs, 1 teaspoon minced hvitløk and Italian seasoning. Shape mixture into 36 meatballs. Place meatballs on baking pan (10 x 15 x 1 inch) sprayed with vegetable cooking spray. bak at 400 grader (Fahrenheit) for 20 to 25 minutter eller til meatballs are brown on outside and no longer pink in center.
-2. In 5-quart saucepan, over medium-high varm, saute remaining løk and hvitløk with selleri in olivenolje for 5 to 7 minutter, eller til limp. tilsett kyllingbuljong, tomater, chick peas, green bønner, sage, basilikum, and parsley.
-3. Increase varm and bring mixture to kok; tilsett rotini. reduser varmen, cover and la småkoke for 15 to 20 minutter eller til pasta is al dente. tilsett meatballs and la småkoke 5 to 10 minutter, eller til mixture is heated throughout.
+1. I en middels stor bolle, bland kalkun, 2,4 dl løk, brødsmuler, 1 ts finhakket hvitløk og italiensk krydderblanding. Form blandingen til 36 kjøttboller. Legg kjøttbollene på et stekebrett ( 10 x 15 x 1 tommer) som er sprayet med vegetabilsk stekespray. Stek i 400 grader (Fahrenheit) i 20 til 25 minutter, eller til kjøttbollene er brune på utsiden og ikke lenger rosa inni.
+
+2. I en kjele på 5 liter, over middelhøy varme, stek resten av løken og hvitløken sammen med selleri i olivenolje i 5 til 7 minutter, eller til de er myke. Tilsett kyllingbuljong, tomater, kikerter, grønne bønner, salvie, basilikum og persille.
+
+3. Øk varmen og kok opp blandingen; tilsett rotini-pasta. Reduser varmen, dekk til og la småkoke i 15 til 20 minutter, eller til pastaen er al dente. Tilsett kjøttbollene og la småkoke i 5 til 10 minutter, eller til blandingen er gjennomvarm.
 
 ## Info
 

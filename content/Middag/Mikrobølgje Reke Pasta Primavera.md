@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Mikrobølgje Reke Pasta Primavera
-
 ## Ingredienser
 
-- 225 g mellanstore skjel, mostaccioli eller annan mellanstørrel pastaform, ukokt
-- 1 boks (390 ml) lavt natriumkjøttbolje
-- 45 ml stivelsesmel
-- 30 ml vegetarolje
-- 1 stor løk, skåret i tynne kiler
-- 3 store hvitløksfedd, finhakket
-- 2 medium gulrøtter, skåret i fyrstikk-størrelse bitar
-- 1 medium rød paprika, ribber og frø fjernet, skåret i tynne strimler
-- 1,2 dl snøerter, skåret på halvdelen diagonalt
-- 30 ml sitronjuice
-- 15 ml rives fersk ingefær
-- 1/8 ts knust rød chili (valfritt)
-- 340 g medium reker, skajet og rensket
+- 225 g middelsstore skjell, mostaccioli eller annen middels stor pastaform, ukokt.
+- 1 boks (390 ml) kjøttboller med lavt saltinnhold.
+- 45 ml maisenna.
+- 30 ml vegetabilsk olje.
+- 1 stor løk, skjært i tynne båter.
+- 3 store fedd hvitløk, finhakket.
+- 2 middels store gulrøtter, skjært i små biter.
+- 1 middels stor rød paprika, uten kjerner og frø, skjært i tynne strimler.
+- 1,2 dl sukkererter, delt på langs.
+- 30 ml sitronsaft.
+- 15 ml finrevet fersk ingefær.
+- 1/8 ts knust rød chili (valgfritt).
+- 340 g middels store reker, skrelt og renset.
 
 ## Fremgangsmåte
 

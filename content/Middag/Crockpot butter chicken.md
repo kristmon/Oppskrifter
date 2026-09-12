@@ -5,9 +5,9 @@ created: 2020-09-02
 ![[Bilder/Crockpot butter chicken.jpg|300]]
 En ekstremt tilfredsstillende crockpot-oppskrift fra Delish.com.
 
-**Porsjoner**: 8 (6–8)  
-**Tid**: 435 min (15 prep + 420 cook)  
-**Kilde**: [delish.com](https://www.delish.com/cooking/recipe-ideas/recipes/a57494/crock-pot-butter-chicken-recipe/)  
+**Porsjoner**: 8 (6–8)
+**Tid**: 435 min (15 prep + 420 cook)
+**Kilde**: [delish.com](https://www.delish.com/cooking/recipe-ideas/recipes/a57494/crock-pot-butter-chicken-recipe/)
 **Plan to Eat-tag**: Crock Pot, Fjærkre
 
 ## Ingredienser
@@ -31,7 +31,7 @@ En ekstremt tilfredsstillende crockpot-oppskrift fra Delish.com.
 
 ## Fremgangsmåte
 
-1. Vend sammen kylling, løk, hvitløk, jalapeño, ingefær, gurkemeie, spisskummen, garam masala og ¾ ts grovt salt i bunnen av crockpotten. Tilsett gresk yoghurt og vend til kyllingblandingen er dekket. Hell tomatene oppå og rør forsiktig sammen. Smør smør på toppen i klatter. Kok på lav til kyllingen er gjennomstekt, 6–7 timer. Slå av varmen og ta av lokket. Rør inn kremfløten og smak til med mer salt om nødvendig. Pynt med koriander. Server varmt med naan og ris.
+1 . Bland kylling, løk, hvitløk, jalapeño, ingefær, gurkemeie, spisskummen, garam masala og ¾ teskje grovt salt i bunnen av en slow cooker. Tilsett gresk yoghurt og bland godt, slik at kyllingen er dekket. Hell tomatene over og rør forsiktig sammen. Fordel smør på toppen. La det putre på lav varme til kyllingen er gjennomstekt, i 6 – 7 timer. Slå av varmen og ta av lokket. Rør inn fløte og smak til med mer salt om nødvendig. Pynt med koriander. Server varmt med naan og ris.
 
 ### Egne produksjonsnotater
 

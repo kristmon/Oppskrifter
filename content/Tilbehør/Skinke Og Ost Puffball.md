@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Skinke Og Ost Puffball
-
 *Disse fluffige små skinke- og ostbeskytter gjør en flott snack eller forrett.*
 
 ## Ingredienser

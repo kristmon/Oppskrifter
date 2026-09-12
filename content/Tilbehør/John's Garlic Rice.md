@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# John's Garlic Rice
-
 ## Ingredienser
 
-- 2 Tbs reduced-fat margarine
-- 2 Tbs minced garlic
-- 2 cups long-grain rice
-- 4 cups reduced-sodium reduced-fat chicken broth
-- Salt, (optional), to taste
-- Freshly-ground black pepper, (optional), to taste
+- 2 ss mager margarin
+- 2 ss finhakket hvitløk
+- 4,8 dl langkornet ris
+- 9,6 dl suppe laget av kylling, med redusert salt og fett
+- Salt, (valgfritt), etter smak
+- Nymalt svart pepper, (valgfritt), etter smak
 
 ## Fremgangsmåte
 
-1. Heat the margarine in a large skillet and saute the garlic and rice, stirring constantly, until lightly brown.
-2. Add the chicken broth, salt, and pepper and stir. Bring to a boil, then reduce heat to simmer, cover, and cook for 20 minutes.
-3. This recipe yields 8 servings. Serving size: 1/2 cup.
-4. Exchanges Per Serving: 2 1/2 Starch.
+1. Varm smøret i en stor stekepanne, og stek hvitløk og ris, mens du rører hele tiden, til det er lett gyllenbrunt.
+2. Tilsett kyllingkraft, salt og pepper, og rør godt. Kok opp, senk deretter varmen til lav, sett på lokk og la det småkoke i 20 minutter.
+3. Denne oppskriften gir 8 porsjoner. Porsjonsstørrelse: 1,2 dl.
+4. Næringsinnhold per porsjon: 2 1/2 gram karbohydrater.
 
 ## Info
 

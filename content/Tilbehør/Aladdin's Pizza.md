@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Aladdin's Pizza
-
 ## Ingredienser
 
 - 2 små pitabrødrunder
@@ -12,7 +10,7 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Spre pitabrødrundene med yogurt. Strø over med frukt. Server umiddelbart.
+1. Smør pitabrødrundene med yoghurt. Strø over frukt. Server umiddelbart.
 
 ## Info
 

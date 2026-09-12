@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# Rask og Enkel Gresskar Cupcakes
-
 *Enkle og deilige cupcakes ved hjelp av krydder kakeblandingen, hermetisk gresskar og en forberedt fløtekremglasur. Flott til dessert eller snacks!*
 
 ## Ingredienser
 
-- 1 pkg. (515 g) krydder kakeblandingen
-- 1 boks (425 g) LIBBY'S® 100% ren gresskar
+- 1 pakke (515 g) krydderblandning til kake
+- 1 boks (425 g) gresskarpuré
 - 3 store egg
-- 80 ml vegetarolje
+- 80 ml vegetabilsk olje
 - 80 ml vann
-- 1 beholder (450 g) forberedt fløtekrem eller vanilje glasur
-- Diverse sprinkler
+- 1 beger (450 g) ferdig krem eller vaniljeglasur
+- Ulike typer strøssel
 
 ## Fremgangsmåte
 

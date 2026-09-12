@@ -29,7 +29,7 @@ created: 2009-12-05
 
 ## Fremgangsmåte
 
-1. Kuttes, hakkes og blandes i en skål.
+1. Kutt, hakk og bland i en bolle.
 2. Bland alt sammen og hell over salaten.
 
 ## Info

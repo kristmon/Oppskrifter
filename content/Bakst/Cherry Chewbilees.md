@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Cherry Chewbilees
-
-*Beyond ordinary, try these cookies made with extraordinary dried cherries!*
+Utover det vanlige, prøv disse kjeksene som er laget med fantastisk tørkede kirsebær!
 
 ## Ingredienser
 
-- 2,5 dl margarine, softened
-- 1,9 dl granulated sukker
-- 1,9 dl firmly packed brunt sukker
-- 2 egg
-- 1 ts vaniljeekstrakt
-- 2 1/10 dl all-purpose mel
-- 1 ts natron
-- 1 package (10 ounces) vanilje-flavored morsels or 2,5 dl coarsely chopped white sjokolade
-- 3,8 dl dried tart cherries
-- 2,5 dl coarsely chopped cashews
+- 2,5 dl margarin, romtemperert.
+- 1,9 dl granulert sukker.
+- 1,9 dl tettpakket brunt sukker.
+- 2 egg.
+- 1 ts vaniljeekstrakt.
+- 2 1/10 dl hvetemel.
+- 1 ts natron.
+- 1 pakke (284 g) vanilje-smaksatte sjokoladebiter, eller 2,5 dl grovhakket hvit sjokolade.
+- 3,8 dl tørkede, syrlige kirsebær.
+- 2,5 dl grovhakkede cashewnøtter.
 
 ## Fremgangsmåte
 
-1. Put margarine, granulated sukker, brunt sukker, egg and vanilje in a large mixing bowl. Beat with an electric mixer on medium speed 3 to 4 minutter, eller til well mixed. bland sammen mel and natron. Gradually tilsett mel mixture to smør mixture; bland well. rør in vanilje-flavored morsels, dried cherries and cashews. Drop by rounded tablespoons onto ungreased baking sheets.
-2. bak in a preheated 350-degree ovn 10 to 12 minutter, eller til light golden brown. Do not overbake. Transfer to wire racks to cool. Store in a tightly covered container. These cookies freeze well.
+1. Ha margarin, sukker, brunt sukker, egg og vanilje i en stor bolle. Visp med en elektrisk mikser på middels hastighet i 3 til 4 minutter, eller til blandingen er godt blandet. Bland sammen mel og natron. Tilsett gradvis melblandingen til smørblandingen; bland godt. Rør inn vaniljekuler, tørkede kirsebær og cashewnøtter. Legg deig i runde kuler på ubestukne stekebrett.
+2. Stek i en forvarmet ovn på 350 grader i 10 til 12 minutter, eller til de er lett gyllenbrune. Ikke stek for lenge. Overfør til rist for å avkjøles. Oppbevar i en lufttett beholder. Disse kakene egner seg godt til frysing.
 
 ## Info
 

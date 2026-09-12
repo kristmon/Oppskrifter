@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Sauteed Sweet Peppers
-
 ## Ingredienser
 
 - 2 medium green peppers, cut 1" squares
 - 2 medium red peppers, cut 1" squares
 - 1 Tbs olive oil
 - 2 Tbs water
-- Freshly-ground black pepper, to taste
-- 1/2 tsp dried basil
-- 2 cups precooked (1 cup uncooked) rice, hot
+Nykvernet svart pepper, etter smak.
+- 1/2 ts dried basil
+- 4,8 dl precooked (2,4 dl uncooked) rice, hot
 
 ## Fremgangsmåte
 
-1. In a large skillet over medium heat, heat oil. Add peppers and saute for 3 to 5 minutes, stirring frequently.
-2. Add water and pepper; continue sauteing for 4 to 5 minutes or until peppers are tender. Stir in basil and remove from heat.
-3. Spread rice over a serving platter, spoon peppers and liquid on top, and serve.
+1. I en stor stekepanne over middels varme, varm oljen. Tilsett paprika og stek i 3 til 5 minutter, rør ofte.
+2. Tilsett vann og pepper; fortsett å steke i 4 til 5 minutter, eller til paprikaen er myk. Rør inn basilikum og sett pannen av varmen.
+3. Fordel risen over et serveringsfat, legg paprika og saus over, og server.
 
 ## Info
 

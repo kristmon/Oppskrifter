@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Marinert storfekjøtt og pastalatik
-
 ## Ingredienser
 
-- 450 g mostaccioli, ziti eller annan mellanstørrel pastaform, ukokt
-- 30 ml vegetarolje
-- 45 ml sitronjuice
-- 30 ml rødvin-eddik
-- 15 ml fersk hakka oregano
-- 15 ml fersk hakka timian
-- 30 ml Dijon-sennepp
-- 15 ml tørka oregano
-- 15 ml tørka timian
-- 1,2 dl fersk persille, hakket
-- 10 store sopper, skåret
-- 5 dl restlikt flanke-steak eller stekt oksekjøtt, julienne
-- 5 dl snøerter, hakka i halvdeler
-- 1 rød paprika, ribber og frø fjernet, julienne
-- 1 gul paprika, ribber og frø fjernet, julienne
-- Salt og fersk malt pepper etter smak
+- 450 g mostaccioli, ziti eller annen pastaform av middels størrelse, ukokt.
+- 30 ml vegetabilsk olje.
+- 45 ml sitronsaft.
+- 30 ml rødvinsekstrakt.
+- 15 ml fersk, finhakket oregano.
+- 15 ml fersk, finhakket timian.
+- 30 ml Dijon-sennep.
+- 15 ml tørket oregano.
+- 15 ml tørket timian.
+- 1,2 dl fersk persille, finhakket.
+- 10 store sopp, i skiver.
+- 5 dl rester av flanksteik eller stekt oksekjøtt, i tynne strimler.
+- 5 dl snøerter, delt i to.
+- 1 rød paprika, uten kjerner og frø, i tynne strimler.
+- 1 gul paprika, uten kjerner og frø, i tynne strimler.
+- Salt og nykvernet pepper etter smak.
 
 ## Fremgangsmåte
 

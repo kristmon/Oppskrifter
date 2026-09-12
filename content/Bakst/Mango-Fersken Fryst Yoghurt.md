@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Mango-Fersken Fryst Yoghurt
-
 ## Ingredienser
 
 - 2 medium (225 g) modne mangoer, skalett og kuttet i kuber

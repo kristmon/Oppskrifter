@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Maisgrit blåbær grøt
-
 ## Ingredienser
 
 - 3,5 dl vann
@@ -15,10 +13,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en 2-liter gryteerpanne heat vann og melk til bobler former rundt kant av pan.
-2. Rør konstant, sakte tilsett grit og salt til godt kombinert.
-3. Reduser varmen til lav. Dekk og simrer, til fortyket, ca 10 minutter, rør av og til.
-4. Rør in lønn sirup til godt kombinert. Forsiktig rør in blåbær.
+1. I en 2-liters stekepanne varmes vann og melk opp til det begynner å danne seg bobler langs kanten.
+2. Rør jevnlig og tilsett gradvis mel, og salt, til alt er godt blandet.
+3. Senk varmen til lav. Dekk til og la det småkoke, i ca. 10 minutter, rør av og til.
+4. Rør inn lønnssirup til alt er godt blandet. Vend forsiktig inn blåbær.
 
 ## Info
 

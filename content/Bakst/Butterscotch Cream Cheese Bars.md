@@ -2,34 +2,32 @@
 created: 2026-05-05
 ---
 
-# Butterscotch Cream Cheese Bars
-
-*These cream cheese bars have a sweet, butterscotch graham crust and topping.*
+Disse kremostkakene har en søt graham crust og topping med smak av karamell.
 
 ## Ingredienser
 
-- 1 2/7,5 dl (11-oz. pkg.) NESTLÉ® TOLL HOUSE® Butterscotch Flavored Morsels
-- 6 ss smør or margarine
-- 5 dl graham cracker crumbs
-- 5 dl chopped walnuts
-- 2 pkg. (8 oz. each) fløte ost, softened
-- 1,2 dl granulated sukker
-- 4 large egg
-- 0,6 dl all-purpose mel
-- 2 ss lemon juice
+- 1 2/7, 5 dl (11-oz. pakke) Butterscotch-smaksatte biter
+- 6 ss smør eller margarin
+- 5 dl graham cracker-smuler
+- 5 dl hakkede valnøtter
+- 2 pakke (227 g per stk) kremost, romtemperert
+- 1,2 dl granulert sukker
+- 4 stort egg
+- 0,6 dl hvetemel
+- 2 ss sitronsaft
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 350° F.
-2. Microwave morsels and smør in medium, microwave-safe bowl on MEDIUM-HIGH (70%) power for 1 minutt; rør. Microwave at additional 10- to 20-second intervals, stirring til smooth. rør in crumbs and nuts. Reserve 2 cups crumb mixture; press remaining mixture into ungreased 15 x 10-inch jelly-roll pan.
+1. forvarm ovn to 177 °C.
+2. Ha smørkaramellbitene og smøret i en varmebestandig bolle. Varm på middels høy effekt i mikrobølgeovnen i 1 minutt, og rør. Fortsett i intervaller på 10–20 sekunder til blandingen er jevn. Rør inn kjekssmuler og nøtter. Sett til side 4,8 dl av blandingen, og press resten ut i en usmurt langpanne på ca. 38 × 25 cm.
 3. bak for 12 minutter.
-4. Beat fløte ost and sukker in large mixer bowl til creamy. tilsett egg one at a time, beating well after each addition. Beat in mel and lemon juice. hell over crust; sprinkle with reserved crumb mixture.
-5. bak for 20 to 25 minutter eller til set. Cool in pan on wire rack. Cut into bars or diamonds; refrigerate.
+4. Visp kremost og sukker i en stor miksebolle til blandingen er jevn og kremete. Tilsett eggene ett om gangen, og visp godt etter hvert egg. Bland inn mel og sitronsaft. Hell blandingen over paibunnen; strø over resten av smuleblandingen.
+5. Stekes i ca. 20 til 25 minutter, eller til den er ferdig. Avkjøl i pannen på en rist. Skjær i staver eller ruter, og sett i kjøleskapet.
 
 ## Info
 
 - **Porsjoner**: 48
-- **Preparation Time**: 15 minutes
-- **Cooking Time**: 32 minutes
+- **Forberedelsestid**: 15 minutter
+- **Tilberedningstid**: 32 minutter
 - **Type**: Dessert
 - **Kilde**: Nestlé, www.verybestbaking.com

@@ -6,16 +6,16 @@ created: 2010-04-13
 
 ## Ingredienser
 
-- Til 2 personer
+- For 2 personer
 - 1 dl couscous
-- 1-2 ss smør
-- 100 g spinat, renset og grovt hakket
-- 2 tomater eller ca 10 cherrytomater, hakket
+- 1–2 ss smør
+- 100 g spinat, renset og grovhakket
+- 2 tomater eller ca. 10 cherrytomater, hakket
 - 1 liten boks mais
 - 75 g fetaost, smuldret
-- sitronsaft etter smak
-- salt
-- pepper
+- Sitronsaft etter smak
+- Salt
+- Pepper
 
 ## Fremgangsmåte
 

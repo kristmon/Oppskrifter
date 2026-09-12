@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Asiatisk Kylling Pastasalat
-
 ## Ingredienser
 
 - 225 g Orzo, Små Shells eller annen liten pastaform, ukjørt
@@ -22,8 +20,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Tilbered pasta etter pakkeinstruksjonene; avslå.
-2. I stor miksebolle, bland pasta, kylling, spinat, spirer, paprika og løkgrønne. I liten miksebolle, bland sammen gjenværende ingredienser unntatt mandler; visp godt. Bland dressing med pastablandingen og kjøl ned til du er klar til å serve. Strø mandler på toppen like før servering.
+1. Kok pastaen etter anvisningene på pakken; sett til side.
+2. I en stor miksebolle, bland pasta, kylling, spinat, spirer, paprika og vårløk. I en mindre bolle, bland sammen alle ingrediensene unntatt mandlene; visp godt. Bland dressingen med pastablandingen og sett i kjøleskapet til servering. Strø mandlene over rett før servering.
 
 ## Info
 

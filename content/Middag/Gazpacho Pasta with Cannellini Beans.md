@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Gazpacho Pasta with Cannellini Beans
-
 ## Ingredienser
 
-- 1 lb Elbow Macaroni, Radiatore or other medium pasta shape, uncooked
-- 3 large, ripe tomatoes, finely diced
-- 2 medium cucumbers, peeled, seeded and finely diced
-- 1 medium red onion, diced
-- 2 cups vegetable or tomato juice
-- 1 Tbs Worchestershire sauce
-- 3 Tbs red wine vinegar
-- 1 16-oz. can cannellini beans, drained and rinsed well
-- 3 Tbs chopped fresh parsley
-- Salt and pepper to taste
+- 455 Albuepasta, radiatore eller annen pastaform av middels størrelse, ukokt.
+- 3 Store, modne tomater, finhakket.
+- 2 Middelstore agurker, skrelt, uten kjerner og finhakket.
+- 1 En middels stor rød løk, finhakket.
+- 4,8 dl grønnsaks- eller tomatjuice.
+- 1 ss Worchestershiresaus.
+- 3 ss rødvinsekstrakt.
+- 1 16 g bønner av typen cannellini, skylt og avrent.
+- 3 ss hakket, fersk persille.
+- Salt og pepper etter smak.
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions. Drain and rinse under cold water.
-2. In a large bowl, stir together remaining ingredients; serve.
+1. Kok pastaen etter anvisningene på pakken. Hell av vannet og skyll med kaldt vann.
+2. Bland alle de resterende ingrediensene i en stor bolle, og server.
 
 ## Info
 

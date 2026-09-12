@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning, du er god-saus
-
 ## Ingredienser
 
 - 2,4 dl majones
@@ -16,8 +14,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Bland alle ingrediensene og bland til det er blandet.
-2. Serv over grillet kylling eller som dipp til grønnsakar.
+1. Bland alle ingrediensene godt sammen.
+2. Server over grillet kylling eller som dipp til grønnsaker.
 
 ## Info
 

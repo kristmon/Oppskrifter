@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Granny På Grillen
-
 ## Ingredienser
 
 - 6 medium Granny Smith epler, uskalert, skåret
@@ -13,11 +11,11 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kutt seks 20 cm stykker aluminiumsfolie. Forbered eplene og plasser hvert skåret eple på et aluminiumsark. Strø rosin, olje og sukker over hvert eple. Fold folie til en pakke.
-2. Forbered en utendørs grill med en oljesmurt rist satt 15 cm over varmekilden. På en gasskygrill, sett varmen på medium.
-3. Grill pakkene i ca. 30 minutter til eplene er møyke. Fjern fra folie og server.
-4. Denne oppskriften gir 6 porsjoner. Porsjonstørrelse: 1 medium eple.
-5. Utbyttepunkter Per Porsjon: 2 1/2 Frukt, 1 Enumettet Fett.
+1. Kutt seks stykker aluminiumsfolie, hver på 20 cm. Forbered eplene og legg hvert eple på et aluminiumsark. Strø rosiner, olje og sukker over hvert eple. Brett folien sammen til en pakke.
+2. Forbered en grill utendørs, med en rist som er smurt med olje og plassert 15 cm over varmekilden. På en gassgrill, sett varmen på middels.
+3. Grill pakkene i omtrent 30 minutter, til eplene er myke. Fjern fra folien og server.
+4. Denne oppskriften gir 6 porsjoner. Porsjonsstørrelse: 1 middels stort eple.
+5. Næringsinnhold per porsjon: 2 1/2 porsjon frukt, 1 enumettet fett.
 
 ## Info
 

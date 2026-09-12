@@ -9,16 +9,16 @@ created: 2010-01-07
 **Per porsjon**
 
 - olje
-- 2 vårløk, hakket
-- 2 cherrytomater, hakket
+- 2 vårløk, finhakket
+- 2 cherrytomater, finhakket
 - urtesalt
-- nykvernet pepper
+- ferskmalt pepper
 - 2 egg
-- 1 ss melk eller fløte (kan sløyfes)
+- 1 ss melk eller fløte (kan utelates)
 
 ## Fremgangsmåte
 
-1. Sett ovnen på 175°C. Sauter vårløk og tomat raskt i litt olje og krydre med urtesalt og pepper. Knekk et egg i en lettsmurt ildfast porsjonsform. Ha vårløk og tomat over egget, og knekk det siste egget over der igjen. Ha så over 1 ss melk eller fløte. Ha eventuelt litt urtesalt og pepper på toppen også. Sett inn i ovnen i ca 25 minutter. Server med hvitløksbrød.
+1. Sett ovnen på 175°C. Fres vårløk og tomat raskt i litt olje, og krydre med urtesalt og pepper. Knekk et egg i en smurt porsjonsform. Fordel vårløk og tomat over egget, og knekk det siste egget over der igjen. Hell over 1 ss melk eller fløte. Tilsett eventuelt litt urtesalt og pepper på toppen. Stek i ovnen i ca. 25 minutter. Server med hvitløksbrød.
 
 ## Info
 

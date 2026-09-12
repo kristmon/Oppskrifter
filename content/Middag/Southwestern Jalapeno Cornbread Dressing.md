@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Southwestern Jalapeno Cornbread Dressing
-
 ## Ingredienser
 
-- 4 cups cornbread crumbled
-- 10 Slices dried bread cubed
-- 1 lb mild italian turkey sausage
-- 1-1/2 cups celery chopped
-- 1 cup onion chopped
-- 1-1/2 tsp salt
-- 1 tsp poultry seasoning
-- 1/4 cup Jalapeno peppers seeded and chopped
-- 2 eggs slightly beaten
-- 1 cup turkey broth
+- 9,6 dl smuldret maisbrød
+- 10 skiver tørket brød, i terninger
+- 455 g mild italiensk kalkunpølse
+- 1-1,2 dl finhakket selleri
+- 2,4 dl finhakket løk
+- 1-1/2 ts salt
+- 1 ts krydderblanding for fjørfe
+- 0,6 dl jalapenopepper, uten kjerner og finhakket
+- 2 egg, lett vispet
+- 2,4 dl kalkonkraft
 
 ## Fremgangsmåte
 
-1. Preheat oven to 325.
-2. In large bowl combine cornbread and bread cubes.
-3. In large skillet, over medium-high heat, saute sausage, celery and onion until sausage is no longer pink and vegetables are tender; combine with cornbread mixture. Add salt, poultry seasoning, jalapeno peppers, eggs and turkey broth.
-4. Spoon dressing into lightly greased 3-quart casserole dish. Bake, covered, at 325 degrees F. 45 to 50 minutes.
+1. Forvarm ovnen til 160 grader.
+2. I en stor bolle, bland maisbrød og brødterninger.
+3. I en stor stekepanne, ved middelhøy varme, stek pølse, selleri og løk til pølsen er gjennomstekt og grønnsakene er møre; bland med maisbrøddeigen. Tilsett salt, krydderblanding for fjørfe, jalapenos, egg og kalkbrod.
+4. Hell dressingen i en smurt, 3,7-liters ildfast form. Stek, med lokk, ved 160 grader Celsius i 45 til 50 minutter.
 
 ## Info
 

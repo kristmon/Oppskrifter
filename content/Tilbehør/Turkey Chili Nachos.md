@@ -2,37 +2,35 @@
 created: 2026-05-05
 ---
 
-# Turkey Chili Nachos
-
 ## Ingredienser
 
 - 1 ss olje
 - 0,5 kg hakket kalkun
-- 1 Medium løk chopped
-- 1 Clove hvitløk minced
-- 1 ts dried oregano
-- 1/2 ts chilipodd
+- 1 Medium løk, finhakket
+- 1 Feddhvitløk, finhakket
+- 1 ts tørket oregano
+- 1/2 ts chilipulver
 - 1/2 ts kommen
-- salt, as needed
-- pepper, as needed
-- 2,5 dl cooked sorte bønner
-- 1 Can (7-1/2-Ounces) tomatsaus
-- 1 Package (320 grams) white mais tortilla chips
-- 1/2 red paprika seeded and diced
-- 1/2 green paprika seeded and diced
-- 1 Large jalapeno seeded and minced
-- 1,2 dl black olives
-- 5 dl Monterey Jack ost shredded
-- As needed surmelk
-- As needed guacamole
+- Salt, etter behov
+- Pepper, etter behov
+- 2,5 dl kokte sorte bønner
+- 1 Tomatsaus (mengde angitt i 7-1/2)
+- 1 Pakke (320 gram) hvite mais tortilla chips
+- 1/2 Rød paprika, uten kjerner og i terninger
+- 1/2 Grønn paprika, uten kjerner og i terninger
+- 1 Stor jalapeno, uten kjerner og finhakket
+- 1,2 dl svarte oliven
+- 5 dl Monterey Jack ost, revet
+- Surmelk, etter behov
+- Guacamole, etter behov
 
 ## Fremgangsmåte
 
-1. In a large skillet over medium-high varm, varm olje. rør in kalkun, breaking up with spoon; kok til no longer pink.
-2. Rør in løk, hvitløk, oregano, chilipodd and kommen. Saute til løk are soften. Season with salt and pepper.
-3. Rør in bønner and tomatsaus, la småkoke til heated through.
-4. Place tortillas on large baking sheet, spoon kalkun chili over top. Sprinkle with peppers and olives. Sprinkle with ost.
-5. bak at 425 grader F. about 5 minutter eller til ost melts. servér with surmelk and guacamole.
+1 . I en stor stekepanne over middels varme, varm oljen. Tilsett kalkun, og bruk en skje til å dele den opp i mindre biter; stek til den er gjennomstekt.
+ 2 . Tilsett løk, hvitløk, oregano, chilipulver og kommen. Surr til løken er myk. Smak til med salt og pepper.
+ 3 . Tilsett bønner og tomatsaus, og la det småkoke til alt er varmt.
+ 4 . Legg tortillas på et stort stekebrett, og fordel kalkunchilien over. Dryss over paprika og oliven. Strø over ost.
+ 5 . Stek i 425 grader (Fahrenheit) i omtrent 5 minutter, eller til osten er smeltet. Server med rømme og guacamole.
 
 ## Info
 

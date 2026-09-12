@@ -2,31 +2,29 @@
 created: 2026-05-05
 ---
 
-# Southwest Spaghetti Pie
-
 ## Ingredienser
 
-- 8 oz Spaghetti or Linguine, uncooked
-- 1,2 dl skim melk
+- 227 Spaghetti eller linguine, ukokt
+- 1,2 dl lettmelk
 - 1 egg
-- 8 oz hakket svinekjøtt
-- 2,5 dl chopped løk
-- 1 medium green paprika, chopped
-- 1 large clove hvitløk, minced
-- 1 jalapeño pepper, minced
-- 1 ss chilipodd
-- 1/2 ts ground kommen
-- 1/2 ts dried oregano
-- salt to taste
-- pepper to taste
-- 1 16-oz. can low-sodium tomatsaus
-- 8 oz Monterey Jack or cheddarost
+- 227 g kjøttfarse
+- 2,5 dl hakket løk
+- 1 medium grønn paprika, hakket
+- 1 stor fedd hvitløk, finhakket
+- 1 jalapeño pepper, finhakket
+- 1 ss chilipulver
+- 1/2 ts malt spisskummen
+- 1/2 ts tørket oregano
+- salt etter smak
+- pepper etter smak
+- 1 16-ons. boks med tomatpuré med lavt natriuminnhold
+- 227 g Monterey Jack eller cheddarost
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 425° F. Prepare pasta according to package directions; tøm. Whisk together the melk and egg and bland in the hot pasta in a greased 9 x 12 x 2-inch baking dish.
-2. Kok the svinekjøtt, løk, grønn paprika, hvitløk and jalapeño together in a large skillet over medium varm for about 6 minutter, til the svinekjøtt is cooked through. tøm off excess fat. rør the chilipodd, kommen, oregano, salt and pepper into the svinekjøtt and kok for about 2 minutter. bred the meat over the pasta in the baking dish. Sprinkle both cheeses evenly over the top.
-3. bak in the lower third of the ovn for about 10 minutter, til the ost is melted and the casserole begins to bubble. Let stand 5 minutter before serving.
+1. Forvarm ovnen til 218 °C. Kok pastaen etter anvisningene på pakken; hell av vannet. Visp sammen melk og egg, og bland inn den varme pastaen i en smurt ildfast form, ca. 23 x 30 x 5 cm.
+2. Stek svinekjøttet, løken, grønn paprika, hvitløk og jalapeño sammen i en stor stekepanne over middels varme i omtrent 6 minutter, til svinekjøttet er gjennomstekt. Hell av overflødig fett. Rør inn chilipulver, kommen, oregano, salt og pepper i svinekjøttet, og la det koke i omtrent 2 minutter. Fordel kjøttet over pastaen i ildfast form. Strø begge ostene jevnt over på toppen.
+3. Sett formen inn i den nedre delen av ovnen i ca. 10 minutter, til osten er smeltet og formen begynner å boble. La den stå i 5 minutter før servering.
 
 ## Info
 

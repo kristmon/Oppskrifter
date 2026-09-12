@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Påskemix
-
 *Vent ikke på neste fotballkamp for å nyte en håndful av denne partyblandingen.*
 
 ## Ingredienser
@@ -13,14 +11,14 @@ created: 2026-05-05
 - 500 ml små kringler
 - 250 ml tørka rostet jordnøtter
 - 250 ml (ca. 20) karameller, grovt hakket
-- 500 ml (340 g pakke) NESTLÉ TOLL HOUSE Premier Hvite biter
+- 500 ml (340 g pakke) Premier Hvite biter
 
 ## Fremgangsmåte
 
-1. Spray 33 x 23 cm bakepanne med ikke-stikkende matspray.
-2. Kombiner frokostkaker, kringler, jordnøtter og karameller i stor bolle.
-3. Mikroble biter i medium, mikrobølgeovnsikker bolle på MEDIUM-HIGH (70%) styrke i 1 minutt; rør. Mikroble med ytterligere 10-20 sekunders intervaller, rør til glatt. Hell over frokostblandingen; rør til jevnt dekket.
-4. Spre blandingen inn i forberedt bakepanne; la stå i 20-30 minutter eller til fast. Bryt i munnestore biter.
+1 . Spray en 33 x 23 cm bakeform med et non-stick fett.
+ 2 . Bland frokostblanding, kringler, peanøtter og karameller i en stor bolle.
+ 3 . Varm opp små porsjoner i en mikrobølgeovnsikker bolle på MEDIUM-HIGH ( 70 %) effekt i 1 minutter; rør. Fortsett å varme i korte intervaller på 10 - 20 sekunder, og rør til blandingen er jevn. Hell blandingen over frokostblandingen; rør godt til alt er jevnt dekket.
+ 4 . Fordel blandingen i den forberedte bakeformen; la stå i 20 - 30 minutter, eller til den er fast. Del i passende store biter.
 
 ## Info
 

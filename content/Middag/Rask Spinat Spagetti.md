@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Rask Spinat Spagetti
-
 ## Ingredienser
 
 - 450 g Tynnt Spagetti, Linguine eller Vermicelli, ukokt

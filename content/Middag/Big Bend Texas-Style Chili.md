@@ -2,33 +2,31 @@
 created: 2026-05-05
 ---
 
-# Big Bend Texas-Style Chili
-
 ## Ingredienser
 
 - 2 ss olivenolje
-- 5 cloves hvitløk, minced
-- 2 løk, diced
-- 1 1/1 kg lean Omaha Steaks hakket storfekjøtt
+- 5 nellik og hvitløk, finhakket
+- 2 løk, i terninger
+- 1 1/1 kg magert storfekjøtt, kjøpt fra Omaha Steaks, kjørt gjennom kjøttkvernen
 - 1/2 ts salt
-- 1 ts freshly ground black pepper
-- 2 ss pure red chile powder
-- 4 Roma tomater (about 8 ounces), blanched, peeled, and diced
-- 1,2 dl tomat paste
-- 1,2 dl storfekjøtt Stock
-- 2,5 dl dark beer
-- 2 ss cider eddiksyre
-- 3/4 ts ground kommen
-- 2 ts minced oregano
-- 0,6 dl minced parsley
-- 1 can (15 ounces) red røde bønner, drained
-- 4 oz crumbled goat ost, for garniser
+- 1 ts ferskmalt svart pepper
+- 2 ss rent chilipulver
+- 4 Roma-tomater (omtrent 227 g), blanchert, skrelt og i terninger
+- 1,2 dl tomatpuré
+- 1,2 dl storfekjøttkraft
+- 2,5 dl mørk øl
+- 2 ss eplecidereddik
+- 3/4 ts malt kommen
+- 2 ts finhakket oregano
+- 0,6 dl finhakket persille
+- 1 boks (425 g) røde bønner, avrent
+- 113 g smuldret geitost, til pynt
 
 ## Fremgangsmåte
 
-1. To prepare the chili, varm the olivenolje in a large saucepan. tilsett the hvitløk and løk and sauté over medium-high varm for 5 minutter. tilsett the storfekjøtt and sauté for 7 or 8 minutter longer, while stirring frequently, eller til the storfekjøtt is well browned on all sides.
-2. Season with salt and pepper, rør in the chile powder, and kok for 2 minutter more. tilsett the tomater, tomat paste, storfekjøtt stock, beer, eddiksyre, kommen, oregano, and parsley, and rør well to bland sammen. Bring to a la småkoke, turn down the varm to low, and kok, covered, for 45 minutter.
-3. Tilsett the bønner and kok for 15 minutter longer, stirring iblant. Ladle into serving bowls and sprinkle the goat ost over.
+1. For å tilberede chilen, varm olivenoljen i en stor kjele. Tilsett hvitløk og løk, og stek over middels varme i 5 minutter. Tilsett kjøttdeig, og stek videre i 7 – 8 minutter, mens du rører ofte, til kjøttdeigen er godt brunet på alle sider.
+2. Krydre med salt og pepper, rør inn chilipulver, og kok i 2 minutter til. Tilsett tomater, tomatpuré, oksekjøttkraft, øl, eddik, kommen, oregano og persille, og rør godt for å blande alt sammen. Kok opp, senk varmen til lav, og la det småkoke under lokk i 45 minutter.
+3. Tilsett bønnene og kok i 15 minutter til, rør av og til. Øs i serveringsskåler og dryss geitost over.
 
 ## Info
 

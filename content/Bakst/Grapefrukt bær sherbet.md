@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Grapefrukt bær sherbet
-
 ## Ingredienser
 
 - 2 dl Texas Red Grapefruit sections
@@ -12,10 +10,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Plasser grapefruit sections i en single lag lag på en baking sheet; freeze til firm.
-2. Fjern bær fra container og coarsely hakk.
-3. Kombiner fryst bær og fryst grapefruit i den container av en food processor fitted med den steel blade. Process med på/off flicks til finely hakket. Med motor running, tilsett 1/4 dl melk. Tilsett smooth og kremete.
-4. Servér på en gang eller overfør til freezer container og store i freezer.
+1. Legg grapefruktskivene i et enkelt lag på et stekebrett; frys til de er faste.
+2. Ta bærene ut av beholderen og hakk dem grovt.
+3. Bland de frosne bærene og den frosne grapefrukten i beholderen til en kjøkkenmaskin, utstyrt med et stålblad. Kjør maskinen med korte inn- og utkoblinger til blandingen er fint hakket. Mens motoren går, tilsett 1/4 desiliter melk. Bland til det er jevnt og kremete.
+4. Server umiddelbart, eller overfør til en frysebeholder og sett i fryseren.
 
 ## Info
 

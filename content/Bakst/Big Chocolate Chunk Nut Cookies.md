@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Big Chocolate Chunk Nut Cookies
-
-*These over-sized cookies make a fun gift or turn them into giant ice cream sandwiches with your favorite ice cream.*
+Disse store kakene er en fin gave, eller kan du lage store iskrem-smørbrød med din favorittiskrem.
 
 ## Ingredienser
 
-- 1 pkg. (18 oz.) NESTLÉ® TOLL HOUSE® Refrigerated sjokolade Chunk Cookie Bar Dough
-- 1,2 dl coarsely chopped almonds, macadamia nuts, pecans and/or walnuts
-- 0,6 dl (1.5 oz.) NESTLÉ® TOLL HOUSE® Semi-Sweet sjokolade Morsels or Premier White Morsels (optional)
+- 1 pakke (51 g) kjølevarer, deig til sjokoladebit-cookies
+- 1,2 dl grovhakkede mandler, macadamianøtter, pekannøtter og/eller valnøtter
+- 0,6 dl (43 g) kokesjokoladebiter eller Premier White-biter (valgfritt)
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 350° F.
-2. Crumble cookie dough into medium bowl. tilsett nuts; bland grundig. Drop by 1/4-cup measure onto ungreased baking sheets.
-3. bak for 14 to 16 minutter eller til gyllen brown. Cool on baking sheets for 1 minutt; remove to wire racks to cool completely.
-4. Microwave morsels in heavy-duty plastic bag on HIGH (100%) power (MEDIUM-HIGH [70%] for white morsels) for 30 seconds; knead til smooth. Microwave at additional 10- to 20-second intervals, kneading til smooth. Cut tiny corner from bag; drizzle over each cookie.
+1. forvarm ovn to 177 °C.
+2. Smuldre kakedeigen i en middels stor bolle. Tilsett nøttene og bland godt. Fordel deigen i porsjoner på ca. 0,6 dl på usmurte stekebrett.
+3. Stek i 14–16 minutter, eller til kakene er gyllenbrune. Avkjøl på stekebrettet i 1 minutt, og legg dem deretter på rist til de er helt avkjølt.
+4. Ha sjokoladebitene i en solid plastpose. Varm dem i mikrobølgeovnen på høy effekt i 30 sekunder, og kna posen. Fortsett i intervaller på 10–20 sekunder til sjokoladen er jevn. Klipp et lite hull i et hjørne av posen og fordel sjokoladen over kakene.
 
 ## Info
 
 - **Porsjoner**: 12
-- **Preparation Time**: 12 minutes
-- **Cooking Time**: 16 minutes
+- **Forberedelsestid**: 12 minutter
+- **Tilberedningstid**: 16 minutter
 - **Type**: Dessert
 - **Kilde**: Nestlé, www.verybestbaking.com

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# honning-Glazed Lam og Zucchini Gratin
-
 ## Ingredienser
 
 - 8 Lam koteletter
@@ -20,12 +18,12 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Krydre Lam koteletter med salt og pepper. Varm 2 ss. olivenolje i en stekepanne over Medium høy varm. brun koteletter 5 til 7 minutter på hver side; fjern fra panne og hold warm.
-2. Tapp fett, lar noen brun biter.
-3. Tilsett resterende olje og løk; kok over Medium varm til myk. Rør i zucchini og kok til mørt-sprø.
-4. Rør i tomater og 2 ss. mynta; kok omtrent 1 minutt.
-5. I mellomtiden, i liten kasserolle, kombiner honning, resterende mynta, kommen, hvitløk, 1/4 ts. salt, og pepper etter smak. Kok over lav varm til honning er tynnere.
-6. Til servér, skje vegetable blanding på en fett, topp med Lam hakk og drypper med honning glasur.
+1. Krydre lammekotelettene med salt og pepper. Varm 2 ss olivenolje i en stekepanne over middels høy varme. Brun kotelettene i 5 til 7 minutter på hver side; fjern dem fra pannen og hold dem varme.
+2. Hell av fettet, men la noen brunede biter være igjen.
+3. Tilsett resten av oljen og løk; stek over middels varme til løken er myk. Tilsett squash og stek til den er mør og sprø.
+4. Rør inn tomater og 2 ss mynte; kok i omtrent 1 minutt.
+5. I mellomtiden, i en liten kjele, bland honning, resten av mynten, kommen, hvitløk, 1/4 ts salt og pepper etter smak. Kok over svak varme til honningen er tynnere.
+6. Ved servering, legg grønnsaksblandingen på et fat, topp med strimlet lam og dryss over honningglasur.
 
 ## Info
 

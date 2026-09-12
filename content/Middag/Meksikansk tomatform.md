@@ -19,7 +19,7 @@ God ovnsrett!
 
 ![[Bilder/mexi1.jpg|300]]
 
-Forvarm ovnen til 160 grader. Varm oljen i en sauteringspanne. Løk og hvitløk blankes over middels varme i 3 min. Tilsett tomater, paprika, sukker og chilipulver. Kok uten lokk i 6-7 min eller til tomatene er myke og væsken har fordampet. Ha i maisen og kok under stadig omrøring i 3 min. Legg lag med maischips, saus og ost i en ildfast form, med et lag cheddar på toppen.
+Forvarm ovnen til 160 grader. Varm oljen i en stekepanne. Løk og hvitløk freses over middels varme i 3 minutter. Tilsett tomater, paprika, sukker og chilipulver. Kok uten lokk i 6 – 7 minutter, eller til tomatene er myke og væsken er fordampet. Tilsett maisen og kok under stadig omrøring i 3 minutter. Legg lag med maischips, saus og ost i en ildfast form, med et lag cheddar på toppen.
 
 ![[Bilder/mexi2.jpg|300]]
 

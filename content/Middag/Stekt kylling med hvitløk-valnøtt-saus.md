@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Stekt kylling med hvitløk-valnøtt-saus
-
 *Hvitløk og valnøtter er den aromatiske basen til en enkel saus som dekker gyllent stekt kylling. Serv med egg-nudler og damp-grønnsaker på siden.*
 
 ## Ingredienser
@@ -19,10 +17,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kryddr kylling med halv salt og halv pepper.
-2. I stor stekepanne smelt smør og olje over medium-høy varme. Kok kylling til gyllent brun på alle sider, ca. 15 minutter; juster varmen etter behov. Dekk panne og fortsett å kok over lav varme i 20 minutter, eller til kylling er ferdig; flytt til annen bolle og hold varm.
-3. I mellomtiden, i blender eller matprosessor, malt fint sammen valnøtter, hvitløk og gjenværende salt og pepper.
-4. Hell av alt unntatt 60 ml saft fra panne og varm til medium-høy. Tilsett valnøtt- og hvitløk-blanding og sauté i 1 minutt, til bare gyllent. Tilsett vann og småkok i 5 minutter. Returner kylling til panne, snu for å dekke jevnt med saus. Varm grundig før servering.
+1 . Krydre kyllingen med halv salt og halv pepper.
+ 2 . I en stor stekepanne, smelt smør og olje over middels høy varme. Stek kyllingen til den er gyllenbrun på alle sider, ca. 15 minutter; juster varmen om nødvendig. Legg lokk på pannen og fortsett å steke over svak varme i 20 minutter, eller til kyllingen er gjennomstekt; overfør til en annen bolle og hold varm.
+ 3 . I mellomtiden, i en blender eller kjøkkenmaskin, finhakk valnøtter, hvitløk, samt resten av salt og pepper.
+ 4 . Hell av all kraft fra pannen, unntatt 60 ml, og varm opp kraften over middels høy varme. Tilsett valnøtt- og hvitløkblandingen og stek i 1 minutt, til den er lett gyllen. Tilsett vann og la det småkoke i 5 minutter. Legg kyllingen tilbake i pannen og vend den for å dekke den jevnt med saus. Varm grundig før servering.
 
 ## Info
 

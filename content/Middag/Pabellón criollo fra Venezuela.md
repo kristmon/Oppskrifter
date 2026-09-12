@@ -6,34 +6,34 @@ created: 2010-06-24
 
 ## Ingredienser
 
-- olje/smør
-- 400 g flatbiff (eller annen mager bifftype)
-- salt
-- pepper
-- vann
+- Olje/smør
+- 400 g flatbiff (eller annen mager type biff)
+- Salt
+- Pepper
+- Vann
 
 **Kjøttsaus**
 
-- olje
-- 1 liten løk, hakket
-- 3 fedd hvitløk, hakket
-- 1/2 rød paprika, hakket
-- 1/2 boks tomater
+- Olje
+- 1 liten løk, finhakket
+- 3 fedd hvitløk, finhakket
+- 1/2 rød paprika, finhakket
+- 1/2 boks med tomater
 - 1/4 ts spisskummen
-- salt
-- pepper
+- Salt
+- Pepper
 
 **Sorte bønner**
 
-- 1 boks sorte bønner, avrent og skylt
-- ca 1 dl vann
-- 2 ss finhakket løk
-- 1 fedd hvitløk, presset
-- en liten dæsj oregano
-- en liten dæsj spisskummen
-- 1/2 ts grønnsaksbuljongpulver
-- salt
-- pepper
+- 1 boks svarte bønner, avrent og skylt.
+- Ca. 1 dl vann.
+- 2 ss finhakket løk.
+- 1 fedd hvitløk, presset.
+- En liten klype oregano.
+- En liten klype spisskummen.
+- 1/2 ts grønnsaksbuljongpulver.
+- Salt.
+- Pepper.
 
 ## Fremgangsmåte
 

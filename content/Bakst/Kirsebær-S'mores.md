@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Kirsebær-S'mores
-
 *Dette er en klebrig delikatesse for barn i alle aldre.*
 
 ## Ingredienser

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning-sitron gelé
-
 ## Ingredienser
 
 - 5 sitroner
@@ -12,8 +10,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Riv skallet av sitronene til du har ca. 20 ml; sett til side. Press ut juice fra sitronene til du har ca. 175 ml. Hell sitronjuicen gjennom en fin sil og kast frø og papir. Bland skal, juice og honning i en 2-liter gryte, rør godt. Bring blandingen til en god vellende kok på høy varme under konstant omrøring.
-2. Rør raskt inn pektinet. Bring blandingen tilbake til en vellende kok og la det koke under konstant omrøring i 1 minutt. Ta av varmen og skumm av skummet med en metallskje hvis nødvendig.
+1. Riv sitronskall til du har ca. 20 ml, og press ut ca. 175 ml sitronsaft. Sil saften. Bland skall, saft og honning i en kjele på 2 liter. Kok kraftig opp på høy varme under konstant omrøring.
+2. Rør raskt inn pektinet. Kok kraftig opp igjen og la blandingen koke i 1 minutt under konstant omrøring. Ta kjelen av varmen og skum eventuelt av med en metallskje.
 3. Hell gelèen raskt i 2 varme, steriliserte 500 ml glass, fyll til 5 mm fra toppen. Tørk av glassrimmene. Dek umiddelbar med metallokk og skru på lokkarene. Steriliser glassene i kokende vannbad i 5 minutter. Kjøl glassene på en stekebrett.
 
 ## Info

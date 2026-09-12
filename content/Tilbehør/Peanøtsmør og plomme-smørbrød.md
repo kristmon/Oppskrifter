@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Peanøtsmør og plomme-smørbrød
-
 ## Ingredienser
 
 - 1 medium fersk California-plomme
@@ -12,10 +10,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Tynt skive plomme.
-2. Spred peanøtsmør på smørbrødsliver.
-3. Lag lag av en side av brødet med plomme-skiver og legg annet brødstykke over det.
-4. Kutt smørbrødet diagonalt i trekanter.
+1. Tynn skive plomme.
+2. Smør peanøttsmør på brødskiven.
+3. Legg et lag med plomeskiver mellom to brødskiver.
+4. Skjær smørbrødet diagonalt i trekanter.
 
 ## Info
 

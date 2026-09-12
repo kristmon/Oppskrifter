@@ -5,8 +5,8 @@ created: 2020-08-21
 ![[Bilder/Asiatisk nudelsalat.jpg|300]]
 En vakker og smakrik salat med fersk ingefærdressing. Shiitake-sopp har et kjøttfullt fruktkjøtt med mye smak — ta vare på de seige stilkene til kraft. Sjampinjong eller cremini kan brukes som erstatning, billigere men mindre smakfulle.
 
-**Porsjoner**: 4  
-**Tid**: 23 min (15 prep + 8 cook)  
+**Porsjoner**: 4
+**Tid**: 23 min (15 prep + 8 cook)
 **Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/13968/asian-noodle-salad/)
 
 ## Ingredienser

@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Thin Spaghetti with Grilled Pork, Scallion and Cucumber
-
 ## Ingredienser
 
-- 1 lb Thin Spaghetti, Vermicelli, or other long pasta shape, uncooked
-- 1 lb pork loin, fat trimmed, and cut into 1/2-inch pieces
-- 1 large cucumber, sliced
-- 1 bunch scallions, finely chopped
-**Sauce**
-- 1/4 cup lite soy sauce
-- 2/3 cup orange marmalade
-- 1/2 cup chopped fresh mint
+- 455 g tynn spaghetti, vermicelli eller annen lang pastaform, ukokt.
+- 455 g svinefilet, med fett fjernet, og skjært i 1/2-centimeter store biter.
+- 1 stor agurk, i skiver.
+- 1 bunt vårløk, finhakket.
+**Saus**
+- 0,6 dl lett soyasaus
+- 1,6 dl appelsinmarmelade
+- 1,2 dl finhakket fersk mynte.
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; drain. Thread the pork and cucumbers, separately, onto several long skewers. In a large mixing bowl, stir together all the ingredients for the sauce.
-2. Over medium-hot coals, grill the pork until firm (about 8-10 minutes) and the cucumber until tender and nicely browned (about 6 minutes). Slide the pork and cucumbers off their skewers. Toss pork and cucumber with the sauce. Grill the scallions until wilted, about 3 minutes. Cut them into 2-inch lengths and toss them with the pork and cucumbers. Toss in the pasta, garnish with mint leaves and serve.
+1. Kok pastaen etter anvisningene på pakken; sil av vannet. Tre kjøtt og agurk, hver for seg, på flere lange spyd. I en stor blandebolle, rør sammen alle ingrediensene til sausen.
+2. Grill svinekjøttet over middels varme til det er gjennomstekt, ca. 8–10 minutter. Grill agurken til den er mør og pent brunet, ca. 6 minutter. Ta kjøttet og agurken av spydene og bland dem med sausen. Grill vårløken til den faller sammen, ca. 3 minutter. Skjær den i 5–6 cm lange biter og bland den med kjøttet og agurken. Tilsett pastaen, pynt med mynteblader og server.
 
 ## Info
 

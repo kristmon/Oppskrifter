@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Hangtown Frittata
-
 ## Ingredienser
 
-- 2 cups mushrooms, sliced
-- 1/4 cup green onion, sliced
-- 1 Tbs butter or margarine
-- 1 (10-ounce) jar oysters, well drained
-- 6 eggs
-- 1 cup milk
-- 1/4 tsp paprika
-- 1/4 tsp pepper
-- 2 Tbs cooked, crumbled bacon
+-  4,8 dl sopp, i skiver
+-  0,6 dl vårløk, i skiver
+-  1 ss smør eller margarin
+- 1 (ca. 300 gram) krukke med ferske, godt skylte [ingredienser/produkter].
+-  6 egg
+-  2,4 dl melk
+-  1/4 ts paprikapulver
+-  1/4 ts pepper
+-  2 ss stekt, smuldret bacon
 
 ## Fremgangsmåte
 
-1. Sauté mushrooms and onion in melted butter in an oven-proof skillet for 3 minutes. Pat oysters dry with a paper towel and add to mushroom mixture. Saute 1 minute or until oysters begin to curl. Drain any liquid. Remove skillet from heat and set aside.
-2. Beat eggs, milk, paprika and pepper with a wire whisk until well blended. Pour mixture over oyster mixture in skillet. Sprinkle with bacon. Bake at 400 degree F for 20 to 25 minutes or until set and browned. Cut into wedges to serve.
+1 . Stek sopp og løk i smeltet smør i en ovnsfast stekepanne i 3 minutter. Tørk østersene med et kjøkkenpapir og tilsett dem i soppblandingen. Stek i ytterligere 1 minutt, eller til østersene begynner å krølle seg. Hell av eventuell væske. Ta stekepannen av varmen og sett den til side.
+ 2 . Visp egg, melk, paprika og pepper godt sammen med en visp. Hell blandingen over østersblandingen i stekepannen. Dryss over bacon. Stek i ovnen ved 400 grader Fahrenheit i 20 til 25 minutter, eller til den er stivnet og gyllenbrun. Skjær i trekantede stykker før servering.
 
 ## Info
 

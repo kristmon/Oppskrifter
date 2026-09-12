@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning-prat du parfait
-
 ## Ingredienser
 
 - 1 stor banan, skåret og delt for to porsjoner

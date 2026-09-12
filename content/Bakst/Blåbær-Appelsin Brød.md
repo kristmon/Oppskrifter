@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Blåbær-Appelsin Brød
-
 ## Ingredienser
 
-- 1 dl Fiber One frokostblanding
+- 1 dl fiberrik frokostblanding
 - 3/4 dl vann
-- 1 ss rasplått appelsin- eller sitronskall
-- 1/4 dl appelsinjus
-- 1/2 ts vanilj
-- 5 dl alt-bruk mel
+- 1 ss revet appelsin- eller sitronskall
+- 1/4 dl appelsinjuice
+- 1/2 ts vanilje
+- 5 dl universalmel
 - 1 dl sukker
 - 1 1/2 ts bakepulver
-- 1/2 ts bakesoda
+- 1/2 ts natron
 - 1/2 ts salt
-- 2 ss vegetarolje
+- 2 ss vegetabilsk olje
 - 1 egg
-- 1 dl friske eller fryste (tint) blåbær
+- 1 dl friske eller frosne (tinte) blåbær
 
 ## Fremgangsmåte
 

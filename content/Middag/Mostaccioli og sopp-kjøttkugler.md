@@ -2,33 +2,31 @@
 created: 2026-05-05
 ---
 
-# Mostaccioli og sopp-kjøttkugler
-
 ## Ingredienser
 
-- 450 g Mostaccioli, Penne eller annan mellanstørrel pastaform, ukokt
-**Kjøttkugler**
+**Kjøttboller**
+- 450 g mostaccioli, penne eller annen pastaform av middels størrelse, ukokt
 - 1/2 ts smør eller margarin
-- 225 g sopp, hakket
-- 225 g hakka kalkun
-- 225 g ekstra magert hakka storfekjøtt
-- 2,5 dl fersk heilkornbrodrasp (omtrent 2 skiver)
+- 225 g sopp, finhakket
+- 225 g kalkun, kjøttdeig
+- 225 g magert storfekjøtt, kjøttdeig
+- 2,5 dl ferskt, grovhakket brødrasp (omtrent 2 skiver)
 - 2 store eggehviter
-- 60 ml rives Asiago-ost
-- 10 ml finhakket fersk oregano, eller 5 ml tørka oregano
-- 7,5 ml finhakket fersk rosmarin, eller 1/2 ts knust tørka rosmarin
+- 60 ml revet Asiago-ost
+- 10 ml finhakket fersk oregano, eller 5 ml tørket oregano
+- 7,5 ml finhakket fersk rosmarin, eller 1/2 ts knust tørket rosmarin
 - 1/2 ts salt
 - 1/4 ts pepper
 **Saus**
-- 1 resept grunnleggende tomatsaus
-- 5 ml vegetarolje, delt
+- 1 oppskrift på grunnleggende tomatsaus
+- 5 ml vegetabilsk olje, delt
 
 ## Fremgangsmåte
 
-1. I ei stor, ikkje-klebrig panne, varm smøret eller margarinen over medium-høg varme. Tillsett soppene og braisér til svært mørk, omtrent 6 minutter. Flytt sopper til ei skjeringsplate og hakk på nytt.
-2. I ei medium blandingsbolle, rør saman soppene, hakka kalkun, hakka storfekjøtt, brodrasp, eggehviter, Asiago-ost, oregano, rosmarin, salt og pepper. Knead blandinga saman grundig med hendene dine. For å førebyggje at ho kleber, dypp hendene dine i kaldt vann før du dannar kvar kjøttkule. Danne blanding til 30 2,5 cm kuler.
-3. Put tomatsausen inn i ei stor, tung-botn gryte og bring til simmring over lav varme. Varm 1/2 ts vegetarolje i ei stor ikkje-klebrig panne. Tillsett halvparten av kjøttkulgane til pannen og brun dei på alle sider. Skjé kjøttkulgane inn i tomatsausen. Tillsett dei gjenværande 1/2 ts vegetarolje til pannen og brun resten av kjøttkulgane, deretter tillsett dei til sausen. Simrer, rør, i 20 minutter.
-4. Medan saus simrer, tilbered pastaen etter pakningsinstruksjonane; avløp. Flytt til ei stor serveringsbolle. Fjern laurbærblad frå saus; hell saus over pasta og server.
+1. I en stor, ikke-klebrig stekepanne, varm smøret eller margarinen over middels høy varme. Tilsett soppen og stek til den er svært mørk, omtrent 6 minutter. Overfør soppen til et skjærebrett og hakk den opp igjen.
+ 2. I en middels stor blandebolle, bland soppen, hakket kalkun, hakket storfekjøtt, brødrasp, eggehviter, Asiago-ost, oregano, rosmarin, salt og pepper. Bland godt med hendene. For å hindre at blandingen kleber, dypp hendene i kaldt vann før du former hver kjøttkule. Form blandingen til 30 kuler, hver på ca. 2,5 cm.
+ 3. Hell tomatsausen i en stor, tykkbunnet gryte og sett på lav varme. Varm 1/2 ts vegetarolje i en stor, ikke-klebrig stekepanne. Tilsett halvparten av kjøttkulene i pannen og brun dem på alle sider. Legg kjøttkulene over i tomatsausen. Tilsett resten av 1/2 ts vegetarolje i pannen og brun resten av kjøttkulene, og legg dem deretter i sausen. La sausen småkoke, rør av og til, i 20 minutter.
+ 4. Mens sausen småkoker, kok pastaen etter anvisningene på pakken; sil av vannet. Overfør pastaen til en stor serveringsbolle. Fjern laurbærbladene fra sausen; hell sausen over pastaen og server.
 
 ## Info
 

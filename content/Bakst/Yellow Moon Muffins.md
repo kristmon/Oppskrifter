@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Yellow Moon Muffins
-
 ## Ingredienser
 
-- 1 package cornbread mix
-- 1 cup dried apricot
-- 3/4 cup water
+- 1 pakke maisbrødblanding
+- 2,4 dl tørkede aprikoser
+- 1,8 dl vann
 - 1 egg
-- 1/2 cup butter
-- 1/2 cup celery, chopped
-- 1/2 cup onion, chopped
-- 2 Tbs parsley, chopped
-- 1/4 tsp pepper
-- 1 cup pecans, chopped
+- 1,2 dl smør
+- 1,2 dl selleri, hakket
+- 1,2 dl løk, hakket
+- 2 ss persille, hakket
+- 1/4 ts pepper
+- 2,4 dl pekannøtter, hakket
 
 ## Fremgangsmåte
 
-1. Prepare cornbread mix according to package directions. Spread the batter thinly in a well greased 13x9-inch baking pan. Bake at 350°F for 10 to 12 minutes or till toothpick inserted in the center comes out clean. Cool. Cut into 1-inch squares.
-2. Soak apricots in water for 10 minutes. Lightly beat egg. Stir in the apricots. In a saucepan, heat butter. Stir in celery, onion, parsley and pepper. Cook till tender.
-3. Combine the cornbread, egg and apricot mixture, celery and onion mixture, and pecans. Spoon into greased muffin tins. Press down to form muffin shapes. Bake at 350°F for 20 minutes or until browned.
-4. Remove from pan; serve warm.
+1. Tilbered maisbrødsmel etter anvisningene på pakken. Fordel røren tynt ut i en smurt form på 13x9 centimeter. Stek i 177 °C i 10 til 12 minutter, eller til en tannpirker stukket i midten kommer ut ren. Avkjøl. Skjær i 1 centimeters firkanter.
+2. Legg aprikoser i vann i 10 minutter. Visp egget lett. Bland inn aprikosene. I en kjele, varm smør. Tilsett selleri, løk, persille og pepper. Stek til det er mørt.
+3. Bland maisbrød, egge- og aprikosmiks, selleri- og løkblandingen, og pekannøtter. Fordel blandingen i smurte muffinsformer. Press ned for å forme muffins. Stek i 177 °C i 20 minutter, eller til de er gyllenbrune.
+4. Ta ut av formen og server varme.
 
 ## Info
 

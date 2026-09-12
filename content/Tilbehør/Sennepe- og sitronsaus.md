@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Sennepe- og sitronsaus
-
 *Passar til kokt grønnsakar og fisk*
 
 ## Ingredienser

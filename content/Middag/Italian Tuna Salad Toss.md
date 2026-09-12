@@ -2,22 +2,20 @@
 created: 2026-05-05
 ---
 
-# Italian Tuna Salad Toss
-
 ## Ingredienser
 
-- 1 package salad greens - (10 oz)
-- 1 can artichoke hearts - (14 oz), drained, quartered
-- 1 can tuna in water - (9 1/4 oz), drained, flaked
-- 1/2 lb green beans, cooked, drained
-- 1 cup sliced plum tomatoes
-- 1 bottle Kraft Free Italian fat-free dressing, (8 oz)
+- 1 pakke salatblanding – (284 g)
+- 1 boks artisjokker – (397 g), avrent og delt i fire
+- 1 boks tunfisk i vann – (262 g), avrent og smuldret
+- 225 g grønne bønner, kokt og avrent
+- 2,4 dl skivede plommetomater
+- 225 g lett italiensk dressing
 
 ## Fremgangsmåte
 
-1. Place greens on serving platter. Arrange artichokes, tuna, beans, and tomatoes over greens. Top with dressing.
-2. This recipe yields 6 servings. Serving size: 2 cups.
-3. Exchanges Per Serving: 2 Vegetable, 1 Lean Meat.
+1. Legg salaten på et serveringsfat. Fordel artisjokker, tunfisk, bønner og tomater over salaten. Topp med dressing.
+2. Denne oppskriften gir 6 porsjoner. Porsjonsstørrelse: 4,8 dl.
+3. Næringsverdi per porsjon: 2 porsjoner grønnsaker, 1 porsjon magert kjøtt.
 
 ## Info
 

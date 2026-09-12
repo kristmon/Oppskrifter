@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Grillet Kylling Med Appelsin BBQ-saus
-
 ## Ingredienser
 
 - 1 boks appelsinjuskonsentrat - (170 ml), utynnet
@@ -16,8 +14,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Plasser de første 6 ingrediensene i en bolle. Slå med visp til glatt. Tilsett kylling kvartaler og bland for å dekke. Marinere i kjøleskapet i 3 til 4 timer, vending av og til. Fjern kylling og drenere.
-2. Plasser på varm grill og grill over kullgrill eller grill i ovnen i 40 minutter. Vend og pensle med marinade hver 10 til 15 minutter.
+1. Ha de første 6 ingrediensene i en bolle. Visp kraftig til blandingen er glatt. Tilsett kyllingbiter og bland godt for å dekke dem. La kyllingen marinere i kjøleskapet i 3 til 4 timer, og vend den av og til. Fjern kyllingen og hell av marinaden.
+2. Legg kyllingen på en varm grill og grill den over kull eller i en ovnsgrill i 40 minutter. Vend kyllingen og pensle den med marinade hver 10 til 15 minutter.
 
 ## Info
 

@@ -12,7 +12,7 @@ Litt utfordrende å finne en rett fra et land hvor de spiser veldig mye innmat o
 
 - 1 liter peanøttolje
 
-Bland sammen alle ingrediensene utenom oljen, men hold litt vann tilbake, og juster til du får en fin deig. Elt deigen i 15 minutter (tilsett mer mel etterhvert som det blir nødvendig). La deigen hvile i minst en time (maks fire timer) under et håndkle.
+Bland sammen alle ingrediensene, unntatt oljen, men hold litt vann til side og juster til du får en fin deig. Elt deigen i 15 minutter (tilsett mer mel etter behov). La deigen hvile i minst én time (maksimalt fire timer) under et håndkle.
 
 Deigen kjevles ut veldig tynt, og bruk drikkeglass eller lignende til å presse ut små sirkler. Disse legger du fyll på (se under), og lukker deigen rundt fyllet. Sørg for at det blir tett. Bruk gjerne egg eller vann som "lim".
 
@@ -25,9 +25,9 @@ Fyll:
 - 2 fedd hvitløk, presset
 
 - 4 ss kokt ris
-- 1 neve frisk perislle, hakket
+- 1 neve frisk persille, hakket
 - 1 neve frisk koriander, hakket
 - salt
 - pepper
 
-Lammekjøttdeig og hvitløk stekes i smør og olje i en panne. La det avkjøles noe, og bland så inn ris, urter, salt og pepper.
+Lammekjøttdeig og hvitløk stekes i smør og olje i en panne. La det kjølne litt, og bland deretter inn ris, urter, salt og pepper.

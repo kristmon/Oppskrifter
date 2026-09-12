@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Jacks Glen Lake Inn kirsebær-plomme-saus
-
 ## Ingredienser
 
 - 1 boks (480 g) lilla plommer i sirup, frøet og grovt hakket
@@ -17,8 +15,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Bland hakket plommer med sirup, søte kirsebær, tørket sur kirsebær, sukker, limejuice, allspice og salt i en kasserolle med tykk bunn; bland godt. Varm til det koker over høy varme.
-2. Rør inn kartoffelstivelse-blandingen; kok, og rør konstant, til det blir klart og tykt nok til å dekke baksiden av en skje. Fjern fra varmen og serv. Eller dekk til og oppbevar i kjøleskapet i opptil en uke. Varm opp i mikrobølgeovn.
+1. Bland hakkede plommer med sirup, søte kirsebær, tørkede, sure kirsebær, sukker, limesaft, allekrydder og salt i en kjele med tykk bunn; bland godt. Varm opp til det koker, på høy varme.
+2. Rør inn potetmelblandingen; kok, og rør kontinuerlig, til den er klar og tykk nok til å dekke baksiden av en skje. Fjern fra varmen og server. Eller dekk til og oppbevar i kjøleskapet i opptil en uke. Varm opp i mikrobølgeovn.
 
 ## Info
 

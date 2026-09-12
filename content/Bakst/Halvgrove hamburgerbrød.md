@@ -3,12 +3,12 @@ created: 2020-10-05
 ---
 
 ![[Bilder/Halvgrove hamburgerbrød.jpg|300]]
-Lag dem flate og brede, ellers blir det boller! 
+Lag dem flate og brede, ellers blir det boller!
 
 
 Hemmeligheten bak de luftige brødene er at smøret eltes inn til slutt.
 
-**Porsjoner**: 12 (12 stykker)  
+**Porsjoner**: 12 (12 stykker)
 **Kilde**: [trinesmatblogg.no](https://trinesmatblogg.no/recipe/halvgrove-hamburgerbrod/)
 
 ## Ingredienser

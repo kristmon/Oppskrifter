@@ -2,13 +2,11 @@
 created: 2026-05-05
 ---
 
-# Kirsebær-marshmallow-kake
-
 *Du vil like denne kaken -- marshmallowene smelter og stiger til toppen for en glasur.*
 
 ## Ingredienser
 
-- 10 dl mini marshmallows (ca 3/4 av en 300g pakke)
+- 10 dl mini marshmallows (ca. 3/4 av en 300g pakke)
 - 1 (515g) pakke gul kakemiks
 - 1 (595g) boks kirsebær-paibelegg
 

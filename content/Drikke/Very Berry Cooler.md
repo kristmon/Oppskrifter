@@ -2,18 +2,16 @@
 created: 2026-05-05
 ---
 
-# Very Berry Cooler
-
 ## Ingredienser
 
-- 1 package (10-ounce) unsweetened frozen raspberries OR strawberries (2 cups)
-- 2 fresh California peaches, halved and pitted, coarsely chopped
-- 12 cracked or crushed ice cubes
+- 1 pakke (10 gram) frosne, usøtede bringebær eller jordbær (4,8 desiliter)
+- 2 fersken fra California, delt og uten stein, grovt hakket
+- 12 knuste eller isbiter
 
 ## Fremgangsmåte
 
-1. Combine frozen berries, peaches and ice in blender or food processor.
-2. Whirl until smooth.
+1.  Bland frosne bær, fersken og is i en blender eller kjøkkenmaskin.
+2.  Kjør til blandingen er jevn.
 
 ## Info
 

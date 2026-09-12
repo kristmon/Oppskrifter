@@ -2,14 +2,12 @@
 created: 2026-05-05
 ---
 
-# Béarnaisesaus
-
 ## Ingredienser
 
 - 1,2 dl hvitvin
 - 1 ss finhakket sjalottløk eller vårløk
-- 1/2 ts frisk estragon, hakket (etter smak)
-- 3 (eller 4) egg-plommer
+- 1/2 ts fersk estragon, hakket (etter smak)
+- 3 (eller 4) eggeplommer
 - 1/2 ts salt
 - 1,2 dl smør
 

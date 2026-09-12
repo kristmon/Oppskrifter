@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Utrolig Crêpes
-
 ## Ingredienser
 
 - 1/2 dl fettfri melk
@@ -21,11 +19,11 @@ created: 2026-05-05
 ## Fremgangsmåte
 
 1. Visp melk, mel, egg, sukker og muskatnøtt i en liten bolle til skummende og kjøl ned i minst 1 time. I mellomtiden kutt bark og membraner av appelsinen slik at bare fruktkjøtt gjenstår. Hakk appelsinkjøttet i små stykker.
-2. Når deigen er klar, smelt margarinen i en liten stekepanne over medium varme, rullende skillet for å helt dekke det med margarin. Med en liten øse, hell ca. 2 ss deig i den oppvarmede stekepannen, igjen rullende skillet for raskt å dekke bunnen.
-3. Med en plastfleksibel spatel, vend crêpen når kantene begynner å brun lett. Kok den andre siden til den også er lettbrun. Fjern crêpen fra pannen raskt, fold den i kvart, og plasser den på en kjølig tallerken. Gjenta til all deig er brukt.
+2. Når deigen er klar, smeltes smøret i en liten stekepanne over middels varme, mens du roterer pannen for å dekke bunnen helt med smør. Med en liten øse, helles ca. 2 ss deig i den varme stekepannen, og roter pannen raskt for å dekke bunnen.
+3. Vend crêpen med en stekespade når kantene begynner å bli lett brune. Stek den andre siden til den også er lett brunet. Ta crêpen ut av pannen, brett den i fire og legg den på en kald tallerken. Gjenta med resten av røren.
 4. Bland 1 ss appelsinjus med maisstivelsen til glatt. Sett den små stekepannen tilbake på varmen og tilsett gjenværende appelsinjus og appelsinstykker, koking til bobling. Raskt tilsett maisstivelse blandingen og rør konstant med en tresspoon.
-5. Når blandingen begynner å fortykkes lett, tilsett vanilj og rør godt. Forsiktig tilsett de foldede crêpene tilbake i skillet, og virvel skillet for å dekke crêpene med sausen. Sausen skal være lett fortykket, akkurat nok til å dekke en spoon. (Tilsett en blanding av en annen 1/2 ts maisstivelse og 1 ts vann om nødvendig for å videre fortykke sausen.)
-6. Når alle crêpene er grundig oppvarmet, del innholdet av skillet på to serveringsplater, topp hver med surmelk og server. Hvis du liker, før du fjerner crêpene fra varmen, sett varmen til høy, tilsett 2 ss Gran Marnier eller brandy, og flambe før servering.
+5. Når blandingen begynner å tykne lett, tilsett vanilje og rør godt. Tilsett forsiktig de brettede crêpene tilbake i pannen, og vri pannen for å dekke crêpene med sausen. Sausen skal være lett tyknet, akkurat nok til å dekke en skje. (Tilsett eventuelt en blanding av en halv teskje maisstivelse og en teskje vann for å tykne sausen ytterligere.)
+6. Når alle crêpes er godt oppvarmet, fordeler du innholdet fra stekepannen på to serveringsfat, og legger en skje med rømme på hver. Hvis du ønsker, kan du før du tar crêpes fra varmen, sette varmen på høy, tilsette 2 ss Gran Marnier eller brandy, og flamber før servering.
 
 ## Info
 

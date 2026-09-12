@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Sitron-Pepper Kylling
-
 *En deilig kyllingoppskrift som er rask og enkel å lage.*
 
 ## Ingredienser
@@ -14,8 +12,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Smelt smøret i en stor stekepanne. Tilsett kyllingbrystene. Når brystene er nettopp stekt, dekk over med krydderet.
-2. Stekk i ca. 20 minutter eller til kyllingen når 71°C når termometeret er stukket inn på tykkeste punkt og jusen renner klar når den kuttes.
+1. Smelt smøret i en stor stekepanne. Tilsett kyllingbrystene. Når brystene er ferdig stekt, dryss over kryddermiksen.
+2. Stek i ca. 20 minutter, eller til kyllingen har en kjernetemperatur på 71 °C når du stikker et steketermometer inn i den tykkeste delen, og saften som kommer ut er klar når du skjærer i den.
 
 ## Info
 

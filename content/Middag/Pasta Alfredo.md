@@ -9,9 +9,9 @@ Brukte vanlig ost en gang, og det ble ganske kjedelig. En pakke spaghetti og par
 
 Denne retten er veldig mektig.
 
-**Porsjoner**: 4  
-**Tid**: 20 min (10 prep + 10 cook)  
-**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/22831/alfredo-sauce/)  
+**Porsjoner**: 4
+**Tid**: 20 min (10 prep + 10 cook)
+**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/22831/alfredo-sauce/)
 **Plan to Eat-tag**: Pasta
 
 ## Ingredienser

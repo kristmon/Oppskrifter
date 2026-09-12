@@ -2,31 +2,29 @@
 created: 2026-05-05
 ---
 
-# Red Velvet Cake
-
 ## Ingredienser
 
-- 1/2 cup shortening
-- 1 cup sugar
-- 1 cup egg substitute
-- 2 Tbs cocoa
-- 1 1/2 Tbs red food coloring
-- 1 tsp vanilla
-- 2 1/2 cups flour
-- 1/2 tsp salt
-- 1 tsp baking soda
-- 1 cup low-fat (1%) buttermilk
-- 1 Tbs vinegar
-- 1 cup reduced-fat whipped topping
+- 1,2 dl margarin
+- 2,4 dl sukker
+- 2,4 dl erstatning for egg
+- 2 ss kakaopulver
+- 1 1/2 ss rød matfarge
+- 1 ts vaniljeekstrakt
+- 6 dl mel
+- 1/2 ts salt
+- 1 ts natron
+- 2,4 dl mager (1%) kulturmelk
+- 1 ss eddik
+- 2,4 dl lettkrem
 
 ## Fremgangsmåte
 
-1. Heat the oven to 350 degrees. Cream the shortening, sugar, and egg substitute together. In a small bowl, make a thick paste of the cocoa and food coloring and add it to the cream mixture. Stir in the vanilla.
-2. Sift together the flour, salt, and baking soda. Alternately add portions of the flour mixture and the buttermilk to the creamed mixture, stirring well.
-3. Mix in the vinegar and pour the batter into a 9- by 9-inch or oblong pan. Bake for 30 minutes. Allow to cool. Cut into 10 squares and top each square with whipped topping.
+1. Forvarm ovnen til 175 grader. Visp sammen margarinen, sukkeret og eggalternativet. I en liten bolle, lag en tykk pasta av kakaopulver og matfarge, og tilsett den i kremblandingen. Rør inn vanilje.
+2. Bland mel, salt og natron. Tilsett vekselvis litt av melblandingen og kulturmelken i røren, og rør godt mellom hver gang.
+3. Bland inn eddik og hell røren i en form som er 23 x 23 cm eller en langpanna. Stek i 30 minutter. La det avkjøles. Skjær i 10 firkanter og legg et lag med krem på hver firkant.
 
 ## Info
 
 - **Porsjoner**: 10
-- **Type**: Cakes, Dessert, Diabetic
+- **Type**: Kake, Dessert, Diabetesvennlig
 - **Kilde**: American Diabetes Association, http://www.diabetes.org

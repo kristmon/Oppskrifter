@@ -2,18 +2,16 @@
 created: 2026-05-05
 ---
 
-# Stouffer's Kylling Alfredo Over Bakt Poteter
-
 *For et solid måltid som er rask og enkelt top to damping varme bakt poteter med vår kylling alfredo. Legg til en forpakket salat og din favorittkledning, og middag er klar i en flash.*
 
 ## Ingredienser
 
-- 1 (710 g) pakke Stouffer's® fryst stekepanne sensasjoner kylling alfredo, forberedt etter pakkedetaljer
-- 4 poteter, bakt og delt i halvdel
+- 1 (710 g) pakke frosne stekepanne-sensasjoner kylling alfredo, tilberedt i henhold til instruksjonene på pakken.
+- 4 poteter, bakt og delt i to.
 
 ## Fremgangsmåte
 
-1. Hell kylling alfredo over bakt poteter.
+1. Hell kylling Alfredo over bakte poteter.
 
 ## Info
 

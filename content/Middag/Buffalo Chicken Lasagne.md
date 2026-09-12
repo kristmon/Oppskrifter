@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Buffalo Chicken Lasagne
-
 ## Ingredienser
 
-- 12 pieces Lasagne, uncooked
-- Vegetable oil cooking spray
-- 1 lb skinless, boneless chicken breasts, diced
-- 4 cups low-sodium spaghetti sauce
-- 1 1/2 cups water
-- 2-3 tbsp. hot sauce
-- 2 Tbs vinegar
-- 1 tsp garlic salt
-- 1 15-oz. container part-skim ricotta cheese
-- 1/2 cup egg substitute
-- 3/4 cup crumbled blue cheese
+- 12 porsjoner lasagne, ubehandlet
+- Vegetabilsk olje spray for matlaging
+- 455 g kyllingbryst uten skinn og bein, i terninger
+- 9,6 dl tomatsaus med redusert saltinnhold
+- 3,6 dl vann
+- 2-3 ss. sterk saus
+- 2 ss. eddik
+- 1 ts hvitløksalt
+- 1 15 g ricottaost med redusert fetthold
+- 1,2 dl erstatning for egg
+- 1,8 dl smuldret blåmuggost
 
 ## Fremgangsmåte
 
-1. Spray a large skillet with cooking spray; place over medium-high heat until hot. Add chicken; saute 4 minutes. Drain well. Stir in spaghetti sauce, water, hot sauce, vinegar and garlic salt.
-2. In a small bowl, combine ricotta cheese and egg substitute. Set aside. Spray a 9 x 13-inch baking pan with cooking spray. Spread 1 cup of the sauce over the bottom of the pan. Arrange 4 pieces of lasagne (3 lengthwise, 1 widthwise) over the sauce. Cover with 1 1/2 cups of the sauce. Spread half the ricotta mixture on top. Arrange another 4 pieces of lasagne over ricotta, and top with another 1 1/2 cups of sauce. Spread remaining ricotta mixture on top. Arrange final 4 pieces of lasagne over ricotta mixture and cover with remaining sauce.
-3. Preheat oven to 350-o F. Cover lasagne with foil and bake for 1 hour 10 minutes. Uncover lasagne, sprinkle blue cheese on top and bake an additional 5 minutes uncovered. Cover and let stand 15 minutes before serving.
+1. Sprøyt en stor stekepanne med matolje; sett den over middelhøy varme til den er varm. Legg kyllingen i pannen og stek i 4 minutter. Hell av vannet godt. Rør inn pastasaus, vann, chilisaus, eddik og hvitløksalt.
+2. I en liten bolle, bland ricottaost og erstatning for egg. Sett til side. Spray en 23 x 33 cm stor ildfast form med formfett. Fordel 2,4 dl av sausen jevnt over bunnen av formen. Legg 4 lasagneplater over sausen (3 på langs, 1 på tvers). Dekk med 3,6 dl av sausen. Fordel halvparten av ricottaostblandingen over. Legg ytterligere 4 lasagneplater over ricottaosten, og dekk med 3,6 dl av sausen. Fordel resten av ricottaostblandingen over. Legg de siste 4 lasagneplatene over ricottaostblandingen og dekk med resten av sausen.
+3. Forvarm ovnen til 175 °C. Dekk lasagnen med aluminiumsfolie og stek i 1 time og 10 minutter. Fjern folien, strø blåost over og stek ytterligere 5 minutter uten lokk. Dekk til igjen og la den stå i 15 minutter før servering.
 
 ## Info
 

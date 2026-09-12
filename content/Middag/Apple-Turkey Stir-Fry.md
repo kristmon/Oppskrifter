@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Apple-Turkey Stir-Fry
-
 ## Ingredienser
 
 - 2 ss brunt sukker

@@ -7,14 +7,14 @@ created: 2021-03-11
 
 ## Ingredienser
 
-- 1 boks kikerter, eller to
-- 1 hvitløk, presset. smaker sterkt.
-- Olivenolje, Bruk gjerne litt av vannet i kikertboksen for å redusere mengden olje
-- Sitronsaft, ikke for mye
-- Salt
-- Pepper
-- Spisskummen
-- Paprikapulver, eller sumak
+- 1 boks kikerter, eller to.
+- 1 fedd hvitløk, presset. Smaker sterkt.
+- Olivenolje. Bruk gjerne litt av lake fra kikertboksen for å redusere mengden olje.
+- Sitronsaft, ikke for mye.
+- Salt.
+- Pepper.
+- Spisskummen.
+- Paprikapulver, eller sumak.
 
 ## Fremgangsmåte
 

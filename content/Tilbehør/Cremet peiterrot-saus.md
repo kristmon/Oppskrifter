@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Cremet peiterrot-saus
-
 ## Ingredienser
 
 - 2,4 dl pisking-krem

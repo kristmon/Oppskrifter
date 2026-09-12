@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Barbecued Pork-And-Potato Casserole
-
 ## Ingredienser
 
-- 1 (40-oz.) package frozen scalloped poteter
-- 5 small green løk, thinly sliced and divided
-- 1 (20-oz.) container barbecued shredded svinekjøtt
-- 1/2 ts dried crushed rød paprika
-- 2,5 dl (4-oz.) shredded sharp cheddarost
+- 1 (40) pakke, fryste, i skivet potet.
+- 5 Små, grønne løk, i tynne skiver, delt opp.
+- 1 (20) beholder, barbecued, strimlet svinekjøtt.
+- 1/2 ts tørket, knust rød paprika.
+- 2,5 dl (4) revet, moden cheddarost.
 
 ## Fremgangsmåte
 
-1. Thaw frozen poteter in refrigerator overnight.
-2. Rør together scalloped poteter and half of the green løk. rør together svinekjøtt and rød paprika in a separate bowl.
-3. bred svinekjøtt mixture into a lightly greased 9-inch square pan; top with potato mixture.
-4. bak at 375 grader F. for 55 to 60 minutter eller til poteter are golden brown.
-5. Sprinkle with ost and remaining green løk.
-6. Let stand 15 minutter.
+1 . La frosne poteter tine i kjøleskapet over natten.
+ 2 . Bland potetmos og halvparten av den grønne løken. Bland kjøttdeig og rød paprika i en separat bolle.
+ 3 . Fordel kjøttdeigblandingen i en smurt, kvadratisk form ( 9 tommer). Legg potetmosen over.
+ 4 . Stek i ovnen ved  375  grader Fahrenheit i  55  til  60  minutter, eller til potetene er gyllenbrune.
+ 5 . Dryss over ost og resten av den grønne løken.
+ 6 . La det stå i  15  minutter.
 
 ## Info
 

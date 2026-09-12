@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Date Cheddar Scones
-
 ## Ingredienser
 
-- 3 cups buttermilk baking mix
-- 1 1/4 cups milk
-- 1/4 cup melted butter
-- 1 cup dates, chopped
-- 1 cup Cheddar cheese, grated
-- 1/4 tsp nutmeg
+- 7,2 dl melblanding for pannekaker (eller vafler)
+- 3 dl melk
+- 0,6 dl smeltet smør
+- 2,4 dl dadler, hakket
+- 2,4 dl cheddarost, revet
+- 1/4 ts muskat
 
 ## Fremgangsmåte
 
-1. Combine baking mix, milk and butter in a mixing bowl; mix well.
-2. Stir in chopped dates, grated cheese and nutmeg.
-3. Drop mixture by large tablespoons onto a greased baking sheet. Bake at 450°F, 8-10 minutes, or until golden brown.
-4. Cool scones on wire rack.
+1. Bland bakemiks, melk og smør i en bolle; rør godt.
+2. Rør inn hakkede dadler, revet ost og muskat.
+3. Legg deig i store klumper på et smurt stekebrett. Stek ved 232 °C i 8-10 minutter, eller til de er gyllenbrune.
+4. Avkjøl scones på en rist.
 
 ## Info
 

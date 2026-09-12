@@ -2,18 +2,16 @@
 created: 2026-05-05
 ---
 
-# Simply Great Steak
-
 ## Ingredienser
 
-- 6 beef filet mignon steaks - (4 oz ea)
-- 1 tsp olive oil
+- 6 beef filet mignon steaks - (113 g ea)
+- 1 ts olive oil
 - Cracked peppercorns, to taste
 
 ## Fremgangsmåte
 
-1. Prepare an outdoor grill with the rack set 4 to 6 inches from the heat source, or prepare an oven broiler. Brush each filet with oil, and press some peppercorns in the top side of each steak.
-2. Grill or broil the steaks for 8 to 12 minutes for medium-rare, or longer to taste, turning once.
+1. Forbered en utendørs grill ved å justere risten til 4 til 15,2 cm fra varmekilden, eller forbered en ovnsgrill. Pensle hver filet med olje, og press noen pepperkorn inn i oversiden av hvert stykke kjøtt.
+2. Grill eller stek kjøttet i 8 til 12 minutter for medium-stekt, eller lenger etter smak, og snu det én gang.
 
 ## Info
 

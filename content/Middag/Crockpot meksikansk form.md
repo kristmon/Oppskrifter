@@ -5,9 +5,9 @@ created: 2023-02-15
 ![[Bilder/Crockpot meksikansk form.jpg|300]]
 Superenkel og DIGG crockpot-rett med quinoa, sorte bønner og kjøttdeig av kalkun eller kylling, toppet med ost.
 
-**Porsjoner**: 8  
-**Tid**: 370 min (10 prep + 360 cook)  
-**Kilde**: [wellplated.com](https://www.wellplated.com/crock-pot-mexican-casserole/)  
+**Porsjoner**: 8
+**Tid**: 370 min (10 prep + 360 cook)
+**Kilde**: [wellplated.com](https://www.wellplated.com/crock-pot-mexican-casserole/)
 **Plan to Eat-tag**: Fjærkre
 
 ## Ingredienser

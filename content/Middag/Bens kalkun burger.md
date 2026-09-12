@@ -2,11 +2,9 @@
 created: 2026-05-05
 ---
 
-# Bens kalkun burger
-
 ## Ingredienser
 
-- 1-1/2 lbs malt kalkun
+- 1-225 g malt kalkun
 - 3 ss sweet løk finely hakket
 - 2 nellikker hvitløk freshly hakket
 - 1/4 ts sort pepper freshly malt
@@ -18,10 +16,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en bolle, kombiner malt kalkun, sweet løk, hvitløk og pepper; bland godt. Shape inn i 6 patties.
-2. I en liten bolle, kombiner ost, sopp, kokt bacon, green løk og majones; bland godt.
-3. grill eller grill burgers 4-6 cm fra den flame, over Medium temperature eller coals for omtrent 10-12 minutter, vending en gang.
-4. under den last several minutter av cooking, skje 1/4 dl ost topping på hver burger. Continue cooking til den ost er smeltet.
+1. I en bolle, bland kalkun, søt løk, hvitløk og pepper; rør godt. Form til 6 burgere.
+2. I en liten bolle, bland ost, sopp, kokt bacon, vårløk og majones; rør godt.
+3. Grill eller stek burgerne 4 - 6 cm fra varmen, over middels varme eller kull, i omtrent 10 - 12 minutter, og snu dem én gang.
+4. De siste minuttene av steketiden, legg 1/4 dl osteblanding på hver burger. Fortsett å steke til osten er smeltet.
 
 ## Info
 

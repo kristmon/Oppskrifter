@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# Crunchy Sweet and Sour Fettuccine Salad
-
 ## Ingredienser
 
-- 5 cups chilled Honey-Mustard Chicken with Fettuccine
-- 1 1-inch piece ginger, peeled and minced or 1 tsp. dried ginger
-- 1 cup diced celery
-- 1 medium cucumber, peeled, chopped and seeded
-- 2 medium apples, cored and chopped
+- 12 Kylling med honning- og sennepsdressing, servert med fettuccine.
+- 1 En ca. 1 centimeter stor bit ingefær, skrelt og finhakket, eller 1 teskje tørket ingefær.
+- 2,4 dl hakket selleri.
+- 1 En middels stor agurk, skrelt, hakket og uten kjerner.
+- 2 To middels store epler, uten kjerner og i biter.
 
 ## Fremgangsmåte
 
-1. Toss all ingredients together and serve.
+1. Bland alle ingrediensene sammen og server.
 
 ## Info
 

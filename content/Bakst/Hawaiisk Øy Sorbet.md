@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Hawaiisk Øy Sorbet
-
 ## Ingredienser
 
 - 2 ananasskiver hermetiske i eget saft

@@ -5,7 +5,7 @@ created: 2020-09-26
 ![[Bilder/Kylling tikka masala.jpg|300]]
 Denne var veldig god. Tidkrevende, men verdt det. Vi manglet fenugreek-blader, og det var antageligvis det som gjorde at retten manglet det lille ekstra. Vil gjerne prøve igjen — MED fenugreek-blader :)
 
-**Porsjoner**: 4  
+**Porsjoner**: 4
 **Plan to Eat-tag**: Fjærkre
 
 ## Ingredienser
@@ -44,17 +44,17 @@ Saus:
 
 ## Fremgangsmåte
 
-1. Marinér kyllingen med alle marinade-ingrediensene i 20–30 minutter.
-2. Grill eller stek den marinerte kyllingen i panne, sett til side.
-3. Stek løken i en panne med litt olje til lett brunet.
-4. Tilsett rød paprika og cashewnøtter, vend rundt et par minutter. Ta av varmen og avkjøl.
-5. Bruk blender. Kjør blandingen til en jevn puré. Tilsett noen ss vann om nødvendig.
-6. Varm en panne (kan bruke samme som over) med 1 ss olje og 1 ss smør.
-7. Når smøret nettopp har smeltet, tilsett alle de malte krydrene (kanel, kardemomme, spisskummen og koriander) og stek til de dufter.
+1. Mariner kyllingen med alle ingrediensene i marinaden i 20–30 minutter.
+2. Grill eller stek den marinerte kyllingen i en panne, sett til side.
+3. Stek løken i en panne med litt olje til den er lett brunet.
+4. Tilsett rød paprika og cashewnøtter, rør rundt et par minutter. Ta pannen av varmen og la blandingen avkjøles.
+5. Bruk en blender. Kjør blandingen til en jevn puré. Tilsett litt vann om nødvendig.
+6. Varm en panne (kan bruke samme som før) med 1 ss olje og 1 ss smør.
+7. Når smøret nettopp har smeltet, tilsett alle de malte krydderne (kanel, kardemomme, spisskummen og koriander) og stek til de dufter.
 8. Tilsett puréen og stek forsiktig i 3–4 minutter.
 9. Tilsett chilipulver, salt og tomatketchup. Bland godt og rør inn fløten.
-10. Knus kasoori methi mellom hendene før den vendes inn. Kok i 2 minutter.
-11. Tilsett den grillede kyllingen og vend godt i sausen.
+10. Knus kasoori methi mellom hendene før du blander det inn. Kok i 2 minutter.
+11. Tilsett den grillede kyllingen og bland godt i sausen.
 12. Smak til med salt og chilipulver.
-13. For tynnere konsistens: tilsett noen ss vann og en skvett fløte. La småkoke i 5 minutter.
+13. For en tynnere konsistens: tilsett litt vann og en skvett fløte. La det småkoke i 5 minutter.
 14. Pynt med koriander og server med naan eller basmatiris.

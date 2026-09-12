@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Fylte Skjell Marinara
-
 ## Ingredienser
 
 - 24 Jumbo-skjell, ukokt
@@ -15,8 +13,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Tilbered pasta etter pakningens anvisning. Mens pastaen koker, tilbered spinaten etter pakningens anvisning. Hell av spinaten grundig i en kolander ved å presse ut ekstra væske med en stor skje; kjøl. I en medium bolle, kombiner spinaten med cottage cheese og løk.
-2. Når pastaen er ferdig, hell av. Skyll med kaldt vann og hell av igjen. Forvarm ovnen til 190°C. Skje osteblandingen inn i skjellene. Plasser skjellene i en lett innsmurt bakefat på ca. 23x33x5 cm. Hell spagettisausen over skjellene. Strø med Parmesanost. Dekk med folie. Bak 25-30 minutter eller til det er varmt.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, tilbered spinaten etter anvisningene på pakken. Hell spinaten godt av i et dørslag, og press ut overflødig væske med en stor skje; avkjøl. I en middels stor bolle, bland spinaten med cottage cheese og løk.
+2. Når pastaen er ferdigkokt, hell av vannet. Skyll med kaldt vann og hell av igjen. Forvarm ovnen til 190°C. Fyll pasta-skjellene med osteblandingen. Plasser skjellene i et smurt ildfast fat, ca. 23x33x5 cm. Hell spagettisausen over skjellene. Strø over Parmesanost. Dekk med aluminiumsfolie. Bak i ovnen i 25-30 minutter, eller til den er gjennomvarm.
 
 ## Info
 

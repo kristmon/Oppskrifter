@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Siciliansk Fylt Skjell
-
 ## Ingredienser
 
-- 225 g gigantisk skjell
-- 1 medium løk, hakket
+- 225 g gigantisk skall
+- 1 middels løk, finhakket
 - 2 ts olivenolje
-- 425 g ricotta ost
+- 425 g ricottaost
 - 120 ml gule rosiner
-- 120 ml hakket grønn oliven
+- 120 ml hakkede grønne oliven
 - Salt etter smak
-- Ferskhviet sort pepper etter smak
-- 1 boks 425 g tomatosaus
-- 60 ml revet parmesanrost
-- 250 ml revet mozarellaost
+- Ferskmalen sort pepper etter smak
+- 1 boks med 425 g tomatsaus
+- 60 ml revet parmesanost
+- 250 ml revet mozzarellaost
 
 ## Fremgangsmåte
 
-1. Kok skjellene etter pakkedetaljer. Skyll, dren og spred på ark mens du forbereder fyllingen.
-2. Forvarm ovnen til 175°C.
-3. I en liten stek pan rør sammen løk og olivenolje. Stekk over medium varme til løk visner, ca. 5 minutter. Overfør til medium bolle og rør inn ricotta ost, rosiner, oliven og salt og pepper etter smak.
-4. Fyll hver skal med litt av ricotta blandingen. Arrangement skjellene, åpen-side-opp, i bakefat. Skje tomatos ausen over skjellene og deretter strø dem med parmesanrost og mozarellaost. Bak, dekket, til det bobler og er varmt, ca. 35-40 minutter. Åpne og bak i ytterligere 5 minutter. Serveres varmt.
+1 . Kok skalldyrsfyllet etter anvisningene på pakken. Skyll, sil av og legg ut på et bakepapir mens du forbereder fyllet.
+ 2 . Forvarm ovnen til  175 °C.
+ 3 . I en liten stekepanne, stek løk sammen med olivenolje over middels varme til løken er myk, ca.  5  minutter. Overfør til en bolle og bland inn ricotta, rosiner, oliven, salt og pepper etter smak.
+ 4 . Fyll hvert skall med litt av ricotta-blandingen. Plasser skallene i et ildfast fat med åpningen opp. Fordel tomatsaus over skallene, og strø deretter over parmesan og mozzarella. Stek i ovnen, dekket, til det bobler og er gjennomvarmt, ca.  35 - 40  minutter. Fjern lokket og stek i ytterligere  5  minutter. Serveres varmt.
 
 ## Info
 

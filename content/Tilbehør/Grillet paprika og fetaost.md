@@ -3,7 +3,7 @@ created: 2017-11-02
 ---
 ![[Bilder/Grillet-paprika-og-fetaost1.jpg|300]]
 
-- 250 g grillet rød paprika (på glass eller boks – vekten gjelder etter drenering)
+- 250 g grillet rød paprika (fra glass eller boks – vekten gjelder etter at den er skylt/tømt for lake/væske)
 - 100 g fetaost
 - 1 fedd hvitløk, presset
 - 1 ss sitronsaft

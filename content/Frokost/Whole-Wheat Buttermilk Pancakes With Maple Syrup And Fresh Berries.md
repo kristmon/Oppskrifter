@@ -2,34 +2,32 @@
 created: 2026-05-05
 ---
 
-# Whole-Wheat Buttermilk Pancakes With Maple Syrup And Fresh Berries
-
-*Whole-wheat flour and buttermilk combine to make a hearty but light pancake with a slight tang.*
+Fullkornsmel og kefir gir sammen en fyldig, men lett pannekake med en svak syrlighet.
 
 ## Ingredienser
 
-- 1 cup whole-wheat flour
-- 1/4 cup all-purpose flour
-- 1/4 cup ALBERS® Yellow Corn Meal
-- 1 tsp baking powder
-- 1/2 tsp salt
-- 1/4 tsp baking soda
-- 1 1/2 cups buttermilk or sour milk*
-- 2 large eggs, lightly beaten
-- 2 Tbs honey
-- Maple syrup
-- 1 cup fresh berries (blueberries, raspberries, blackberries and/or sliced strawberries)
+- 2,4 dl fullkornshvetemel
+- 0,6 dl hvetemel
+- 0,6 dl ALBERS maismel
+- 1 ts bakepulver
+- 1/2 ts salt
+- 1/4 ts natron
+- 3,6 dl kefir eller surmelk*
+- 2 store egg, lett vispet
+- 2 ss honning
+- Lønnssirup
+- 2,4 dl ferske bær (blåbær, bringebær, bjørnebær og/eller skivede jordbær)
 
 ## Fremgangsmåte
 
-1. Grease griddle or skillet.
-2. Combine whole-wheat flour, all-purpose flour, corn meal, baking powder, salt and baking soda in large bowl. Combine buttermilk, eggs and honey in medium bowl. Add buttermilk mixture to flour mixture; stir until blended but still lumpy.
-3. Heat prepared griddle over medium heat until hot. Pour about 1/3 cup batter onto griddle. Cook for 2 to 3 minutes on each side or until golden brown. Repeat with remaining batter. Serve with syrup and berries.
+1. Smør stekepannen eller stekebrettet.
+2. Bland fullkornsmel, hvetemel, maisena, bakepulver, salt og natron i en stor bolle. Bland kefir, egg og honning i en middels stor bolle. Tilsett kefirmel blandingen til melblandingen; rør til alt er blandet, men behold eventuelle klumper.
+3. Varm opp stekepannen eller stekebrettet over middels varme til den er varm. Hell ca. 0,8 dl røre på stekepannen. Stek i 2 til 3 minutter på hver side, eller til den er gyllenbrun. Gjenta med resten av røren. Server med sirup og bær.
 
 ## Info
 
 - **Porsjoner**: 10
-- **Preparation Time**: 10 minutes
-- **Cooking Time**: 30 minutes
+- **Forberedelsestid**: 10 minutter
+- **Tilberedningstid**: 30 minutter
 - **Type**: Breakfast, Brunch
 - **Kilde**: Nestlé, www.verybestbaking.com

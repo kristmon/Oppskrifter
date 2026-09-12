@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Tørket kirsebær-relish til kalkun
-
 *Denne frisk kombinasjonen passer godt til stekt kalkun.*
 
 ## Ingredienser

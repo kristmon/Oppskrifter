@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Sweet Potato Casserole
-
 ## Ingredienser
 
-- 2 lbs sweet potatoes, boiled, peeled and mashed
-- 2 eggs, beaten 2 oz.
-- margarine, melted
-- 1/2 cup brown sugar
-- 1 cup buttermilk
-- 1/4 tsp baking soda
-- 1/2 tsp nutmeg
-- 1/2 tsp cinnamon
+- 905 g søtpoteter, kokt, skrelt og most.
+- 2 egg, pisket, 57 g.
+- smør, smeltet.
+- 1,2 dl brunt sukker.
+- 2,4 dl kulturmelk.
+- 1/4 ts natron.
+- 1/2 ts muskatnøtt.
+- 1/2 ts kanel.
 
 ## Fremgangsmåte
 
-1. Preheat oven to 350.
-2. Combine all ingredients and mix well. Will be very soupy.
-3. Bake at 350°F for 1 hour.
+1. Forvarm ovnen til 175 grader.
+2. Bland alle ingrediensene godt sammen. Det vil bli veldig løst.
+3. Stekes ved 177 °C i 1 time.
 
 ## Info
 

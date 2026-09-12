@@ -5,7 +5,7 @@ To egg ble for mye; blandingen ble veldig flytende.
 
 Men 600 g kjøttdeig passet med 2 egg. Prøv griljermel neste gang, trenger litt mer tekstur. Og mer saus!
 
-**Porsjoner**: 4  
+**Porsjoner**: 4
 **Plan to Eat-tag**: Fjærkre
 
 ## Ingredienser

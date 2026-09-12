@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Floribbean Pasta Risotto with Shrimp & Black Beans
-
 ## Ingredienser
 
-- 1 lb Orzo
-- 1 Tbs oil
-- 1 large onion, chopped
-- 1 medium red bell pepper, chopped
-- 2 large garlic cloves, minced
-- 2 14.5 oz cans of fat-free, reduced sodium chicken broth
-- 2 cups orange juice (from carton)
-- 1/4 cup cooking sherry
-- 2 tsp caribbean jerk seasoning
-- 1-1/2 lbs medium shrimp, shelled and deveined
-- 1 15 oz can black beans, drained and rinsed
-- 1/4 cup chopped fresh cilantro
+- 455 g orzo
+- 1 ss olje
+- 1 en stor løk, hakket
+- 1 en middels stor rød paprika, hakket
+- 2 flere store fedd hvitløk, finhakket
+- 2 411 g hermetisk kyllingbuljong, lett på fett og natrium
+- 4,8 dl appelsinjuice (fra kartong)
+- 0,6 dl matsherry
+- 2 ts karibisk jerk-krydder
+- 1-225 g middels store reker, uten skall og skjær
+- 1 425 g bønner, skylt og avrent
+- 0,6 dl fersk koriander, hakket
 
 ## Fremgangsmåte
 
-1. Cook pasta according to pasta directions. While pasta is cooking, heat oil in large deep skillet over medium heat. Add onion, red bell pepper, and garlic; sauté until tender, about 4 minutes. Stir in orzo, chicken broth, orange juice, cooking sherry and jerk seasoning; bring to a boil, stirring frequently. Return heat to medium-low; partially cover and simmer 10 minutes, stirring occasionally.
-2. Stir in shrimp and black beans; simmer 2 minutes more. Turn off heat, cover tightly and let stand 10 minutes, or until liquid is almost absorbed and pasta has the creamy consistency of risotto; stir in cilantro.
+1. Kok pastaen i henhold til instruksjonene på pakken. Mens pastaen koker, varm olje i en stor, dyp stekepanne over middels varme. Tilsett løk, rød paprika og hvitløk; stek til det er mykt, ca. 4 minutter. Rør inn orzo, kyllingkraft, appelsinjuice, matlagningssherry og jerk-krydder; kok opp, og rør ofte. Senk varmen til middels-lav; dekk delvis til og la det småkoke i 10 minutter, og rør av og til.
+2. Tilsett reker og svarte bønner; la det småkoke i ytterligere 2 minutter. Slå av varmen, dekk til med lokk og la det stå i 10 minutter, eller til væsken nesten er absorbert og pastaen har en kremaktig konsistens som risotto; rør inn koriander.
 
 ## Info
 

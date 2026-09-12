@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Hoisin Pork and Noodles
-
 ## Ingredienser
 
-- 12 oz Medium Egg Noodles, uncooked
-- 1 1/4 lbs pork tenderloin, trimmed of fat
-- 2 tsp oriental sesame oil
-- 4 cloves garlic, minced
-- 2 tsp bottled minced ginger root or finely shredded fresh ginger root
-- 1 red or yellow bell pepper, cut into short, thin strips
-- 1 1/2 cups snow pea pods or sugar snap peas (fresh or frozen)
-- 1/2 cup canned low-sodium chicken broth
-- 1 Tbs cornstarch
-- 1/2 cup hoisin sauce
-- 1 Tbs low-sodium soy sauce
-- 1/2 cup thinly sliced green onions
-- 1/4 cup chopped peanuts or cashews (optional)
+- 340 g mellomstore nudler, ukokt
+- 565 g svinefilet, uten fett
+- 2 ts orientalsk sesamolje
+- 4 fedd hvitløk, finhakket
+- 2 ts ferdig hakket ingefær eller fersk ingefær, veldig fint strimlet
+- 1 rød eller gul paprika, skjært i tynne strimler
+- 3,6 dl sukkererter eller sukkermaiser (ferske eller frosne)
+- 1,2 dl ferdig kyllingkraft, med lavt saltinnhold
+- 1 ss maismel
+- 1,2 dl hoisinsaus
+- 1 ss soyasaus, med lavt saltinnhold
+- 1,2 dl tynne skiver av vårløk
+- 0,6 dl hakkede peanøtter eller cashewnøtter (valgfritt)
 
 ## Fremgangsmåte
 
-1. Prepare noodles according to package directions. Meanwhile, cut pork crosswise into 1/4-inch thick slices; cut slices in half. Heat oil in a large deep nonstick skillet over medium-high heat until hot. Add pork, garlic and ginger; stir-fry 3 minutes or until pork is no longer pink. Transfer mixture to a bowl; set aside. Add bell pepper and snow peas to skillet; stir fry 1 minute. Combine broth and cornstarch; mix well. Add broth mixture, hoisin sauce and soy sauce to skillet; bring to a boil, stirring constantly. Add pork mixture; stir-fry 1 minute or until pork is cooked through.
-2. Drain noodles; transfer to 6 serving plates. Spoon pork mixture over noodles; sprinkle with green onions. Garnish with peanuts, if desired.
+1. Kok nudlene etter anvisningen på pakken. Skjær svinekjøttet i ca. 6 mm tykke skiver og del skivene i to. Varm oljen i en stor, dyp stekepanne på middels høy varme. Wok svinekjøtt, hvitløk og ingefær i 3 minutter, til kjøttet er gjennomstekt. Ha blandingen i en bolle og sett den til side. Wok paprika og sukkererter i 1 minutt. Rør kraft og maismel sammen, og ha blandingen i pannen sammen med hoisinsaus og soyasaus. Kok opp under konstant omrøring. Tilsett kjøttet og wok i ytterligere 1 minutt.
+2. Hell vannet av nudlene og fordel dem på seks tallerkener. Legg svinekjøttblandingen over og strø på vårløk og eventuelt nøtter.
 
 ## Info
 

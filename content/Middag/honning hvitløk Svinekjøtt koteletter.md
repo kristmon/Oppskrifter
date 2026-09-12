@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# honning hvitløk Svinekjøtt koteletter
-
 *Dette elegant yet enkel oppskrift fra Søtet Naturlig med honning kutt den fett, ikke den smak. Allsidig, sunn honning legger til its gyllent touch til dette og hver rett.*
 
 ## Ingredienser
@@ -17,11 +15,11 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kombiner alle ingredienser unntatt svinekjøtt koteletter i liten bolle.
-2. Plasser svinekjøtt i grunn baking rett; hell marinade over svinekjøtt.
-3. Dekk og Kjøl 4 timer eller over natt. Fjern svinekjøtt fra marinade.
-4. Varm resterende marinade i liten kasserolle over Medium varm til la småkooke.
-5. grill svinekjøtt 4 til 6 cm fra varm kilde 12 til 15 minutter, vending en gang under cooking og pensling hyppig med marinade. (Kan også være grillet.)
+1 . Bland alle ingrediensene unntatt svinekotelettene i en liten bolle.
+ 2 . Legg svinekotelettene i en ildfast form; hell marinaden over kjøttet.
+ 3 . Dekk til og sett i kjøleskapet i  4  timer, eller over natten. Ta svinekotelettene ut av marinaden.
+ 4 . Varm opp resten av marinaden i en liten kjele over middels varme til den småkoker.
+ 5 . Grill svinekotelettene på middels varme, ca.  4  til  6  cm fra varmekilden, i  12  til  15  minutter. Snu dem en gang under grillingen og pensle dem ofte med marinade. (Kan også grilles.)
 
 ## Info
 

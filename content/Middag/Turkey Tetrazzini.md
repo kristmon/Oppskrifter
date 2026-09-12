@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Turkey Tetrazzini
-
 ## Ingredienser
 
-- 8 oz (about 4 cups) Wide or Extra Wide Egg Noodles, uncooked
-- Vegetable cooking spray
-- 2 cups low-sodium chicken broth
-- 2 cups diced, boneless, skinless, cooked turkey
-- 12 oz mushrooms, thinly sliced
-- 1 small onion, peeled and thinly sliced
-- 1/4 cup chopped fresh parsley
-- 1 bay leaf
-- 1 cup milk
-- 2 Tbs cornstarch
-- 4 Tbs dry bread crumbs
-- 1 tsp olive or vegetable oil
-- 2 Tbs grated Parmesan cheese
+- 227 g (omtrent 9,6 dl) brede eller ekstra brede eggnudler, ukokt.
+- Vegetabilsk matolje spray.
+- 4,8 dl buljong av kylling, med redusert saltinnhold.
+- 4,8 dl ferdig kokt kalkun, i terninger, uten bein og uten skinn.
+- 34 g sopp, i tynne skiver.
+- 1 liten løk, skrelt og i tynne skiver.
+- 0,6 dl fersk, hakket persille.
+- 1 laurbærblad.
+- 2,4 dl melk.
+- 2 ss maisstivelse.
+- 4 ss tørkede brødsmuler.
+- 1 ts olivenolje eller vegetabilsk olje.
+- 2 ss revet parmesanost.
 
 ## Fremgangsmåte
 
-1. Cook pasta according to package directions. While pasta is cooking, heat oven to 350° F. Lightly spray an 11x 7-inch baking dish with vegetable spray. Combine chicken broth, turkey, mushrooms, onion, parsley and bay leaf in a 2-quart saucepan over medium heat. Heat to boiling, cover pot and cook 5 minutes.
-2. Stir milk and cornstarch together in a small bowl until the cornstarch is dissolved. Stir milk mixture into the saucepan. Heat to boiling, stirring constantly. Reduce heat to simmering. Simmer, covered, 3 minutes. Remove from heat.
-3. When pasta is done, drain well and return to pot. Remove bay leaf from sauce and pour sauce into pot. Stir until pasta is coated with sauce. Transfer mixture to the prepared baking dish.
-4. Mix the bread crumbs, oil and Parmesan cheese together in a small bowl until evenly blended. Sprinkle mixture over pasta. Bake until crumbs are golden brown and edges are bubbling, about 20 minutes. Serve hot.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, forvarm ovnen til 177 °C. Spray en form som er 28 x 18 cm med vegetabilsk spray. Bland kyllingkraft, kalkun, sopp, løk, persille og laurbærblad i en kjele på 2 liter over middels varme. Kok opp, dekk kjelen og la det putre i 5 minutter.
+2. Visp melk og maisenna sammen i en liten bolle til maisenna er oppløst. Hell melkeblandingen i en kjele. Varm opp til kokepunktet, mens du rører hele tiden. Senk varmen til svak varme. La det småkoke, med lokk, i 3 minutter. Ta kjelen av varmen.
+3. Når pastaen er ferdig, hell av vannet og ha den tilbake i kjelen. Fjern laurbærbladet fra sausen og hell sausen over pastaen. Rør godt til pastaen er dekket av saus. Hell blandingen over i den forberedte ildfast formen.
+4. Bland brødsmuler, olje og parmesanost i en liten bolle til alt er godt blandet. Strø blandingen over pastaen. Stek til smulene er gyllenbrune og kantene bobler, ca. 20 minutter. Server varmt.
 
 ## Info
 

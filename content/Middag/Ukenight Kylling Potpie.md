@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Ukenight Kylling Potpie
-
 ## Ingredienser
 
 - 80 ml smør eller margarin
 - 80 ml mel
-- 180 ml hakket skalett løk
+- 180 ml finhakket løk
 - 2,5 ml salt
-- 1 ml malt sort pepper
-- 1 (410 g) boks kylling kraft
-- 160 ml 2% melk
-- 750 ml hakket kokt kylling
-- 750 ml fryst erter og gulrøtter
-- 1 (23 cm) dobbel pai skorpe
+- 1 ml malt pepper
+- 1 (410 g) boks kyllingbuljong
+- 160 ml melk (2%)
+- 750 ml kokt kylling, grovhakket
+- 750 ml frosne erter og gulrøtter
+- 1 (23 cm) paideig, dobbel bunn
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 220°C. Smør 2 liter stekeform.
-2. Varm smøret i stor kasserolle over medium varme. Når smeltet, visp inn mel og stekk i 1 minutt, vispende konstant. Tilsett løk, salt og pepper og stekk til løken er mørt, cirka 4 minutter. Mens du visper, hell kylling kraft og melk inn i pannen i en langsom, jevn strøm. Bring til kok, reduser varmen og simrer i 1 minutt. Rør inn kylling, erter og gulrøtter, bland godt og ta fra varmen.
-3. Rull ut litt over halvparten av pai skorpen og tilpass til bunnen og opp sidene av forberedt skål. Hell kylling blanding inn i skorpen. Rull ut gjenværende skorpe og plasser over fyllingen. Klem skorper sammen for å forseglet og krøll etter ønske. Kutt dekorative spalter i topp skorpen for å tillate damp å rømme. Bak i 35 minutter, eller til gyllen brun. Serveres varm.
+1. Forvarm ovnen til 220 °C. Smør en 2-liters form.
+2. Varm smøret i en stor kjele over middels varme. Når det er smeltet, visp inn melet og stek i 1 minutter, mens du rører hele tiden. Tilsett løk, salt og pepper, og stek til løken er myk, ca. 4 minutter. Mens du rører, hell kyllingkraft og melk i pannen i en jevn strøm. Kok opp, reduser varmen og la det småkoke i 1 minutter. Rør inn kylling, erter og gulrøtter, bland godt, og ta pannen av varmen.
+3. Kjevle ut litt over halvparten av paideigen og tilpass den bunnen og sidene av den forberedte formen. Hell kyllingblandingen i deigen. Kjevle ut resten av deigen og legg den over fyllet. Trykk deigene sammen for å forsegle, og form kantene etter ønske. Lag dekorative snitt i toppdeigen for å slippe ut damp. Stek i 35 minutter, eller til den er gyllenbrun. Serveres varm.
 
 ## Info
 

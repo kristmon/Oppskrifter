@@ -2,16 +2,14 @@
 created: 2026-05-05
 ---
 
-# Øl krepperrollen
-
 ## Ingredienser
 
 - 2 egg
 - 2 eggeplommer
 - 1 ts salt
 - 2,5 dl mel
-- 2,5 dl øl - romtemperatur
-- 2 ss smelt smør eller olje
+- 2,5 dl øl – romtemperatur
+- 2 ss smeltet smør eller olje
 
 ## Fremgangsmåte
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Høytids-dadelssaus
-
 ## Ingredienser
 
 - 225 g perlelløk (eller små løk)
@@ -20,10 +18,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Trimme endene på løken, og blansjer i kokende vann i 1 minutt. Skyll med kaldt vann og fjern skinnene.
-2. Smelt smør i en tykk kasserolle over medium-høy varme. Rør inn løken for å dekke den med smør. Rør inn sukker, eddiksyre, vin, nellik og sitronskal. Varm til det koker, reduser varmen til lav og kok, dekket, i 30–45 minutter, eller til løken blir myk.
-3. Rør inn dadler og tyttebær over medium-høy varme. Varm til det koker og kok 1–2 minutter, eller til tyttebærene akkurat begynner å briste.
-4. Bland kartoffelstivelse og appelsinsjuice sammen og tilsett. Fjern nelliken.
+1 . Kutt endene av løken og blansjer den i kokende vann i 1 minutter. Skyll med kaldt vann og fjern skallene.
+ 2 . Smelt smør i en tykk kjele over middels høy varme. Rør inn løken, slik at den er dekket av smør. Tilsett sukker, eddik, vin, nellik og sitronskall. Varm opp til det koker, senk varmen til lav og la det småkoke, dekket, i 30 – 45 minutter, eller til løken er myk.
+ 3 . Tilsett dadler og tyttebær over middels høy varme. Varm opp til det koker og la det småkoke i 1 – 2 minutter, eller til tyttebærene akkurat begynner å sprekke.
+ 4 . Bland potetmel og appelsinjuice sammen og tilsett. Fjern nelliken.
 
 ## Info
 

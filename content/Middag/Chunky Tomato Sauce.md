@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Chunky Tomato Sauce
-
 ## Ingredienser
 
-- 1 lb Linguine, Spaghetti or Thin Spaghetti, uncooked
-- 1/4 cup olive or vegetable oil
-- 1 cup chopped onion
-- 1 cup chopped carrot
-- 1 cup chopped celery
-- 2 Tbs finely chopped parsley
-- 1 1/2 tsp salt
-- 1/2 tsp sugar
-- 1/4 tsp pepper
-- 2 16-oz. cans peeled tomatoes
+- 455 Linguine, spaghetti eller tynn spaghetti, ukokt
+- 0,6 dl olivenolje eller vegetabilsk olje
+- 2,4 dl finhakket løk
+- 2,4 dl finhakket gulrot
+- 2,4 dl finhakket selleri
+- 2 ss finhakket persille
+- 1 1/2 ts salt
+- 1/2 ts sukker
+- 1/4 ts pepper
+- 2 16-boks(er) med skrelt tomat.
 
 ## Fremgangsmåte
 
-1. In a large skillet, heat oil; add onion, carrot and celery. Cook and stir just until vegetables are tender. Add next five ingredients, simmer on low heat 20 minutes, stirring frequently.
-2. Cook pasta according to package directions; drain. Toss pasta with sauce and serve.
+1. I en stor stekepanne, varm oljen; tilsett løk, gulrot og selleri. Stek og rør til grønnsakene er møre. Tilsett de neste fem ingrediensene, la det småkoke på lav varme i 20 minutter, og rør ofte.
+2. Kok pastaen etter anvisningene på pakken; sil av vannet. Bland pastaen med sausen og server.
 
 ## Info
 

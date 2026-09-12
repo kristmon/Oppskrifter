@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Aprikosglass til kalkun og skinke
-
 ## Ingredienser
 
 - 2,4 dl aprikos-nektar

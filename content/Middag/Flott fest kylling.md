@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# Flott fest kylling
-
-*Dette rett er easy enough for en beginner til lag med den smak av en gourmet touch! Dette har vært my husband's favoritt den første time I laget it når we were dating og he requests it often, even når we are ikke having company over!*
+Denne retten er enkel å lage, men har likevel et tydelig festpreg.
 
 ## Ingredienser
 
-- 6 g Swiss ost
+- 6 g sveitsisk ost
 - 1/4 kg sopp
-- 2 lbs beinløs skinløs kyllingfilet
-- 1 hermetikk fløte av kylling suppe
-- 1/2 dl dry white wine
-- 2 dl herbed fyling bland
-- 8 ss smør eller Margarine
+- 905 g beinløs, skinløs kyllingfilet
+- 1 boks ferdig kyllingsuppe (eller fløtebasert kyllingsuppe)
+- 1/2 dl tørr hvitvin
+- 2 dl ferdig fyllingsblanding
+- 8 ss smør eller margarin
 
 ## Fremgangsmåte
 

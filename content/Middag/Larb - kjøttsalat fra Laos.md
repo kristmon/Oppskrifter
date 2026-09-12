@@ -9,16 +9,16 @@ Dette er nasjonalretten i Laos, som visstnok også er populær i Thailand. Her s
 - 4 sjalottløk, i tynne skiver
 - 1/2 ts malt ingefær
 - 1 ss asiatisk fiskesaus
-- saft fra 1 lime
+- saften fra 1 lime
 - 2 vårløk, hakket
-- 1 rød chili, uten frø, hakket
-- 1 ss mel av ristet, glutenrik ris (fåes i asiatiske butikker)
+- 1 rød chili, uten frø, finhakket
+- 1 ss mel av ristet, glutenholdig ris (fås i asiatiske butikker)
 - en neve frisk, hakket koriander
 - 2 ss frisk, hakket mynte
 - salt
 - pepper
 - salat
 
-Legg litt av sjalottløk, vårløk, chili og urtene til side for å drysse over som pynt ved servering.
+Legg litt sjalottløk, vårløk, chili og urter til side, som kan brukes som pynt ved servering.
 
-Bland kjøttdeig godt sammen sjalottløk, ingefær, fiskesaus og halvparten av limesaften. Deretter stekes kjøttblandingen til kjøttdeigen er ferdig stekt, og ta vekk fra varmen. Bland så inn resten av limesaften, vårløk, chili, rismelet, og urter. Smak til med salt og pepper. Server på en seng av salat, og dryss over pynten.
+Bland kjøttdeig godt sammen med sjalottløk, ingefær, fiskesaus og halvparten av limesaften. Stek deretter kjøttblandingen til kjøttdeigen er gjennomstekt, og sett den til side. Bland inn resten av limesaften, vårløk, chili, rismelet og urter. Smak til med salt og pepper. Server på en salat, og dryss over pynt.

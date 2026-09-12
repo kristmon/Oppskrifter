@@ -2,17 +2,15 @@
 created: 2026-05-05
 ---
 
-# Kakao krepperrollen
-
 ## Ingredienser
 
 - 2 egg
 - 1,25 dl mel
-- 2 ss bake kakao
+- 2 ss bakekakao
 - 0,5 dl sukker
 - 2,5 dl melk
 - 1 ts vanilje
-- 1 ss smelt smør eller olje
+- 1 ss smeltet smør eller olje
 
 ## Fremgangsmåte
 

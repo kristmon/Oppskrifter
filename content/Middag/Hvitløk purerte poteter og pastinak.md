@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Hvitløk purerte poteter og pastinak
-
 ## Ingredienser
 
-- 9 medium bakepoteter (1350 g), som f.eks russet
-- 675 g pastinak
-- 1 hode hvitløk, uskallet
-- 10 ml olivenoglje
-- 175 ml melk
-- 125 ml smør (ingen erstatninger)
-- 3,75 ml salt
-- 0,5 ml nykvernet pepper
+- 9 middels store bakepoteter (1350 g), for eksempel russetpoteter.
+- 675 g pastinakk.
+- 1 hode hvitløk, uskallet.
+- 10 ml olivenolje.
+- 175 ml melk.
+- 125 ml smør (ingen erstatninger).
+- 3,75 ml salt.
+- 0,5 ml nykvernet pepper.
 
 ## Fremgangsmåte
 
-1. Skal poteter og pastinak; kutt i 1,25 cm biter. Kok i en Hollandsk ovn eller stor kasserolle i kokende saltet vann til møre, omkring 25 til 30 minutter. Dren.
-2. I mellomtiden, forvarm ovnen til 175°C. Kutt omkring 1,25 cm av spissen av hvitløk-hodet og kast. Plassere hvitløk i en eggedele. Drypp med olivenoglje. Dekk med folie og bak i foroppvarmet ovn i 20 minutter eller til møre når stukket med spissen av en skarp kniv. La kjølne. Klem hvitløk-pulpen ut av skallet. Puré med gaffel og sett til side.
-3. Presse poteter og pastinak gjennom potet-ris eller matmølle (eller puré med potet-masheren) og returner dem til Hollandsk ovn.
-4. Varm melk og smør i liten kasserolle akkurat til kok. Rør inn i potet-blandingen. Rør inn purert hvitløk, de 3,75 ml salt og de 0,5 ml pepper. Varm gjennom. Smak til med tilleggs salt og pepper. Server med en gang. Gir 14 porsjoner.
+1 . Skrell poteter og pastinakk; skjær dem i biter på ca. 1,25 cm. Kok dem i en jerngryte eller stor kasserolle i kokende, saltet vann til de er møre, vanligvis i 25 til 30 minutter. Hell av vannet.
+ 2 . I mellomtiden, forvarm ovnen til 175 °C. Kutt av toppen av hvitløkshodet, ca. 1,25 cm, og kast den. Legg hvitløkshodet i et kokegress. Drypp over litt olivenolje. Dekk med aluminiumsfolie og stek i forvarmet ovn i 20 minutter, eller til hvitløken er myk når du stikker den med spissen av en skarp kniv. La avkjøles. Klem hvitløkpulpen ut av skallet. Mos med en gaffel og sett til side.
+ 3 . Press potetene og pastinakken gjennom en potetpresse eller kjøkkenmaskin (eller mos med en potetmoser) og ha tilbake i jerngryten.
+ 4 . Varm melk og smør i en liten kasserolle til det akkurat begynner å koke. Rør inn i potetblandingen. Rør inn den moste hvitløken, 3,75 ml salt og 0,5 ml pepper. Varm gjennom. Smak til med eventuelt mer salt og pepper. Server umiddelbart. Gir 14 porsjoner.
 
 ## Info
 

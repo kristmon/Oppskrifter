@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Hvit saus med vin
-
 *Denne sausen passer godt til kylling, fisk eller eggéretter.*
 
 ## Ingredienser
@@ -17,7 +15,7 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Smelt smøret. Fjern fra varmen, bland inn melet og bring tilbake til varmen. Rør og kok noen minutter. Tilsett buljongen gradvis og la det småkoke, og rør konstant til det blir tykt.
+1. Smelt smøret. Ta kjelen av varmen og rør inn melet. Sett kjelen tilbake på varmen og la blandingen koke noen minutter under omrøring. Spe gradvis med buljongen og la sausen småkoke under konstant omrøring til den tykner.
 2. Bland krem gradvis, så sherry eller vin. Smak til. Serv umiddelbart.
 
 ## Info

@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Turtle Shells
-
 ## Ingredienser
 
-- 24 Jumbo Shells, uncooked
-- 2 cups low-sodium canned tomato sauce
-- 1 10-oz. package frozen chopped spinach, thawed
-- 8 oz shredded part-skim mozzarella cheese (about 1 3/4 cup)
-- 1 1/2 cups low-fat, part-skim ricotta cheese
-- 3 medium carrots, peeled and grated (about 2/3 cup)
-- 3 egg whites
-- 1/4 tsp freshly ground black pepper
-- Large pinch ground nutmeg
-- 1/4 cup Parmesan cheese (optional)
+- 24 store pastaskjell, ukokte
+- 4,8 dl tomatsaus med lite salt
+- 1 pakke (ca. 280 g) frossen, hakket spinat, tint.
+- 227 g revet mozzarella (ca. 4,2 dl)
+- 3,6 dl ricotta
+- 3 middels store gulrøtter, skrelt og revet (ca. 1,6 dl)
+- 3 eggehviter
+- 1/4 ts nykvernet svart pepper
+- 1 stor klype malt muskatnøtt
+- 0,6 dl parmesan, valgfritt
 
 ## Fremgangsmåte
 
-1. Cook pasta according to package directions; drain and rinse under cold water until completely cool. Drain thoroughly.
-2. Preheat oven to 350° F. Squeeze as much water as possible from the thawed spinach. In a large bowl, stir together the spinach, mozzarella, ricotta, carrots, egg whites, pepper and nutmeg until thoroughly blended.
-3. Line the bottom of an 11 x 7-inch baking dish with 1/2 cup tomato sauce. Divide the ricotta mixture among the pasta shells, pressing the filling into the shells with spoon to completely fill each shell. Arrange the shells side by side in a baking dish. Coat the shells with an even layer of the remaining tomato sauce. Sprinkle with Parmesan cheese, if desired.
-4. Bake until the center of the shells are heated through and the sauce is bubbling, about 40 minutes. Let stand 10 minutes before serving.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet og skyll under kaldt vann til den er helt avkjølt. Hell av vannet grundig.
+2. Forvarm ovnen til 177 °C. Klem så mye vann som mulig ut av den tinte spinaten. I en stor bolle, bland spinat, mozzarella, ricotta, gulrøtter, eggehviter, pepper og muskat sammen til alt er godt blandet.
+3. Fordel 1,2 dl tomatsaus i bunnen av en ildfast form på ca. 28 × 18 cm. Fyll pastaskjellene med ricottablandingen og sett dem ved siden av hverandre i formen. Fordel resten av tomatsausen over og dryss eventuelt på parmesan.
+4. Stek til midten av skallene er gjennomvarm og sausen bobler, ca. 40 minutter. La stå i 10 minutter før servering.
 
 ## Info
 

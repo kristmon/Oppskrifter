@@ -2,14 +2,12 @@
 created: 2026-05-05
 ---
 
-# Dagen før purerte poteter
-
 *Denne oppskriften hjelper deg å planlegge på forhånd ved å la deg gjøre purerte poteter på forhånd!*
 
 ## Ingredienser
 
-- 9 poteter, skalett og kubet
-- 170 g fløtost
+- 9 poteter, skrelt og kuttet i terninger
+- 170 g kremost
 - 250 ml rømme
 - 10 ml løkpulver
 - 5 ml salt
@@ -18,10 +16,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Bring en stor pott med saltet vann til kok. Kast ned poteter og kok til møre men fortsatt fast, omkring 15 minutter.
-2. Overfør poteter til en stor bolle og puré til glatt. Bland inn fløtost, rømme, løkpulver, salt, pepper og smør. Dekk og kjøl 8 timer eller over natten.
-3. Forvarm ovnen til 175°C. Smør lett en medium bakepanne.
-4. Spre potete-blandingen inn i den forberedt bakepannen og bak i foroppvarmet ovn omkring 30 minutter.
+1. Kok opp en stor kjele med saltet vann. Tilsett poteter og kok til de er møre, men fortsatt faste, i omtrent 15 minutter.
+2. Hell potetene over i en stor bolle og mos dem til en jevn potetmos. Bland inn kremost, rømme, løkpulver, salt, pepper og smør. Dekk til og sett i kjøleskapet i 8 timer, eller over natten.
+3. Forvarm ovnen til 175 °C. Smør en middels stor ildfast form lett.
+4. Fordel potetblandingen i den forberedte ildfaste formen og stek i forvarmet ovn i omtrent 30 minutter.
 
 ## Info
 

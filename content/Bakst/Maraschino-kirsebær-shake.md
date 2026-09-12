@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Maraschino-kirsebær-shake
-
 *Denne kjølige kombinasjonen vil glede familie og venner.*
 
 ## Ingredienser

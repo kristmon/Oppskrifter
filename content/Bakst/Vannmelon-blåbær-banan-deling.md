@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Vannmelon-blåbær-banan-deling
-
 ## Ingredienser
 
 - 2 store bananer
@@ -14,11 +12,11 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Skell bananer og kutt på midten på tvers; kutt hver del på midten lengdeveis. For hver servering, legg 2 stykker banan mot siden av en grunnen tallerken.
-2. Plasser vannmelon "kule" i hver ende av tallerken.
-3. Fyll midtplassen med blåbær.
-4. Rør yoghurt til glatt; skje over vannmelon "kuler".
-5. Sprinkle med frokost-biter.
+1. Skrell bananer og skjær dem i to på tvers; deretter skjærer du hver del i to på langs. For hver porsjon, legg 2 bananskiver mot siden av en flat tallerken.
+2. Plasser vannmelonbiter i hver ende av tallerken.
+3. Fyll midten med blåbær.
+4. Rør yoghurten til den er glatt; fordel den over vannmelonbitene.
+5. Strø over frokostblanding.
 
 ## Info
 

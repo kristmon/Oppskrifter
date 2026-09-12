@@ -2,39 +2,37 @@
 created: 2026-05-05
 ---
 
-# Sweet Potato Pie
-
-*Join the ranks of many southern families who make this nicely spiced pie -- instead of pumpkin -- their holiday dessert.*
+Bli med mange familier i sør som lager denne deilige, krydrede paien – i stedet for gresskar – som sin juledessert.
 
 ## Ingredienser
 
-- 2 medium sweet potatoes (about 1 pound), peeled and cubed
-- 1 1/4 cups all-purpose flour
-- 1/4 tsp salt
-- 1/3 cup shortening
-- 4-5 Tbs cold water
-- 1/4 cup butter or margarine
-- 3/4 - 1 cup packed brown sugar
-- 1 1/2 tsp ground cinnamon
-- 1/4 tsp ground nutmeg
-- 1/8 tsp salt
-- 3 large eggs, slightly beaten
-- 1 12-ounce can evaporated milk
-- 1 cup whipped cream (optional)
-- 1/8 tsp ground nutmeg (optional)
+- Ca. 2 middels store søtpoteter (omtrent 455 g), skrelt og i terninger.
+- 3 dl mel.
+- 1/4 ts salt.
+- 0,8 dl margarin eller smør.
+- 4–5 ss kaldt vann.
+- 0,6 dl smør eller margarin.
+- 3/4–2,4 dl presset brun sukker.
+- 1 1/2 ts malt kanel.
+- 1/4 ts malt muskatnøtt.
+- 1/8 ts salt.
+- 3 store egg, lett vispet.
+- 1 12 ss kondensert melk.
+- 2,4 dl pisket krem (valgfritt).
+- 1/8 ts malt muskatnøtt (valgfritt).
 
 ## Fremgangsmåte
 
-1. In a large covered saucepan cook sweet potatoes in boiling water about 15 minutes or until tender.
-2. Meanwhile, in a medium mixing bowl combine flour and salt. Using a pastry blender cut in shortening until pieces are pea-size. Sprinkle cold water, 1 tablespoon at a time, over part of mixture. Gently toss with fork just until all dough is moistened. Form dough into ball.
-3. On a lightly floured surface roll dough from center to edge into a 12-inch circle. Transfer pastry to a 10-inch deep-dish pie plate. Trim pastry to 1/2 inch beyond edge of plate. Fold under extra pastry; crimp edge as desired. Line unpricked pastry shell with a double thickness of foil. Bake in a 450 degree F oven for 8 minutes. Remove foil; bake for 4 to 5 minutes more or until set and dry. Set aside. Reduce oven temperature to 400 degrees F.
-4. Drain potatoes. In a large bowl combine potatoes and butter. Beat with electric mixer until smooth. Add sugar, cinnamon, nutmeg, and the dash salt. Beat until combined. Add eggs. Beat on low speed just until combined. Gradually stir in evaporated milk.
-5. Carefully pour filling into prepared pastry shell. Cover edge of pie with foil. Bake in the 400 degree F oven for 10 minutes. Reduce heat to 350 degrees F and bake for 40 to 50 minutes more or until knife inserted in center comes out clean. Cool on wire rack for 1 hour. Serve warm. (Or, cover and refrigerate after 2 hours.) If desired, serve with whipped cream sprinkled with ground nutmeg. Makes 8 servings.
+1. I en stor, lokket kjele, kokes søtpoteter i kokende vann i omtrent 15 minutter, eller til de er møre.
+2. I mellomtiden, bland mel og salt i en middels stor bolle. Bruk en deigkutter og smuldre inn margarin til blandingen består av små, ertestørrelses biter. Tilsett kaldt vann, én spiseskje om gangen, over deler av blandingen. Bland forsiktig med en gaffel, bare til deigen er fuktet. Form deigen til en ball.
+3. Rull deigen ut på en lett strødd overflate, fra midten og utover, til en sirkel med diameter 30 centimeter. Overfør deigen til en paiform med en dybde på 25 centimeter. Klipp bort overflødig deig, ca. 1,25 centimeter utover kanten av formen. Brett den overflødige deigen inn under og trykk kanten sammen, eventuelt med et mønster. Kle paiformen med to lag aluminiumsfolie. Stek i ovn på 232 grader Celsius i 8 minutter. Fjern aluminiumsfolien og stek videre i 4 til 5 minutter, eller til fyllet er stivnet og tørt. Sett til side. Senk ovnstemperaturen til 204 grader Celsius.
+4. Hell av vannet fra potetene. I en stor bolle, bland potetene og smøret. Bruk en elektrisk mikser til å mose til en jevn masse. Tilsett sukker, kanel, muskat og en klype salt. Bland godt. Tilsett eggene. Bland på lav hastighet, bare til alt er godt blandet. Rør gradvis inn kondensert melk.
+5. Hell forsiktig fyllet i den forberedte paideigen. Dekk kanten av paien med aluminiumsfolie. Stek i ovn på 200 grader Celsius i 10 minutter. Senk temperaturen til 175 grader Celsius og stek videre i 40 til 50 minutter, eller til en kniv stukket i midten kommer ut ren. Avkjøl på rist i 1 time. Server varm. (Eller, dekk til og sett i kjøleskapet etter 2 timer.) Ved ønske, server med pisket krem drysset med revet muskatnøtt. Gir 8 porsjoner.
 
 ## Info
 
 - **Porsjoner**: 8
-- **Preparation Time**: 35 minutes
-- **Cooking Time**: 50 minutes
-- **Total Time**: 1 hour and 25 minutes
+- **Forberedelsestid**: 35 minutter
+- **Tilberedningstid**: 50 minutter
+- **Total Time**: 1 hour and 25 minutter
 - **Kilde**: Better Homes and Gardens®. Copyright 2002. Meredith Corp., http://www.bhg.com/bhg/recipe/

@@ -2,39 +2,37 @@
 created: 2026-05-05
 ---
 
-# Barbecue Beef Lasagne
-
 ## Ingredienser
 
-- 12 Lasagne pieces, uncooked
-- 1 lb ground beef, pork or turkey
-- 1 medium yellow onion, chopped
-- 2 15-oz. cans tomato sauce
-- 1/4 cup water
-- 2 Tbs red wine vinegar
-- 1/3 cup packed brown sugar
-- 3 Tbs Worcestershire sauce
-- 1 Tbs prepared mustard
-- 1 tsp liquid smoke flavoring (optional)
-- 1/4 tsp ground red pepper (cayenne)
-- 10-oz. package frozen corn, thawed, reserving 1/4 cup
-- 15-oz. container part-skim ricotta cheese
-- 1/2 cup egg substitute
-- 3/4 cup shredded low-fat sharp cheddar cheese
+- 12 Lasagneplater, ubehandlet
+- 455 Kjøttdeig, svin, kalkun eller oksekjøtt
+- 1 Løk, middels stor, finhakket
+- 2 15-liters bokser med tomatsaus
+- 0,6 dl vann
+- 2 ss eddik
+- 0,8 dl brun sukker, pakket
+- 3 ss Worcestershire-saus
+- 1 ss ferdig sennep
+- 1 ts flytende røksmak (valgfritt)
+- 1/4 ts malt rød pepper (cayenne)
+- 10-liters pakke frossen mais, tint, reservert 0,6 dl
+- 15-liters beger med mager ricottaost
+- 1,2 dl erstatning for egg
+- 1,8 dl revet mager cheddarost, med fast smak
 
 ## Fremgangsmåte
 
-1. Cook pasta according to package directions; drain.
-2. Spray large skillet with cooking spray; place over medium-high heat until hot. Add beef and onions, sauté until beef is no longer pink and onions are soft. Drain well. Combine tomato sauce, water, vinegar, brown sugar, Worcestershire sauce, mustard, smoke flavoring and red pepper in a medium bowl. Add to skillet with corn; mix well and simmer for 5-10 minutes, partially covered.
-3. Combine ricotta cheese and egg substitute.
-4. Preheat oven to 350° F. Spread 1 cup of the sauce mixture over the bottom of a 9 x 13-inch baking pan that has been coated with cooking spray. Arrange 4 pieces of lasagne, lengthwise, over the sauce. Cover with 1 1/2 cups of sauce. Spread half the ricotta on top. Arrange another 4 pieces of lasagne over ricotta and top with another 1 1/2 cups sauce. Spread remaining ricotta on top. Arrange final 4 pieces of lasagne over ricotta and cover with remaining sauce.
-5. Cover lasagne with foil and bake 30 minutes. Remove from oven, and let stand, covered for 10 minutes. Sprinkle cheese on top. Cover, and let stand 5 minutes, or until cheese melts.
+1. Kok pastaen etter anvisningene på pakken; sil av vannet.
+2. Sprøyt en stor stekepanne med matolje; sett den over middelhøy varme til den er varm. Tilsett kjøtt og løk, stek til kjøttet ikke lenger er rosa og løken er myk. Hell av vannet godt. Bland tomatsaus, vann, eddik, brunt sukker, Worcestershiresaus, sennep, røksmak og chilipulver i en middels stor bolle. Tilsett blandingen i stekepannen med mais; bland godt og la det småkoke i 5-10 minutter, delvis dekket.
+3. Kombiner ricottaost og erstatning for egg.
+4. Forvarm ovnen til 177 °C. Fordel 2,4 dl av sausblandingen jevnt over bunnen av en ildfast form som er smurt med formfett. Legg 4 lasagneplater, på langs, over sausen. Dekk med 3,6 dl saus. Fordel halvparten av ricottaosten over. Legg ytterligere 4 lasagneplater over ricottaosten og dekk med 3,6 dl saus. Fordel resten av ricottaosten over. Legg de siste 4 lasagneplatene over ricottaosten og dekk med resten av sausen.
+5. Dekk lasagnen med aluminiumsfolie og stek i 30 minutter. Ta den ut av ovnen og la den stå, dekket, i 10 minutter. Strø ost over. Dekk til og la den stå i 5 minutter, eller til osten er smeltet.
 
 ## Tips
 
-- For a vegetarian alternative, substitute meat with one 14.5-oz. can of navy or great northern beans.
-- Serve with garlic bread
-- Goes well with California Pinot Noir
+- For en vegetarisk variant, erstatt kjøttet med en boks (14.5-oz) med hvite bønner eller limabønner.
+- Server med hvitløksbrød.
+- Passer godt sammen med californisk Pinot Noir.
 
 ## Info
 

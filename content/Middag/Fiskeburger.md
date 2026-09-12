@@ -3,7 +3,7 @@ created: 2022-02-28
 ---
 Torsk og hyse fungerer fint.
 
-**Porsjoner**: 1  
+**Porsjoner**: 1
 **Plan to Eat-tag**: Fisk
 
 ## Ingredienser

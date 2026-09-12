@@ -7,9 +7,9 @@ Kom hjem til en kraftig krydret kraft fylt med linser, skinke og grønnsaker. Se
 
 Veldig godt.
 
-**Porsjoner**: 6  
-**Tid**: 680 min (20 prep + 660 cook)  
-**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/91605/slow-cooker-lentil-and-ham-soup/)  
+**Porsjoner**: 6
+**Tid**: 680 min (20 prep + 660 cook)
+**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/91605/slow-cooker-lentil-and-ham-soup/)
 **Plan to Eat-tag**: Crock Pot, Svin
 
 ## Ingredienser

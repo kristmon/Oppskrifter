@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Sweet & Spicy Turkey Loaf
-
 ## Ingredienser
 
 - 0,5 kg hakket kalkun
-- 2,5 dl finely chopped løk
-- 1,6 dl herb-seasoned stuffing bland crushed
-- 2 ss dried parsley flakes
+- 2,5 dl finhakket løk
+- 1,6 dl blandet stuffing, smaksatt med urter, lett knust
+- 2 ss tørkede persilleflak
 - 1 ts salt
-- 1 ts poultry seasoning
-- 1/2 ts black pepper
-- 1/4 ts dried sage
-- vegetable cooking spray
-- 1,2 dl whole cranberry sauce
-- 0,6 dl jalapeno jelly
-- 2 ss chopped walnuts toasted
+- 1 ts krydderblanding for fjørfe
+- 1/2 ts svart pepper
+- 1/4 ts tørket salvie
+- vegetabilsk spray til steking
+- 1,2 dl hel bringebærsaus
+- 0,6 dl jalapenojelly
+- 2 ss grovhakkede, ristede valnøtter
 
 ## Fremgangsmåte
 
-1. In medium bowl bland sammen kalkun, løk, stuffing bland, parsley, salt, poultry seasoning, pepper, and sage. bland well.
-2. In (9-inch diameter) pie plate, sprayed with vegetarolje, shape mixture into a round loaf approximately 7 inches in diameter.
-3. bak at 350 grader F. for 45 to 60 minutter eller til meat thermometer, inserted in center, registers 160 to 165 grader F. and juices run clear.
-4. In small saucepan, over low varm, bland sammen cranberry sauce and jelly. kok and rør 5 to 7 minutter eller til sauce is smooth and bubbly; rør in walnuts.
-5. To servér, top meatloaf with sauce and skjær i skiver.
+1 . I en middels stor bolle, bland kalkun, løk, stuffingblanding, persille, salt, krydderblanding for fjørfe, pepper og salvie. Bland godt.
+ 2 . I en paiform med diameter på ( 9 ) tommer, som er smurt med vegetabilsk olje, form blandingen til en rund "loff" med en diameter på omtrent  17,8  cm.
+ 3 . Stek i ovn ved  350  grader Fahrenheit i  45  til  60  minutter, eller til et steketermometer, stukket inn i midten, viser  160  til  165  grader Fahrenheit, og saften som kommer ut er klar.
+ 4 . I en liten kjele, over svak varme, bland bringebærsyltetøy og jelly. Kok opp og rør i  5  til  7  minutter, eller til sausen er jevn og boblende; rør inn valnøtter.
+ 5 . Ved servering, hell sausen over kjøttloffen og skjær den i skiver.
 
 ## Info
 

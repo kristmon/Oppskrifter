@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Sitrus bær mimosas
-
 ## Ingredienser
 
 - 170 g fryst appelsinjuice konsentrat

@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Egg Salat Sandwich
-
 *Hvis du elsker eggsalat men har kuttet det fra måltidsplanen fordi av kolesterolet, prøv denne peppete oppskriften som kasserer halvparten av eggeplommene. Med all smak av tradisjonell eggsalat og langt mindre fett, er det en av denne kokebokforfatters favoritt sandwicher.*
 
 ## Ingredienser
 
-- 2 store hardkokt egg, avkjølt under rennende vann
-- 1 ss fettfri surmelk
-- 2 ts søt syltet relisj
-- 2 ts fettredusert majones
-- 1/4 ts Dijon-stil sennep
-- 1 liten klype salt, (valgfritt)
-- 1/2 dl finthakket seleri
-- 2 skiver fettredusert fuldkornsbrød
-- Paprika til pynt, (valgfritt)
+- 2 store, hardkokte egg, avkjølt under rennende vann.
+- 1 ss mager yoghurt.
+- 2 ts søt syltetøy.
+- 2 ts lettmajones.
+- 1/4 ts dijonsennep.
+- 1 liten klype salt (valgfritt).
+- 1/2 dl finhakket selleri.
+- 2 skiver grovbrød med redusert fettinnhold.
+- Paprika til pynt (valgfritt).
 
 ## Fremgangsmåte
 
-1. Kutt hvert egg i halve. Fjern forsiktig plommene. Kast en plomme.
-2. I en liten bolle, mash gjenværende eggeplomme. Tilsett surmelk, syltet relisj, majones, sennep og salt (hvis ønskelig). Rør for å blande godt. Rør inn seleri. Hakk eggeklarer og rør dem inn i plombe blandingen.
-3. Spre blandingen på hver skive brød. Server som åpen sandwich. Hvis ønskelig, pyntes med let strøing av paprika.
+1. Kutt hvert egg i to. Fjern forsiktig eggeplommene. Kast én eggeplomme.
+2. I en liten bolle, mos de resterende eggeplommene. Tilsett kefir, syltetøy, majones, sennep og salt (hvis ønskelig). Rør godt for å blande. Rør inn selleri. Hakk eggehviten og rør den inn i eggeplommeblandingen.
+3. Smør blandingen på hver brødskive. Server som en åpen sandwich. Hvis ønskelig, kan den pyntes med litt paprika.
 
 ## Info
 

@@ -2,9 +2,7 @@
 created: 2026-05-05
 ---
 
-# Honning-gjør min sjokoladesosse
-
-*Du tror ikke hvor lett dette er å lage. Det er deilig servert over iskrem.*
+Du vil ikke tro hvor lett dette er å lage. Det smaker fantastisk over iskrem.
 
 ## Ingredienser
 

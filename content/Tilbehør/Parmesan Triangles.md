@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Parmesan Triangles
-
-*Try these crispy Parmesan snacks the next time your friends drop in.*
+Prøv disse sprøe snacksene med parmesan neste gang vennene dine kommer på besøk.
 
 ## Ingredienser
 
-- 1 Tbs olive oil
-- 1 Tbs water
-- 1 garlic clove, minced
-- 1 tsp Italian seasoning
-- 25 wonton wrappers, cut in half to form triangles
-- 2 Tbs grated Parmesan cheese
+- 1 ss olivenolje
+- 1 ss vann
+- 1 fedd hvitløk, finhakket
+- 1 ts italiensk krydderblanding
+- 25 wonton-deiger, delt i to for å forme trekanter
+- 2 ss revet parmesanost
 
 ## Fremgangsmåte
 
-1. Preheat the oven to 400 degrees. Spray a large baking sheet with nonstick spray coating. Set aside.
-2. In a small bowl, stir together the oil, water, garlic, and Italian seasoning.
-3. Set the wonton wrappers on the baking sheet in a single layer.
-4. With your finger, spread the oil mixture over the wonton triangles. (If the mixture begin to separate, stir again.) Sprinkle with the cheese.
-5. Bake for 3 to 4 minutes until the triangles have crisped. Cool in pan on a wire rack, or serve warm. Triangles will keep for up to a week in an airtight container.
+1. Forvarm ovnen til 200 grader. Spray en stor bakeplate med formfett. Sett den til side.
+2. I en liten bolle, bland oljen, vannet, hvitløken og den italienske krydderblandingen.
+3. Legg wonton-deigene på stekebrettet i et enkelt lag.
+4. Smør olieblandingen utover wonton-trianglene med fingeren. (Hvis blandingen begynner å skille seg, rør den sammen igjen.) Strø over osten.
+5. Stekes i 3 til 4 minutter, eller til trekantene er sprø. Avkjøl i formen på en rist, eller server varme. Trekantene kan oppbevares i en lufttett beholder i opptil en uke.
 
 ## Info
 

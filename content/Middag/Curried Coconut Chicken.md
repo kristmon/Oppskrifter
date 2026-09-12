@@ -7,19 +7,19 @@ Denne var overraskende god. Litt lang koketid til å være hurtigmat, men lett �
 
 ## Ingredienser
 
-- 900 g kyllingbryst uten skinn og bein, skåret i ca. 1 cm terninger
-- 1 ts salt og pepper, etter smak
-- 1½ ss matolje
-- 2 ss karri
-- ½ løk, tynne skiver (ikke for mye, kan bidra til for søt smak)
-- 2 fedd hvitløk, knust
-- 1 boks kokosmelk (400 g)
-- 1 boks (ca. 410 g) hakkede tomater
-- 1 boks (ca. 225 g) tomatsaus
-- 3 ss sukker (syntes 2 var for mye)
+- 900 g kyllingbryst uten skinn og bein, skjært i terninger på ca. 1 cm.
+- 1 ts salt og pepper, etter smak.
+- 1 ½ ss matolje.
+- 2 ss karri.
+- ½ løk, i tynne skiver (ikke for mye, da kan smaken bli for søt).
+- 2 fedd hvitløk, knust.
+- 1 boks kokosmelk (400 g).
+- 1 boks (ca. 410 g) hakkede tomater.
+- 1 boks (ca. 225 g) tomatsaus.
+- 3 ss sukker (jeg fant 2 ss var nok).
 
 ## Fremgangsmåte
 
 1. Krydre kyllingbitene med salt og pepper.
-2. Varm olje og karri i en stor stekepanne over middels-høy varme i to minutter. Rør inn løk og hvitløk og stek 1 minutt til. Tilsett kyllingen og vend lett slik at den dekkes med karri-oljen. Skru ned varmen til middels og stek i 7–10 minutter, til kyllingen ikke er rosa lenger og saften er klar.
-3. Hell kokosmelk, tomater, tomatsaus og sukker i pannen og rør sammen. Sett på lokket og la småkoke under jevnlig røring i ca. 30–40 minutter.
+2. Varm olje og karri i en stor stekepanne over middels høy varme i to minutter. Tilsett løk og hvitløk og stek i 1 minutter til. Tilsett kyllingen og vend den forsiktig slik at den dekkes med karrioljen. Skru ned varmen til middels og stek i 7 – 10 minutter, til kyllingen ikke er rosa lenger og saften er klar.
+3. Hell kokosmelk, tomater, tomatsaus og sukker i pannen og rør godt sammen. Sett på lokket og la det småkoke under jevnlig omrøring i ca. 30 – 40 minutter.

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Grillet Kalkun Med Hvitløk Saus
-
 ## Ingredienser
 
 - 3/4 dl finhakket persille

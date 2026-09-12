@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Mandarin-fersken-saus
-
 ## Ingredienser
 
 - 1 boks (425 g) skåret fersken, drenet
@@ -17,9 +15,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Plasser fersk i blenderen. Dekk til og prosesser på høy hastighet til det blir glatt; hell over i en liten kasserolle.
-2. Bland teriyaki-saus og kartoffelstivelse; rør inn i fersk med sukker, fennikel, pepper og nellik. Varm til det koker over medium varme. La det småkoke til sausen blir tykker, omkring 2 minutter, og rør konstant.
-3. Fjern fra varmen og rør inn hvitkløkspulveret.
+1. Ha fersken i blenderen. Sett på lokk og kjør på høy hastighet til blandingen er glatt; hell over i en liten kjele.
+2. Bland teriyakisaus og potetmel; rør inn i fersken sammen med sukker, fennikel, pepper og nellik. Varm opp på middels varme til det koker. La det småkoke til sausen tykner, vanligvis i omtrent 2 minutter, og rør jevnlig.
+3. Ta kjelen av varmen og rør inn hvitløkspulver.
 
 ## Info
 

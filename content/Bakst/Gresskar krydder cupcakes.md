@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Gresskar krydder cupcakes
-
 ## Ingredienser
 
 - 475 ml mel
@@ -11,23 +9,23 @@ created: 2026-05-05
 - 2 ml salt
 - 4 ml malt ingefær
 - 2 ml malt kanel
-- 2 ml malt muskatnøtt
-- 75 ml usalt smør
+- 2 ml malt muskat
+- 75 ml usaltet smør
 - 240 ml sukker
-- 2 egg, lett pisket
-- 240 ml malt, kokt eller hermetisk gresskar puré (ikke pai-fyllning)
+- 2 egg, lett vispet
+- 240 ml ferdig kokt eller hermetisk gresskarpuré (ikke pai-fyll)
 - 175 ml melk
-- Smør-fløte glasur
+- Smørkremglasur
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 190 °C. Smør 6 cm muffin-formar eller lin med bakepapir.
-2. Bland mel, bakepulver, bakesoda, salt, ingefær, kanel og muskatnøtt på pergamentpapir.
-3. Pisk sammen smør og sukker i en stor bolle til det er lett og luftig. Pisk inn egg, deretter gresskar.
-4. På lav hastighet pisker du mel blandingen vekslende med melk til det er glatt.
-5. Hell røren i forberedte muffin-former, fyll hver to tredjedeler full.
-6. Bak i forvarmmet 190 °C ovn i 25 minutter eller til en tannpirker stukket i sentrum kommer ut ren. Kjøl cupcakes i pannen eller på en stekebrett 5 minutter. Vend cupcakes ut på stekebretten for å kjøle.
-7. Fargesett glasuren med matfarge. Glasur cupcakes. Dekorer som ønsket, ved bruk av fondant (fargesatt, rullert ut, skåret i former), lakrits, riste kokosnøtt og andre godteri.
+1. Forvarm ovnen til 190 °C. Smør 6 cm muffinsformer eller kle dem med bakepapir.
+2. Bland mel, bakepulver, natron, salt, ingefær, kanel og muskat på et stykke bakepapir.
+3. Pisk smør og sukker i en stor bolle til det er lyst og luftig. Pisk inn egg, deretter gresskar.
+4. På lav hastighet, bland melblandingen vekselvis med melk, til deigblandingen er jevn.
+5. Hell røren i de forberedte muffinsformene, og fyll hver form til to tredjedeler.
+6. Stek i forvarmet ovn ved 190 °C i 25 minutter, eller til en tannpirker stukket i midten kommer ut ren. La muffinsene avkjøles i formene eller på et stekebrett i 5 minutter. Vend deretter muffinsene ut på et stekebrett for å avkjøles helt.
+7. Farg glasuren med konditorfarge. Smør glasuren på muffinsene. Dekorer etter ønske, for eksempel med fondant (farget, rullet ut og skjært i former), lakris, ristet kokos og annet godteri.
 
 ## Info
 

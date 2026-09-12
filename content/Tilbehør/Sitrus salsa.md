@@ -2,16 +2,14 @@
 created: 2026-05-05
 ---
 
-# Sitrus salsa
-
 ## Ingredienser
 
-- 1 Texas Red Grapefruit, skalett, sectioned og hakket
-- 1 stor Texas Orange, skalett, sectioned og hakket
-- 1 Medium tomat
-- 1 dl kutt i terninger green, red, og yellow paprika (bruk en blanding av alle three paprika for best color contrast)
-- 1 jalapeño, frøtatt og hakket
-- 3 ss hakket red løk
+- 1 Texas Red Grapefruit, skallet, delt i segmenter og hakket
+- 1 stor Texas Appelsin, skallet, delt i segmenter og hakket
+- 1 middels stor tomat
+- 1 dl paprika, kuttet i terninger – bruk en blanding av grønn, rød og gul paprika for best fargekontrast.
+- 1 jalapeño, uten frø og hakket
+- 3 ss hakket rød løk
 - 1 ss hakket frisk koriander
 - 1 1/2 ts sukker
 - 1/4 ts salt

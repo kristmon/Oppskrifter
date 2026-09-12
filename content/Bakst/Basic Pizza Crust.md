@@ -2,35 +2,33 @@
 created: 2026-05-05
 ---
 
-# Basic Pizza Crust
-
 ## Ingredienser
 
-- 1 ss dry yeast
+- 1 ss tørrgjær
 - 1/2 ts sukker
-- 2 2/7,5 dl warm vann
+- 6,3 dl lunkent vann
 - 2 ss olivenolje
-- 7 1/5 dl unbleached all-purpose mel
-- 0,6 dl whole-wheat or rye mel
-- 1 ss coarse salt or 2 ts fine salt
+- 7,2 dl hvetemel
+- 0,6 dl fullkornsmel eller rugmel
+- 1 ss grovt salt eller 2 ts fint salt
 
 ## Fremgangsmåte
 
-1. Proof the yeast for 5 to 10 minutter in 1 cup of warm vann and a pinch of sukker, til the yeast dissolves and the liquid begins to appear creamy.
-2. Tilsett the remaining vann and 1 1/2 to 2 cups mel, including the whole-wheat or rye mel. Beat this well (a hundred strokes) til it’s smooth and soupy, and then let it stand for 10 to 15 minutter, til it’s bubbly and swollen. tilsett the salt and olivenolje and proceed to rør in the rest of the mel by the cupful til the dough is stiff but still slightly sticky. Tip: rør the dough in the same direction so that the gluten strands retain a smooth, consistent pattern.
-3. When the dough begins to form a cohesive mass that’s thick enough to hold its shape, turn it out onto a lightly floured surface and let it rest. Meanwhile, clean and olje the bowl. Knead the dough, turning it clockwise by quarter turns and sprinkling a little mel on top and on the surface underneath before folding it over. tilsett just enough mel so the dough doesn’t stick and tear. (A dough scraper is invaluable for lifting the mass of dough cleanly from the counter.) Kneading takes about 5 to 8 minutter. When the dough is smooth, springy, and pliant -- earlobe-soft -- return it to the oiled bowl, cover it with a damp cloth, and let it rise til doubled. This generally takes between 35 and 45 minutter at 70 to 75 grader.
-4. After the first rise, you can form the crust, assemble the pizza and bak it immediately or punch the dough down and let it rise again before baking. This doesn’t substantially change the resulting crust, but it gives you more time if you need it before baking the pizza. Or, you can refrigerate the dough for several timer or up to two days. In this case, give it a final punch down after it has chilled for about 40 minutter and put it in a plastic bag.
-5. By letting the dough mature in the refrigerator, the gluten ripens and relaxes and the dough becomes less sticky, and will stretch farther when working with it. With this refrigerated dough, you can obtain a thin, crisp crust, or a thick, chewy crust, depending on how thin you roll or stretch the dough when forming it, and on whether or not you allow it to warm up and rise before baking it. A thick crust made from chilled dough is likely to have larger air bubbles and be less delicate and more chewy--rather like the difference between regular and sourdough breads.
-6. For a light, risen crust, use a freshly made dough, although you can use a chilled dough. For the highest, puffiest results, tilsett 2 teaspoons more yeast to the recipe and use the dough within three timer of making it. For a finer-textured crust, simply roll it out thinner and let it rise to the same height. Let the dough rise til it’s puffy, and fingerprints disappear when dough is pressed. This takes about 10 minutter with freshly made, room-temperature dough, or about 15 minutter with chilled dough.
-7. A thick, chewy crust can be made either with fresh or chilled dough. Stretch or press the dough to about 1/3 to 1/2 inch thick and let it rise just slightly. Whether you’ll end up with a thick and chewy crust or a light and risen one depends on how thick you roll it out and how high you let it rise.
-8. For a thin, crisp crust, use dough straight out of the refrigerator. Roll it out as thin as you want it -- usually about 1/4 inch -- and get it into the ovn within minutter, before it has a chance to rise.
-9. Assemble the pizza on an oiled, rimless cookie sheet. A third of the recipe will make a 12- to 16-inch round crust, depending on how thin you roll or bred it. Lightly form the dough into a ball and stretch it out. First, hold it vertically by one edge and turn it in your hands, allowing gravity to stretch it as you turn it. Then lay it on the cookie sheet and press out the dough, starting from the center. Be careful not to tear or poke holes in the dough. A floured rolling pin is handy for rolling out thin crusts. If the dough springs back, let it rest a minutt or two, or chill it in the fridge, and then continue to work it out.
-10. Arrange the toppings, usually three to four items, so that they don’t overlap. Apply the ost a little more than halfway through the baking process. By adding the ost when the crust is just lightly browned, you can tell when the topping is sufficiently cooked and also avoid overbrowned, leathery ost and an undercooked crust. Those toppings that don’t need much cooking, like blanched spinat or asparagus, paper-thin prosciutto, or steamed shellfish, also go on at halftime, along with the ost
-11. bak pizza in a very hot ovn -- 475 grader -- on a heavy baking sheets and on a baking stone. Check the pizza during baking and rotate it if it appears to be cooking unevenly. Lift the crust to see how it’s cooking underneath. If the bottom is still pale while the top seems almost done, turn the ovn temperature down and leave the pizza in longer.
-12. When the crust is lightly browned and the toppings are cooked, sprinkle on the cheeses. Then bak the pizza an additional 8 to 10 minutter, eller til the ost is melted and bubbly. By this time, the crust will be perfectly done.
+1. Rør gjæren og en klype sukker ut i 2,4 dl lunkent vann. La blandingen stå i 5–10 minutter, til gjæren er oppløst og væsken begynner å skumme.
+2. Tilsett resten av vannet og 3,6–4,8 dl mel, inkludert fullkornsmelet eller rugmelet. Visp godt til blandingen er glatt og tyntflytende. La den stå i 10–15 minutter, til den bobler og hever seg. Tilsett salt og olivenolje, og rør deretter inn resten av melet litt etter litt, til deigen er fast, men fortsatt litt klissete.
+3. Ha deigen på en lett melet arbeidsflate når den er fast nok til å holde formen, og la den hvile mens du rengjør og smører bollen. Elt deigen i 5–8 minutter. Tilsett bare nok mel til at den ikke kleber eller revner. Legg den glatte og elastiske deigen tilbake i bollen, dekk med et fuktig klede og la den heve til dobbel størrelse, vanligvis i 35–45 minutter ved romtemperatur.
+4. Etter første heving kan du forme deigen, sette sammen pizzaen og steke den med en gang, eller trykke luften ut av deigen og la den heve igjen før steking. Dette endrer ikke vesentlig resultatet på skorpen, men gir deg mer tid hvis du trenger det før du steker pizzaen. Alternativt kan du kjøle deigen i kjøleskapet i flere timer, eller opptil to dager. I så fall, trykk luften ut av deigen etter at den har fått hvile i kjøleskapet i omtrent 40 minutter, og legg den i en plastpose.
+5. Ved å la deigen heve i kjøleskapet, modnes glutennivået og deigen blir mer smidig og mindre klissete, og den vil kunne strekkes lenger når du jobber med den. Med denne deigen fra kjøleskapet kan du få en tynn, sprø skorpe, eller en tykk, seig skorpe, avhengig av hvor tynt du kjevler eller strekker deigen når du former den, og om du lar den tine og heve før du steker den. En tykk skorpe laget av avkjølt deig vil sannsynligvis ha større luftbobler og være mindre delikat og mer seig – litt som forskjellen mellom vanlig og surdeigsbrød.
+6. For en lett og luftig skorpe, bruk en fersk deig, selv om du kan bruke en avkjølt deig. For det beste og mest luftige resultatet, tilsett 2 teskjeer mer gjær til oppskriften og bruk deigen innen tre timer etter at den er laget. For en finere skorpe, kan du enkelt rulle den ut tynnere og la den heve til samme høyde. La deigen heve til den er luftig, og fingeravtrykk forsvinner når deigen trykkes ned. Dette tar omtrent 10 minutter med fersk deig ved romtemperatur, eller omtrent 15 minutter med avkjølt deig.
+7. En tykk, seig skorpe kan lages både med fersk og kjølt deig. Kjevle eller press deigen ut til den er omtrent 6 til 12 millimeter tykk, og la den heve litt. Om du får en tykk og seig skorpe eller en lett og luftig, avhenger av hvor tykk du kjevler den ut og hvor mye den får heve.
+8. For en tynn og sprø skorpe, bruk deigen rett fra kjøleskapet. Kjevle den ut så tynt du ønsker – vanligvis omtrent 0,6 centimeter – og få den inn i ovnen i løpet av få minutter, før den får tid til å heve.
+9. Form pizzaen på en oljet, kantløs bakeplate. En tredjedel av oppskriften gir en rund bunn på ca. 30–40 cm, avhengig av tykkelsen. Form deigen lett til en ball og strekk eller kjevle den ut fra midten. Vær forsiktig så den ikke revner. La deigen hvile et par minutter dersom den trekker seg sammen.
+10. Legg på fyllet, vanligvis tre til fire ingredienser, slik at de ikke overlapper hverandre. Tilsett osten litt mer enn halvveis gjennom steketiden. Ved å legge på osten når skorpen akkurat begynner å bli gyllen, kan du lettere vurdere når fyllet er ferdig stekt, og unngå at osten blir overstekt og seig, samtidig som du sikrer at skorpen ikke blir for understekt. Ingredienser som ikke trenger mye steketid, som blanchert spinat eller asparges, tyntskivet prosciutto, eller dampet sjømat, kan også legges på halvveis, sammen med osten.
+11. Stek pizzaen ved 245 °C på en tykk bakeplate eller pizzastein. Følg med under stekingen, og roter pizzaen hvis den steker ujevnt. Løft kanten for å kontrollere undersiden. Hvis bunnen fortsatt er blek mens toppen nesten er ferdig, senker du temperaturen og lar pizzaen stå litt lenger.
+12. Når skorpen er lett gyllen og fyllet er gjennomstekt, strø over osten. Stek deretter pizzaen ytterligere 8 til 10 minutter, eller til osten er smeltet og boblende. Da skal skorpen være perfekt stekt.
 
 ## Info
 
-- **Porsjoner**: 20 Yield: 3 pounds of Dough
-- **Type**: Bread
+- **Porsjoner**: 20. **Mengde**: 1,4 kg deig.
+- **Type**: Brød
 - **Kilde**: Culinary Café, www.culinarycafe.com

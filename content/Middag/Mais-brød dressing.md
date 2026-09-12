@@ -2,29 +2,27 @@
 created: 2026-05-05
 ---
 
-# Mais-brød dressing
-
 *Dette er en smakfull variasjon på tradisjonell mais-brød dressing. Det er deilig selv når det er kaldt. Prøv det i en sandwich med rester av kalkun!*
 
 ## Ingredienser
 
-- 1 (23x23 cm) pan mais-brød
+- 1 (23x23 cm) form med maisbrød
 - 8 skiver hvitt brød, lett ristet
 - 30 ml smør
-- 1 løk, hakket
-- 225 g portobello-sopp, skåret
+- 1 løk, finhakket
+- 225 g portobello-sopp, i skiver
 - 10 ml granulert hvitløk
 - 10 ml malt svart pepper
 - 1 egg, pisket
-- 250 ml hvitvín
+- 250 ml hvitvin
 - 125 ml kyllingbuljong
 
 ## Fremgangsmåte
 
-1. I en tung stekepanne på medium varme, smelt smøret og tilsett løk og sopp. Steke til soppen frigjør væske og løk blir myk.
-2. Smul mais-brød og plassere i stor bolle. Rive ristet brød i bitmål-størrelse; tilsett til mais-brød.
-3. Tilsett sopp og løk, granulert hvitløk, pepper, egg og hvitvín. Bland grundig; tilsett nok buljong for å fukte.
-4. Gir nok til å fylle en 5,5 til 6,5 kg kalkun med omkring 1000 til 1250 ml igjen. Plassere overskudd stuffing i et bakefat og bak i 160°C oven i 40 minutter.
+1. I en stor, tykk stekepanne på middels varme, smelt smøret og tilsett løk og sopp. Stek til soppen slipper væske og løken blir myk.
+2. Smuldre maisbrød og ha i en stor bolle. Smuldre det ristede brødet i mindre biter; tilsett det til maisbrødet.
+3. Tilsett sopp og løk, tørket hvitløk, pepper, egg og hvitvin. Bland godt; tilsett nok kraft til å fukte blandingen.
+4. Bruk nok stuffing til å fylle en kalkun på 5,5 til 6,5 kg, og ha omtrent 1000 til 1250 ml stuffing igjen. Legg resten av stuffingen i en ildfast form og stek i ovnen på 160°C i 40 minutter.
 
 ## Info
 

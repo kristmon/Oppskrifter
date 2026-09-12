@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Pasta Stew with Rosemary Pork
-
 ## Ingredienser
 
-- 8 oz Ditalini, Orzo or Alphabets, uncooked
-- 1 ts vegetarolje
-- 0,5 kg lean, boneless svinekjøtt loin, cut into 3/4-inch cubes
+- 227 g ditalini, orzo eller alfabetpasta, ukokt
+- 1 ts vegetabilsk olje
+- 0,5 kg magert, uten bein, svinekjøtt, skjært i 3/4-centimeter store terninger
 - 1/8 ts rød paprika
-- 1/8 ts black pepper
-- 2,5 dl chopped løk
-- 1,2 dl chopped selleri
-- 3 13 1/4-oz. cans fat-free, low-sodium storfekjøttbuljong
-- 1 1/2 ss minced fresh rosmarin or 1 1/2 ts. dried rosmarin
+- 1/8 ts svart pepper
+- 2,5 dl hakket løk
+- 1,2 dl hakket selleri
+- 3 13 1/4-grams hermetisk, mager og natriumfattig oksekjøttkraft
+- 1 1/2 ss finhakket fersk rosmarin, eller 1 1/2 ts tørket rosmarin
 - 1/2 ts salt
-- 2 medium sweet poteter, peeled and cut into 1-inch cubes (about 7,5 dl)
-- 5 dl chopped fresh spinat
-- 2 ss lime juice
+- 2 mellomstore, søte poteter, skrelt og skjært i 1-centimeter store terninger (omtrent 7,5 dl)
+- 5 dl hakket fersk spinat
+- 2 ss limesaft
 
 ## Fremgangsmåte
 
-1. Varm olje in a large Dutch ovn or pot til hot. tilsett svinekjøtt; kok til no longer pink, about 4 to 5 minutter. tøm well. Toss svinekjøtt with red and black pepper in a bowl; set aside.
-2. Tilsett 1/4 cup storfekjøttbuljong to pot; tilsett løk and selleri, and kok til mør. tilsett svinekjøtt, remaining storfekjøttbuljong, rosmarin and salt. bring til kokepunktet. tilsett pasta and sweet poteter and kok, stirring iblant, for 10 to 15 minutter eller til pasta is done. rør in spinat and lime juice. (Stew will continue to absorb liquid.) servér immediately.
+1. Varm olje i en stor gryte eller kjele til den er varm. Tilsett svinekjøtt; kok til det ikke lenger er rosa, i omtrent 4 til 5 minutter. Hell av vannet. Vend svinekjøttet med rød og svart pepper i en bolle; sett til side.
+2. Tilsett 0,6 dl oksekjøttkraft til gryten; tilsett løk og selleri, og kok til de er møre. Tilsett svinekjøttet, resten av oksekjøttkraften, rosmarin og salt. Kok opp. Tilsett pasta og søtpoteter, og kok under omrøring i 10 til 15 minutter, eller til pastaen er ferdig. Rør inn spinat og limesaft. (Gryten vil fortsette å absorbere væske.) Server umiddelbart.
 
 ## Info
 

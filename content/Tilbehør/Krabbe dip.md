@@ -2,17 +2,15 @@
 created: 2026-05-05
 ---
 
-# Krabbe dip
-
 ## Ingredienser
 
-- 8 g pkg fløte ost
-- 1 dash tabasco Saus
-- 1 stick smør
-- 1/2 ts hvitløk powder
-- 1 kg white crabmeat
-- 1/4 ts hvit pepper
-- 1 liten løk, finely hakket
+- 8 g pakke kremost
+- 1 teskje Tabasco saus
+- 1 pakke smør
+- 1/2 teskje hvitløkpulver
+- 1 kg krabbekjøtt
+- 1/4 teskje hvit pepper
+- 1 liten løk, finhakket
 
 ## Fremgangsmåte
 

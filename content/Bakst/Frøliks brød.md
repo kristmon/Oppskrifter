@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Frøliks brød
-
 *Et solid ungarsk brød med en delikat fyllning.*
 
 ## Ingredienser
@@ -28,12 +26,12 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Legg ingrediensene i pannen i rekkefølgen som angitt. Velg "DEIG"-programmet. Trykk "START". Når programmet er ferdig, vil brødmaskinen pipe. Trykk "STOP/RESET" og ta ut deigen. Rull deigen til en 33 x 23 cm rektangel.
-2. Spre frøliks-fyllningen over deigen. Hold fyllningen 2,5 cm fra kantene for å forhindre at den siver ut når deigen rulles opp. Start med den lengre siden og rull forsiktig deigen som for syltetøy-ruller.
-3. Legg søm-siden ned på en smurt bakeplat. Trekk lett de øverste endene av rollen og stikk under de nederste endene for å lukke brødendene. Børst med melk.
-4. La det stå og heve på varm plass.
-5. Berør siden av brødet lett med fingeren. Hvis inntrykkelsen blir stående, er brødet klart til å bakes. Bak ved 175 °C i 35–40 minutter. Ta fra pannen til en kjølebrett og la brødet komme til romtemperatur før du skjærer det.
-6. Kremaktig smør og honning sammen. Tilsett gjenværende ingrediensene og bland godt.
+1. Legg ingrediensene i pannen i den rekkefølgen som er angitt. Velg "deig"-programmet. Trykk på "start". Når programmet er ferdig, vil brødmaskinen gi lyd. Trykk på "stopp/reset" og ta ut deigen. Rull deigen ut til et 33 x 23 cm langt rektangel.
+2. Fordel frøfyllingen over deigen. Hold fyllingen 2,5 cm fra kantene for å unngå at den renner ut når deigen rulles sammen. Start med den lengste siden og rull deigen forsiktig, som for en kringle.
+3. Legg sømmen ned på et smurt stekebrett. Trekk forsiktig inn de øverste endene av kringlen og stikk dem under de nederste endene for å lukke endene på brødet. Pensle med melk.
+4. La det heve på et varmt sted.
+5. Trykk forsiktig på toppen av brødet med fingeren. Hvis inntrykket blir stående, er brødet klart til steking. Stek ved 175 °C i 35 – 40 minutter. Ta brødet ut av pannen og legg det på et kjølebrett. La det avkjøles til romtemperatur før du skjærer det.
+6. Bland mykt smør og honning sammen. Tilsett de resterende ingrediensene og bland godt.
 
 ## Info
 

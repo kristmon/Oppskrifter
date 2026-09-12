@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Krem Urtemei Dip
-
 *Pakk denne dipen i en stonegodt eller sturdy Tupperware beholder og pakk den i picknickkurven din, sammen med noen sprø grønnsaker eller tøy pita brødkiler.*
 
 ## Ingredienser

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Pasta Primavera med solturka tomatar
-
 ## Ingredienser
 
 - 225 g Rotini, Tvinningar eller spiralar, ukokt
@@ -23,8 +21,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonane; avløp.
-2. I medium panne, varm oljen og hvitløken. Rør inn raudt chili-flak. Tillsett zucchini, squash, gulrøtter og løken og stekk til dei er møre-sprø, omtrent 5 minutter. Tillsett kyllingbroth og simrer i 1 minutt. I ei stor serveringsbolle, blan pastaen, grønnsakane, basilikummet og solturka tomatar. Pynt med Parmesan-ost og persille og server.
+1. Kok pastaen etter pakningsinstruksjonene; hell av vannet.
+2. I en middels stor stekepanne, varm oljen og hvitløken. Rør inn chiliflak. Tilsett squash, zucchini, gulrøtter og løk, og stek til de er møre og sprø, omtrent 5 minutter. Tilsett kyllingkraft og la det småkoke i 1 minutt. I en stor serveringsbolle, bland pastaen, grønnsakene, basilikum og soltørkede tomater. Pynt med parmesan og persille, og server.
 
 ## Info
 

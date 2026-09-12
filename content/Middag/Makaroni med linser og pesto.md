@@ -18,7 +18,7 @@ created: 2010-05-23
 
 ## Fremgangsmåte
 
-1. Kok makaroni og linser hver for seg. Stek vårløk, hvitløk og chili raskt i litt olje. Bland alt sammen, smak til med salt og pepper og rør inn pesto.
+1. Kok makaroni og linser hver for seg. Stek vårløk, hvitløk og chili raskt i litt olje. Bland alt sammen, smak til med salt og pepper, og rør inn pesto.
 
 ## Info
 

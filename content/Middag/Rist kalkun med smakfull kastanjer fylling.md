@@ -2,31 +2,29 @@
 created: 2026-05-05
 ---
 
-# Rist kalkun med smakfull kastanjer fylling
-
 *Enkelt men alvorlig deilig.*
 
 ## Ingredienser
 
-- 900 g kastanjer
+- 900 g kastere
 - 500 ml smør
-- 500 ml finholdt løk
-- 500 ml finholdt selleri
-- 2500 ml tørket brødkrummer
+- 500 ml finhakket løk
+- 500 ml finhakket selleri
+- 2500 ml tørkede brødsmuler
 - 5 ml tørket timian
 - 5 ml tørket merian
-- 5 ml tørket savory
+- 5 ml tørket salvie
 - 5 ml tørket rosmarin
-- 5400 g hele kalkun, hals og innvoller fjernet
+- 5400 g hel kalkun, uten hals og innvoller
 - salt og nykvernet svart pepper etter smak
 
 ## Fremgangsmåte
 
-1. Med en skarp kniv kutt et kryss på flaten av hver kastanje. Småkoke, dekket med vann, i en kasserolle i 5 minutter. Dren. Mens varm, fjern skal og indre brune skinn. Dekk med frisk vann. Kok i 20 til 30 minutter til møre. Dren. Hakk grovt.
-2. For å forbereder fyllingen, smelt smøret i medium kasserolle på medium varme. Rør inn løk og selleri og kok til møre. Grundig bland inn brødkrummer og kastanjer. Krydre med timian, merian, savory og rosmarin.
+1. Med en skarp kniv, skjær et kryss på flaten av hver kastanje. Småkok, dekket med vann, i en kasserolle i 5 minutter. Hell av vannet. Mens de er varme, fjern skallet og det indre, brune skinnet. Dekk med friskt vann. Kok videre i 20 til 30 minutter, til de er møre. Hell av vannet. Hakk grovt.
+2. For å forberede fyllingen, smelt smøret i en kasserolle på middels varme. Tilsett løk og selleri og kok til de er møre. Bland godt inn brødkrummer og kastanjer. Krydre med timian, merian, salvie og rosmarin.
 3. Forvarm ovnen til 175°C.
-4. Vask kalkun med kaldt vann og tørk. Gni salt og pepper inn i kroppshulrom. Løst skje fyllingen inn i kroppshulrom. Lukk hud med spyd eller kjøkken-snor og bind trommestikk sammen. Plasserer kalkun på et rist i medium stekepanne.
-5. Rist kalkun 3,5 til 4,5 timer på foroppvarmet ovn, til indre temperatur av lår når 82°C og fyllingen når 74°C. En folieteltet kan plasseres over kalkunen under siste halvdel av ristingen for å unngå over brunt. Fjern fra ovnen, plassere på fat, og la kalkunen hvile i 20 minutter før oppskjæring.
+4. Vask kalkunen med kaldt vann og tørk den. Gni salt og pepper inn i hulrommet. Fyll hulrommet løst med fyllingen. Lukk huden med spyd eller kjøkkenhysje, og bind beina sammen. Plasser kalkunen på en rist i en ildfast form.
+5. Stek kalkunen i forvarmet ovn i 3,5 til 4,5 timer, til den indre temperaturen i låret er 82°C og fyllingen er 74°C. Du kan dekke kalkunen med aluminiumsfolie under den siste halvdelen av steketiden for å unngå at den blir for brun. Ta kalkunen ut av ovnen, sett den på et fat, og la den hvile i 20 minutter før du skjærer den opp.
 
 ## Info
 

@@ -2,33 +2,32 @@
 created: 2026-05-05
 ---
 
-# Nacho Chicken Tacos
-
-*These are a delicious change of pace from traditional tacos. The filling is also delicious wrapped in warm flour tortillas. Serve with Nestlé Tollhouse brownies for dessert.*
+Dette er en deilig variasjon fra tradisjonelle tacos. Fyllet smaker også fantastisk når det er pakket inn i varme tortillalefser. Server med sjokoladebrownies til dessert.
 
 ## Ingredienser
 
-- 1 (10-oz.) package Stouffer's® frozen Welsh Rarebit, prepared according to package directions
-- 8 Ortega® Taco Shells
-- 1 ss vegetarolje
-- 0,8 dl chopped løk
-- 0,8 dl melk
-- 1/2 ts chilipodd
-- 3,8 dl shredded cooked kylling
-**Toppings**
-- shredded lettuce
-- diced tomat
-- sliced ripe olives
+- 1 (10-oz.) pakke med frossen ostesaus, tilberedt i henhold til instruksjonene på pakken.
+- 8 tacoskjell.
+- 1 ss vegetarolje.
+- 0,8 dl hakket løk.
+- 0,8 dl melk.
+- 1/2 ts chilipulver.
+- 3,8 dl revet, kokt kylling.
+
+**Topping:**
+- revet salat.
+- terninger av tomat.
+- skiver av modne oliven.
 
 ## Fremgangsmåte
 
-1. Varm olje in medium skillet. tilsett løk; kok til mør. tilsett welsh rarebit, melk, chilipodd and kylling. kok over low varm til heated through.
-2. Fill taco shells with kylling mixture; top with desired toppings.
+1. Varm olje i en middels stor stekepanne. Tilsett løk; stek til den er myk. Tilsett welsh rarebit, melk, chilipulver og kylling. Kok på svak varme til alt er gjennomvarmt.
+2. Fyll tacoene med kyllingblandingen og topp med ønskede ingredienser.
 
 ## Info
 
 - **Porsjoner**: 4
-- **Preparation Time**: 10 minutes
-- **Cooking Time**: 15 minutes
+- **Forberedelsestid**: 10 minutter
+- **Tilberedningstid**: 15 minutter
 - **Type**: Main Dish, Poultry
 - **Kilde**: Nestlé, www.verybestmeals.com

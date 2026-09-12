@@ -8,7 +8,7 @@ created: 2020-08-26
 
 - 2026-05-06
 
-**Porsjoner**: 1  
+**Porsjoner**: 1
 **Plan to Eat-tag**: Fisk
 
 ## Ingredienser

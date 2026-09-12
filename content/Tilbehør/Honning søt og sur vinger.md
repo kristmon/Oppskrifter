@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Honning søt og sur vinger
-
 ## Ingredienser
 
 - 3/4 dl honning
-- 3/4 dl kutt i terninger red sweet paprika
-- 1/3 dl ris wine eddiksyre
-- 1/3 dl pineapple saft
-- 1/2 ts hvitløk salt
-- 1/2 ts bottled hot pepper Saus
-- 1 1/2 lbs fried eller bakt kylling wings
+- 3/4 dl røde paprika, kuttet i terninger
+- 1/3 dl risvineddik
+- 1/3 dl ananasjuice
+- 1/2 ts hvitløkspulver
+- 1/2 ts ferdig hot peppersaus
+- 680 g kyllingvinger, stekt eller bakt
 
 ## Fremgangsmåte
 
-1. Kombiner honning, paprika, eddiksyre, pineapple saft og krydring i liten kasserolle; bland godt.
-2. Kok og rør til blanding begins til thicken.
-3. Hell over kylling wings i baking rett.
-4. Bak på 350 ºF 12 til 15 minutter eller til wings are glazed med Saus.
+1. Bland honning, paprika, eddiksyre, ananasjuice og krydder i en liten kjele; rør godt.
+2. Kok opp og rør til blandingen begynner å tykne.
+3. Hell blandingen over kyllingvinger i en ildfast form.
+4. Stek på 350 ºF 12 i 15 minutter, eller til vingene er glasert med saus.
 
 ## Info
 

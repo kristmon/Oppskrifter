@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Sitron-hvitløk-marinade
-
 ## Ingredienser
 
 - 1,2 dl olivenolje
-- 0,6 dl frisk sitronsaft
-- 6 store fedd hvitkløk
+- 0,6 dl fersk sitronsaft
+- 6 store fedd hvitløk
 - 1/2 ts salt
 - 1/2 ts pepper
-- Skall fra en sitron
+- Skallet fra en sitron
 
 ## Fremgangsmåte
 
-1. I en blender, bland olivenolje og sitronsaft. Mens du blender, slipp i hvitkløkfeddene én av gangen. Tilsett sitronskalstrimler gradvis. Fortsett å blende til blandingen er purert.
-2. Ved hjelp av en sprøyte, sprøyt marinen inn i alle deler av den opptidet kalkunen. Sil marinen hvis det er vanskeligere å komme gjennom sprøyten.
-3. Massér kalkunen forsiktig for å fordele marinen.
-4. Plasser kalkunen i en stor plastpose (stekepause eller ren søppelbag). Lukk posene og oppbevar i kjøleskapet over natt.
-5. Dyp fritt eller stekbiff ifølge anbefalinger fra The National Turkey Federation.
+1 . I en blender, bland olivenolje og sitronsaft. Mens blenderen går, tilsett hvitløksfeddene én etter én. Tilsett sitronskallstrimler gradvis. Fortsett å blande til blandingen er jevn.
+ 2 . Bruk en sprøyte for å fordele marinaden i alle deler av kalkunen. Sil marinaden dersom det er vanskelig å få den gjennom sprøyten.
+ 3 . Masser kalkunen forsiktig for å fordele marinaden jevnt.
+ 4 . Legg kalkunen i en stor plastpose (for eksempel en stekepose eller en ren søppelpose). Lukk posen(e) og oppbevar i kjøleskapet over natten.
+Stek kalkunen, eller tilbered den på annen måte, i henhold til anbefalingene fra National Turkey Federation.
 
 ## Info
 

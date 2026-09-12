@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Hindbær-sjokolade kake
-
 *Imponere venner og familie med denne 4-lags dekadent dessert på ditt neste jul-møte.*
 
 ## Ingredienser
 
-- 560 ml almindeligt mel
+- 560 ml hvetemel
 - 5 ml bakepulver
-- 3,75 ml bakingpulver
+- 3,75 ml bakepulver
 - 1,25 ml salt
 - 150 ml smør (ingen erstatninger), mykt
 - 425 ml sukker
 - 2 store egg
-- 85 g søtløs sjokolade, smelt og kjølt
-- 5 ml vanilj
+- 85 g mørk sjokolade, smeltet og avkjølt
+- 5 ml vaniljeekstrakt
 - 300 ml vann
-- 45 ml hindbær likør eller framboise (valgfritt)
-- 125 ml frøløs hindbær-syltetøy
-- 1 oppskrift hindbær-sjokolade glasur
-- 250 ml frisk hindbær (valgfritt)
+- 45 ml bringebærlikør eller bringebærlikør (valgfritt)
+- 125 ml bringebærsyltetøy, uten frø
+- 1 oppskrift på bringebær-sjokoladeglasur
+- 250 ml ferske bringebær (valgfritt)
 
 ## Fremgangsmåte
 

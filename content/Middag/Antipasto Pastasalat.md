@@ -2,20 +2,18 @@
 created: 2026-05-05
 ---
 
-# Antipasto Pastasalat
-
 ## Ingredienser
 
-- 450 g Penne, Mostaccioli eller annen medium pastaform, ukjørt
-- 1 krukke (340 g) stekt rød paprika, skyllet, avslått, kuttet i tynne striper
-- 1 krukke (340 g) marinert artisjokkhjerter, avslått, grovt hakket
-- 250 ml hakket Muenster, brick eller Provolone-ost
-- 250 ml sopp, skåret
-- 125 ml hakket rød løk
-- 80 ml hakket frisk basilikum
-- 160 ml fettredusert Caesar eller italiensk salatdressing
-- Fersk malt svart pepper
-- Skåret pepperoncini-paprika (valgfritt)
+- 450 g Penne, Mostaccioli eller annen pastaform, medium størrelse, uten koketid.
+- 1 glass (340 g) stekt rød paprika, skylt, uten skall, skjært i tynne strimler.
+- 1 glass (340 g) marinerte artisjokkhjerter, uten væske, grovhakket.
+- 250 ml hakket Muenster, Brick eller Provolone-ost.
+- 250 ml sopp, i skiver.
+- 125 ml hakket rød løk.
+- 80 ml hakket fersk basilikum.
+- 160 ml lett Caesar- eller italiensk salatdressing.
+- Ferskmalen svart pepper.
+- Skåret pepperoncini-paprika (valgfritt).
 
 ## Fremgangsmåte
 

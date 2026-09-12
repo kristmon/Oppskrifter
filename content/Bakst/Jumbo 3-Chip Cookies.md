@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Jumbo 3-Chip Cookies
-
 ## Ingredienser
 
-- 10 dl all-purpose mel
+- 10 dl mel
 - 1 ts bakepulver
 - 1 ts natron
-- 3,8 dl (3 sticks) smør, softened (we recommend LAND O LAKES® smør)
-- 1 1/10 dl granulated sukker
-- 1 1/10 dl packed brunt sukker
-- 2 large egg
+- 3,8 dl (3 ss) smør, romtemperert
+- 1 1/10 dl granulert sukker
+- 1 1/10 dl pakket brunt sukker
+- 2 store egg
 - 1 ss vaniljeekstrakt
-- 2,5 dl (6 oz.) NESTLÉ TOLL HOUSE melk sjokolade Morsels
-- 2,5 dl (6 oz.) NESTLÉ TOLL HOUSE Semi-Sweet sjokolade Morsels
-- 1,2 dl NESTLÉ TOLL HOUSE Premier White Morsels
-- 2,5 dl chopped nuts
+- 2,5 dl (17 g) melk sjokoladebiter
+- 2,5 dl (17 g) semi-sweet sjokoladebiter
+- 1,2 dl Premier White sjokoladebiter
+- 2,5 dl hakkede nøtter
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 375° F.
-2. bland sammen mel, bakepulver and natron in medium bowl. Beat smør, granulated sukker and brunt sukker in large mixer bowl til creamy. Beat in egg and vaniljeekstrakt. Gradually beat in mel mixture. rør in morsels and nuts. Drop dough by level 1/4-cup measure 2 inches apart onto ungreased baking sheets.
-3. bak for 12 to 14 minutter eller til light golden brown. Cool on baking sheets for 2 minutter; remove to wire racks to cool completely.
+1. forvarm ovn to 191 °C.
+2. Bland mel, bakepulver og natron i en middels stor bolle. Pisk smør, hvitt sukker og brunt sukker kremaktig i en stor bolle. Pisk inn egg og vaniljeekstrakt. Tilsett melblandingen litt etter litt, og rør inn sjokoladebiter og nøtter. Fordel deigen i porsjoner på ca. 0,6 dl med 5 cm mellomrom på usmurte stekebrett.
+3. Stek i 12–14 minutter, eller til kakene er lyst gyllenbrune. Avkjøl på stekebrettet i 2 minutter, og legg dem deretter på rist til de er helt avkjølt.
 
 ## Info
 

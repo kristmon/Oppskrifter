@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# Fruit Smoothies
-
 ## Ingredienser
 
-- 2 fresh California peaches OR 4 fresh California plums
-- 1 cup nonfat plain yogurt
-- 1 cup lowfat milk
-- several ice cubes OR crushed ice
+- 2 ferske California-nektariner ELLER 4 ferske California-plommer
+- 2,4 dl mager, naturell yoghurt
+- 2,4 dl lettmelk
+- noen isbiter ELLER knust is
 
 ## Fremgangsmåte
 
-1. In blender or food processor, puree all ingredients until smooth.
-2. Serve immediately.
+1. I en blender eller kjøkkenmaskin, mos alle ingrediensene til en jevn masse.
+2. Server umiddelbart.
 
 ## Info
 

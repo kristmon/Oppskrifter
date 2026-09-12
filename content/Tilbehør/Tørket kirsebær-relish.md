@@ -2,15 +2,13 @@
 created: 2026-05-05
 ---
 
-# Tørket kirsebær-relish
-
 *Serv varmt med grillet eller svartet fisk.*
 
 ## Ingredienser
 
-- 3,6 dl tørket sur kirsebær
-- 1,2 dl rødvins-eddiksyre
-- 0,6 dl balsamico-eddiksyre
+- 3,6 dl tørkede, sure kirsebær
+- 1,2 dl rødvinseddik
+- 0,6 dl balsamicoeddik
 - 1 ss olivenolje
 - 1 stor rød løk, finhakket
 - 2 ss granulert sukker
@@ -19,9 +17,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Bland tørket kirsebær, rødvins-eddiksyre og balsamico-eddiksyre i en medium blandesbolle. La det ligge i vann i 30 minutter.
-2. Varm olivenolje i en stor stekepanne. Tilsett løk; kok 5 minutter, eller til løken blir myk. Tilsett sukker; bland godt. Kok, og rør av og til, over lav varme 10 minutter.
-3. Tilsett kirsebær med væsken fra oppbløtingen til løk-blandingen. La det småkoke, åpent, 10–15 minutter, eller til nesten all væsken er fordampet. Smak til med salt og pepper. Serv varmt.
+1 . Bland tørkede kirsebær, rødvinseddik og balsamicoeddik i en middels stor bolle. La det trekke i vann i 30 minutter.
+ 2 . Varm olivenolje i en stor stekepanne. Tilsett løk; stek i 5 minutter, eller til løken er myk. Tilsett sukker; bland godt. La det småkoke, og rør av og til, over svak varme i 10 minutter.
+ 3 . Tilsett kirsebær med væsken fra bløtleggingen til løkblandingen. La det småkoke, uten lokk, i 10 – 15 minutter, eller til nesten all væsken er fordampet. Smak til med salt og pepper. Server varmt.
 
 ## Info
 

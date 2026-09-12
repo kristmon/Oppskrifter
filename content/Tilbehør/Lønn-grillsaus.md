@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# Lønn-grillsaus
-
 *Denne sausen er utmerket på storfekjøtt, svinekjøtt eller fjærkre.*
 
 ## Ingredienser
 
 - 1,8 dl lønnesirup
-- 2 ss chili-saus
-- 2 ss eplesideseddik
-- 1,5 ss hakket løk
-- 1 ss Worcestershiresaus
+- 2 ss chilisaus
+- 2 ss eplesidereddik
+- 1,5 ss finhakket løk
+- 1 ss Worcestersaus
 - 1 ts salt
-- 1/2 ts tørrsennepe
+- 1/2 ts tørket sennep
 - 1/2 ts svart pepper
 
 ## Fremgangsmåte

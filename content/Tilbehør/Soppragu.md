@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Soppragu
-
 ## Ingredienser
 
 - 3 ss olje
@@ -17,8 +15,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en stor stekepanne over medium varme, varm oljen til den er varm. Tilsett sopper, løk, italiensk krydring og salt; kok til mørt, og rør av og til, omkring 12 minutter.
-2. Tilsett tilstuvede tomater og kvite bønner til stekepannen, varm gjennom, rør inn 0,6 dl parmesanost og serv over pasta. Strø resten av osten over toppen av retten.
+1. I en stor stekepanne over middels varme, varm oljen til den er klar. Tilsett sopp, løk, italiensk krydder og salt; stek til soppen er myk, og rør av og til, i omtrent 12 minutter.
+2. Tilsett de stekte tomatene og de hvite bønnene i stekepannen, varm godt gjennom, rør inn 0,6 desiliter parmesanost og server over pasta. Strø resten av osten over retten.
 
 ## Info
 

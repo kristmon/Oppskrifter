@@ -2,35 +2,33 @@
 created: 2026-05-05
 ---
 
-# Vegetable Turkey Popover
-
 ## Ingredienser
 
 - 2,5 dl vann
 - 1,2 dl smør
 - 1/4 ts salt
-- 1/4 ts dried timian
-- 1/4 ts dried dillweed
+- 1/4 ts tørket timian
+- 1/4 ts tørket dill
 - 2,5 dl mel
 - 4 egg
 - 2 ss smør
-- 2 gulrøtter peeled and thinly sliced
-- 1 zucchini thinly sliced
-- 1 yellow paprika seeded and cut into long, thin strips
-- 3 green løk sliced
-- 1-1/4 kg smoked kalkun breast, shredded
-- 2,5 dl surmelk
+- 2 gulrøtter, skrelt og i tynne skiver
+- 1 squash, i tynne skiver
+- 1 gul paprika, uten kjerner og skjært i lange, tynne strimler
+- 3 grønn løk, i skiver
+- 1–1/4 kg røkt kalkunbryst, strimlet
+- 2,5 dl kefir
 - 2 ss Dijon sennep
 
 ## Fremgangsmåte
 
-1. bland sammen vann, 1/2 cup smør, salt, timian and dillweed in a 2-quart saucepan. bring til kokepunktet; whisk in mel all at once. ta av varmen; whisk til smooth. Beat in egg one at a time til mixture is smooth and glossy. bred in greased 10-inch pie plate. bak in preheated 400 degree F. ovn for 40 minutter. Turn ovn off; leave popover in ovn for 10 minutter. Remove.
-2. Melt remaining 2 tablespoons smør and saute gulrøtter, zucchini, paprika and green løk. bland sammen with kalkun. Spoon into center of puff.
-3. bland sammen surmelk and sennep and spoon on top. bak in a preheated 350 degree F. ovn for 10 minutter.
-4. Cut into wedges to servér.
+1. Bland sammen vann, 1,2 dl smør, salt, timian og dill i en kjele på 2 liter. Kok opp; rør inn melet på én gang. Ta kjelen av varmen; rør til blandingen er glatt. Pisk inn eggene ett om gangen, til blandingen er glatt og blank. Hell blandingen i en smurt paiform på 25 cm i diameter. Stek i en forvarmet ovn på 200 grader Celsius i 40 minutter. Slå av ovnen; la popoversene stå i ovnen i 10 minutter. Ta ut.
+2. Smelt resten av smøret (2 ss) og stek gulrøtter, squash, paprika og vårløk. Bland dette sammen med kalkun. Fordel blandingen i midten av butterdeigen.
+3. Bland kefir og sennep og fordel blandingen over. Stek ved 175 °C i 10 minutter.
+4. Skjær i skiver for servering.
 
 ## Info
 
 - **Porsjoner**: 6
-- **Type**: Main Dish, Poultry
+- **Type**: Hovedrett, Fjørfe
 - **Kilde**: The National Turkey Federation, www.turkeyfed.org

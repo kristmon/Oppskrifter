@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Pasta-stekpanne
-
 ## Ingredienser
 
 - 450 g Penne, Mostaccioli eller Radiatore, ukokt
@@ -21,9 +19,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonane. Medan pastaen koker, i ei liten bolle, rør saman stivelsesmelen, sojakilde-en, eddiken, bouillon-terningen og varmt vatn. Set til side.
-2. I ei stor panne eller wok, varm vegetaroljen over medium-høg varme. Tillsett gulrøtter, hvitløk og snøerter og stekk til grønnsakane er møre. Senk varmen til medium-låg og rør inn dei varme raude chili-flaka og sojakilde-blandinga.
-3. Når pastaen er ferdig, avløp godt. Tillsett pastaen til stekpanna-blandinga. Bring til kokepunkt. Senk varmen, dekk og kok til pastaen er varm gjennom. Krydre etter smak med fersk malt svart pepper. Server umiddelbart.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, bland stivelsesmelen, soyasausen, eddiken, buljongterningen og varmt vann i en liten bolle. Sett til side.
+2. I en stor stekepanne eller wok, varm vegetabilsk olje på middels høy varme. Tilsett gulrøtter, hvitløk og erter og stek til grønnsakene er møre. Senk varmen til middels lav og rør inn de varme chiliflakene og soyasausblandingen.
+3. Når pastaen er ferdig, sil den godt. Tilsett pastaen i stekepannen med grønnsaker. Kok opp. Senk varmen, dekk til og la det småkoke til pastaen er gjennomvarm. Smak til med ferskmalt svart pepper. Server umiddelbart.
 
 ## Info
 

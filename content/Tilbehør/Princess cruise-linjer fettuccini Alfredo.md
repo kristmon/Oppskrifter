@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Princess cruise-linjer fettuccini Alfredo
-
 *Denne fettuccini Alfredo er en av flere kalkun-retter på Princess cruise-skipene. I tillegg, denne appetittvekkjaren er tilberedt av Maitre d'Hotel Lorenzo Tarini under Culinary Arts-demonstrasjonene på Pacific Princess under europeiske cruise.*
 
 ## Ingredienser
@@ -19,11 +17,11 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok fettuccini i kokende saltet vann til mørkitt. Drenert.
-2. I medium bolle, bland eggeplommer og krem sammen.
-3. Plasser smør i sauté-panne og smelt, tilsett kalkun-strimler og brun lett. Tilsett kokt fettuccini og varm gjennom.
-4. Tilsett egg/krem-blandingen og forsiktig fold inn til alle væsken er brukt.
-5. Smak til med pepper og salt. Tilsett rast Parmesanost.
+1 . Kok fettuccini i kokende, saltet vann til den er al dente. Hell av vannet.
+ 2 . I en middels stor bolle, bland eggeplommer og fløte godt sammen.
+ 3 . Smelt smøret i en stekepanne, tilsett strimlet kalkun og brun lett. Tilsett den kokte fettuccini og varm gjennom.
+ 4 . Tilsett egge-/fløteblandingen og vend forsiktig inn til all væsken er brukt.
+ 5 . Smak til med pepper og salt. Strø over revet parmesanost.
 
 ## Info
 

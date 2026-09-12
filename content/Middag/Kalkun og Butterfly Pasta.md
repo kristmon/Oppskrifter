@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Kalkun og Butterfly Pasta
-
 ## Ingredienser
 
 - 60 ml + 1 ss mel
 - 500 ml skummet melk
-- 250 ml tørt hvitvin
+- 250 ml tørr hvitvin
 - 5 ml italiensk krydder
-- strek pepper
-- 450 g kalkun kielbasa eller røkt kalkun pølse skåret i 1,25 cm skiver
-- 1 Pakke (285 g) fryst blandet grønnsaker optinet og godt drent
-- 170 g butterfly pasta kokt etter pakkedetaljer og drent
-- 5 ml frøblomst frø
+- En klype pepper
+- 450 g kalkun kielbasa eller røkt kalkunpølse, skåret i 1,25 cm skiver
+- 1 pakke (285 g) frosne blandede grønnsaker, tint og godt drenert
+- 170 g butterfly pasta, kokt etter anvisning på pakken og drenert
+- 5 ml frøblomstfrø
 
 ## Fremgangsmåte
 
-1. Over medium varme, i medium kasserolle kombinerer du mel og melk. Tilsett vin, italiensk krydder og pepper, omrøring til glatt. Over medium varme stekk blanding til tykk og bobler, omrøring konstant. Fold inn skåret kalkunpølse, grønnsaker og kokt pasta; reduser varmen til medium-lav og stekk 5 til 8 minutter eller til varmt gjennom.
-2. For å servere, toppes pastaelanding med frøblomst frø.
+1 . Ved middels varme, i en passende kjele, kombinerer du mel og melk. Tilsett vin, italiensk krydder og pepper, og rør til blandingen er jevn. Ved middels varme steker du blandingen til den tykner og begynner å boble, og rører hele tiden. Bland inn i biter kuttet kalkunpølse, grønnsaker og kokt pasta; reduser varmen til middels-lav og stek i 5 til 8 minutter, eller til alt er gjennomvarmt.
+ 2 . Ved servering drysses pastablandingen med blomsterfrø.
 
 ## Info
 

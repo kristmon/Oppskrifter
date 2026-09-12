@@ -1,22 +1,22 @@
 ---
 created: 2020-08-12
 ---
-**Porsjoner**: 4  
+**Porsjoner**: 4
 
 ## Ingredienser
 
-- 1/2 hodekål, Strimlet
-- 1 vårløk, Snittet
-- 1 gulrot, Grovt revet
-- 1 eple, Grovt revet
+- 1/2 hodekål, strimlet
+- 1 vårløk, finhakket
+- 1 gulrot, grovt revet
+- 1 eple, grovt revet
 - 30 gram majones
 - 100 gram kesam
 - 50 gram rømme
-- tabasco, Smak til med noen dråper
-- 0.5 ts sennep, Grov
-- 3 ts sitronsaft, Evt lime. Smak til.
-- salt, Vær forsiktig
-- pepper, Smak til
+- Tabasco, smak til med noen dråper
+- 0,5 ts grov sennep
+- 3 ts sitronsaft, eventuelt lime. Smak til.
+- Salt, vær forsiktig
+- Pepper, smak til
 
 ## Fremgangsmåte
 

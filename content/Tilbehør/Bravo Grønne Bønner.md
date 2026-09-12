@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Bravo Grønne Bønner
-
 ## Ingredienser
 
 - 1/2 dl hermetiske grønne bønner, avlastet

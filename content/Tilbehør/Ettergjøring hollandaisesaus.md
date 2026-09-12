@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Ettergjøring hollandaisesaus
-
 ## Ingredienser
 
 - 2,4 dl majones
@@ -14,8 +12,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en liten kasserolle, med en piskeris, slå majones, eggenhviter, sitronsaft, tørrsennepe og salt til det blir glatt.
-2. Rør konstant, kok over medium-lav varme til det blir tykt, men ikke la det koke. Serv over grønnsakar eller fisk.
+1. I en liten kjele, med et visp, piskes majones, eggehviter, sitronsaft, tørket sennep og salt sammen til blandingen er jevn.
+2. Rør jevnlig, varm over middels svak varme til den tykner, men unngå å la den koke. Server over grønnsaker eller fisk.
 
 ## Info
 

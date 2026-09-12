@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Pasta Vegetable Chowder
-
 ## Ingredienser
 
-- 1 cup Small Shells, Elbow Macaroni or other small pasta shape, uncooked
-- 3 cups 1% milk, divided
-- 1 10-oz. box frozen mixed vegetables, thawed and drained, or 1 1/2 cups chopped fresh vegetables (such as zucchini, yellow squash, corn and peas)
-- 1/2 tsp dried thyme
-- 1/2 tsp paprika
-- 1 1/2 Tbs cornstarch
-- 1 6-oz. can clams, drained
-- Salt and pepper to taste
+- 2,4 dl Små skjell, albueskall eller annen liten pastaform, ukokt.
+- 7,2 dl 1% melk, delt.
+- 1 10-g frosne blandede grønnsaker, tint og avrent, eller 3,6 dl hakkede, ferske grønnsaker (som squash, gul squash, mais og erter).
+- 1/2 ts tørket timian.
+- 1/2 ts paprikapulver.
+- 1 1/2 ss maisstivelse.
+- 1 6-g boks med muslinger, avrent.
+- Salt og pepper etter smak.
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; drain. Rinse pasta under cold water until cool. Drain again.
-2. Combine 2 1/2 cups milk, vegetables, thyme, paprika and pasta in a 2-quart saucepan. Cook over medium heat until bubbles form around the edge of the milk.
-3. In a separate bowl, stir the remaining 1/2 cup milk and cornstarch together until cornstarch dissolves. Stir the cornstarch mixture into soup and heat to simmering. Add clams and simmer, stirring frequently, 3 minutes. Add salt and pepper to taste. Serve hot.
+1 . Kok pastaen etter anvisningene på pakken; sil av vannet. Skyll pastaen under kaldt vann til den er avkjølt. Sil av vannet igjen.
+ 2 . Bland  6  desiliter melk, grønnsaker, timian, paprika og pasta i en kjele med  2  liter. Varm opp over middels varme til det begynner å boble langs kanten av melken.
+ 3 . I en annen bolle, rør sammen resten av  1,2  desiliter melk og maisstivelse til maisstivelsen er oppløst. Tilsett maisstivelsesblandingen i suppen og varm opp til den småkoker. Tilsett blåskjell og la det småkoke, rør ofte, i  3  minutter. Smak til med salt og pepper. Server varmt.
 
 ## Info
 

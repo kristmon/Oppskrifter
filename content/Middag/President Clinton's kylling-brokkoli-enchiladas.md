@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# President Clinton's kylling-brokkoli-enchiladas
-
 ## Ingredienser
 
 - 6 små mais-tortillas
 - 350 g brokkoli
 - 10 ml olivenolje
-- 1 medium rød løk, fint hakket
-- 2 medium fedd hvitløk, finhakket
-- 1/2 jalapeño-peppar, finhakket
-- 5 ml malt kummel
-- 2,5 ml chili-pulver
+- 1 medium rødløk, finhakket
+- 2 fedd hvitløk, finhakket
+- 1/2 jalapeño, finhakket
+- 5 ml malt kommen
+- 2,5 ml chilipulver
 - 1,25 ml malt kanel
-- 225 g kokt, hudløs, bein- løs kyllingbryst, rasta
+- 225 g kokt kyllingbryst, uten skinn og bein, revet
 - 1,25 ml salt (valgfritt)
-- 1 (425 g) boks ingen-salt-lagt hele tomater
+- 1 (425 g) boks med hele tomater, uten salt
 - 30 ml finhakket frisk koriander
-- 125 ml fordampa fettfri melk
-- 175 ml rasta, redusert-fett Monterey Jack-ost
-- 500 ml kokt brunris
-- 250 ml fettfri yogurt
+- 125 ml mager melk
+- 175 ml revet Monterey Jack-ost med redusert fett
+- 500 ml kokt brun ris
+- 250 ml mager yoghurt
 
 ## Fremgangsmåte
 

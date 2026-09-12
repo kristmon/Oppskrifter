@@ -2,17 +2,15 @@
 created: 2026-05-05
 ---
 
-# Chicken and Dumplings
-
-*This is comfort food at its best - tender chicken morsels smothered in a creamy soup, rich with dumpling strips.*
+Dette er comfort food på sitt beste – møre kyllingbiter dekket av en kremet suppe, rik på strips av dumplings.
 
 ## Ingredienser
 
-- 1 (4-kg.) fresh whole kylling, cut up
-- 1 medium løk, peeled and chopped
-- 1 stalk selleri, trimmed and chopped
-- 1,9 dl smør or margarine (or a combination), melted
-- 5 dl boiling vann
+- 1 (4-kg) fersk, hel kylling, delt opp
+- 1 middels stor løk, skrelt og hakket
+- 1 stilk selleri, renset og hakket
+- 1,9 dl smør eller margarin (eller en kombinasjon), smeltet
+- 5 dl kokende vann
 - 5 dl mel
 - 1 ts salt
 - 1,2 dl mel
@@ -21,15 +19,15 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Place cut-up kylling in a large pan filled with enough vann to completely cover kylling. tilsett løk and selleri, cover pan and la småkoke til kylling is tender - about 35 to 40 minutter. Remove kylling and cool, reserving liquid. Debone kylling and cut meat into pieces; set aside.
-2. For the dumplings, bland sammen smør and boiling vann in medium heavy saucepan over medium varm. rør in the first addition of mel and salt; kok til mixture just pulls away from the sides of the pan, about 3 minutter; cool slightly then beat in egg, one at a time.
-3. Pat dough out on a floured surface to about ½-inch thickness; cut into small, irregular strips, 1½ to 3 inches long. (They will resemble short, fat nudler.)
-4. Make a paste with remaining mel and vann; bring reserved kylling stock to a kok, reduser varmen, and whisk in the mel paste to dissolve. rør konstant til thick, then tilsett kylling and dough, adding extra vann (or canned kyllingbuljong, if desired) if necessary to achieve more soup-like consistency; kok til dough is done, about 5 minutter.
+1 . Del kyllingen i mindre biter og legg den i en stor gryte fylt med nok vann til å dekke den helt. Tilsett løk og selleri, dekk gryten og la det småkoke til kyllingen er mør – i omtrent 35 til 40 minutter. Ta kyllingen ut og avkjøl, og sett til side kraften. Fjern kjøttet fra kyllingen og skjær det i biter; sett til side.
+ 2 . For dumplingsene, smelt smør og kokende vann i en middels stor gryte over middels varme. Rør inn den første mengden mel og salt; kok til blandingen akkurat begynner å løsne fra kantene av gryten, i omtrent 3 minutter; avkjøl litt, og pisk deretter inn eggene, ett om gangen.
+ 3 . Kjevle deigen ut på en melstrødd overflate til omtrent 1,25 cm tykkelse; skjær den i små, uregelmessige strimler, fra 1 ½ til 7,6 cm lange. (De vil ligne korte, tykke nudler.)
+ 4 . Lag en pasta av resten av melet og vannet; kok opp den reserverte kyllingkraften, reduser varmen, og visp inn melpastaen for å løse den opp. Rør konstant til den tykner, og tilsett deretter kylling og deig, og tilsett eventuelt ekstra vann (eller ferdig kyllingbuljong) for å oppnå en mer suppeaktig konsistens; kok til deigen er ferdig, i omtrent 5 minutter.
 
 ## Info
 
 - **Porsjoner**: 8
-- **Preparation Time**: 35 minutes
-- **Cooking Time**: 43 minutes
+- **Forberedelsestid**: 35 minutter
+- **Tilberedningstid**: 43 minutter
 - **Type**: Main Dish, Poultry, Soup
 - **Kilde**: Nestlé, www.verybestmeals.com

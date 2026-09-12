@@ -2,9 +2,7 @@
 created: 2026-05-05
 ---
 
-# Kryddrig appelsin-saus
-
-*Dette er utmerket til å servere over cornish-kylling.*
+Dette er utmerket å servere til Cornish-kylling.
 
 ## Ingredienser
 

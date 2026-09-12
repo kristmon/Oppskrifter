@@ -5,13 +5,13 @@ Denne var god! Brukte Lofoten Fiskesaus fra Toro.
 
 ## Ingredienser
 - 800 g torskefilet, uten skinn og bein
-- 1 stk  purre
-- 2 stilker  selleri
-- 2 stk  gulrot
-- 5 dl  vann
-- 12 stk  cherrytomat
-- 1 pose  fiskesaus
-- 100 g  ost, revet
+- 1 purre
+- 2 stilker selleri
+- 2 gulrøtter
+- 5 dl vann
+- 12 cherrytomater
+- 1 pose fiskebuljong
+- 100 g ost, revet
 - salt og pepper
 - timian
 
@@ -28,11 +28,11 @@ Skjær purre og selleri i biter, og gulrot i terninger.
 
 Kok opp vann og kok grønnsakene i {-2-} 4-5 minutter.
 
-Hell av vannet, og legg grønnsakene og cherrytomatene over i en smurt ildfast form.
+Hell av vannet, og legg grønnsakene og cherrytomater i en smurt ildfast form.
 
-Legg torskestykkene over grønnsakene og dryss over litt salt, pepper og timian.
+Legg torskestykkene over grønnsakene, og dryss over litt salt, pepper og timian.
 
-Lag fiskesausen etter anvisning på pakken og hell den over fisken.
+Lag fiskesausen etter instruksjonene på pakken, og hell den over fisken.
 
 Strø over ost, og stek retten i stekeovn i ca. 15 minutter.
 

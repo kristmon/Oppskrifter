@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Dill-saus
-
 ## Ingredienser
 
 - 3 dl finhakket dill-syltegurk-spyd

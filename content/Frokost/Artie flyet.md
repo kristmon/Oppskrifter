@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Artie flyet
-
 ## Ingredienser
 
 - 1 vannmelon

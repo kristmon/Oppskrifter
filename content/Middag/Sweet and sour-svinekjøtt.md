@@ -3,10 +3,10 @@ created: 2021-04-25
 ---
 
 ![[Bilder/Sweet and sour-svinekjøtt.jpg|300]]
-Den beste oppskriften på sweet and sour pork — full av triks som kineserne har brukt i århundrer: dobbel panering og dobbel frityrsteking for ekstra sprøhet, maizena i stedet for hvetemel, billig svinekjøtt som mørnes med natron så det smaker som dyre koteletter, og en saus som ikke er sykelig søt. Ikke la ingredienslisten skremme — det er mye gjentakelse. Ovnsalternativ ligger i originalen.
+Den beste oppskriften på sursøt svinekjøtt – full av triks som kineserne har brukt i århundrer: dobbel panering og dobbel fritering for ekstra sprøhet, maisenna i stedet for hvetemel, rimelig svinekjøtt som mørnes med natron slik at det smaker som dyre koteletter, og en saus som ikke er overdrevent søt. Ikke la ingredienslisten skremme deg – det er mye repetisjon. Et alternativ for steking i ovn finnes i originalen.
 
-**Porsjoner**: 5  
-**Tid**: 50 min (20 prep + 30 cook)  
+**Porsjoner**: 5
+**Tid**: 50 min (20 prep + 30 cook)
 **Kilde**: [recipetineats.com](https://www.recipetineats.com/sweet-and-sour-pork/)
 
 ## Ingredienser
@@ -51,18 +51,18 @@ Til wok:
 
 ## Fremgangsmåte
 
-1. Marinér svinet: Bland svinekjøttet med marinade-ingrediensene. Marinér i 18–24 timer.
-2. Forberedelse: Forvarm ovnen til 80 °C og sett rist på stekebrett — for å holde svinet varmt.
-3. Saus: Bland alle saus-ingrediensene UNNTATT vannet i en stor mugge eller bolle. Bland sammen og rør deretter inn vannet.
-4. Klar til wok: Ha alle ingrediensene klar. Etter Fry #2 går det fort.
-5. Dobbel panering: Coat #1 — bland 5 ss maizena inn i svinekjøttet og la det stå i 5 minutter. Det blir hvitt først, men etter hvert vil kjøttet svette og gjøre maizenaen klissete (viktig for at paneringen skal feste seg).
-6. Coat #2 — fordel 1,2 dl maizena i en grunn bolle. Vend kjøttet i maizena, rist av overflødig, og legg på en tallerken. Behold litt maizena igjen i tilfelle du må strø på rett før steking.
-7. Frityrstekt sprøtt svin: Hell olje i en stor kjele eller liten gryte til 2,5 cm dybde. Varm opp til 180 °C (eller til kjøttet umiddelbart freser når du dypper det i).
-8. Fry #1: Stek kjøttet i porsjoner i 3 minutter til gyllent. Drypp av på rist. Dette steget koker bare svinet. Tar gjerne 4 porsjoner.
-9. Fry #2: Skru opp varmen og varm oljen til 200 °C. Start med det kaldeste kjøttet, tilsett halvparten (du kan gjerne fylle godt) og stek i 1½ minutter, eller til kjøttet er dypt gyllent og sprøtt. Overfør til rist, gjenta med resten — 2 porsjoner.
-10. Hold varmt i ovnen.
-11. Saus og wok: Varm 1 ss olje i en svært stor stekepanne over høy varme.
-12. Tilsett hvitløk, ingefær og løk og rør i 1½ minutter. Tilsett paprika og rør i 2 minutter.
-13. Tilsett saus og ananas, kok kraftig opp. La småkoke i 2 minutter til den tykner — når du drar skjeen langs bunnen skal det dannes en kort sti.
-14. Andre vending: Tilsett kjøttet og vend RASKT for å dekke — sikt på 10 sekunder!
-15. Server umiddelbart! Hell på serveringsfat og server med en gang. Holder seg sprøtt i ca. 5 minutter, og blir gradvis mykere — dette er virkeligheten med sweet and sour pork, også på restaurant.
+1 . Mariner svinet: Bland svinekjøttet med ingrediensene til marinaden. La det marinere i 18 – 24 timer.
+ 2 . Forberedelse: Forvarm ovnen til 80 °C og sett et stekebrett med rist – for å holde svinet varmt.
+ 3 . Saus: Bland alle ingrediensene til sausen, unntatt vannet, i en stor kanne eller bolle. Bland godt, og tilsett deretter vannet.
+ 4 . Klar for wok: Ha alle ingrediensene klare. Etter Fry # 2 går det fort.
+ 5 . Dobbel panering: Vend # 1 — bland 5 ss maisenna inn i svinekjøttet og la det stå i 5 minutter. Det blir hvitt først, men etter hvert vil kjøttet begynne å svette og gjøre maisenna klissete (viktig for at paneringen skal feste).
+ 6 . Vend # 2 — fordel 1,2 dl maisenna i en grunn bolle. Vend kjøttet i maisenna, rist av overflødig, og legg det på en tallerken. Behold litt maisenna igjen i tilfelle du må strø på rett før steking.
+ 7 . Frityrstekt sprøtt svin: Hell olje i en stor kjele eller liten gryte til 2,5 cm dybde. Varm opp til 180 °C (eller til kjøttet umiddelbart begynner å frese når du dypper det i).
+ 8 . Fry # 1 : Stek kjøttet i porsjoner i 3 minutter til det er gyllent. La det renne av på en rist. Dette trinnet koker bare svinet. Ta gjerne 4 porsjoner.
+ 9 . Fry # 2 : Skru opp varmen og varm oljen til 200 °C. Start med det kaldeste kjøttet, tilsett halvparten (du kan gjerne fylle godt) og stek i 1 ½ minutter, eller til kjøttet er dypt gyllent og sprøtt. Overfør til rist, gjenta med resten — 2 porsjoner.
+ 10 . Hold varmt i ovnen.
+ 11 . Saus og wok: Varm 1 ss olje i en svært stor stekepanne over høy varme.
+ 12 . Tilsett hvitløk, ingefær og løk, og rør i 1 ½ minutter. Tilsett paprika og rør i 2 minutter.
+ 13 . Tilsett saus og ananas, kok kraftig opp. La det småkoke i 2 minutter til den tykner — når du drar skjeen langs bunnen skal det dannes en kort sti.
+ 14 . Andre vending: Tilsett kjøttet og vend RASKT for å dekke – sikt på 10 sekunder!
+ 15 . Server umiddelbart! Hell på et serveringsfat og server med en gang. Holder seg sprøtt i ca. 5 minutter, og blir gradvis mykere – dette er virkeligheten med sweet and sour pork, også på restaurant.

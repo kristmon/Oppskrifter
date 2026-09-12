@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Pesto-saus
-
 ## Ingredienser
 
 - 1,6 dl olivenolje
@@ -16,7 +14,7 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en blender eller matprosessor (med metallblad), bland olivenolje, persille, ost, hvitkløk, basilikum, kapers og pepper. Blend eller prosesser i 30 sekunder eller til blandingen blir glatt. Oppbevar i lukket beholder og kjøl.
+1. I en blender eller kjøkkenmaskin (med metallkniv), bland olivenolje, persille, ost, hvitløk, basilikum, kapers og pepper. Kjør eller finhakk i 30 sekunder, eller til blandingen er jevn. Oppbevar i en lufttett beholder og sett i kjøleskapet.
 
 ## Info
 

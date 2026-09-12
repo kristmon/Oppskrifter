@@ -7,9 +7,9 @@ Bruk Jarlsberg! Og oppskriften til 4 holdt såvidt til 4 med en del ekstra tilbe
 
 Det er en gyllen regel at det er gjestene som må vente på suffleen og ikke omvendt. Ostesufflé er enkelt, tøft, deilig retro og utrolig godt! Ferskt brød og en enkel, grønn salat er alt du trenger ved siden av. Bon Appetit!
 
-**Porsjoner**: 4 (4 porsjoner)  
-**Tid**: 80 min  
-**Kilde**: [matprat.no](https://www.matprat.no/oppskrifter/gjester/ostesuffle/)  
+**Porsjoner**: 4 (4 porsjoner)
+**Tid**: 80 min
+**Kilde**: [matprat.no](https://www.matprat.no/oppskrifter/gjester/ostesuffle/)
 **Plan to Eat-tag**: Vegetar
 
 ## Ingredienser
@@ -17,10 +17,10 @@ Det er en gyllen regel at det er gjestene som må vente på suffleen og ikke omv
 - 3 ss smør
 - 4 ss hvetemel
 - 3 dl melk
-- 5 stk egg
+- 5 egg
 - 200 g jarlsberg
 - 1 ts salt
-- Skinke, Biter oppskåret
+- Skinke, i små biter.
 
 ## Fremgangsmåte
 

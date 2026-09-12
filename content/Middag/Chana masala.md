@@ -20,7 +20,7 @@ created: 2010-01-30
 
 ## Fremgangsmåte
 
-1. Varm oljen i en kjele. Fres spisskummenfrøene i ca 30 sekunder. Tilsett løk og ginger garlic paste og sauter til løken er myk. Ha i tomat og la det koke noen minutter mens du rører av og til. Tilsett garam masala, koriander, gurkemeie og chili. Hell vannet av kikertene, men spar på det. Ha kikertene i kjelen og rør. Tilsett litt av vannet fra kikertene (eller vann fra springen) etter behov og ønsket tykkelse på sausen. Kok i ca 10 minutter. Rør inn frisk koriander (og spar litt til pynt ved servering). Server med roti, chapati, naan eller annet god brød.
+1. Varm oljen i en kjele. Fres spisskummenfrøene i ca. 30 sekunder. Tilsett løk og ginger garlic paste og sauter til løken er myk. Ha i tomat og la det koke noen minutter mens du rører av og til. Tilsett garam masala, koriander, gurkemeie og chili. Hell vannet av kikertene, men spar på det. Ha kikertene i kjelen og rør. Tilsett litt av vannet fra kikertene (eller vann fra springen) etter behov og ønsket tykkelse på sausen. Kok i ca. 10 minutter. Rør inn frisk koriander (og spar litt til pynt ved servering). Server med roti, chapati, naan eller annet god brød.
 
 ## Info
 

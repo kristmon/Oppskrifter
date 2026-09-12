@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Sopp, bacon og løk terte
-
 ## Ingredienser
 
-- 1 kjøleskapslagret pieskall-sirkel (fra en 425 g pakke)
-- 6 baconstriper
-- 225 g ferske hvite sopper, skåret (ca. 600 ml)
-- 240 ml skåret løk
-- 1 beholder (225 g) rømme
+- 1 kjøleskapsskadet paideig-sirkel (fra en pakke på 425 g)
+- 6 baconstrimler
+- 225 g ferske, hvite sopper, i skiver (ca. 600 ml)
+- 240 ml finhakket løk
+- 1 beger (225 g) rømme
 - 4 ml salt
-- 4 ml oregano blader, knust
+- 4 ml oreganoblader, knust
 - 0,5 ml malt svart pepper
 - 4 store egg
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 220 °C. Etter pakkedireksjonene plasserer du pieskall-sirkelen i en 25 cm tertepanne eller 23 cm pieskål. Trim eller flute kanten. Bak til det er gyllent, 5–7 minutter. Kjøl litt av og sett til side. I en stor stekepanne over medium varme steiker du bacon til det er sprøtt, ca. 5 minutter.
-2. Fjern til papirtørkle og smuldr og sett til side. Hell av bacon-fettdrypp fra pannen. Tilsett sopp og løk og kok, rør ofte, til sopp-væsken fordamper, 6–8 minutter og kjøl av. I en stor bolle pisker du sammen rømme, egg, salt, oregano og svart pepper til det er glatt.
-3. Hell over det bakte skallet og top med avkjølt sopp-blanding og strø bacon over. Bak i 15 minutter. Senk varmen til 150 °C og bak til en kniv stukket i midten kommer ut ren, 5–7 minutter til.
+1. Forvarm ovnen til 220 °C. Følg pakkens anvisninger og plasser paideigen i en 25 cm springform eller 23 cm paiform. Klipp eller form kantene. Stek til den er gyllen, i 5–7 minutter. La den avkjøles litt og sett til side. I en stor stekepanne over middels varme, steker du bacon til det er sprøtt, ca. 5 minutter.
+2. Fjern baconen til et kjøkkenpapir og smuldre den, sett til side. Hell av baconfettet fra pannen. Tilsett sopp og løk og stek, rør ofte, til soppvæsken er fordampet, i 6–8 minutter. La blandingen avkjøles. I en stor bolle, pisk sammen rømme, egg, salt, oregano og svart pepper til det er jevnt.
+3. Hell blandingen over den stekte paideigen og topp med den avkjølte soppblandingen. Strø bacon over. Stek i 15 minutter. Senk temperaturen til 150 °C og stek videre til en kniv stukket i midten kommer ut ren, i ytterligere 5–7 minutter.
 
 ## Info
 

@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# French Onion Storfekjøtt
-
 ## Ingredienser
 
-- 1 1/4 kg Beinløs storfekjøtt round steak; 1/2 til 3/4" thick; kutt 6 pc
-- 8 g pakke frisk sopp; skjær i skiver
-- 1 stor løk; skjær i skiver rings
-- 1 hermetikk condensed French løk suppe
-- 6 1/4 g pakage 15-minutt urt fyling bland
-- 1/4 dl Margarine eller smør; Smelt
-- 4 g Mozzarella; riv
+- 1,25 kg benfri rundstek av storfe, skåret i seks stykker
+- 225 g fersk sopp, i skiver
+- 1 stor løk, i ringer
+- 1 boks fransk løksuppe
+- 1 pakke hurtigfyll med urter
+- 0,6 dl smeltet margarin eller smør
+- 115 g revet mozzarella
 
 ## Fremgangsmåte
 
-1. Lag lag half av den storfekjøtt, sopp og løk i 3-1/2 til 4 qt crockpot; repeat layers. Hell suppe over ingredienser. Dekk; kok lav for 8 til 10 timer eller til storfekjøtt er mørt og ingen longer pink.
-2. Før servering, toss fyling bland og contents av krydring packet med smeltet Margarine og 1/2 dl liquid fra pot.
-3. Plasser fyling på topp av contents i crockpot; dekk. Increase varm til høy setting. Kok 10 minutter eller til fyling er fluffy. Strø med ost; dekk. Kok til ost er smeltet.
+1. Legg halvparten av kjøttet, soppen og løken lagvis i en saktekoker på 3–4 liter. Gjenta lagene og hell suppen over. Dekk til og kok på lav varme i 8–10 timer, til kjøttet er mørt.
+2. Bland fyllet og krydderposen med smeltet smør og 0,5 dl væske fra saktekokeren.
+3. Fordel fyllet over innholdet i gryten og legg på lokket. Sett varmen på høy i 10 minutter, til fyllet er luftig. Strø over osten, legg på lokket igjen og varm til den er smeltet.
 
 ## Info
 

@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Green and Gold Chowder
-
 ## Ingredienser
 
-- 2,5 dl green split peas, rinsed
-- 1 ss vegetable base
+- 2,5 dl grønne erter, skylt
+- 1 ss grønnsaksbase
 - 10 dl vann
-- 2,5 dl fløte-style mais
-- 0,6 dl chopped løk or 1 ss. instant chopped løk
-- 1,2 dl fresh chopped koriander
+- 2,5 dl mais, type fløte
+- 0,6 dl finhakket løk, eller 1 ss tørket, finhakket løk
+- 1,2 dl fersk, finhakket koriander
 
 ## Fremgangsmåte
 
-1. bland sammen peas, vegetable base, and vann in a medium saucepan. bring til kokepunktet.
-2. reduser varmen, cover, and la småkoke 45 minutter, eller til peas are tender.
-3. Rør in mais and løk and la småkoke another 10 minutter eller til løk are tender.
-4. Rør in the chopped koriander just before serving
+1. Bland erter, grønnsaksbase og vann i en middels stor kjele. Kok opp.
+2. Senk varmen, sett på lokk og la småkoke i 45 minutter, eller til ertene er møre.
+3. Tilsett mais og løk, og la småkoke ytterligere 10 minutter, eller til løken er mør.
+4. Rør inn hakket koriander rett før servering.
 
 ## Info
 

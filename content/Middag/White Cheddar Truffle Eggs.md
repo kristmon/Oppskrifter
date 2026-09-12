@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# White Cheddar Truffle Eggs
-
 ## Ingredienser
 
-- 4 large baking potatoes (about 4 pounds), peeled and grated
-- 3 tsp salt
-- 1 1/4 tsp freshly ground white pepper
-- 2 Tbs plus 2 teaspoons olive oil
-- 3/4 cup vegetable oil
+- 4 store bakepoteter (ca. 1,8 kg), skrelt og revet
+- 3 ts salt
+1 1/4 teskje fersksmalt, hvit pepper.
+- 2 Tbs plus 2 ts olive oil
+- 1,8 dl vegetable oil
 - 1 dozen large eggs
 - 1 Tbs white truffle oil (optional)
-- 3/4 cup half-and-half
-- 1/4 cup chopped green onions (scallions), green parts only
-- 1 Tbs chopped fresh parsley leaves
+- 1,8 dl matfløte
+0,6 dl finhakket gressløk, kun den grønne delen.
+1 ss hakket, fersk persille.
 - 1 Tbs unsalted butter
-- 1/4 lb white cheddar cheese, grated (about 1 1/2 cups)
-- Shaved or sliced black truffles for garnish (optional)
+- 115 g white cheddar cheese, grated (about 3,6 dl)
+– Finhakkede eller skivede svarte trøfler, til pynt (valgfritt).
 
 ## Fremgangsmåte
 
-1. Wrap the grated potatoes in a large clean towel and squeeze out the excess starch. Get them as dry as possible. Unwrap and put the potatoes in a large mixing bowl. Add 2 teaspoons of the salt, 1 teaspoon of the white pepper, and the olive oil and toss to mix well. Form the mixture into 12 small cakes about 3 inches in diameter and 1 inch thick.
-2. Heat the vegetable oil in a 10- or 12-inch nonstick skillet over medium-high heat until it's hot but not smoking. Fry the cakes, several at a time, until they are golden brown and cooked through, about 4 minutes on each side. Drain on paper towels and keep warm.
-3. Pour off the oil and wipe the skillet clean. Set aside.
-4. In a large mixing bowl, whisk the eggs until frothy, about 1 minute. Add the remaining teaspoon salt, the remaining 1/4 teaspoon white pepper, the truffle oil if using, half-and-half, green onions, and parsley. Whisk to blend.
-5. In the skillet, heat the butter over medium heat for 1 minute. Add the egg mixture. Using a wooden spoon, stir the eggs and cook until the mixture sets slightly, but is still soft, 7 to 8 minutes. Cook 2 to 3 minutes longer if firmer eggs are desired. Add the cheese, stir gently for about 30 seconds, and remove from heat. Continue stirring the mixture until the cheese melts completely.
-6. To serve, top each potato cake with an equal portion off the eggs. Garnish with shaved truffles if desired. Serve warm.
+1. Legg de revne potetene i et stort, rent håndkle og klem ut overflødig stivelse. Få dem så tørre som mulig. Ta ut av håndkleet og ha potetene i en stor blandebolle. Tilsett 2 teskjeer salt, 1 teskje hvit pepper og olivenolje, og bland godt. Form blandingen til 12 små kaker, med en diameter på omtrent 7,6 cm og en tykkelse på 2,5 cm.
+2. Varm opp vegetabilsk olje i en stekepanne med slippbelegg, enten 25 eller 30 cm i diameter, over middelhøy varme til den er varm, men ikke begynner å ryke. Stek pannekakene, flere om gangen, til de er gyllenbrune og gjennomstekte, omtrent 4 minutter på hver side. Legg dem på kjøkkenpapir for å renne av, og hold dem varme.
+3. Hell av oljen og tørk stekepannen ren. Sett til side.
+4. I en stor bolle, pisk eggene til de er skummet, i omtrent 1 minutt. Tilsett resten av saltet, resten av det hvite pepperen, trøffeloljen hvis du bruker den, fløte, vårløk og persille. Pisk godt for å blande alt.
+5. I en stekepanne, varm smøret over middels varme i 1 minutt. Tilsett eggeblandingen. Bruk en tresleiv og rør eggene mens du steker, til blandingen begynner å stivne, men fortsatt er myk, i 7 til 8 minutter. Stek 2 til 3 minutter lenger hvis du ønsker et fastere resultat. Tilsett osten, rør forsiktig i omtrent 30 sekunder, og ta pannen av varmen. Fortsett å røre blandingen til osten er helt smeltet.
+6. For å servere, legg en lik mengde av egget på hver potetkake. Pynt gjerne med revne trøfler. Serveres varmt.
 
 ## Info
 

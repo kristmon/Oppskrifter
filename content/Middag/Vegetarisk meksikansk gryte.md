@@ -6,19 +6,19 @@ created: 2011-03-09
 
 ## Ingredienser
 
-- olje
-- 1 løk, hakket
-- 1 rød chili eller jalapeño, finhakket
+- Olje
+- 1 løk, finhakket
+- 1 rød chili eller jalapeño, veldig finhakket
 - 2 fedd hvitløk, finhakket
-- 1 boks sorte bønner
+- 1 boks svarte bønner
 - 1,5 dl vann
 - 2 ss tomatpuré
 - 4-5 hakkede tomater
 - 1 ts spisskummen
 - 1/4 ts malt koriander
 - 1/2 ts paprikapulver
-- salt
-- pepper
+- Salt
+- Pepper
 - 1/2 dl ris
 - 200 g mais
 

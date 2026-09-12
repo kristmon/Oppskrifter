@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Pasta-kokkens hakka salat
-
 ## Ingredienser
 
-- 450 g Ditalini, Orzo eller annan liten pastaform, ukokt
-- 115 g stekt kalkun-skinka, delt i 6 mm kuber
-- 1,2 dl sveitsarost, delt i 6 mm kuber
-- 3 stilkar selleri, hakket
-- 3 grønn løk, skåret
-- 1,2 dl delt rød løk
-- 60 ml delt sorte oliver
-- Salt og fersk malt pepper etter smak
-- 60 ml Dijon-sennepp
+- 450 g Ditalini, Orzo eller annen liten pastaform, ukokt
+- 115 g stekt kalkunskinke, delt i 6 mm terninger
+- 1,2 dl sveitserost, delt i 6 mm terninger
+- 3 stilker selleri, hakket
+- 3 grønne løk, skåret
+- 1,2 dl finhakket rød løk
+- 60 ml finhakkede svarte oliven
+- Salt og ferskmalen pepper etter smak
+- 60 ml Dijon-sennep
 - 30 ml vegetarolje
-- 60 ml kvit vin-eddik
+- 60 ml hvitvinseddik
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonane; avløp, skylt med kaldt vatn og avløp på nytt
-2. Plasser pastaen, kalkun-skinka, osten, selleriet, grønn løk, løken og oliver i ei blandingsbolle. Krydre med salt og fersk malt pepper etter smak.
-3. I ei liten bolle, bland senneppen, vegetaroljen og eddiken til dei er kombinert. Tillsett pastaen og blan. Kjøl i to timar og server kald.
+1. Kok pastaen etter anvisningene på pakken; sil av, skyll med kaldt vann og sil av igjen.
+2. Ha pastaen, kalkunskinken, osten, sellerien, vårløken, løken og oliven i en stor bolle. Krydre med salt og ferskmalt pepper etter smak.
+3. I en liten bolle, bland sennep, vegetabilsk olje og eddik til alt er godt blandet. Tilsett pastaen og bland godt. Avkjøl i to timer og server kald.
 
 ## Info
 

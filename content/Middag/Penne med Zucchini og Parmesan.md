@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Penne med Zucchini og Parmesan
-
 ## Ingredienser
 
-- 450 g Penne, Mostaccioli eller annen medium pastafasong, ukokt
-- 450 g medium zucchini
+- 450 g Penne, Mostaccioli eller annen pastaform av middels størrelse, ukokt
+- 450 g middels store squash
 - 2 ss smør eller margarin
-- 1 ss olivolje eller vegetarolje
-- 1 stor hvitløkfedd, finhákkete
-- 1/4 ts varme røde chiliflak eller etter smak
-- 1,5 dl nylig reven Parmesanost
-- Reven Parmesanost etter smak
+- 1 ss olivenolje eller vegetabilsk olje
+- 1 stort fedd hvitløk, finhakket
+- 1/4 ts chiliflak, eller etter smak
+- 1,5 dl ferskost revet parmesan
+- Revet parmesan, etter smak
 
 ## Fremgangsmåte
 
-1. Kok pasta etter pakningens anvisning. Mens pastaen koker, riv zucchini.
-2. Varm smør og olje sammen i en stor stekepanne til blandingen begynner å boble. Tilsett riven zucchini og kok ca. 3 minutter. Tilsett hvitløken og kok 1 minutt til, stir konstant. Rør inn de varme røde chiliflakene og 1,5 dl reven Parmesanost. Varm 1 minutt til.
-3. Når pastaen er ferdig, hell av grundig. Blanda stekepannens innhold med pastaen. Topp med ekstra Parmesan hvis ønskelig.
+1 . Kok pastaen etter anvisningene på pakken. Mens pastaen koker, riv agurk.
+ 2 . Varm smør og olje sammen i en stor stekepanne til blandingen begynner å boble. Tilsett den revne agurken og stek i ca. 3 minutter. Tilsett hvitløk og stek i ytterligere 1 minutt, rør hele tiden. Rør inn varme chiliflak og 1,5 dl revet parmesanost. Varm opp i 1 minutt til.
+ 3 . Når pastaen er ferdig, hell av vannet grundig. Bland stekepannens innhold med pastaen. Topp med ekstra parmesan hvis ønskelig.
 
 ## Info
 

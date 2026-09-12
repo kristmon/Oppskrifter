@@ -3,11 +3,11 @@ created: 2020-09-13
 ---
 
 ![[Bilder/Enkle crockpot-kyllingfajitas.jpg|300]]
-Så enkelt og deilig at du nesten ikke vil tro det. Mild og barnevennlig. Legg fyllet i tortillas med valgfri topping, eller server over ris.
+Så enkelt og deilig at du nesten ikke vil tro det. Mild og egnet for barn. Legg fyllet i tortillalefsene med ønsket topping, eller server det over ris.
 
-**Porsjoner**: 4  
-**Tid**: 490 min (10 prep + 480 cook)  
-**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/259768/easy-slow-cooker-chicken-fajitas/)  
+**Porsjoner**: 4
+**Tid**: 490 min (10 prep + 480 cook)
+**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/259768/easy-slow-cooker-chicken-fajitas/)
 **Plan to Eat-tag**: Fjærkre
 
 ## Ingredienser

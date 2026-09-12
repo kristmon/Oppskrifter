@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Smådyr-snask
-
 *Glede vennene dine med denne morsom snacken.*
 
 ## Ingredienser

@@ -28,8 +28,8 @@ Alt sammen + mel og hjortetakksalt
 
 1 eggeplomme
 
-Ca 200 gr (litt over på hvert emne)
+Ca. 200 (litt over på hvert tema)
 
-Ca 220 gr i 6-7 minutter.
+ca. 220 gr i 6-7 minutter.
 
 Kanel + smør/sukker eller melis

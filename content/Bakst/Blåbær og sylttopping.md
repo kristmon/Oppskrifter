@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Blåbær og sylttopping
-
 ## Ingredienser
 
 - 0,5 dl framboesa, jordbær eller aprikos syltetøy eller konserves
@@ -12,8 +10,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en liten gryteerpanne over medium varme, bring syltetøy og likør til koking, rør av og til. Rør in blåbærene; returnere til koking. Fjern fra varme. Skje inn i en bolle. Server ved romtemperatur eller kjølt over iskrem, pund cake, kutt opp frukt, etc.
-2. I en medium mikrobølgebar bolle; kombiner konserves og likør. Mikrobølge på HØY (100% KRAFT) til blandingen fortynner, ca 1 minutt. Tilsett blåbær, toss til kappe. Server ved romtemperatur eller kjølt.
+1. I en liten kjele over middels varme, varm syltetøy og likør til det begynner å koke, rør av og til. Tilsett blåbærene; sett tilbake på varmen og la det koke opp. Fjern fra varmen. Hell over i en skål. Server ved romtemperatur eller avkjølt, gjerne sammen med iskrem, fruktkake, oppskåret frukt, osv.
+ 
+2. I en middels stor mikrobølgeovnsbolle, bland bær og likør. Varm på høy effekt (100 %) til blandingen er flytende, ca. 1 minutter. Tilsett blåbærene og rør godt. Server ved romtemperatur eller avkjølt.
 
 ## Info
 

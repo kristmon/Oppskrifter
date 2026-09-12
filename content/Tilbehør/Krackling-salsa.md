@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Krackling-salsa
-
 *Denne krydret blandingen imponerer tradisjonelle salsa-elsker.*
 
 ## Ingredienser
@@ -19,8 +17,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kombiner tørka kirsebær, kirsebær-syltetøy og eddik i liten mikrobølgeovnsikker bolle; bland godt. Mikroble på høy (100% styrke) 1-1,5 minutter, eller til varmt. La stå i 5 minutter.
-2. Rør inn rød løk, gul paprika, jalapeño-peppar, koriander og lime-saft. Kjøl, dekket til, 3-4 timer eller over natten.
+1. Bland tørkede kirsebær, kirsebær syltetøy og eddik i en liten, mikrobølgeovnsikker skål; rør godt. Varm i mikrobølgeovnen på høy (100 % styrke) i 1 - 1,5 minutter, eller til det er varmt. La stå i 5 minutter.
+2. Rør inn rød løk, gul paprika, jalapeño, koriander og limesaft. Avkjøl, dekket, i 3 - 4 timer, eller over natten.
 
 ## Info
 

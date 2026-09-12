@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Hatties sur kirsebær-grillsaus
-
 ## Ingredienser
 
 - 2,4 dl hermetisert eller fryst sur kirsebær
@@ -22,8 +20,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Bland alle ingrediensene i en kasserolle med tykk bunn; bland godt.
-2. La det småkoke, dekket, over medium varme omkring 25 minutter. Juster krydringen.
+1. Bland alle ingrediensene i en kjele med tykk bunn; rør godt.
+2. La det småkoke, under lokk, over middels varme i omtrent 25 minutter. Juster krydringen.
 
 ## Info
 

@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Urt-honning-lime-saus
-
 ## Ingredienser
 
-- 1,2 dl hakket løk
+- 1,2 dl finhakket løk
 - 1 ss olivenolje
-- 2,4 dl tørt hvitvin
+- 2,4 dl tørr hvitvin
 - 0,6 dl honning
-- 0,6 dl limejuice
-- 2 ts malt tørrsennepe
-- 1 ts frisk rosmarin, hakket
+- 0,6 dl limesaft
+- 2 ts malt tørrsennep
+- 1 ts fersk rosmarin, finhakket
 - 1/2 ts salt
-- Et snev pepper
-- 1 ts kartoffelstivelse
-- 1 ts vann
+- En klype pepper
+- 1 ts potetmel
+- 1 ss vann
 
 ## Fremgangsmåte
 
-1. Steik løken i olivenolje. Tilsett vin, honning, limejuice, sennepe, rosmarin, salt og pepper; varm blandingen til den koker.
-2. Bland kartoffelstivelse og vann; bland godt og tilsett til sausen.
-3. Kok og rør til sausen blir tykkere.
+1. Stek løken i olivenolje. Tilsett vin, honning, limesaft, sennep, rosmarin, salt og pepper; varm blandingen til den begynner å koke.
+2. Bland potetmel og vann; rør godt og tilsett til sausen.
+3. Kok opp og rør til sausen tykner.
 
 ## Info
 

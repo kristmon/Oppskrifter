@@ -14,7 +14,7 @@ created: 2010-07-11
 
 ## Fremgangsmåte
 
-1. Del bananene i to på langs. Rull en pannekake rundt en halv banan og legg på en tallerken. Hell over litt sjokoladesaus. Server med en kule is og litt friske jordbær.
+1. Del bananene i to på langs. Rull en pannekake rundt en halv banan og legg den på en tallerken. Hell over litt sjokoladesaus. Server med en kule is og noen friske jordbær.
 
 ## Info
 

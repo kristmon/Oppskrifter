@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Acorn Squash Med Ananas
-
 ## Ingredienser
 
 - 1 stor acorn squash

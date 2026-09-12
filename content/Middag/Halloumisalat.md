@@ -6,13 +6,13 @@ created: 2010-04-07
 
 ## Ingredienser
 
-- stekt halloumi, i terninger
-- cherrytomater, delt i to
-- sukkererter, delt i to
-- butter beans
-- vårløk, hakket
-- mynte, hakket
-- enkel dressing (f.eks. olje, sitron, salt, pepper)
+- Stekt halloumi, i terninger
+- Kirsebærtomater, delt i to
+- Sukkererter, delt i to
+- Butterbønner
+- Vårløk, finhakket
+- Mynte, finhakket
+- Enkel dressing (f.eks. olje, sitron, salt, pepper)
 
 ## Fremgangsmåte
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Sennep-maling
-
 *Denne oppskriften er for en saus for røyk eller grill ribbe, svinekjøttstykker, svinekjøtt, svinekjøtt-stykker, skinke, kylling og/eller annet kjøtt.*
 
 ## Ingredienser

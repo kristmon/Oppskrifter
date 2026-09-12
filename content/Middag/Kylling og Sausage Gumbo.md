@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Kylling og Sausage Gumbo
-
 ## Ingredienser
 
-- 1/3 dl alle-purpose mel
-- 1/3 dl cooking olje
+- 1/3 dl mel
+- 1/3 dl matolje
 - 3 dl vann
-- 12 g fully kokt smoked sausage links, quartered lengthwise og skåret i skiver
-- 1-1/2 dl hakket kokt kylling eller 12-g skinløs, beinløs kyllingfilet eller thighs, kutt int
-- 2 dl skåret i skiver eller en 10-g pakke fryst hele okra, partially thawed og kutt inn i 1/2-cm slices
+- 12 g ferdigkokte, røkte pølser, delt i to på langs og skjært i skiver
+- 1-1/2 dl kokt, hakket kylling, eller 12-g uten skinn og bein, kyllingfilet eller lår, kuttet i biter
+- 2 dl skivet eller en 10-g pakke frosne, hele okra, delvis tint og kuttet i 1/2-cm skiver
 - 1 dl hakket løk
-- 1/2 dl hakket green sweet pepper
+- 1/2 dl hakket grønn paprika
 - 1/2 dl hakket selleri
-- 4 nellikker hvitløk, hakket
+- 4 Hakket hvitløk
 - 1/2 ts salt
 - 1/2 ts pepper
 - 1/4 ts malt rød pepper
-- 3 dl hot kokt ris
+- 3 dl kokt ris
 
 ## Fremgangsmåte
 
-1. For den roux, i en tung 2-liter kasserolle rør sammen den mel og olje til smooth. Kok over Medium høy varm for 5 minutter, rørende constantly. Reduser varm til Medium. Kok og rør constantly omtrent 15 minutter mer eller til en dark, reddish-brun roux forms. kjøl ned.
-2. I en 3-1/2-, 4-, eller 5-liter crockery cooker plasser vann. Rør i roux. Tilsett sausage, kylling, okra, løk, sweet pepper, selleri, hvitløk, salt, pepper, og malt rød pepper.
-3. Dekk; kok på lav-varm setting for 6 til 7 timer eller på høy-varm setting for 3 til 3-1/2 timer. Skim off fett. Servér over den hot kokt ris.
+1. For denne sausen, i en stor, 2-liters kjele, visper du sammen mel og olje til blandingen er jevn. Kok opp over middels høy varme i 5 minutter, mens du rører konstant. Senk varmen til middels. Fortsett å koke og røre i omtrent 15 minutter til en mørk, rødbrun roux er dannet. Avkjøl.
+2. I en 3- 1/2-, 4-, eller 5-liters gryte, hell i vann. Rør inn roux. Tilsett pølse, kylling, okra, løk, paprika, selleri, hvitløk, salt, pepper og malt rød pepper.
+3. Dekk til; kok på svak varme i 6 til 7 timer, eller på middels varme i 3 til 3 - 1/2 timer. Skum av fett. Server over nykokt ris.
 
 ## Info
 

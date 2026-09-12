@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Skjell med Vårrgrønnsakene
-
 ## Ingredienser
 
-- 450 g Medium Shells, Radiatore eller annen medium pastafasong, ukokt
-- 2 røde paprikafrukt
+- 450 g medium store skallformer, radiatore eller annen medium pastafasong, ukokt
+- 2 røde paprika
 - 6 små plommetomater
 - 4 ss usaltet smør, delt
-- 1 gulrot, finhákkete
-- 1 medium løk, finhákkete
-- 8 medium til store shiitake-sopp (ca. 340 g), stammen fjernet og skåret 1 cm tykk, eller 340 g knappsopp, skåret 0,5 cm tykk
-- 8 store aspargesstilker, kuttet på skrå i 1 cm stykker
-- 1,75 dl lavt-saltkartet kyllingbuljong
-- 2,5 dl (løst pakket) tynnt skåret frisk basilikum
-- Salt og fersk malt pepper
+- 1 gulrot, finhakket
+- 1 medium løk, finhakket
+- 8 medium til store shiitake-sopp (ca. 340 g), stammen fjernet og skåret 1 cm tykk, eller 340 g kantareller, skåret 0,5 cm tykk
+- 8 store aspargesbønner, kuttet på skrå i 1 cm store biter
+- 1,75 dl saltfattig kyllingbuljong
+- 2,5 dl (løst pakket) tyntskåret frisk basilikum
+- Salt og ferskmalt pepper
 
 ## Fremgangsmåte
 
-1. Kutt de røde paprikafruktene i to, kutt ut kjernene og skrap av frøene. Kutt i 0,5 cm striper.
-2. Kjern tomatene og kutt en liten "x" i enden motsatt kjernet. Blansj tomatene i en liten gryte med kokende saltvannet bare til hudene løses opp, ca. 10 sekunder for en rundtomatene eller opptil 1 minutt for tøffhudete plommetomater. Hell av tomatene umiddelbart og plasser dem i en bolle med kaldt vann. Når de er kjølt, hell av tomatene og glid hudene av. Kutt tomatene i to og skrap ut frøene. Kutt tomatene i 1 cm kuber.
-3. Tilbered pasta etter pakningens anvisning. Mens pastaen koker, varm 1 ss av smøret i en stor gryte over medium varme. Tilsett gulroten og løken og kok til de er mørkent, ca. 4 minutter. Tilsett tomatene og kok, stir av og til, i 3 minutter. Tilsett soppene, aspargesen, kyllingbuljoen, basilikumet og de røde paprikafruktene. Rør godt. Tilsett gjenværende smør, øk varmen til høy og kok, stir konstant, til sausen er kokende og smøret er helt smeltet.
-4. Hell av pasta og overføring til en serveringsskål. Hell grønnsakssausen over pasta og bland lett. Smak til med salt og pepper etter smak og server umiddelbart.
+1 . Kutt de røde paprikaene i to, fjern kjernene og skrap ut frøene. Kutt dem i strimler på 0,5 cm.
+ 2 . Fjern kjernene fra tomatene og skjær et lite "X" i enden som vender bort fra kjernen. Blancher tomatene i en liten kjele med kokende saltvann, kun til skallet løsner, ca. 10 sekunder for runde tomater eller opptil 1 minutter for tomater med tykkere skall. Hell av vannet umiddelbart og legg tomatene i en bolle med kaldt vann. Når de er avkjølt, hell av vannet og dra forsiktig av skallene. Kutt tomatene i to og fjern frøene. Kutt tomatene i terninger på 1 cm.
+ 3 . Kok pastaen etter anvisningene på pakken. Mens pastaen koker, varm 1 ss smør i en stor kjele over middels varme. Tilsett gulrot og løk og stek til de er myke, ca. 4 minutter. Tilsett tomatene og kok, rør av og til, i 3 minutter. Tilsett sopp, asparges, kyllingbuljong, basilikum og de røde paprikaene. Rør godt. Tilsett resten av smøret, øk varmen til høy og kok, rør konstant, til sausen bobler og smøret er helt smeltet.
+ 4 . Hell av pastaen og overfør den til en serveringsskål. Hell grønnsakssausen over pastaen og bland forsiktig. Smak til med salt og pepper etter behov og server umiddelbart.
 
 ## Info
 

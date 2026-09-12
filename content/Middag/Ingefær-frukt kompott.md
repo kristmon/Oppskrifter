@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Ingefær-frukt kompott
-
 *Frukter som appelsiner og epler ble en gang elsket som julekgaver. Gjenoppliv minnet om slike enkle gleder med denne behagelige kompotten.*
 
 ## Ingredienser
@@ -16,8 +14,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. For sirup, kombiner vann, sukker, sitronjuice og ingefær i liten kasserolle. Få blandingen til kok; reduser varmen. Dekk og småkoke i 5 minutter. Overfør til bolle. Kjøl. Dekk og kjøl opptil 24 timer.
-2. Legg frukten i en stor serveringsbolle. Hell sirupen over og bland forsiktig så frukten dekkes. Dekk til og sett kjølig i opptil 24 timer. Gir 6 porsjoner.
+1. For sirup, kombiner vann, sukker, sitronsaft og ingefær i en liten kjele. Kok opp blandingen, senk deretter varmen. Dekk til og la det småkoke i 5 minutter. Hell over i en bolle. Avkjøl. Dekk til og avkjøl i opptil 24 timer.
+2. Legg frukten i en stor serveringsbolle. Hell sirupen over og bland forsiktig slik at frukten dekkes. Dekk til og sett kjølig i opptil 24 timer. Gir 6 porsjoner.
 
 ## Info
 

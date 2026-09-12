@@ -5,9 +5,9 @@ created: 2020-09-27
 ![[Bilder/Hjemmelaget pizza.jpg|300]]
 Vi ELSKER deig <3. Her har du oppskriften vår på pizzadeig. Ved å lage hjemmelaget deig gir du pizzaen din et løft.
 
-**Porsjoner**: 3  
-**Tid**: 75 min (60 prep + 15 cook)  
-**Kilde**: [matprat.no](https://www.matprat.no/oppskrifter/kos/pizzadeig/)  
+**Porsjoner**: 3
+**Tid**: 75 min (60 prep + 15 cook)
+**Kilde**: [matprat.no](https://www.matprat.no/oppskrifter/kos/pizzadeig/)
 **Plan to Eat-tag**: Kjøttdeig, Storfe, Svin, Vegetar
 
 ## Ingredienser

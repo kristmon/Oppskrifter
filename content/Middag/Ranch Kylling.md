@@ -2,9 +2,7 @@
 created: 2026-05-05
 ---
 
-# Ranch Kylling
-
-*Denne lett samlet kasserolle kan forberedes tidligere på dagen. Hold kjølt til du er klar til å bake og servere.*
+Denne lettmonterte kasserollen kan tilberedes tidligere på dagen. Oppbevar den kjølig til du er klar for å steke og servere.
 
 ## Ingredienser
 

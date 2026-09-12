@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Grønn løk og mais-brød fyll
-
 ## Ingredienser
 
 - 1 boks (300 g) kondensert fransk løk-suppe

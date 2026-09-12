@@ -2,14 +2,12 @@
 created: 2026-05-05
 ---
 
-# Alle-American Ingen-Bak Blueberry Pie
-
 ## Ingredienser
 
-- 1 pakke (3 g) raspberry- eller jordbær-flavored gelatin
-- 2-1/2 dl frisk eller fryst blåbær (omtrent 12 g), delt
-- 1 klar-til-bruk 9-cm graham cracker pie crust (6 g)
-- 1 dl pisket fløte eller nondairy pisket topping
+- 1 pakke (3 g) gelatin med smak av bringebær eller jordbær.
+- 2-1/2 dl ferske eller frosne blåbær (omtrent 12 g), delt.
+- 1 ferdiglaget 9-cm graham cracker-paideig (6 g).
+- 1 dl kremfløte eller plantebasert kremtopping.
 
 ## Fremgangsmåte
 

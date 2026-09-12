@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Nektarin-grillsaus
-
 ## Ingredienser
 
 - 4 ferske kaliforniske nektariner
@@ -17,10 +15,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Skjær nektariner. Sett til side 2,4 dl skiver.
-2. I en blender eller matprosessor, bland til glatt resten av nektarinene med eddiksyre, tomatpaste, sukker, Worcestershiresaus, hvitkløk og sterk saus.
-3. Rør inn appelsinskallet. Fjern omkring 0,8 dl saus for å pensl over flankstek eller annet storfekjøtt de siste minuttene under grilling.
-4. Tilsett resten av nektarin-skivene til resten av sausen og serv med storfekjøttet.
+1. Skjær nektariner i skiver. Sett til side 2,4 dl skiver.
+2. I en blender eller kjøkkenmaskin, bland resten av nektarinene med eddik, tomatpuré, sukker, Worcestersaus, hvitløk og sterk saus, til en glatt masse.
+3. Rør inn appelsinskall. Sett til side omtrent 0,8 dl saus, som skal brukes til å pensle flankstek eller annet storfekjøtt de siste minuttene under grilling.
+4. Tilsett resten av nektarin-skivene til resten av sausen og server med storfekjøttet.
 
 ## Info
 

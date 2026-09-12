@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Chinese-Style Spareribs
-
 ## Ingredienser
 
 - 6 kg svinekjøtt spareribs
@@ -16,13 +14,13 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Cut spareribs into serving-size portions.
-2. Place large plastic bag in large bowl. In bag, bland sammen remaining ingredients; bland well. tilsett ribs, close bag tightly.
-3. Refrigerate 6 timer or overnight; turn bag several times to distribute marinade.
-4. tøm ribs, reserving marinade.
-5. Place ribs in shallow roasting pan; cover with foil and bak in a 350 degree F. ovn for 1 1/2 timer.
-6. Uncover and brush ribs with the reserved marinade.
-7. Discard leftover marinade. bak, uncovered, for 30 minutter or till done.
+1 . Del spareribs i passende serveringsstykker.
+ 2 . Legg en stor plastpose i en stor bolle. I posen, bland de resterende ingrediensene; rør godt. Tilsett spareribs, lukk posen godt.
+ 3 . Sett i kjøleskapet i  6  timer, eller over natten; snu posen flere ganger for å fordele marinaden.
+ 4 . Ta spareribsene ut av posen, og sett marinaden til side.
+ 5 . Legg spareribsene i en ildfast form; dekk med aluminiumsfolie og stek i ovn ved  350  grader Fahrenheit i  1   1/2  timer.
+ 6 . Fjern aluminiumsfolien og pensle spareribsene med den reserverte marinaden.
+ 7 . Kast eventuell resterende marinade. Stek videre, uten lokk, i  30  minutter, eller til de er ferdige.
 
 ## Info
 

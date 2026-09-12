@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Blåbær-chutney
-
 ## Ingredienser
 
 - 9,5 dl frosne eller ferske blåbær
@@ -17,8 +15,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en medium kasserolle som ikke reagerer, bland blåbærene, tyttebærsausen, sukkeret, balsamico-eddikken, appelsinskallet, ingefæren, og rød og svart pepper. Varm til det koker; la det koke åpent, og rør ofte, til det blir litt tykkere, 15–20 minutter.
-2. Hell i rene glass; dekk til og oppbevar i kjøleskapet i opptil 3 uker, eller plasser i konservering og behandle ifølge produsentens anvisninger, eller plasser i lukkede plastbeholdere og frys. Serv gjerne med stekt eller grillet kalkun, kylling eller svin.
+1. I en middels stor kjele som ikke reagerer, bland blåbær, tyttebærsyltetøy, sukker, balsamicoeddik, appelsinskall, ingefær og rød og svart pepper. Varm opp til det koker; la det koke uten lokk, og rør ofte, til det tykner litt, i 15–20 minutter.
+2. Hell blandingen i rene glass; lukk glassene og oppbevar i kjøleskapet i opptil 3 uker, eller bruk en konserveringsmetode i henhold til produsentens anvisninger, eller frys ned i lufttette plastbeholdere. Server gjerne med stekt eller grillet kalkun, kylling eller svin.
 
 ## Info
 

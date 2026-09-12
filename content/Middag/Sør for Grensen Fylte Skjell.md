@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Sør for Grensen Fylte Skjell
-
 ## Ingredienser
 
 - 24 Jumbo-skjell, ukokt
@@ -19,13 +17,13 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Tilbered pasta etter pakningens anvisning; hell av.
-2. Bland picante-saus, tomatsaus og vann i en liten bolle. I en stekepanne, kok løk og hakket kjøtt i olje over medium varme til kjøttet er brunete og løken er mørkent (hvis du bruker ikke-klebeende stekepanne, bruk kun 1 ts vegetarolje). Fjern fra varmen og hell av fett. Tilsett chilipulveret, hakket grønn chili, 1 dl hakket ost og 1 dl picante-saus-blanding til kjøttblandingen.
-3. Forvarm ovnen til 175°C. Hell halvparten av gjenværende picante-saus-blanding på bunnen av en bakefat på ca. 33x23x5 cm. Fyll hvert kokt skjell med 1-2 ss blanding og plasser skjellene i bakefaten. Hell gjenværende picante-blanding over toppen av skjellene. Dekk med aluminiumsfolie og bak ved 175°C i 20-30 minutter. Fjern dekkelet, tilsett gjenværende 1 dl ost og bak, udekket, ytterligere 5 minutter til osten smelter. Server umiddelbart.
+1 . Kok pastaen etter anvisningene på pakken; hell av vannet.
+2 . Bland picante-saus, tomatsaus og vann i en liten bolle. I en stekepanne, stek løk og kjøtt i olje over middels varme til kjøttet er brunt og løken er myk (hvis du bruker en stekepanne med slippbelegg, bruk kun  1  ts vegetabilsk olje). Fjern fra varmen og hell av fettet. Tilsett chilipulver, finhakket grønn chili,  1  dl revet ost og  1  dl picante-sausblanding til kjøttblandingen.
+3 . Forvarm ovnen til  175 °C. Hell halvparten av den gjenværende picante-sausblandingen i bunnen av et ildfast fat på ca.  33x23x5  cm. Fyll hvert kokt pastaskall med  1 - 2  ss blanding og plasser skallene i fatet. Hell den gjenværende picante-blandingen over pastaskallene. Dekk med aluminiumsfolie og stek ved  175 °C i  20 - 30  minutter. Fjern folien, tilsett gjenværende  1  dl ost og stek, uten lokk, ytterligere  5  minutter til osten er smeltet. Server umiddelbart.
 
 ## Tips
 
-- Denne oppskriften kan settes sammen og fryses. For å bake, tine ved romtemperatur i 8 timer og bak som rettet ovenfor.
+Retten kan settes sammen og fryses. Tin den i kjøleskapet før den stekes som angitt ovenfor.
 
 ## Info
 

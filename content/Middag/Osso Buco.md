@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Osso Buco
-
 ## Ingredienser
 
-- 4 Veal or lamb shanks
-- Well seasoned mel
-- 1 Clove hvitløk -- minced
+- 4 kalve- eller lammelår
+- Godt krydret mel
+- 1 fedd hvitløk, finhakket
 - 3 ss olivenolje
-- 2,5 dl Canned consomme
-- 0,6 dl Dry hvitvini
-- 2 ss tomat paste
-- Rind of 1 lemon -- cut into strips
-- 3 small gulrøtter -- finely diced
-- 1 ss Parsley -- chopped
-- 1/4 ts Dried marjoram -- crushed
-- 1/4 ts Dried oregano -- crushed
-- 1/8 ts Dried sage -- crushed
+- 2,5 dl hermetisk kraft
+- 0,6 dl tørr hvitvin
+- 2 ss tomatpuré
+- Skall fra 1 sitron, skjært i strimler
+- 3 små gulrøtter, finhakket
+- 1 ss persille, hakket
+- 1/4 ts tørket oregano, knust
+- 1/4 ts tørket merian, knust
+- 1/8 ts tørket salvie, knust
 
 ## Fremgangsmåte
 
-1. Roll shanks in mel; brown with hvitløk in hot olje in skillet. tilsett remaining
-2. ingredients to crockpot. rør to bland. tilsett shanks. Cover pot and kok on LOW
-3. for 10 to 12 timer til shanks are tender. garniser with parsley. servér with
-4. pasta
+1. Brun kjøttet i en panne med hvitløk og varm olje.
+2. Tilsett resten av ingrediensene i en slow cooker. Rør godt for å blande. Legg kjøttet i slow cookeren.
+3. Dekk til og kok på lav varme i 10 til 12 timer, til kjøttet er mørt.
+4. Pynt med persille. Server med pasta.
 
 ## Info
 

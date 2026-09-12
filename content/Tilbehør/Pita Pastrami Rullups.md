@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Pita Pastrami Rullups
-
 ## Ingredienser
 
 - 4 mini hel kornpita delt lengdevis

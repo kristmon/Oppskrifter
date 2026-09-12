@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Maistortilla med blomsterkronblader
-
 ## Ingredienser
 
 - 450 g masa-mel
@@ -13,10 +11,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Bland mel og salt i medium miksebolle. Sakte tilsett vann etter behov, og knead forsiktig til glatt tørt masa dannes.
-2. Fjern lite stykke, rull til ball (omtrent halv golfball størrelse). Fortsett til alt masa er brukt. Neste, ta en tortilla press og mellom 2 stykker plastikk, plasser en masa-ball og trykk halvveis.
-3. Åpne nå, fjern plastikk fra show-side av tortillaen, legg kronblader på halvtrykkt tortilla, dekk igjen med plastikk, og fullfør trykking. Fjern tortilla og plasser mellom 2 stykker voksepapir.
-4. Fortsett prosess til alt masa er brukt. På varm panne, fjern 1 stykke voksepapir og plasser rå tortilla på pannen. Kok på en side til gyllent brun, ca. 45 sekunder, så snu og kok i 1 minutt til; serv.
+1. Bland mel og salt i en middels stor bolle. Tilsett gradvis vann etter behov, og elt forsiktig til deigen er glatt og smidig.
+2. Ta en liten bit av deigen, og form den til en ball (omtrent halv storrelse som en golfball). Fortsett til all deigen er brukt. Deretter, bruk en tortillapresse, og plasser en deigball mellom 2 stykker plast. Trykk den halvveis ned.
+3. Åpne nå, fjern plasten fra oversiden av tortillan. Legg kronblader på den halvtrukne tortillan, dekk igjen med plast, og fullfør trykkingen. Fjern tortillan og legg den mellom 2 stykker bakepapir.
+4. Fortsett prosessen til all deigen er brukt. På en varm stekepanne, fjern 1 stykke bakepapir og legg den rå tortillan på pannen. Stek på en side til den er gyllenbrun, ca. 45 sekunder, snu den deretter og stek i 1 minutter; server.
 
 ## Info
 

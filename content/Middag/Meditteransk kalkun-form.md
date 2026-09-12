@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Meditteransk kalkun-form
-
 ## Ingredienser
 
-- 450 g mellanstore eggenulder, ukokta
-- 1 boks (400 ml) lavt natriumkjøttbolje
-- 2,5 dl magermjølk
+- 450 g mellomstore, rå eggeplommer
+- 1 boks (400 ml) kjøttboller med lavt saltinnhold
+- 2,5 dl mager melk
 - 5 ml salt
-- 60 ml stivelsesmel
-- 5 dl hakket stekt kalkun
-- 1 boks (400 g) artiskokkhjerter, avløpt og delt i fjerdedeler
-- 1 glasskonserve (210 g) rostad rød paprika, avløpt og skåret
-- 9 Kalamata-oliver, stengt og skåret
-- 1,2 dl rives delvis magert mozzarella-ost
-- 1,2 dl kvit vin
-- 5 ml fersk sitronjuice
+- 60 ml potetmel
+- 5 dl hakket, stekt kalkun
+- 1 boks (400 g) artiskokkhjerter, avrent og delt i fjerdedeler
+- 1 glass (210 g) ristet rød paprika, avrent og skjært
+- 9 Kalamata-oliver, uten stein og skjært
+- 1,2 dl delvis revet mager mozzarellaost
+- 1,2 dl hvitvin
+- 5 ml fersk sitronsaft
 - 1/2 ts svart pepper
-- Vegetarolje matlagingsspray
-- 30 ml rives Parmesan-ost
+- Vegetabilsk olje, til steking
+- 30 ml revet parmesanost
 
 ## Fremgangsmåte
 
-1. Kok nudelene etter pakningsinstruksjonene; avløp. Rør kjøttboljene, melka, saltet og stivelsesmelkant saman i ei stor gryte eller gryte til stivelsesmelken er oppløyst. Kok over medium varme, rør konstant, til det er tjukt og bobler. Rør inn nudelene, kalkunen, artisjokkhjerta, røde paprikaer, oliver, mozzarella-ost, vin, sitronjuice og pepper.
-2. Varm ovnen til 175 °C. Spray ei 3 liter bake-form med matlagingsspray. Skjé nudelblanding inn i forma. Strø med Parmesan-ost. Bak til det bublar rundt kantane, omtrent 35 minutter. La stå i 5 minutter før servering.
+1 . Kok nudlene etter anvisningene på pakken; sil av vannet. Bland kjøttbollene, melken, saltet og maisenna i en stor kjele til maisenna er oppløst. Kok opp på middels varme, rør jevnlig, til blandingen tykner og bobler. Rør inn nudlene, kalkun, artisjokker, røde paprikaer, oliven, mozzarellaost, vin, sitronsaft og pepper.
+ 2 . Forvarm ovnen til  175  °C. Spray en form på  3  liter med bakepapirspray. Hell nudelblandingen i formen. Strø over parmesanost. Stek i ovnen til det bobler rundt kantene, omtrent  35  minutter. La stå i  5  minutter før servering.
 
 ## Info
 

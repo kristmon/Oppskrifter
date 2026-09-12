@@ -2,17 +2,15 @@
 created: 2026-05-05
 ---
 
-# Salsa Fresca
-
 ## Ingredienser
 
-- 4 medium modne tomater, kjernet, sejet og fint terninget
-- 1/4 rød løk, pressbar
-- 2 jalapeno chili, stilkete, sejet hvis ønsket og pressbar
-- 1 bunt koriander, blader bare hakket
-- 2 ss limejuice
-- 3/4 ts salt
-- 1 snutter frisk malt sort pepper
+- 4 middels store, modne tomater, uten kjerner, most og skjært i små terninger.
+- 1/4 rød løk, presset.
+- 2 jalapeno chili, uten stilk, most hvis ønsket, og presset.
+- 1 bunt koriander, kun blader, finhakket.
+- 2 ss limesaft.
+- 3/4 ts salt.
+- 1 klype nykvernet svart pepper.
 
 ## Fremgangsmåte
 

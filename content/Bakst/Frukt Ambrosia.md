@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Frukt Ambrosia
-
 ## Ingredienser
 
-- 4 medium appelsiner, skalert, delt
-- 2 medium bananer, skåret
-- 1 medium eple, terningskåret
-- 1/2 dl appelsinjus
-- 1/2 dl rasplatt usøtet kokos
+- 4 mellomstore appelsiner, skrelt og delt.
+- 2 mellomstore bananer, i skiver.
+- 1 mellomstort eple, i terninger.
+- 1/2 dl appelsinjuice.
+- 1/2 dl rasplatt, usøtet kokos.
 
 ## Fremgangsmåte
 
-1. Kombiner frukten og appelsinjusen. Skje inn i dessertskåler og strø over med kokos for å serve.
-2. Denne oppskriften gir 10 porsjoner. Porsjonstørrelse: 1/2 dl.
-3. Utbyttepunkter Per Porsjon: 1 Frukt, 1/2 Mettfett.
+1. Bland frukt og appelsinjuice. Fordel i dessertskåler og dryss over med kokos før servering.
+2. Denne oppskriften gir 10 porsjoner. Porsjonsstørrelse: 1/2 dl.
+3. Næringsinnhold per porsjon: 1 frukt, 1/2 mettfett.
 
 ## Info
 

@@ -2,11 +2,9 @@
 created: 2026-05-05
 ---
 
-# Skinke Sandwich Med Nektarin Salsa
-
 ## Ingredienser
 
-- 2 ss Kraft Mayo fettfri majones dressing
+- 2 ss fettfri majones
 - 1/2 ts fersk limonsaft
 - 1 strek malt rødt pepper
 - 1 nektarin, grovt hakket

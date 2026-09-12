@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Honey-Mustard Chicken with Fettuccine
-
 ## Ingredienser
 
-- 18 oz Fettuccine, uncooked, broken in half
-- 1 lb skinless, boneless chicken breasts, sliced in half crosswise
-- 1 large red onion, sliced into 1/2-inch thick rounds
-- 1 Tbs Dijon mustard
-- 2 Tbs honey
-- 2 Tbs flour
-- 1 14 1/2-oz. can low-sodium chicken broth, divided
-- 1/2 cup chutney
-- 2 Tbs white wine vinegar
-- 1 1/2 Tbs chopped parsley
-- 1 bunch scallions, chopped
+- 51 g fettuccine, ukokt, delt i to.
+- 455 g kyllingbryst uten skinn og bein, i skiver, delt på tvers.
+- 1 stor rød løk, i skiver, ca. 1/2 cm tykke.
+- 1 ss dijonsennep
+- 2 ss honning
+- 2 ss mel
+- 1 14 1/2 g kyllingkraft med lavt natriuminnhold, delt opp.
+- 1,2 dl chutney
+- 2 ss hvitvinseddik
+- 1 1/2 ss hakket persille
+- 1 bunt vårløk, hakket.
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; drain.
-2. Preheat broiler. Lay the chicken breasts and onions out on a large cookie sheet. Stir together the mustard and honey and brush it over the chicken and onions. Broil until the chicken is firm and cooked through, about 6 minutes on each side.
-3. In a small bowl, stir together the flour and 1/4 cup of the chicken broth. In a saucepan, bring the remaining chicken broth to a boil. Whisk in the flour mixture and stir until thick. Remove from heat and stir in the chutney, vinegar and parsley.
-4. When chicken is done, slice it and coarsely chop the onion. Toss with the pasta and sauce and sprinkle with scallions. Set 5 cups aside in the refrigerator and serve the remainder immediately.
+1. Kok pastaen etter anvisningene på pakken; sil av vannet.
+2. Forvarm grillen. Legg kyllingbrystene og løken på et stort stekebrett. Bland sennep og honning, og pensle blandingen over kyllingen og løken. Grill til kyllingen er fast og gjennomstekt, ca. 6 minutter på hver side.
+3. I en liten bolle, bland sammen mel og 0,6 dl av kyllingkraften. I en kjele, kok opp resten av kyllingkraften. Rør inn melblandingen og rør til den tykner. Fjern fra varmen og rør inn chutney, eddik og persille.
+4. Når kyllingen er ferdig, skjær den i skiver og hakk løken grovt. Bland med pastaen og sausen, og dryss over vårløk. Sett 12 dl til side i kjøleskapet, og server resten umiddelbart.
 
 ## Info
 

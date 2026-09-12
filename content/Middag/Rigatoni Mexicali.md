@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Rigatoni Mexicali
-
 ## Ingredienser
 
 - 225 g rigatoni
@@ -18,9 +16,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pasta etter pakkedetaljer, og tilsett bouillon granulater. Kok 7 minutter; tilsett kylling og erter. Kok 3 minutter eller til pasta er ferdig eller al dente. Dren fullstendig.
-2. Returner pastasblandingen til kokekar; rør inn tomater, salt, chilipulver og hvitkløkpulver. Kok over lav varme i 5 minutter eller til varmt gjennom. Rør inn ost.
-3. Overfør til en serveringsskål og serveres umiddelbart.
+1. Kok pastaen etter anvisningene på pakken, og tilsett buljongpulver. Kok i 7 minutter; tilsett kylling og erter. Kok i 3 minutter, eller til pastaen er ferdig eller al dente. Hell av vannet helt.
+2. Ha pastasblandingen tilbake i kjelen; rør inn tomater, salt, chilipulver og hvitløkspulver. Kok på svak varme i 5 minutter, eller til alt er gjennomvarmt. Rør inn ost.
+3. Overfør til en serveringsskål og server umiddelbart.
 
 ## Info
 

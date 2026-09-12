@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Rask Kylling og Kløe
-
 *En av de originale "komfortmater" som minner oss om hjemmekooking; dette er en oppskrift for å glede hele familien.*
 
 ## Ingredienser
@@ -17,9 +15,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Tilsett melk til bakerblandingen og persille. Bland bare til bakerblandingen er fuktig. Legg til side.
-2. Forbered saussausblandingen etter pakkedetaljer i stekepanne med deksel. Tilsett kylling og frosne grønnsakene og returner til kok.
-3. Portion 6 store skjeer av kløedeiuen på varm blanding. Reduser varmen, dekk over og trekk i småkoking 10-12 minutter eller til kløene er stekt. Serveres i grunne suppeskoler.
+1 . Tilsett melk til blandingen og persille. Bland bare til blandingen er fuktig. Sett til side.
+ 2 . Forbered sausen i en stekepanne med lokk, i henhold til instruksjonene på pakken. Tilsett kylling og frosne grønnsaker, og sett tilbake på varmen.
+ 3 . Fordel  6  store skjeer av eggeblandingen over den varme blandingen. Reduser varmen, sett på lokk og la det småkoke i  10 - 12  minutter, eller til egget er gjennomstekt. Server i flate suppeskåler.
 
 ## Info
 

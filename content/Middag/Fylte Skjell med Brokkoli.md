@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# Fylte Skjell med Brokkoli
-
 ## Ingredienser
 
-- 24 Jumbo-skjell, ukokt
-- 1 pakke (280 g) frosset hakket brokkoli, tint
-- 2,5 dl ricottaost med delvis skummet melk
-- 1 dl hakket sveitsisk ost
-- 1 ss reven løk
-- 2 bokser (ca. 415 g hver) knust tomat
+- 24 store sjøskjell, ukokt
+- 1 pakke (280 g) frossen, finhakket brokkoli, tint
+- 2,5 dl ricottaost med redusert fettinnhold
+- 1 dl revet sveitserost
+- 1 ss finhakket løk
+- 2 bokser (ca. 415 g hver) hakkede tomater
 - 1/2 ts tørket basilikum
 - 1/2 ts tørket oregano
-- Salt og fersk malt svart pepper etter smak
+- Salt og ferskmalt svart pepper etter smak.
 
 ## Fremgangsmåte
 

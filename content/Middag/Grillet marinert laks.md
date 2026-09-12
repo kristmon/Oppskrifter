@@ -4,9 +4,9 @@ created: 2020-09-21
 
 ![[Bilder/Grillet marinert laks.jpg|300]]
 
-**Porsjoner**: 6  
-**Tid**: 35 min (15 prep + 20 cook)  
-**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/109297/cedar-planked-salmon/)  
+**Porsjoner**: 6
+**Tid**: 35 min (15 prep + 20 cook)
+**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/109297/cedar-planked-salmon/)
 **Plan to Eat-tag**: Fisk
 
 ## Ingredienser

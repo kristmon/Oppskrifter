@@ -6,23 +6,23 @@ created: 2026-05-05
 
 ## Ingredienser
 
-- 12 oz Fettuccine, uncooked
-- 1 lb fresh baby carrots
-- 1 10-oz. bag frozen pearl onions
-- 1 lb beef tenderloin tips or steaks, cut into 1/2-inch pieces
-- 1/4 cup all-purpose flour
-- 1/2 tsp salt
-- 1/2 tsp freshly ground black pepper
-- 2 Tbs margarine
-- 2 tsp minced garlic
-- 1 10 1/2-oz. can double-strength beef broth, undiluted
-- 1/3 cup dry red wine such as cabernet sauvignon
-- 1 1/2 tsp dried thyme leaves
-- Chopped fresh thyme or Italian parsley (optional)
+- 34 g fettuccine, ukokt
+- 455 g ferske små gulrøtter
+- 1 10-g pose med frosne, små løk
+- 455 g storfekjøtt, enten i biter eller i stykker, kuttet i 1/2-cm store biter
+- 0,6 dl hvetemel
+- 1/2 ts salt
+- 1/2 ts ferskmalt svart pepper
+- 2 ss margarin
+- 2 ts finhakket hvitløk
+- 1 10 1/2-g boks med kraftig oksekraft, ufortynnet
+- 0,8 dl tørr rødvin, for eksempel cabernet sauvignon
+- 1 1/2 ts tørkede timianblader
+- Hakket fersk timian eller italiensk persille (valgfritt)
 
 ## Fremgangsmåte
 
-1. Cook pasta according to package directions. Add carrots during last 5 minutes of cooking time. Meanwhile, thaw onions in microwave oven at high power about 2 minutes or in a bowl of cool water; drain. Combine flour, salt and pepper in a plastic bag. Add half of beef to bag; shake to coat. Melt 1 tablespoon margarine in a large, deep nonstick skillet over medium-high heat; add floured beef. Quickly brown beef, turning once, about 2 minutes. Transfer to plate and set aside. Melt remaining tablespoon of margarine in skillet; repeat browning with remaining beef, reserving any flour mixture in bag. Transfer beef to same plate. Add garlic to drippings in skillet; cook 2 minutes, stirring occasionally. Add any remaining flour; mix well. Add beef broth, thawed pearl onions, wine and thyme to skillet; bring to a boil. Stir in reserved beef. Simmer uncovered about 4 minutes or until beef is pink in center and sauce has thickened slightly. Drain pasta and carrots; arrange in shallow soup bowls. Toss pasta with beef mixture; sprinkle with fresh thyme or parsley if desired
+1. Kok pastaen etter anvisningene på pakken. Tilsett gulrøtter de siste 5 minuttene av koketiden. I mellomtiden, tin løk i mikrobølgeovn på høy effekt i ca. 2 minutter, eller i en bolle med kaldt vann; hell av vannet. Bland mel, salt og pepper i en plastpose. Tilsett halvparten av kjøttet i posen; rist for å dekke kjøttet med blandingen. Smelt 1 ss smør i en stor, dyp stekepanne over middelhøy varme; tilsett kjøttet som er dekket med melblandingen. Brun kjøttet raskt, snu en gang, i ca. 2 minutter. Overfør til et fat og sett til side. Smelt resten av smøret i pannen; gjenta bruningen med resten av kjøttet, og sett til side eventuell melblanding som er igjen i posen. Overfør kjøttet til samme fat. Tilsett hvitløk i stekepannen med kraften som er igjen; stek i 2 minutter, rør av og til. Tilsett eventuell melblanding som er igjen; bland godt. Tilsett kraft, tinte perleløk, vin og timian i pannen; kok opp. Rør inn kjøttet som er satt til side. La det småkoke uten lokk i ca. 4 minutter, eller til kjøttet er rosa i midten og sausen har tyknet litt. Sil pastaen og gulrøttene; fordel dem i lave suppeboller. Bland pastaen med kjøttblandingen; dryss over frisk timian eller persille, om ønskelig.
 
 ## Info
 

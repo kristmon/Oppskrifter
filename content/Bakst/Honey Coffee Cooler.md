@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Honey Coffee Cooler
-
 ## Ingredienser
 
-- 2 Tbs granulated instant coffee
-- 1/4 cup boiling water
-- 1/4 cup honey
-- 1 stick cinnamon
-- 3/4 cup cold water
-- ice cubes
-- 1 quart milk
+- 2 ss granulert, frysetørket kaffe
+- 0,6 dl kokende vann
+- 0,6 dl honning
+- 1 kanelstang
+- 1,8 dl kaldt vann
+- isbiter
+- 1 liter melk
 
 ## Fremgangsmåte
 
-1. Dissolve coffee granules in boiling water in a medium bowl.
-2. Add honey and mix well. Add cinnamon stick, stir in cold water.
-3. Refrigerate. Fill a 12-ounce glass with ice cubes.
-4. Add 1/4 cup coffee concentrate and fill glass with milk.
+1. Løs opp kaffegruter i kokende vann i en middels stor bolle.
+2. Tilsett honning og rør godt. Tilsett en kanelstang, og rør inn kaldt vann.
+3. Sett i kjøleskapet. Fyll et glass på 12 desiliter med isbiter.
+4. Tilsett 0,6 desiliter kaffekonsentrat og fyll glasset med melk.
 
 ## Info
 

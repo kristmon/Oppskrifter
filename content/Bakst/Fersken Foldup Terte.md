@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Fersken Foldup Terte
-
 ## Ingredienser
 
 - 750 ml hakket frisk kalifornisk fersken
@@ -16,12 +14,12 @@ created: 2026-05-05
 ## Fremgangsmåte
 
 1. Forvarm ovnen til 190°C.
-2. I en bolle kombinerer du ferske, sukker og mel og tøffing til blandet. Tilsett sitronsaft og rør for å kombinere.
+2. Bland fersken, sukker og mel i en bolle. Tilsett sitronsaft og rør sammen.
 3. På overflaten spredt med mel ruller du ut butterdeigsdeigen til en 38 cm rund ca. 6 mm tykk.
-4. Plasser deiuen på usmurt bakebrikke og skje ferske inn i midten, og legger om 5 cm ubedekket omkring omkretsen. Frukten vil være stablet høyt, men vil redusere i volum når den koker.
-5. Fold de ubedekte kantene på deiuen opp for å dekke så mye av frukten som mulig, knipe og tuck deiuen etter behov.
-6. Dot toppen av frukten med smørbiter.
-7. Bak til deiuen er oppfløyd og gyllenbrun, ca. 30 minutter. Ikke underbak.
+4. Legg deigen på et usmurt stekebrett og fordel ferskenfyllet i midten. La ca. 5 cm av kanten være fri. Frukten vil synke sammen under stekingen.
+5. Brett den frie deigkanten opp over frukten og klem den sammen der det trengs.
+6. Fordel smørbitene over frukten.
+7. Stek til deigen er luftig og gyllen, ca. 30 minutter.
 8. Serveres varmt, kutt i kiler.
 
 ## Info

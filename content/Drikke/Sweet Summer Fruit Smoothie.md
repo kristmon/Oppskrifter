@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# Sweet Summer Fruit Smoothie
-
 ## Ingredienser
 
-- One 8-oz. container vanilla low-fat yogurt
-- 1-1/2 cups peeled, sliced ripe peaches, nectarines or other fruits
-- 2 Tbs honey
-- 1/4 cup wheat germ
+- Én 8-oz. beholder med mager vanilje yoghurt.
+- 1-1,2 dl skrelt og skivet moden frukt, for eksempel fersken, nektariner eller annen frukt.
+- 2 ss honning.
+- 0,6 dl hvetekim.
 
 ## Fremgangsmåte
 
-1. Place all ingredients in blender container; cover. Blend or process on high speed about 1 minute or until smooth.
-2. Pour smoothie into 2 glasses and, if desired, sprinkle with additional wheat germ.
+1. Ha alle ingrediensene i blenderen; legg lokket på. Kjør blenderen på høy hastighet i omtrent 1 minutt, eller til blandingen er jevn.
+2. Hell smoothie i to glass, og dryss eventuelt over litt ekstra hvete.
 
 ## Info
 

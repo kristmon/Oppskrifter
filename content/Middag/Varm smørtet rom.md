@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Varm smørtet rom
-
 ## Ingredienser
 
 - 250 ml smør

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Storfekjøtt og Eggplant Casserole
-
 ## Ingredienser
 
 - 1 kg malt storfekjøtt
@@ -16,10 +14,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. forvarme ovn til 350 grader.
-2. I en stekepanne brun malt storfekjøtt, hakket løk og Italian krydring; tapp.
-3. Kok skalett, kutt i terninger eggplant i vann til mørt; tapp.
-4. I en baking rett, kombiner den malt storfekjøtt, den kokt eggplant, fyling bland, og krydret salt. Topp med revnet cheddar ost og bak for 15 minutter.
+1. Forvarm ovnen til 350 grader.
+2. I en stekepanne, stek kjøttdeig, hakket løk og italiensk krydder; sett til side.
+3. Kok skallet, og skjær aubergine i terninger. Legg i vann til den er mør; sett til side.
+4. I en ildfast form, bland kjøttdeig, kokt aubergine, fyllingsblandingen og krydder med salt. Topp med revet cheddarost og stek i 15 minutter.
 
 ## Info
 

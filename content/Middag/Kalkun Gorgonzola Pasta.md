@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Kalkun Gorgonzola Pasta
-
 ## Ingredienser
 
-- 90 ml olivenoljer
-- 4 fedd hvitløk nylig hakket
-- 30 ml kalamata oliven steinet og skåret
-- 60 ml hele blad spinat vasket og tørket
-- 30 ml tørt hvitvin
-- 225 g solstekt tomat kalkun bryst, skåret i 2,5 cm strimler
-- 450 g svart pepperlinguini kokt
+- 90 ml olivenolje
+- 4 fedd fersk hvitløk, finhakket
+- 30 ml kalamataoliven, uten stein og i skiver
+- 60 ml ferske spinatblader, vasket og tørket
+- 30 ml tørr hvitvin
+- 225 g soltørket kalkunbryst, skjært i strimler på 2,5 cm
+- 450 g svart pepperlinguini, kokt
 - salt, etter smak
 - pepper, etter smak
-- 85 g Gorgonzola ost knust
+- 85 g Gorgonzolaost, smuldret
 
 ## Fremgangsmåte
 
-1. Varm oljen i en wokpanne. Tilsett hvitløk, oliven og spinat. Stekk til oljen blir duftig, fortsett å stekke til spinaten er visnet. Tilsett vinen og fortsett å stekke i 1 minutt.
-2. Tilsett kalkunen og kokt pasta; stekk til varmt gjennom, krydder etter smak.
-3. Overført til en ovnsikker bakefat og toppes med Gorgonzola ost. Plasser skålen under grillere for å smelte osten.
-4. Serveres umiddelbart.
+1. Varm oljen i en wok. Tilsett hvitløk, oliven og spinat. Stek til oljen dufter, og fortsett å steke til spinaten faller sammen. Tilsett vinen og stek videre i 1 minutt.
+2. Tilsett kalkun og kokt pasta; stek til alt er gjennomvarmt, og smak til med krydder.
+3. Hell blandingen over i en ovnsfast form og topp med Gorgonzola-ost. Sett formen under grillen for å smelte osten.
+4. Serveres straks.
 
 ## Info
 

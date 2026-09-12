@@ -1,7 +1,7 @@
 ---
 created: 2025-09-20
 ---
-**Porsjoner**: 4  
+**Porsjoner**: 4
 **Tid**: 30 min
 
 ## Ingredienser
@@ -22,10 +22,10 @@ created: 2025-09-20
 
 ## Fremgangsmåte
 
-1. Kok egg i 6-7 minutter, avkjøl i kaldt vann og skrell.
-2. Kok nudler etter anvisning på pakken.
-3. Del kyllingfilet i biter. Fres i olje i en kjele til gjennomstekt, ta ut og sett til side.
-4. Fres hakket hvitløk, finhakket chili og revet ingefær i litt olje. Tilsett kyllingkraft, soyasaus og misopasta. La småkoke i 10 minutter.
-5. Ha kyllingen tilbake i suppen, smak til med mer soyasaus ved behov.
-6. Fordel nudler i boller. Hell over suppe og kylling.
-7. Topp med spinat, vårløk i skiver, koriander og halverte egg.
+1 . Kok egg i  6 - 7  minutter, avkjøl i kaldt vann og skrell.
+2 . Kok nudlene etter anvisningene på pakken.
+3 . Del kyllingfileten i biter. Stek i olje i en kjele til de er gjennomstekt. Ta ut og sett til side.
+4 . Fres finhakket hvitløk, finhakket chili og revet ingefær i litt olje. Tilsett kyllingkraft, soyasaus og misopasta. La det småkoke i  10  minutter.
+5 . Ha kyllingen tilbake i suppen, smak til med mer soyasaus om nødvendig.
+6 . Fordel nudlene i bollen. Hell over suppen og kyllingen.
+7 . Topp med spinat, i skiver skjært vårløk, koriander og halverte egg.

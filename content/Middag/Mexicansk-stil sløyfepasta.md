@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Mexicansk-stil sløyfepasta
-
 ## Ingredienser
 
 - 225 g sløyfepasta, albueskjell eller annan mellanstørrel pastaform, ukokt

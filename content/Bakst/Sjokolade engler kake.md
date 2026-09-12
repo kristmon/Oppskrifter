@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Sjokolade engler kake
-
-*Dette Dessert er perfect for Valentine's Day eller noen special occasion.*
+Denne desserten passer godt til valentinsdagen eller andre spesielle anledninger.
 
 ## Ingredienser
 
-- 1 (16-g) pakke angel food cake bland
-- 1/2 dl unsweetened kakao
-- 1-1/2 dl plus 2 ss hot fudge topping, delt
-- 2 dl pisket topping, delt
-- 1 (21-g) hermetikk kirsebær pie filling, delt
+- 1 pakke kakemiks til englekake
+- 1/2 dl usøtet kakaopulver
+- 1-1/2 dl pluss 2 ss varm sjokoladesaus, delt
+- 2 dl krem, vispet, delt
+- 1 boks kirsebærfyll, delt
 
 ## Fremgangsmåte
 
-1. Prepare cake bland ifølge til pakke instruksjoner, mixing kakao med dry ingredienser. skje batter evenly inn i en ungreased 10-cm tube panne. Bak i en preheated 350-grader ovn som directed på den pakke. La kjøl ned som pakke directs.
-2. Når cake er helt cooled, forsiktig fjern fra panne. Kutt horizontally i half. Plasser en half, kutt side up, på servering fett. Smør med 3/4 dl fudge topping. (Gjør ikke varm topping.) Dekk med 1 dl pisket topping, så half av den kirsebær pie filling.
-3. Plasser den annen half av den cake over cherries, kutt side down. Smør med 3/4 dl fudge topping. Dekk med resterende 1 dl pisket topping og resterende kirsebær pie filling. Kjøl 1 time. Bare før servering, drypper resterende 2 ss fudge topping over kirsebær pie filling.
+1. Tilbered kakemiksen etter anvisningen på pakken, og bland kakaopulveret med de tørre ingrediensene. Fordel røren jevnt i en usmurt randform. Stek etter anvisningen på pakken og avkjøl helt.
+2. Løsne kaken forsiktig fra formen og del den vannrett i to. Legg den nederste delen med snittflaten opp på et serveringsfat. Smør på 3/4 dl sjokoladesaus uten å varme den. Fordel 1 dl pisket krem og halvparten av kirsebærfyllet over.
+3. Legg den andre kakedelen oppå med snittflaten ned. Fordel 3/4 dl sjokoladesaus, resten av kremen og resten av kirsebærfyllet over. Avkjøl i 1 time. Drypp de siste 2 ss sjokoladesaus over rett før servering.
 
 ## Info
 

@@ -2,29 +2,27 @@
 created: 2026-05-05
 ---
 
-# Dutch Dill Bread
-
-*Taste the pungent combination of caraway, dill and yogurt in this special rye bread.*
+Smak på den kraftfulle kombinasjonen av karve, dill og yoghurt i dette spesielle rugbrødet.
 
 ## Ingredienser
 
-- 1-1/2 tsp active dry yeast
-- 1-3/4 cup whole wheat flour
-- 1 tsp salt
-- 1 tsp dill seeds
-- 1 tsp dill weed
-- 1 tsp caraway seeds
-- 3/4 cup yogurt
-- 1/2 cup water
-- 2 Tbs honey
-- 2 Tbs oil
-- 3/4 cup rye flour
+- 1-1/2 tørgjær
+- 1-1,8 fullkornshvetemel
+- 1 teskje salt
+- 1 teskje dillfrø
+- 1 teskje dill
+- 1 teskje karvefrø
+- 1,8 dl yoghurt
+- 1,2 dl vann
+- 2 ss honning
+- 2 ss olje
+- 1,8 dl rugmel
 
 ## Fremgangsmåte
 
-1. Place all ingredients except rye flour into pan in order listed.
-2. Select "NORMAL" program. Press "START." After bread machine has completed first kneading, press "STOP/RESET." Press "START" again.
-3. After bread machine has completed first kneading again, lift lid and add rye flour. Rye flour will be kneaded into dough during second kneading cycle.
+1.  Ha alle ingrediensene bortsett fra rugmel i beholderen, i den rekkefølgen de er oppført.
+2.  Velg "NORMAL"-programmet. Trykk på "START." Når brødmaskinen er ferdig med første elting, trykk på "STOPP/TILBAKESTILL." Trykk på "START" igjen.
+3.  Når brødmaskinen er ferdig med å elte første gang, løft lokket og tilsett rugmelet. Rugmelet vil bli eltet inn i deigen under andre eltesyklus.
 
 ## Info
 

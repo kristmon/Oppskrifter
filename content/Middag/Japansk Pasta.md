@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Japansk Pasta
-
 ## Ingredienser
 
 - 450 g Spaghetti eller Linguine, ukokt
@@ -15,8 +13,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonene; avløp.
-2. I en ikke-klebrig panne, braisér flankesteaken over høy varme. Hvis den begynner å klebe, tilsett litt sojakilde, ett ss om gangen. Når steaken er gjennomstekt, reduser varmen til medium-lav og tilsett sojakilde, rød paprika, gulrøtter og grønn løk. Øk varmen til medium-høy og kok tre minutter. Blan med pastaen og server.
+1. Kok pastaen etter anvisningene på pakken; sil av vannet.
+2. I en stekepanne med slippbelegg, brunes flatbiff over høy varme. Hvis den begynner å sette seg fast, tilsett litt soyasaus, en spiseskje om gangen. Når biffen er gjennomstekt, reduser varmen til middels lav og tilsett soyasaus, rød paprika, gulrøtter og vårløk. Øk varmen til middels høy og la det koke i tre minutter. Bland med pastaen og server.
 
 ## Info
 

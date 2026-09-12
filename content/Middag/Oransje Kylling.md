@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Oransje Kylling
-
 ## Ingredienser
 
-- 6 kyllingbryst -- benet og hudløst
+- 6 kyllingbryst – uten ben og uten skinn
 - 1/2 ts ingefær
 - 1 ts salt
 - Pepper
-- 225 g fryst konsentrat appelsinjuice
-- 375 ml rifflet kokosnøtt
-- 500 ml appelsinsegmenter eller hermetisk, mandarinappelsiner
-- 2 grønne løk, hakket
+- 225 g fryst appelsinjuicekonsentrat
+- 375 ml kokosmelk
+- 500 ml appelsinsegmenter eller hermetisk mandarin
+- 2 stilker vårløk, finhakket
 
 ## Fremgangsmåte
 
-1. Legg kylling, ingefær, salt, pepper og fryst appelsinjuice i langkoker og kok på lavt nivå i 6 timer. Serveres kylling på varmt kokt ris på serveringsfat.
-2. Top med kokosnøtt, appelsinsegmenter og grønn løk. Serveres kyllingvæske i gravysaus, hvis ønsket.
+1. Legg kylling, ingefær, salt, pepper og frossen appelsinjuice i en slow cooker, og kok på lav varme i 6 timer. Server kyllingen over varmt kokt ris på et serveringsfat.
+2. Topp med kokosnøtt, appelsinbåter og finhakket vårløk. Server kyllingsausen som saus, hvis ønskelig.
 
 ## Info
 

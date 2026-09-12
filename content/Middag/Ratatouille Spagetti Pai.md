@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Ratatouille Spagetti Pai
-
 ## Ingredienser
 
 - 225 g Spaghetti, Linguine eller Tynnt Spaghetti, ukokt
@@ -25,9 +23,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Tilbered pasta etter pakningens anvisning; hell av. Bland varm pasta med melk og eggeerstatter. Dekk en bakefat på ca. 33x23 cm med kokesprayen. Tilsett pasta, trykk ned til et jevnt lag.
-2. I en stor stekepanne, varm oljen over medium-høy varme. Tilsett løk, aubergine, squash, paprikafrukt og hvitløk; bland godt. Dekk; simr over medium varme i 10 minutter eller til grønnsakene er mørkent-sprø, stir en gang. Tilsett tomat, tomatpasta og varme røde chiliflak; bland godt. Simr udekket i 8 minutter, stir av og til. Fjern fra varmen; rør inn basilikum.
-3. Varm ovnen til 220°C. Skje grønnsaksblandingen jevnt over pastaen. Lag pepperoni på toppen. Kombiner ost og brødkrummer; strø over grønnsakene. Bak i 15 minutter eller til det er varmet gjennom. La stå i 5 minutter før servering.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet. Bland den varme pastaen med melk og erstatning for egg. Kle et ildfast fat på ca. 33x23 cm med formfett. Fordel pastaen i fatet, press den ned til et jevnt lag.
+2. I en stor stekepanne, varm oljen på middels høy varme. Tilsett løk, aubergine, squash, paprika og hvitløk; bland godt. Dekk til; la det småkoke på middels varme i 10 minutter, eller til grønnsakene er møre og sprø – rør en gang. Tilsett tomat, tomatpuré og chiliflak; bland godt. La det småkoke uten lokk i 8 minutter, rør av og til. Fjern fra varmen; rør inn basilikum.
+3. Forvarm ovnen til 220°C. Fordel grønnsaksblandingen jevnt over pastaen. Legg pepperoni på toppen. Bland ost og brødsmuler; strø over grønnsakene. Stek i 15 minutter, eller til den er gjennomvarm. La den hvile i 5 minutter før servering.
 
 ## Info
 

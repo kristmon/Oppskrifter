@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Lone Star Steak og Pasta
-
 ## Ingredienser
 
 - 450 g Rotini eller annen mellanstørrel pastaform
@@ -22,9 +20,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonene. Medan pastaen koker, trim fett frå steaken og skjer lengst i to og deretter på tvers i 3 mm tjukke strimlar. Varm olje i ei stor ikke-klebrig panne over medium-høg varme. Tilsett steak, halvparten om gongen og kok 1-2 minutter eller til utansidesida ikkje lenger er rosa. Fjern steak og set til side.
-2. I same panne, tilsett limejuice, tomatar og chiliar, sorte bønner, grøn paprika, mais, løk, koriander, hvitløk, kommen, og salt. Kok og rør til det er varmt. Tilsett det steikja kjøttet og kok til det er varmt gjennom.
-3. Server med steak og grønnsakblanding over pasta.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, skjær fettet fra biffen og skjær den i to, og deretter i strimler på ca. 3 mm tykkelse. Varm olje i en stor, stekepanne med slippbelegg over middels høy varme. Tilsett biff, i porsjoner, og stek i 1-2 minutter, eller til overflaten ikke lenger er rosa. Fjern biffen og sett den til side.
+2. I samme stekepanne, tilsett limesaft, tomater og chili, svarte bønner, grønn paprika, mais, løk, koriander, hvitløk, spisskummen og salt. Kok opp og rør til det er varmt. Tilsett den stekte kjøttet og kok til alt er gjennomvarmt.
+3. Server med stekt kjøtt og grønnsaksblandingen over pastaen.
 
 ## Info
 

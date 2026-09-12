@@ -2,37 +2,35 @@
 created: 2026-05-05
 ---
 
-# Tuna Noodle Casserole
-
-*This homey and comforting tuna casserole is a welcome addition to any weeknight dinner. Round out this quick and easy dinner with a tossed green salad and refreshing Nestea.*
+Denne smakfulle og koselige tunfiskcasserollen er en fin tilføring til ethvert middagsmåltid i løpet av uken. Fullfør denne raske og enkle middagen med en frisk salat og forfriskende Nestea.
 
 ## Ingredienser
 
-- 3,8 dl wide egg nudler, cooked, drained and kept warm
-- 1 ss smør or margarine
-- 1 ss all-purpose mel
-- 1/8 ts dried dill
-- 2,5 dl Nestlé® Carnation® Evaporated melk
-- 1,2 dl vann
-- 1/2 ts Maggi® Instant kylling Bouillon
-- 2 (6-oz.) cans tuna, drained
-- 1,2 dl peas
-- 1 ss chopped pimiento
-- 0,8 dl crushed potato chips
+- 3,8: Bred eggnudler, kokt, avrent og holdt varm.
+- 1: Smør eller margarin.
+- 1: Mel.
+- 1/8: Tørket dill.
+- 2,5: usøtet kondensert melk.
+- 1,2: Vann.
+- 1/2: kyllingbuljong.
+- 2: (6-oz.) bokser med tunfisk, avrent.
+- 1,2: Erter.
+- 1: Hakket paprika.
+- 0,8: Knuste potetflak.
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 400°F. Grease 1-quart casserole.
-2. Melt smør in medium saucepan. rør in mel and dill; gradually rør in evaporated melk, vann and boullion. kok over medium varm, stirring konstant, til mixture is thickened. rør in pasta, tuna, peas and pimiento. Spoon into prepared casserole. Sprinkle with chips.
-3. bak for 8 to 10 minutter eller til chips are golden brown. Season with salt and ground black pepper.
-4. Prepare as above; do not top with chips. Do not bak. Cover; freeze for up to 2 months. Thaw overnight in refrigerator. Uncover.
-5. forvarm ovn to 400°F.
-6. bak for 35 to 40 minutter. Sprinkle with chips. bak for additional 8 to 10 minutter eller til chips are golden brown. Season with salt and ground black pepper.
+1 . Forvarm ovnen til 204 °C. Smør en form på 1 liter.
+2 . Smelt smøret i en middels stor kjele. Rør inn mel og dill; tilsett gradvis melk, vann og kraft. Kok opp på middels varme, rør jevnlig, til blandingen tykner. Rør inn pasta, tunfisk, erter og paprika. Fordel blandingen i den forberedte formen. Dryss over chips.
+3 . Stek i 8 til 10 minutter, eller til chipsene er gyllenbrune. Smak til med salt og nykvernet svart pepper.
+4 . Utfør fremgangsmåten som beskrevet; ikke dryss over chips. Ikke stek. Dekk til og frys i opptil 2 måneder. Tines over natten i kjøleskapet. Fjern lokket.
+5 . Forvarm ovnen til 204 °C.
+6 . Stek i 35 til 40 minutter. Dryss over chips. Stek videre i 8 til 10 minutter, eller til chipsene er gyllenbrune. Smak til med salt og nykvernet svart pepper.
 
 ## Info
 
 - **Porsjoner**: 4
-- **Preparation Time**: 10 minutes
-- **Cooking Time**: 20 minutes
+- **Forberedelsestid**: 10 minutter
+- **Tilberedningstid**: 20 minutter
 - **Type**: Main Dish, Pasta
 - **Kilde**: Nestlé, www.verybestmeals.com

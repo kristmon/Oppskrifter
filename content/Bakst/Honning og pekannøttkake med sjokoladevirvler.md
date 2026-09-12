@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Honning og pekannøttkake med sjokoladevirvler
-
 ## Ingredienser
 
 - 300 ml honning, delt opp
-- 240 ml finhakket stekte pekannøtter
-- 120 ml tørket tranebær
-- 120 ml (85 g) halvblandet sjokoladebiter
-- 30 ml usøtet kakao
+- 240 ml finhakkede, ristede pekannøtter
+- 120 ml tørkede tranebær
+- 120 ml (85 g) sjokoladebiter, delvis smeltet
+- 30 ml usøtet kakaopulver
 - 6 egg, separert
 - 175 ml matzomel
-- 90 ml kartoffelstivelse
+- 90 ml potetmel
 - 2 ml salt
 
 ## Fremgangsmåte
 
-1. I en medium bolle blander du sammen 120 ml honning, pekannøtter, tranebær, sjokoladebiter og kakao. I en annen bolle blander du resten av honningen (175 ml), eggeplommer, matzomel, kartoffelstivelse og salt.
-2. I en liten bolle pisker du eggeklarer til myke topper dannes. Fold 1/4 av eggeklar-blandingen ned i eggeplomme-blandingen. Bland så eggeplomme-blandingen tilbake i resten av eggeklarer.
-3. Spre 1/3 av kakedeigen i en smurt springform på 23 cm. Legg halvparten av pekannøtt-blandingen på toppen. Gjenta med resten av kakedeig og nøtt-blanding.
-4. Bruk en skje til å virvle fyllninga forsiktig inn i kakedeigen.
-5. Bak ved 160 °C i 45 minutter, eller til kaken begynner å løsne fra sidene av pannen og en tannpirker stukket nær midten kommer ut ren. Kjøl av i 10 minutter, ta ut av pannen og kjøl helt på en stekebrett.
-6. Server varm eller ved romtemperatur.
+1 . I en middels stor bolle blander du sammen 120 ml honning, pekannøtter, tranebær, sjokoladebiter og kakaopulver. I en annen bolle blander du resten av honningen ( 175 ml), eggeplommer, matzomel, potetmel og salt.
+ 2 . I en liten bolle piskes eggehvitene til myke topper. Vend forsiktig 1/4 av eggehviteblandingen inn i eggeplommeblandingen. Bland deretter eggeplommeblandingen tilbake i resten av eggehvitene.
+ 3 . Fordel 1/3 av kakeblandingen i en smurt springform på 23 cm. Legg halvparten av nøtteblandingen over. Gjenta med resten av kakeblandingen og nøtteblandingen.
+ 4 . Bruk en skje til å forsiktig virvle fyllet inn i kakeblandingen.
+ 5 . Stekes ved 160 °C i 45 minutter, eller til kaken begynner å løsne fra kantene av formen og en kakepinne stukket nær midten kommer ut ren. Avkjøl i 10 minutter, ta ut av formen og avkjøl helt på et stekebrett.
+ 6 . Serveres varm eller ved romtemperatur.
 
 ## Info
 

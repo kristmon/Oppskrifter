@@ -2,22 +2,20 @@
 created: 2026-05-05
 ---
 
-# Hvitløk Potetmos
-
 ## Ingredienser
 
-- 4 medium poteter, skalert, terningskåret
-- 7 hvitløksklyng, finhakket
-- 1/3 dl fettfri (skummet) melk, oppvarmet
-- 1/2 dl fettfri surmelk
-- 2 ss fettredusert margarin
-- Salt, (valgfritt), etter smak
-- Ferskmalte svart pepper, (valgfritt), etter smak
+- 4 middels store poteter, skrelt og i terninger.
+- 7 fedd hvitløk, finhakket.
+- 1/3 dl mager melk, varmet opp.
+- 1/2 dl mager smør.
+- 2 ss mager margarin.
+- Salt, (valgfritt), etter smak.
+- Nymalt svart pepper, (valgfritt), etter smak.
 
 ## Fremgangsmåte
 
-1. Kok potetene over medium varme til de er møyke og drenerer dem.
-2. Tilsett hvitløk og mas potetene. Tilsett melk, surmelk, margarin, salt og pepper og bland godt til glatt.
+1. Kok potetene på middels varme til de er myke, og sil av vannet.
+2. Tilsett hvitløk og mos potetene. Tilsett melk, rømme, smør, salt og pepper, og bland godt til du får en jevn potetmos.
 
 ## Info
 

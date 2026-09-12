@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Ananas 'n' Skinke Sandwich Rullups
-
 ## Ingredienser
 
 - 6 maistortilla (ca. 15 cm)

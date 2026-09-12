@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Gourmet-sopp-fettuccini
-
 ## Ingredienser
 
 - 450 g fettuccini

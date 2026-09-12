@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning krydret cider
-
 ## Ingredienser
 
 - 1 stor sitron, kutt i half
@@ -16,12 +14,12 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kutt two slices (1/4-cm thick) fra hver sitron og appelsin half.
-2. Insert hele nellikker inn i slices; sett til side. Squeeze saft fra remainder av fruit halves inn i en Medium non-reactive kasserolle.
-3. Rør i apple saft og honning; bland godt.
-4. Tilsett kanel sticks, ingefær og reserved fruit slices.
-5. Bring bare til en kok over Medium høy varm.
-6. Servér immediately i en heatproof servering bolle.
+1 . Kutt to skiver ( 1/4 cm tykke) fra hver sitron- og appelsinhalvdel.
+ 2 . Plasser hele nelliker i skivene; sett til side. Press saften fra resten av fruktkjøttet over i en middels stor, ikke-reagerende kjele.
+ 3 . Rør inn eplesaft og honning; bland godt.
+ 4 . Tilsett kanelstenger, ingefær og de reserverte fruktskivene.
+ 5 . Varm opp til det koker, på middels høy varme.
+ 6 . Server umiddelbart i en varmebestandig serveringsbolle.
 
 ## Info
 

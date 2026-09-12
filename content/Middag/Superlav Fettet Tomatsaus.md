@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Superlav Fettet Tomatsaus
-
 ## Ingredienser
 
 - 1 boks (950 g) plommetomat, udrenert

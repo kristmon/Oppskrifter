@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Stekt kylling med urter og sjalottes
-
 *Duften av urter som småkoker vil fylle kjøkkenet ditt når du tilbereder denne deilige retten.*
 
 ## Ingredienser
@@ -26,9 +24,9 @@ created: 2026-05-05
 ## Fremgangsmåte
 
 1. Forvarm ovnen til 175°C.
-2. Dekk kyllinglårene i mel.
-3. Varm olivenolje i stor ovnsikker grytepanne med lokk. Tilsett sjalottes og la dem brunne. Tilsett kylling og sear på hver side, ca. 2 minutter per side. Tilsett hvitløk og sauté ca. 1 minutt, eller til du kan lukte duften. Tilsett 50 ml kyllingbuljong og eddik og kook til redusert med ca. halvparten, 2-3 minutter. Tilsett kyllingbuljong, rosmarin, timian, basilikum, majoram, salt og pepper. Varm til kooking. Dekk til og bak 20-30 minutter, eller til kyllingen er mør.
-4. Fjern fra ovnen. Skje litt av sausen på toppen, og serv resten av sausen på siden.
+2. Vend kyllinglårene i mel.
+3. Varm olivenolje i en stor, ovnsikker stekepanne med lokk. Tilsett sjalottløk og la dem brunes. Tilsett kylling og brun på hver side, ca. 2 minutter per side. Tilsett hvitløk og stek videre i ca. 1 minutt, eller til du kan kjenne duften. Tilsett 50 ml kyllingkraft og eddik, og kok til væsken er redusert med omtrent halvparten, i 2-3 minutter. Tilsett kyllingkraft, rosmarin, timian, basilikum, oregano, salt og pepper. Kok opp. Sett på lokket og stek i 20-30 minutter, eller til kyllingen er gjennomstekt.
+4. Ta ut av ovnen. Fordel litt av sausen over kyllingen, og server resten av sausen ved siden av.
 
 ## Info
 

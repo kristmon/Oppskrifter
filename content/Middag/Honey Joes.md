@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Honey Joes
-
 ## Ingredienser
 
-- 0,6 dl chopped løk
-- 0,6 dl chopped selleri
-- 0,6 dl grated gulrøtter
-- 2 ss vegetarolje
+- 0,6 dl hakket løk
+- 0,6 dl hakket selleri
+- 0,6 dl revet gulrot
+- 2 ss vegetabilieolje
 - 0,5 kg hakket storfekjøtt
-- 1,2 dl tomat paste
+- 1,2 dl tomatpuré
 - 0,6 dl honning
 - 3 ss vann
-- 1 ss eddiksyre
+- 1 ss eddik
 - 2 ts worcestershiresaus
-- 1-1/2 ts chilipodd
-- salt to taste
-- pepper to taste
-- 4 hamburger buns
+- 1-1/2 ts chilipulver
+- salt etter smak
+- pepper etter smak
+- 4 hamburgerbrød
 
 ## Fremgangsmåte
 
-1. In a large pan over medium varm, sauté løk, selleri and gulrøtter in olje til soft. rør in kalkun;
-2. Kok 5 minutter, stirring frequently, til kalkun is browned and crumbly. rør in remaining ingredients, except seasonings and hamburger buns.
-3. la småkoke, covered, 3 to 5 minutter. Season to taste with salt and pepper. Divide mixture evenly between hamburger buns to servér.
+1. I en stor stekepanne over middels varme, fres løk, selleri og gulrøtter i olje til de er myke. Tilsett kalkun.
+2. Kok i 5 minutter, rør ofte, til kalkunen er brun og smuldrete. Tilsett de resterende ingrediensene, unntatt krydder og hamburgerbrød.
+3. La det småkoke, under lokk, i 3 til 5 minutter. Smak til med salt og pepper. Fordel blandingen jevnt mellom hamburgerbrødene for servering.
 
 ## Info
 

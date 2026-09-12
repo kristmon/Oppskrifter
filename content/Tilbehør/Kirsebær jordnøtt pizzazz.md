@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Kirsebær jordnøtt pizzazz
-
 *Dette er en easy-til-prepare Snacks, perfect for holiday parties eller gift giving.*
 
 ## Ingredienser
 
-- 2 dl lett saltet jordnøtter
-- 1 dl dried tart cherries
-- 2 ss worcestershire saus
-- 1/2 ts hvitløk powder
-- 1/2 ts krydret salt, eller etter smak
+- 2 dl lett saltede peanøtter
+- 1 dl tørkede, syrlige kirsebær
+- 2 ss worcestershiresaus
+- 1/2 ts hvitløkspulver
+- 1/2 ts kryddersalt, eller etter smak
 - 1/2 ts malt kommen
-- 1/4 ts malt rød pepper (cayenne pepper), eller etter smak
-- Vegetable olje
+- 1/4 ts malt rød pepper (cayennepepper), eller etter smak
+- Vegetabilsk olje
 
 ## Fremgangsmåte
 
-1. Kombiner jordnøtter og cherries i en Medium bolle. I en liten bolle, kombiner worcestershire saus, hvitløk powder, krydret salt, kommen og rød pepper; bland godt. Hell over peanut blanding; rør til dryss.
-2. Varm 1 eller 2 ts av olje i en stor stekepanne over Medium varm. Tilsett peanut blanding. Kok, rørende constantly, 3 til 4 minutter, eller til jordnøtter are light brun. Gjør ikke tillate blanding til burn. Tilsett mer olje, hvis needed. Fjern fra varm. Smør på waxed paper eller aluminum foil til kjøl ned. Store i en tightly dekket container.
+1 .  Bland peanøtter og kirsebær i en middels stor bolle. I en liten bolle, bland worcestershiresaus, hvitløkspulver, kryddersalt, kommen og rød pepper; rør godt. Hell blandingen over peanøttene; rør til alt er godt blandet.
+ 2 .  Varm  1  eller  2  teskjeer olje i en stor stekepanne over middels varme. Tilsett peanøttblandingen. Stek, rør hele tiden, i  3  til  4  minutter, eller til peanøttene er lett gyllenbrune. Pass på at blandingen ikke brenner seg. Tilsett mer olje om nødvendig. Fjern fra varmen. Legg på et stykke bakepapir eller aluminiumsfolie for å avkjøles. Oppbevar i en lufttett beholder.
 
 ## Info
 

@@ -5,8 +5,8 @@ created: 2020-10-10
 ![[Bilder/Peanøttsmør- og banansmoothie.jpg|300]]
 Frisk, søt og smakfull.
 
-**Porsjoner**: 4  
-**Tid**: 5 min  
+**Porsjoner**: 4
+**Tid**: 5 min
 **Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/221261/peanut-butter-banana-smoothie/)
 
 ## Ingredienser

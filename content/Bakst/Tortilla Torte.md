@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Tortilla Torte
-
 ## Ingredienser
 
 - 10 20 cm hvetmjøl tortilla

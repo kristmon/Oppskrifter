@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Samvittighetsfri kalkun-gravy
-
 ## Ingredienser
 
-- 0,6 dl kartoffelstivelse
+- 0,6 dl potetmel
 - 0,6 dl vann
-- 9,5 dl kalkun-buljong og fettfriet stekepanne-saft (oppskrift nedenfor)
+- 9,5 dl kalkonkraft og fettfri stekesjy (oppskrift nedenfor)
 - Salt
 - Pepper
 
 ## Fremgangsmåte
 
-1. I en stor kasserolle, over medium varme, varm kalkun-buljongen og stekepanne-saften til det koker.
-2. Bland kartoffelstivelse og vann til det blir glatt.
-3. Visp konstant, og tilsett kartoffelstivelse-blandingen sakte og fortsett å røre til gravyen er tykkere.
-4. Smak til med salt og pepper.
-5. Gir 16 porsjoner på 0,6 dl per porsjon Merk: For å fjerne fett fra stekepanne-saften, hell fjærkreftilsetningen i et glassmålekrus og kjøl til fettet stivner. Fjern fettlaget og kast det.
+1 . I en stor kjele, over middels varme, varm opp kalkunbuljongen og stekesjyen til den koker.
+ 2 . Bland potetmel og vann til blandingen er glatt.
+ 3 . Visp kontinuerlig, og tilsett potetmelblandingen gradvis mens du fortsetter å røre, til sausen tykner.
+ 4 . Smak til med salt og pepper.
+ 5 . Gir  16  porsjoner, med  0,6  desiliter per porsjon. Merk: For å fjerne fett fra stekesjyen, hell kraften over i et målebeger og sett i kjøleskapet til fettet stivner. Fjern fettlaget og kast det.
 
 ## Info
 

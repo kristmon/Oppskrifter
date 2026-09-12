@@ -3,9 +3,9 @@ created: 2020-12-21
 ---
 
 ![[Bilder/En himmelsk munnfull.jpg|300]]
-Denne enkle, voksne oppskriften på fromasj er, som navnet tilsier, en himmelsk munnfull. Server den i porsjonsglass eller i en serveringsbolle, og pynt med cocktailbær, nøtter og sjokolade. Husk at fromasjen må stå kjølig i et par timer, eller over natten, for å stivne.
+Denne enkle oppskriften på fromasj, beregnet for voksne, er, som navnet antyder, en fantastisk smaksopplevelse. Server den i porsjonsglass eller i en serveringsskål, og pynt med cocktailbær, nøtter og sjokolade. Husk at fromasjen må stå kjølig i et par timer, eller over natten, for å bli stiv.
 
-**Porsjoner**: 6  
+**Porsjoner**: 6
 **Kilde**: [tine.no](https://www.tine.no/oppskrifter/desserter/fromasj-og-mousse/en-himmelsk-munnfull)
 
 ## Ingredienser

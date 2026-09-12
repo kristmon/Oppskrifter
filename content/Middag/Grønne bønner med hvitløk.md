@@ -2,22 +2,20 @@
 created: 2026-05-05
 ---
 
-# Grønne bønner med hvitløk
-
 *Karamellisert hvitløk og ost! Er det noe bedre med grønne bønner? Du må lage nok til alle!*
 
 ## Ingredienser
 
 - 15 ml smør
-- 45 ml olivenoglje
-- 1 medium hode hvitløk - skalett og skåret
-- 2 (410 g) bokser grønne bønner, drenert
+- 45 ml olivenolje
+- 1 middels stor hvitløksklase, skrellet og skjært
+- 2 (à 410 g) bokser med grønne bønner, avrent
 - salt og pepper etter smak
-- 60 ml rrevet Parmesanust
+- 60 ml revet parmesanost
 
 ## Fremgangsmåte
 
-1. I en stor stekepanne på medium varme, smelt smør med olivenoglje; tilsett hvitløk og kok til lett brunt, rør ofte. Rør inn grønne bønner og krydre med salt og pepper. Kok til bønnene er møre, omkring 10 minutter. Fjern fra varmen og strø med Parmesanust.
+1. I en stor stekepanne på middels varme, smelt smør med olivenolje; tilsett hvitløk og stek til den er lett gyllen, rør ofte. Tilsett grønne bønner og krydre med salt og pepper. Kok til bønnene er møre, omtrent 10 minutter. Fjern fra varmen og dryss over parmesan.
 
 ## Info
 

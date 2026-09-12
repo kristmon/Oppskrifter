@@ -2,32 +2,32 @@
 created: 2026-05-05
 ---
 
-# Traditional Spaghetti & Meatballs
-
 ## Ingredienser
 
-- 0,5 kg Spaghetti, Linguine or Thin Spaghetti, uncooked
-**Meatballs**
-- 4 slices white bread
-- 1,2 dl skim melk
-- 2 large egg whites
-- 8 oz hakket kalkun
-- 8 oz extra lean hakket storfekjøtt
-- 0,6 dl grated Romano ost
-- 1 ss minced fresh basilikum or 1 ts. dried basilikum
-- 1 ts minced fresh oregano or 1/2 ts. dried oregano
+**Ingredienser:**
+
+- 0,5 kg spaghetti, linguine eller tynn spaghetti, uten tilberedning
+**Kjøttboller**
+- 4 skiver hvitt brød
+- 1,2 dl lettmelk
+- 2 store eggehviter
+- 227 g kalkun, kjøttdeig
+- 227 g magert storfekjøtt, kjøttdeig
+- 0,6 dl revet romanosaus
+- 1 ss finhakket fersk basilikum eller 1 ts tørket basilikum
+- 1 ts finhakket fersk oregano eller 1/2 ts tørket oregano
 - 1/2 ts salt
 - 1/4 ts pepper
-**Sauce**
-- 1 recipe Basic tomatsaus (see recipe below)
-- 1 ts vegetarolje, divided
+**Saus**
+- 1 oppskrift på enkel tomatsaus (se oppskrift nedenfor)
+- 1 ts olje, delt.
 
 ## Fremgangsmåte
 
-1. Put the bread into a medium mixing bowl and hell the melk over it. Let sit 5 minutter. tilsett the egg whites, hakket kalkun, hakket storfekjøtt, Romano ost, basilikum, oregano, salt and pepper. Knead the mixture with your hands til it is smooth. To prevent sticking, dip your hands into cool vann before forming each meatball. Form mixture into 30 1 1/2-inch balls.
-2. hell the tomatsaus into a large, heavy-bottom saucepan and bring to a la småkoke over low varm. Warm 1/2 teaspoon vegetarolje in a large non-stick skillet. tilsett half the meatballs to the skillet and brown them on all sides.
-3. Spoon the meatballs into the tomatsaus. tilsett the remaining 1/2 teaspoon vegetarolje to the skillet and brown the rest of the meatballs, then tilsett them to the sauce. la småkoke, stirring, for 20 minutter.
-4. While sauce is simmering, prepare pasta according to package directions; tøm. Transfer to a large serving bowl. Remove bay leaves from sauce; hell sauce over pasta and servér.
+1. Ha brødet i en middels stor blandebolle og hell melken over. La det stå 5 minutter. Tilsett eggehviter, hakket kalkun, hakket storfekjøtt, romanosalat, basilikum, oregano, salt og pepper. Kna blandingen med hendene til den er jevn. For å unngå at den sitter fast, dypp hendene i kaldt vann før du former hver kjøttbolle. Form blandingen til 30, 1, 1/2 centimeter store kjøttboller.
+2. Hell tomatsausen i en stor, tykkbunnet kjele og sett den på svak varme. Varm 1/2 teskjeer vegetarolje i en stor stekepanne med slippbelegg. Tilsett halvparten av kjøttbollene i stekepannen og brun dem på alle sider.
+3. Legg kjøttbollene i tomatsausen. Tilsett resten av 1/2 teskjeer vegetarolje i stekepannen og brun resten av kjøttbollene, og legg dem deretter i sausen. La det småkoke, rør av og til, i 20 minutter.
+4. Mens sausen småkoker, kok pastaen etter anvisningene på pakken; sil av. Overfør pastaen til en stor serveringsbolle. Fjern laurbærbladene fra sausen. Hell sausen over pastaen og server.
 
 ## Info
 

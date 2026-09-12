@@ -3,11 +3,11 @@ created: 2020-10-12
 ---
 
 ![[Bilder/Italienske panerte koteletter.jpg|300]]
-Min fars side av familien er sicilianere, og har laget disse koteletter i minst tre generasjoner. Mannen min ber om disse oftere enn marinerte og grillede koteletter når jeg gir ham valget. Hvis du ikke har en ovnsfast stekepanne, kan du også steke kotelettene på komfyren på middels-lav.
+Disse sicilianske, panerte kotelettene kan stekes i en ovnsikker stekepanne eller på komfyren ved middels lav varme.
 
-**Porsjoner**: 4  
-**Tid**: 60 min (25 prep + 35 cook)  
-**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/31064/italian-breaded-pork-chops/)  
+**Porsjoner**: 4
+**Tid**: 60 min (25 prep + 35 cook)
+**Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/31064/italian-breaded-pork-chops/)
 **Plan to Eat-tag**: Svin
 
 ## Ingredienser

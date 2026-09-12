@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Vino-spagetti-saus
-
 ## Ingredienser
 
-- 1 ss vegetarolje
-- 450 g malt kalkun
-- 1 medium løk, hakket
-- 2 fedd hvitkløk, hakket
-- 1 boks (540 g) tomater, grovt hakket
-- 1 boks (155 g) tomatpaste
+- 1 ss vegetabilsk olje
+- 450 g kjøttdeig av kalkun
+- 1 medium løk, finhakket
+- 2 fedd hvitløk, finhakket
+- 1 boks (540 g) tomater, grovhakket
+- 1 boks (155 g) tomatpuré
 - 1,2 dl vann
-- 0,6 dl tørt rødvin
-- 2 stengel selleri, hakket
-- 1 medium gulerot, hakket
-- 1 ts tørket basilikumblad
-- 1 ts tørket oregano-blad
+- 0,6 dl tørr rødvin
+- 2 stilker selleri, finhakket
+- 1 medium gulrot, finhakket
+- 1 ts tørket basilikum
+- 1 ts tørket oregano
 
 ## Fremgangsmåte
 
-1. I en stor kasserolle, varm vegetaroljen og steik kalkunen med løken og hvitkløken til løken blir myk og kalkunen ikke lenger er rosa. Ikke overkoke kalkunen.
-2. Tilsett resten av ingrediensene og smak til med salt og pepper. Varm til det koker og reduser varmen raskt. Dekk til og la det småkoke i 30 minutter.
+1. I en stor kjele, varm vegetabilsk olje og stek kalkunen sammen med løk og hvitløk, til løken er myk og kalkunen ikke lenger er rosa. Ikke stek kalkunen for lenge.
+2. Tilsett resten av ingrediensene og smak til med salt og pepper. Varm opp til det koker, og senk deretter varmen. Dekk til og la det småkoke i 30 minutter.
 
 ## Info
 

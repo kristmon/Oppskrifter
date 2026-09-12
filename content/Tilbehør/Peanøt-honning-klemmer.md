@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Peanøt-honning-klemmer
-
 ## Ingredienser
 
 - 1 dl honning

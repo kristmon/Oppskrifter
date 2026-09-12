@@ -2,29 +2,27 @@
 created: 2026-05-05
 ---
 
-# Rask Ziti med Kvikk Kylling
-
 ## Ingredienser
 
-- 450 g ziti, mostaccioli eller annen medium-størrelse pasta, ukjøkt
-- 340 g hakket, stekt kylling
-- 2 ts smør eller margarin
-- 1 medium løk, hakket
-- 1 ss dijon sennep
-- 2 ss mel
-- 500 ml lavt-natrium kyllingbryst
-- 60 ml sitronsaft
-- 1 pakke (280 g) fryst erter, tint og drena
-- 60 ml frisk persille, hakket
-- Salt etter smak
-- Pepper etter smak
+- 450 g ziti, mostaccioli eller annen pasta av middels størrelse, tørr.
+- 340 g kjøttdeig, stekt kylling.
+- 2 ss smør eller margarin.
+- 1 middels løk, finhakket.
+- 1 ss dijonsennep.
+- 2 ss mel.
+- 500 ml kyllingkraft med lavt natriuminnhold.
+- 60 ml sitronsaft.
+- 1 pakke (280 g) frosne erter, tint og avrent.
+- 60 ml frisk persille, finhakket.
+- Salt etter smak.
+- Pepper etter smak.
 
 ## Fremgangsmåte
 
-1. Forbered pasta etter pakkedetaljer.
-2. Mens pasta koker, varm smør eller margarin over medium varme i stor stekepanne. Tilsett løk og stekk i 3 minutter. Rør inn dijon sennep og mel.
-3. Veldig gradvis visp i kyllingbryst. Bring brystet til kok og rør inn sitronsaft, erter og persille.
-4. Når pasta er ferdig, dren den godt. Tøff pasta og stekt kylling med saus, krydder med salt og pepper og serverer.
+1.  Forbered pastaen i henhold til instruksjonene på pakken.
+2.  Mens pastaen koker, varm smør eller margarin i en stor stekepanne på middels varme. Tilsett løk og stek i 3 minutter. Rør inn dijonsennep og mel.
+3.  Tilsett kyllingbryst i sausen, litt etter litt, mens du rører. Kok opp og rør inn sitronsaft, erter og persille.
+4.  Når pastaen er ferdig, hell av vannet godt. Bland pasta, stekt kylling og saus, smak til med salt og pepper, og server.
 
 ## Info
 

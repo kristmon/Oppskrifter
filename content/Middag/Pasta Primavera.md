@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Pasta Primavera
-
 ## Ingredienser
 
 - 1 pakke (450 g) Linguine, eller annan lang pastaform, ukokt

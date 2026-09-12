@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Oktoberfest Savory Pot Roast
-
-*Introduce family and friends to a new version of an old favorite -- pot roast. This one-pot meal is juicy and tender and full of flavor.*
+Her kan du introdusere familie og venner til en ny versjon av en gammel favoritt – nemlig stekt kjøtt. Dette smakfulle og saftige måltidet, som tilberedes i én gryte, er mørt og fullt av smak.
 
 ## Ingredienser
 
-- 1,4 kg brisket or blade pot roast
-- 2 ss Dijon sennep
+- 1,4 kg oksestrim eller stek av høyrygg
+- 2 ss Dijonsennep
 - 2 ss brunt sukker
-- 2 cloves hvitløk, crushed
+- 2 fedd hvitløk, knust
 - 1/4 ts muskatnøtt
-- 3 large løk, sliced
-- 2,5 dl each: beer or ale and storfekjøtt stock
-- 6 gulrøtter, peeled and quartered
-- 3 parsnips, peeled and quartered
-- 6 to 8 medium new poteter
+- 3 stor løk, i skiver
+- 2,5 dl hver: øl eller ale, og oksekjøttkraft
+- 6 gulrøtter, skrelt og delt i fire
+- 3 pastinakk, skrelt og delt i fire
+- 6 til 8 middels store, nye poteter
 
 ## Fremgangsmåte
 
-1. Place roast in ovn-proof dish. bland sammen next 4 ingredients in a small bowl, bred mixture over roast and layer with løk. hell beer and stock over top and season with salt and pepper. Cover and place in preheated ovn at 170 C (325 F) ovn for 11/2 timer.
-2. Tilsett vegetables around storfekjøtt and kok covered for another 11/2 timer, removing lid for last 20 to 30 minutter to brown roast. Remove storfekjøtt and vegetables to serving platter and thicken juices with 15 mL (1 tbsp) cornstarch blended with cold vann. bring til kokepunktet stirring to thicken and servér over roast.
+1. Legg steken i en ovnsikker form. Bland de neste fire ingrediensene i en liten bolle, smør blandingen over steken og legg løk på toppen. Hell over øl og kraft, og smak til med salt og pepper. Dekk til og sett i forvarmet ovn på 170 °C (325 °F) i 1 ½ time.
+2. Tilsett grønnsaker rundt storfekjøttet og kok under lokk i ytterligere 1 1/2 time. Fjern lokket de siste 20 til 30 minuttene for å få kjøttet til å brunes. Ta storfekjøttet og grønnsakene over på et serveringsfat. Tykk sausen ved å røre inn 15 ml (1 ss) maisstivelse blandet med kaldt vann. Kok opp sausen under omrøring til den tykner, og server over kjøttet.
 
 ## Info
 

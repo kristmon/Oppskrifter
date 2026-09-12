@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Wagon Wheels with Tomato Ale Sauce
-
 ## Ingredienser
 
-- 1 lb Wagon Wheels, Rotini or other medium pasta shape, uncooked
-- 1/3 lb country-style turkey sausage, casing removed, broken into pieces
-- 1 Tbs vegetable oil
-- 1 medium onion, finely chopped
-- 3 garlic cloves, mashed
-- 1 cup of ale or beer, flat
-- 1 28-oz. can low-sodium tomato puree
-- 1/4 cup applesauce
-- 1 tsp salt
-- Freshly ground black pepper to taste
-- 1 small bay leaf
+- 455 g pasta, for eksempel wagon wheels, rotini eller annen middels stor form, ukokt.
+- 150 g landkyllingsausage, uten skinnet, delt i biter.
+- 1 ss vegetabilsk olje.
+- 1 løk, middels størrelse, finhakket.
+- 3 fedd hvitløk, most.
+- 2,4 dl øl eller beer, flat.
+- 1 28-g boks tomatpuré med lavt saltinnhold.
+- 0,6 dl eplemos.
+- 1 ts salt.
+- Nymalt svart pepper, etter smak.
+- 1 liten laurbærblad.
 
 ## Fremgangsmåte
 
-1. In a large saucepan, cook the sausage over medium heat. Remove sausage with a slotted spoon and reserve. Add oil, onion and garlic to pan. Cook over medium heat until onions are translucent.
-2. Add the remaining ingredients and simmer over low heat for 1 hour, stirring occassionally. Remove bay leaf and add the reserved sausage. Simmer until the sausage is heated through, approximately 5 minutes. Toss pasta with sauce and serve with French bread.
+1. I en stor kjele, stek pølsen over middels varme. Ta pølsen ut av kjelen med en hullsleiv og sett til side. Tilsett olje, løk og hvitløk i kjelen. Stek over middels varme til løken er blank og gjennomskinnelig.
+ 2. Tilsett de resterende ingrediensene og la det småkoke over svak varme i 1 time, rør av og til. Fjern laurbærbladet og tilsett den reserverte pølsen. Småkok til pølsen er gjennomvarm, ca. 5 minutter. Bland pastaen med sausen og server med franskbrød.
 
 ## Info
 

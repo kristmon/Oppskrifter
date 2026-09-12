@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# Turkey Chowder
-
 ## Ingredienser
 
 - 1 ss olivenolje
-- 1 løk peeled and chopped
-- 2 Cloves hvitløk peeled and crushed
-- 12 oz red skinned poteter peeled and diced
-- 1 red paprika seeded and chopped
-- 2 ss all-purpose mel
-- 7,5 dl kalkun stock
-- 10 oz cooked kalkun diced
-- 2 oz sweet mais kernels
-- salt to taste
-- freshly ground black pepper to taste
-- 0,6 dl light fløte or table fløte
-- 2 ss freshly chopped parsley
+- 1 løk, skrelt og hakket
+- 2 fedd hvitløk, skrelt og knust
+- 34 g poteter med skall, skrelt og i terninger
+- 1 rød paprika, uten kjerner og hakket
+- 2 ss hvetemel
+- 7,5 dl kalkkraft
+- 284 g kokt kalkon, i terninger
+- 57 g mais, i korn
+- salt etter smak
+- ferskmalt svart pepper etter smak
+- 0,6 dl lett fløte eller vanlig fløte
+- 2 ss fersk, hakket persille
 
 ## Fremgangsmåte
 
-1. Varm oljen in a large saucepan. forsiktig saute the løk, hvitløk and poteter for 5 minutter, stirring iblant. tilsett rød paprika and saute for 2 more minutter.
-2. Sprinkle mel onto vegetables and rør to bland well. kok for 2 minutter. Remove pan from the varm and gradually rør in the stock.
-3. Return pan to varm and bring til kokepunktet, reduser varmen to low and la småkoke for 10 minutter. tilsett diced kalkun and mais.
-4. Tilsett salt and pepper to taste and continue to la småkoke for 5-8 minutter eller til poteter are cooked and kalkun is piping hot.
-5. Rør in fløte and adjust seasonings.
-6. servér in warm soup bowls and sprinkle each portion with chopped parsley.
+1. Varm oljen i en stor kjele. Stek løk, hvitløk og poteter forsiktig over middels varme i 5 minutter, rør av og til. Tilsett rød paprika og stek videre i 2 minutter.
+2. Dryss mel over grønnsakene og rør godt for å blande. La det koke i 2 minutter. Ta kjelen av varmen og rør gradvis inn kraften.
+3. Sett kjelen tilbake på varmen og kok opp. Reduser varmen til lav og la det småkoke i 10 minutter. Tilsett hakket kalkun og mais.
+4. Smak til med salt og pepper, og la det småkoke videre i 5-8 minutter, eller til potetene er kokte og kalkunen er gjennomvarm.
+5. Rør inn fløte og juster krydderet.
+6. Server i varme suppeboller og dryss litt hakket persille over hver porsjon.
 
 ## Info
 

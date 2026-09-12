@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Italiensk Potet Salat
-
 ## Ingredienser
 
 - 24 nye røde poteter - (85-113 g hver), vasket og skinn igjen

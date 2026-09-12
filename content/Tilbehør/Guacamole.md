@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Guacamole
-
 ## Ingredienser
 
-- 5 ripe avocados, preferably Haas
-- 6 ss chopped fresh koriander
-- 1 medium red løk, diced
-- 4 jalapeno chiles, stemmed, seeded and finely diced
-- 3 ss freshly squeezed lime juice
-- 1 1/2 ts salt
-- 1/2 ts freshly ground black pepper
-- Lettuce, shredded for serving
+- 5 modne avokadoer, helst av sorten Haas.
+- 6 ss hakket, fersk koriander.
+- 1 middels stor rød løk, i små terninger.
+- 4 jalapeno chili, uten stilk og kjerner, og finhakket.
+- 3 ss fersk limejuice.
+- 1 1/2 ts salt.
+- 1/2 ts nykvernet svart pepper.
+- Salat, strimlet, til servering.
 
 ## Fremgangsmåte
 
-1. In a mixing bowl place peeled, quartered and seeded avocados. Mash with a potato masher or fork til chunky.
-2. Tilsett the remaining ingredients and bland sammen with a fork.
-3. Mound on a bed of shredded lettuce.
+1. I en bolle har du de skrelt, delt og utkjernet avokadoene. Mos med en potetmoser eller en gaffel til blandingen har en grov konsistens.
+2. Tilsett de resterende ingrediensene og bland godt med en gaffel.
+3. Legg blandingen på en seng av strimlet salat.
 
 ## Info
 

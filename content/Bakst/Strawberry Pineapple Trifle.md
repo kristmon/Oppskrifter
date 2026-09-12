@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Strawberry Pineapple Trifle
-
 ## Ingredienser
 
-- 1 package Estee vanilla creme-filled wafers
-- 1 1/2 Tbs Estee raspberry fruit spread
-- 1 can juice-packed pineapple chunks - (20 oz), drained, and juice reserved
-- 1 1/4 cups skim milk
-- 1 package sugar-free instant vanilla pudding and pie filling
-- 1 cup Estee whipped topping, prepared from mix as directed
-- 2 cups sliced fresh strawberries
+- 1 pakke Estee vaniljekjeks med kremfyll.
+- 1, 1/2 ss Estee bringebærsyltetøy.
+- 1 boks ananasbiter i saft – (567 g), avrent, og saften beholdes.
+- 3 dl lettmelk.
+- 1 pakke sukkerfri vanilje-pudding og fyll til pai.
+- 2,4 dl Estee krem, tilberedt fra pulver i henhold til instruksjonene.
+- 4,8 dl skivede, ferske jordbær.
 
 ## Fremgangsmåte
 
-1. Spread one side of each wafer with fruit spread; arrange them, spread-side facing in, around sides of a 1 1/2-quart souffle or trifle dish.
-2. Combine pineapple juice with skim milk. Prepare vanilla pudding according to package directions, using juice mixture instead of skim milk. Fold in whipped topping.
-3. In another bowl, toss together fruit. Pour about a third of the pudding mixture in bottom of souffle dish. Top with a third of the fruit. Repeat layers, ending with fruit. Cover and refrigerate at least 1 hour before serving.
+1. Smør den ene siden av hver kjeks med syltetøy; legg dem, med syltetøysiden inn, rundt kantene av en 1 1/2 -liters soufflé- eller trifleform.
+2. Bland ananasjuice med lettmelk. Lag vanilje-pudding etter anvisningene på pakken, og bruk juiceblandingen i stedet for lettmelk. Rør inn kremfløte.
+3. I en annen bolle, bland frukten. Hell omtrent en tredjedel av puddingblandingen i bunnen av souffléformen. Legg over en tredjedel av frukten. Gjenta lagene, og avslutt med frukt. Dekk til og sett i kjøleskapet minst 1 timer før servering.
 
 ## Info
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Soppboller
-
 ## Ingredienser
 
 - 225 g sopp
@@ -16,8 +14,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Skyll, tørk og hakk sopp grovt (lager ca. 750 ml). I en medium stekepanne varmer du smøret. Tilsett sopp og løk; stekk til lett brunfarget ca. 5 minutter, rør av og til. Strø over timian og hvit pepper. La kjøle litt.
-2. Bland soppblandingen i bollmealblandningen. Tilsett melk og rør til det er godt blandet. Drypp med spiseskje på smurt kakebrikker 5 cm fra hverandre. Bak i forvarmet ovn (230°C) 12 minutter eller til pent brunfarget.
+1. Skyll, tørk og hakk soppen grovt (gir ca. 750 ml). I en middels stor stekepanne smelter du smøret. Tilsett sopp og løk; stek til de er lett brunet, ca. 5 minutter, rør av og til. Dryss over timian og hvit pepper. La blandingen avkjøles litt.
+2. Bland soppblandingen inn i deigblandingen. Tilsett melk og rør til alt er godt blandet. Fordel deigen i små, runde porsjoner på smurte kakebrikker, med ca. 5 cm mellomrom. Stek i forvarmet ovn (230 °C) i 12 minutter, eller til de er pent brunet.
 
 ## Info
 

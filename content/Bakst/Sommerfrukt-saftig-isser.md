@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Sommerfrukt-saftig-isser
-
 ## Ingredienser
 
 - 5 ferske California-plommer
@@ -19,7 +17,7 @@ created: 2026-05-05
 3. Skje nektarin-slush inn i 12 pop-former eller små papirkoppar.
 4. Hell plomme-slush i lag over. Legg til pop-stikker og frys til fast.
 5. For å fjerne form, kjør varmt vann rundt utsiden av formen for å løse isen.
-6. Lager ca 12 isser, avhengig av størrelsen på former.
+6. Lager ca. 12 isser, avhengig av størrelsen på former.
 
 ## Info
 

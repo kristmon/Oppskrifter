@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Beef Stew
-
 ## Ingredienser
 
-- 3,8 dl Acine de Pepe, Ditalini or other small pasta shape, uncooked
-- 2 ss vegetarolje
-- 0,5 kg lean storfekjøtt stew meat, cut into 1-inch chunks
-- 1,9 dl chopped løk
-- 9 cups hot vann
-- 3 ss storfekjøtt-flavor instant bouillon
-- 1 large lauberblad
-- 1 ts basilikumblader
-- 1/8 ts pepper
-- 3,8 dl sliced gulrøtter
-- 3,8 dl sliced selleri
-- 1 14.5-oz. can stewed tomater
+- 3,8 dl acine de pepe, ditalini eller annen liten pastatype, ukokt.
+- 2 ss vegetabilsk olje.
+- 0,5 kg magert storfekjøtt, skjært i biter på 1-tommer.
+- 1,9 dl hakket løk.
+- 21,6 dl varmt vann.
+- 3 ss storfekjøttkraft, pulver.
+- 1 stort laurbærblad.
+- 1 ts basilikumblader.
+- 1/8 ts pepper.
+- 3,8 dl skivede gulrøtter.
+- 3,8 dl skivet selleri.
+- 1 14.5-oz. boks kokte tomater.
 
 ## Fremgangsmåte
 
-1. In large saucepan or Dutch ovn, varm olje. Coat storfekjøtt with mel. tilsett storfekjøtt cubes and løk; kok til storfekjøtt is browned.
-2. Tilsett vann, bouillon, lauberblad, basilikum and pepper. bring til kokepunktet. reduser varmen; la småkoke, covered, til meat is tender, about 1-1/2 timer.
-3. Tilsett gulrøtter, selleri and tomater. kok 15 minutter longer. Remove lauberblad. rør in pasta. kok til pasta is tender, 10 to 15 minutter, stirring iblant.
+1. I en stor kjele eller gryte, varm oljen. Vend kjøttbitene i mel. Tilsett kjøtt og løk; stek til kjøttet er brunt.
+2. Tilsett vann, kraft, laurbærblad, basilikum og pepper. Kok opp. Reduser varmen; la småkoke under lokk, til kjøttet er mørt, ca. 1 1/2 time.
+3. Tilsett gulrøtter, selleri og tomater. Kok i ytterligere 15 minutter. Fjern laurbærbladet. Rør inn pasta. Kok til pastaen er ferdig, 10 til 15 minutter, rør av og til.
 
 ## Info
 

@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Grønn Bladsalat Med Blå Ost Dressing
-
 ## Ingredienser
 
 - 1,5 liter rift grønn bladsalat
-- 570 g kirsebær tomater, halvert
-- 1 liten rød løk, skåret tynne ringer
-- 1/2 dl hvite sopp, godt renset, og tynnt skåret
-- 1/2 dl lavfett yogurt
-- 1/2 dl lavfett cottage cheese
-- 4 ss lavfett kjernemelk
-- 2 ss blå ost
-- Ferskmalte svart pepper, etter smak
-- Mynte sprøyt, til pynt
+- 570 g cherrytomater, delt på to
+- 1 liten rød løk, skåret i tynne skiver
+- 1/2 dl sjampinjong, godt renset og tynnt skåret
+- 1/2 dl mager yoghurt
+- 1/2 dl mager cottage cheese
+- 4 ss mager melk
+- 2 ss blåmuggost
+- Ferskmalen svart pepper, etter smak
+- Mynte, til pynt
 
 ## Fremgangsmåte
 
-1. Kombiner salaten, tomater, løk og sopp i en stor bolle. Haug blandingen på individuelle plater.
-2. I en medium bolle kombinerer du yogurt, cottage cheese, kjernemelk og blå ost og bland for hånd til glatt. Tilsett pepper. Dryss dressing over hver salat. Garnisk med mynte og server.
-3. Denne oppskriften gir 6 porsjoner. Porsjonstørrelse: 1 dl salat, 1/2 dl grønnsaker, 1 ss dressing.
-4. Utbyttepunkter Per Porsjon: 1 Grønnsak, 1/2 Mettfett.
+1 . Bland salaten, tomatene, løken og soppen i en stor bolle. Fordel blandingen på individuelle tallerkener.
+ 2 . I en middels stor bolle, bland yoghurt, cottage cheese, kefir og blåost for hånd til en jevn masse. Tilsett pepper. Dryss dressingen over hver salat. Pynt med mynte og server.
+ 3 . Denne oppskriften gir  6  porsjoner. Porsjonsstørrelse:  1  desiliter salat,  1/2  desiliter grønnsaker,  1  ss dressing.
+ 4 . Næringsinnhold per porsjon:  1  porsjon grønnsaker,  1/2  porsjon mettet fett.
 
 ## Info
 

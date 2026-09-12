@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Sveitsisk Asparges Logg
-
 ## Ingredienser
 
 - 450 g brød fransk brød, uhakket
@@ -16,13 +14,13 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Skjær omtrent 2,5 cm av toppen av fransk brød. Lag en 2,5 cm spalte i brødet lengdevis.
-2. Bland ostsuppe og melk.
-3. Press væske ut av krabbemedia. Tilsett krabbemedia og dill til ost suppe.
-4. Plasser brød på et stykke folie. Skje ostblandingen på toppen av brød. Plasser asparges spyd diagonalt over ostblandingen. Top med skiver av sveitseros.
-5. Trekk folie opp på skiver av brød, danner en kurv. Ikke dekk toppen av brød.
-6. Bak på 160°C i 8-10 minutter eller til sveitseros smelter.
-7. Ta fra ovn. Skjær med en tannstikket kniv.
+1. Skjær omtrent 2,5 cm av toppen av et franskbrød. Lag en 2,5 cm lang spalte i brødet.
+2. Bland ostesuppe og melk.
+3. Press væsken ut av krabbekjøttet. Tilsett krabbekjøttet og dill til ostesuppen.
+4. Legg brødet på et stykke aluminiumsfolie. Skje osteblandingen over brødet. Legg aspargesbiffene diagonalt over osteblandingen. Topp med skiver av sveitserost.
+5. Trekk aluminiumsfolien oppover langs brødskivene, og form en kurv. La toppen av brødet være åpen.
+6. Stek i 160 °C i 8 - 10 minutter, eller til sveitserosten er smeltet.
+7. Ta ut av ovnen. Skjær opp med en kniv med et lite blad.
 
 ## Info
 

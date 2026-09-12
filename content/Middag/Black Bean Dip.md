@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Black Bean Dip
-
 ## Ingredienser
 
 - 1 boks sorte bønner - (425 g), avlastet, skyllet
@@ -17,8 +15,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kombiner alle ingredienser i en matprosessor eller blender. Prosesser eller blend til bønnene er grovt mashed.
-2. Oppskriften gir 8 porsjoner. Porsjonstørrelse: 1/3 dl.
+1. Ha alle ingrediensene i en kjøkkenmaskin eller blender og kjør til bønnene er grovt most.
+2. Oppskriften gir 8 porsjoner. Porsjonsstørrelse: 1/3 dl.
 
 ## Info
 

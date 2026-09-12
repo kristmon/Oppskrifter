@@ -21,8 +21,8 @@ created: 2009-11-26
 
 ## Fremgangsmåte
 
-1. Ha potetene i ei gryte og ha i nok vann til akkurat å dekke potetene. Rør inn gurkemeie og salt. Kok opp, og la det koke til potetene er møre. Ta ut potetene og sett til side, men spar på vannet.
-2. Varm olje i en annen kjele eller sauteringspanne. Sauter løken i noen minutter, til den er myk. Ha i hvitløk og spisskummenfrø, og sauter i 2 minutter til. Rør inn resten av krydderne og deretter tomatene. Ha i brokkolien etter 2 minutter. Rør inn litt og litt av potetvannet til ønsket konsistens. Sausen bør ikke være for tynn. Kok opp, legg på lokk og la det småkoke i 6–8 minutter, eller til brokkolien er mør. Ha til slutt i potetene og varm dem opp. Smak eventuelt til med mer salt.
+1. Legg potetene i en kjele og tilsett nok vann til at de akkurat er dekket. Rør inn gurkemeie og salt. Kok opp, og la det koke til potetene er myke. Ta potetene ut og sett til side, men ta vare på kokevannet.
+2. Varm olje i en annen kjele eller stekepanne. Fres løken i noen minutter, til den er myk. Tilsett hvitløk og spisskummenfrø, og fres i 2 minutter til. Rør inn resten av krydderne og deretter tomatene. Tilsett brokkolien etter 2 minutter. Rør inn litt og litt av potetvannet til du får ønsket konsistens. Sausen bør ikke være for tynn. Kok opp, sett på lokk og la det småkoke i 6–8 minutter, eller til brokkolien er ferdig. Tilsett til slutt potetene og varm dem opp. Smak eventuelt til med mer salt.
 3. Server med ris og naan.
 
 ## Info

@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Honey-Mustard Rotini and Tuna
-
 ## Ingredienser
 
-- 1 lb Rotini, Twists or Spirals, uncooked
-- 3 Tbs prepared mustard
-- 2 Tbs honey
-- 1 cup non-fat buttermilk
-- 1/2 cup non-fat mayonnaise
-- 1/2 tsp celery seed
-- 12 oz fresh tuna
-- 1 medium cucumber, peeled, seeded and thinly sliced
-- 1 medium red bell pepper, seeded and diced
+- 455 g rotini, vridde eller spiralformede pasta, uten tilberedning
+- 3 ss ferdig sennep
+- 2 ss honning
+- 2,4 dl mager kefir
+- 1,2 dl mager majones
+- 1/2 ts sellerifrø
+- 34 g fersk tunfisk
+- 1 middels stor agurk, skrelt, uten kjerner og i tynne skiver
+- 1 middels stor rød paprika, uten kjerner og i små terninger
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions. While pasta is cooking, whisk together the mustard, honey, buttermilk, mayonnaise and celery seed in a large bowl. Set aside.
-2. Grill or broil tuna until firm and opaque. Transfer tuna to a cutting board and let cool for a few minutes.
-3. Toss together the pasta, mustard sauce, cucumber and red bell pepper. Dice tuna and add to pasta mixture. Toss gently and serve.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, visp sammen sennep, honning, kulturmelk, majones og sellerifrø i en stor bolle. Sett til side.
+2. Grill eller stek tunfisk til den er fast og gjennomstekt. Overfør tunfisken til et skjærebrett og la den avkjøles et par minutter.
+3. Bland pasta, sennepsdressing, agurk og rød paprika. Kutt tunfisken i terninger og tilsett den i pastablandingen. Bland forsiktig og server.
 
 ## Info
 

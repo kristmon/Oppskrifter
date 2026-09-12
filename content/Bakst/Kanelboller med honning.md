@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Kanelboller med honning
-
 ## Ingredienser
 
 - 60 ml smør eller margarin, mykt og delt
@@ -15,15 +13,15 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. På mel-bestrødd arbeidsfelle, rull brøtdeigen for å danne et rektangel på 20 x 45 cm.
-2. Spread honning-kanel-fylling jevnt over deigen.
-3. Sprinkle jevnt med rosiner.
-4. Starter med langsiden, rull deigen til en tømmerstokk. Kutt logg i 12 stykker ca 4 cm bredt. Plasser hvert stykke deig i en forberedt muffin kopp, med kuttsiden opp.
-5. Sett muffin pannen i et varmt sted og la deigen stå i 30 minutter.
-6. Plasser muffin panne på en foliebelagt bakeplaten for å fange drypp.
-7. Bak ved 190°C i 20 minutter til bollene er gyllenbrun.
-8. Fjern fra ovnen og avkjøl i panne i 5 minutter.
-9. Vend muffin panne for å fjerne bollene.
+1 . På melstrødd arbeidsflate, kjevle brøddeigen ut for å forme et rektangel på 20 x 45 cm.
+ 2 . Smør honning-kanelfylling jevnt utover deigen.
+ 3 . Strø rosiner jevnt over.
+ 4 . Begynn med langsiden, og rull deigen sammen til en "stokk". Del stokken i 12 stykker, som er ca. 4 cm brede. Plasser hvert stykke deig i en forberedt muffinsform, med snittflaten opp.
+ 5 . Sett muffinsformen i et varmt sted og la deigen heve i 30 minutter.
+ 6 . Plasser muffinsformen på en bakeplate kledd med aluminiumsfolie for å fange eventuelle søl.
+ 7 . Stek ved 190 °C i 20 minutter, til bollene er gyllenbrune.
+ 8 . Ta ut av ovnen og avkjøl i formen i 5 minutter.
+ 9 . Vend muffinsformen for å løsne bollene.
 
 ## Info
 

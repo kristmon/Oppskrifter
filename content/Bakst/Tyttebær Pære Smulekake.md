@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Tyttebær Pære Smulekake
-
 ## Ingredienser
 
 - 1 dl ferske tyttebær

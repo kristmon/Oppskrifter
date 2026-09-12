@@ -2,18 +2,16 @@
 created: 2026-05-05
 ---
 
-# Banan sjokoladebitsmuffins
-
 *Høres ut som en underlig kombinasjon, men vent til du prøver den.*
 
 ## Ingredienser
 
-- 2,5 dl (2 stanger) usalt smør
+- 2,5 dl (2 stenger) usaltet smør
 - 5 dl granulert sukker
 - 2 store egg
-- 4 medium mosete bananer
+- 4 mellomstore, moste bananer
 - 0,75 dl pluss 1 ss melk
-- 10 dl King Arthur 100% Hvete Hele Korn Mel
+- 10 dl King Arthur 100% hvetemel
 - 2 ts bakepulver
 - 1 ts natron
 - 1/2 ts salt

@@ -2,31 +2,29 @@
 created: 2026-05-05
 ---
 
-# Rotini Nicoise med Sitrondressing
-
 ## Ingredienser
 
-- 450 g Rotini, Twists eller Spirals, ukokt
-- 5 dl konservert hvite bønner (cannellini), skjølte og avhelt
-- 5 dl kokt kyllingfilet, kuttet i biter (ca. 225 g)
-- 1 boks (400 g) artiskjokkhjerter pakket i vann, avhelt
+- 450 g rotini, twists eller spirals, ukokt
+- 5 dl hermetiske hvite bønner (cannellini), skylt og avrent
+- 5 dl kokt kyllingfilet, i biter (ca. 225 g)
+- 1 boks (400 g) artiskjokkhjerter, pakket i vann, skylt
 **Dressing**
-- 0,5 dl olivolje eller vegetarolje
-- 1 dl lavt-saltkartet kyllingbuljong
-- 1 dl ferskt prest sitronsaft
-- 2 hvitløkfedd, finhákkete
-- 2 ts Dijon-sennepa
+- 0,5 dl olivenolje eller vegetabilsk olje
+- 1 dl buljong med lavt saltinnhold
+- 1 dl fersk sitronsaft
+- 2 fedd hvitløk, finhakket
+- 2 ts dijonsennep
 - 1 ts salt
-- 1/2 ts fersk malt svart pepper
+- 1/2 ts ferskmalt svart pepper
 **Garnering**
-- 12 kirsebærtomat
-- 225 g grønne bønner, blansj og oppfrisk i kaldt vann
+- 12 kirsebærtomater
+- 225 g grønne bønner, blanchert og avkjølt i kaldt vann
 - 16 svarte oliven
 
 ## Fremgangsmåte
 
-1. Tilbered pasta etter pakningens anvisning; hell av. Skyll pastaen under kaldt vann, hell av grundig og putt i en stor blandingsbolle. Tilsett hvite bønner, kylling og artiskjokkhjerter og bland godt.
-2. I en medium bolle, visp sammen alle dressingsingrediensene. Hell dressingen over pastablandingen og bland godt. For å serve, skje pasta på et stort serveringsfat og arrange kirsebærtomatene, grønne bønner og svarte oliven rundt og på toppen av salaten.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet. Skyll pastaen under kaldt vann, hell av godt, og ha den i en stor bolle. Tilsett hvite bønner, kylling og artisjokkhjerter, og bland godt.
+2. I en middels stor bolle, visp sammen alle ingrediensene til dressingen. Hell dressingen over pastablandingen og bland godt. For servering, legg pastaen på et stort serveringsfat og arranger kirsebærtomater, grønne bønner og svarte oliven rundt og på toppen av salaten.
 
 ## Info
 

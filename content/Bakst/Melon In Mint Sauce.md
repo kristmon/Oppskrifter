@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Melon In Mint Sauce
-
 ## Ingredienser
 
-- 1 cup low-fat sour cream
+- 2,4 dl low-fat sour cream
 - 2 Tbs minced mint
 - 2 Tbs sugar
-- 1/4 tsp cardamom
-- 1 cup cubed cantaloupe
-- 1 cup cubed honeydew melon
-- 1 cup cubed watermelon
+- 1/4 ts cardamom
+- 2,4 dl cubed cantaloupe
+- 2,4 dl cubed honeydew melon
+- 2,4 dl cubed watermelon
 
 ## Fremgangsmåte
 
-1. Combine the first four ingredients in a small bowl and mix well. Add to the melon, toss lightly, and chill for several hours before serving.
+1. Bland de fire første ingrediensene i en liten bolle, og rør godt. Tilsett blandingen i melon, vend forsiktig, og sett i kjøleskapet i flere timer før servering.
 
 ## Info
 

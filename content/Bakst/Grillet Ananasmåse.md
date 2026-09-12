@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Grillet Ananasmåse
-
 ## Ingredienser
 
 - 1 boks skåret ananasmåse i saft - (565 g), avlastet (1 boks skal inneholde 10 måser)

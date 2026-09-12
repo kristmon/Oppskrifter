@@ -2,31 +2,29 @@
 created: 2026-05-05
 ---
 
-# Tangy Pear 'N Pecan Noodle Salad
-
 ## Ingredienser
 
-- 12 oz Medium or Wide Egg Noodles, uncooked
-- 1/2 cup fresh orange juice
+- 34 g Medium or Wide Egg Noodles, uncooked
+1,2 desiliter fersk appelsinjuice.
 - 4 Tbs balsamic vinegar
-- 2 Tbs fresh lemon juice
+– 2 ss fersk sitronsaft.
 - 1 garlic clove, minced
 - 1 Tbs orange zest
 - 1 Tbs vegetable or olive oil
-- Salt and freshly ground pepper to taste
-- 16 oz spinach, stems removed and rinsed, cut into 1-inch crosswise strips
-- 4 pears (red or green, or mixed), cored and sliced, leaving peel on
-- 1/2 cup golden raisins
+Salt og ferskmalt pepper, etter smak.
+- 454 g spinat, stilker fjernet og skylt, skjært i strimler på ca. 2,5 cm.
+– 4 pærer (røde eller grønne, eller en blanding), uten kjernehus og i skiver, med skall.
+- 1,2 dl golden raisins
 - <= cup crumbled blue cheese
-- 1/4 cup pecan pieces, toasted
-- 1/2 red onion, thinly sliced
+- 0,6 dl pecan pieces, toasted
+1/2 rødløk, i tynne skiver.
 
 ## Fremgangsmåte
 
-1. Prepare noodles according to package directions. Drain and place in large bowl.
-2. Whisk together orange juice, balsamic vinegar, lemon juice, garlic, orange zest, oil and salt and pepper to taste in small bowl.
-3. In a large saute pan, heat 2 tablespoons of dressing over medium heat. Saute spinach in 2 to 3 batches until slightly wilted.
-4. In large bowl, combine cooked noodles, pears, raisins, half of cheese, half of pecans, wilted greens and red onion. Add remaining dressing and toss to combine. Sprinkle top with remaining cheese and pecans. Serve immediately.
+1. Kok opp pastaen etter anvisningene på pakken. Hell av vannet og ha pastaen i en stor bolle.
+2. Visp sammen appelsinjuice, balsamicoeddik, sitronsaft, hvitløk, appelsinskall, olje, salt og pepper i en liten bolle.
+3. Varm opp 2 ss av dressingen i en stor stekepanne på middels varme. Stek spinaten i 2 til 3 omganger til den faller litt sammen.
+4. Bland den kokte pastaen, pærer, rosiner, halvparten av osten, halvparten av pekannøtter, den stekte spinaten og rødløken i en stor bolle. Tilsett resten av dressingen og bland godt. Dryss resten av osten og pekannøttene over. Server umiddelbart.
 
 ## Info
 

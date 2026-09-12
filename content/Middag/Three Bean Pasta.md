@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Three Bean Pasta
-
 ## Ingredienser
 
-- 1 lb Medium or Wide Egg Noodles, uncooked
-- 1 15-oz. can kidney beans, rinsed and drained
-- 1 15-oz. can chickpeas, rinsed and drained
-- 1 cup frozen green beans, thawed
-- 1 small red onion, chopped
-- 1 red bell pepper, seeds and ribs removed, chopped
-- 3 Tbs Dijon mustard
-- 2 Tbs vegetable oil
-- 3 Tbs red wine vinegar
-- 3 Tbs chopped fresh parsley
+- 455 Medium eller brede eggnudler, ukokt
+- 1 15-g bønner, skylt og avrent
+- 1 15-g kikerter, skylt og avrent
+- 2,4 dl frosne grønne bønner, tint
+- 1 liten rød løk, hakket
+- 1 rød paprika, uten kjerner og støttevev, hakket
+- 3 ss dijonsennep
+- 2 ss vegetabilsk olje
+- 3 ss rødvinseder
+- 3 ss hakket fersk persille
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; drain. Rinse under cold water and drain again.
-2. In a large bowl, stir together the pasta, kidney beans, chickpeas, green beans, onion and bell pepper. In a small bowl, stir together the remaining ingredients. Toss pasta with dressing and serve.
+1. Kok pastaen etter anvisningene på pakken; sil av vannet. Skyll med kaldt vann og sil av igjen.
+2. I en stor bolle, bland pastaen, kidneybønner, kikerter, grønne bønner, løk og paprika. I en liten bolle, bland de resterende ingrediensene. Bland pastaen med dressingen og server.
 
 ## Info
 

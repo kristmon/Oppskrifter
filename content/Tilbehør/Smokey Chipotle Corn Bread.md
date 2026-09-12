@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# Smokey Chipotle Corn Bread
-
 ## Ingredienser
 
-- 1 cup Fiber One cereal
-- 1 cup cornmeal
-- 1 cup Gold Medal all-purpose flour
-- 2 tsp baking powder
-- 1 tsp baking soda
-- 1 tsp salt
-- 1 tsp chili powder
-- 1 1/4 cups buttermilk
-- 1/4 cup barbecue sauce
-- 2 Tbs finely-chopped canned chipotle
-- chilies in adobo sauce
-- 2 Tbs vegetable oil
+- 2,4 dl fiberrik frokostblanding
+- 2,4 dl maismel
+- 2,4 dl hvetemel
+- 2 ts bakepulver
+- 1 ts natron
+- 1 ts salt
+- 1 ts chilipulver
+- 3 dl kulturmelk
+- 0,6 dl barbecuesaus
+- 2 ss finhakket hermetisk chipotle
+- chili i adobo-saus
+- 2 ss vegetabilsk olje
 - 1 egg
 
 ## Fremgangsmåte
 
-1. Heat oven to 400 degrees. Spray square pan, 8 by 8 by 2 inches, or 9 by 9 by 2 inches, with cooking spray.
-2. Stir together cereal, cornmeal, flour, baking powder, baking soda, salt and chili powder in large bowl; set aside. Stir together remaining ingredients; stir into cereal mixture. Pour into pan.
-3. Bake 25 to 28 minutes or until golden brown. Serve warm.
+1. Forvarm ovnen til 200 °C. Smør en firkantet form på 20–23 cm.
+2. Bland sammen frokostblanding, maismel, mel, bakepulver, natron, salt og chilipulver i en stor bolle; sett til side. Bland de resterende ingrediensene sammen; rør dem inn i frokostblandingsblandingen. Hell blandingen i en form.
+3. Stek i 25 til 28 minutter, eller til de er gyllenbrune. Server varme.
 
 ## Info
 
 - **Porsjoner**: 9
-- **Type**: Breads/Rolls, Diabetic, Side Dish
+- **Type**: Brød, Diabetesvennlig, Tilbehør
 - **Kilde**: American Diabetes Association, http://www.diabetes.org

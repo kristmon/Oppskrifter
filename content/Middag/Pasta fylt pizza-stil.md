@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Pasta fylt pizza-stil
-
 ## Ingredienser
 
 - 30 jættar-skjel eller 13 manicotti-skjel, ukokt

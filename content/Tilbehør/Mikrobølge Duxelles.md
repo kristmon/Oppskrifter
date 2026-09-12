@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Mikrobølge Duxelles
-
 ## Ingredienser
 
 - 115 g usaltet smør
@@ -15,8 +13,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Varm smør i en 1-liter souffle-fat, åpent, på 100% effekt i 2 minutter til smeltet. Tilsett sopper og rør for å dekke. Kok, åpent, på 100% effekt i 5 minutter.
-2. Legg løker og persille i matprosessorens arbeidsskål og prosesser til finhakket. Ta soppene ut fra ovnen. Rør inn løker, persille, salt og pepper. Kok, åpent, på 100% effekt i 8 minutter. Ta ut fra ovnen.
+1. Varm smør i en 1-liters souffléform, åpen, på 100 % effekt i 2 minutter, til det er smeltet. Tilsett sopp og rør godt, slik at den er dekket. Stek, åpen, på 100 % effekt i 5 minutter.
+2. Ha løk og persille i en kjøkkenmaskin og kjør til det er finhakket. Ta soppen ut av ovnen. Bland inn løk, persille, salt og pepper. Stek, åpen, på 100 % effekt i 8 minutter. Ta ut av ovnen.
 
 ## Info
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning-mango-chutney
-
 ## Ingredienser
 
 - 1 mango, skaldet, frøet og hakket

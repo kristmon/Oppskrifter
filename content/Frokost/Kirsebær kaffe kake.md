@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Kirsebær kaffe kake
-
 *Gammeldags godhet med daglige ingredienser.*
 
 ## Ingredienser
@@ -24,15 +22,15 @@ created: 2026-05-05
 - 3 ss smør eller margarin
 - 2 egg
 - 1,75 dl melk
-- 1 (595 g) boks kirsebær fyll og topping
+- 1 (595 g) boks med kirsebærfyll og topping.
 
 ## Fremgangsmåte
 
-1. For topping, kombiner sukker, mel, havre, kanel og muskatnøtt i en medium blanding bolle; bland godt. Skjær in smør for å lag en krumlet blanding. Sett til side.
-2. For deig, kombiner mel, sukker, bakepulver og salt i en stor blanding bolle. Skjær in smør til blanding ligner grove krummer.
-3. Tilsett egg og melk; bland bare til tørre ingredienser er fuktig. Ikke overblanding; deigen vil være klumpete.
-4. Spread halv deigen inn i en lett smurt 33x23x5 cm bakingpan. Skje kirsebær fyll jevnt over deig. Top med gjenværende deig. Strø reservert topping over deig.
-5. Bak i en forvarmet 175°C ovn i 30-35 minutter, eller til gyllen brun. Server varm.
+1 . For toppingen, kombiner sukker, mel, havregryn, kanel og muskat i en middels stor bolle; bland godt. Smuldre inn smøret til blandingen ligner en smuleblanding. Sett til side.
+ 2 . For deigen, kombiner mel, sukker, bakepulver og salt i en stor bolle. Smuldre inn smøret til blandingen ligner grove smuler.
+ 3 . Tilsett egg og melk; bland bare til de tørre ingrediensene er fuktet. Ikke bland for mye; deigen vil være litt klumpete.
+ 4 . Fordel halvparten av deigen i en smurt form på  33x23x5 cm. Fordel kirsebærfyllet jevnt over deigen. Legg resten av deigen over fyllet. Strø den reserverte toppingen over deigen.
+ 5 . Stek i en forvarmet ovn på  175 °C i  30 - 35 minutter, eller til den er gyllenbrun. Server varm.
 
 ## Info
 

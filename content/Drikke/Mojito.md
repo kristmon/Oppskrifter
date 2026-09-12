@@ -3,7 +3,7 @@ created: 2021-02-28
 ---
 
 ![[Bilder/Mojito.jpg|300]]
-**Porsjoner**: 1  
+**Porsjoner**: 1
 **Kilde**: [detsoteliv.no](https://www.detsoteliv.no/oppskrift/mojito)
 
 ## Ingredienser

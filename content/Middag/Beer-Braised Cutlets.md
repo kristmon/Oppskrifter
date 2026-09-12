@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Beer-Braised Cutlets
-
 ## Ingredienser
 
-- 4 svinekjøtt sirloin cutlets, tenderized, about 1/4-inch thick
+- 4 svinekjøtt, ytrefilet, banket, ca. 1/4 tommer tykke.
 - 4 ss mel
 - 1/2 ts salt
-- 1 ts ground black pepper
+- 1 ts malt svart pepper
 - 2 ts smør
-- 2,5 dl beer
-- 2 ss cider eddiksyre
-- 2 ss prepared sennep
+- 2,5 dl øl
+- 2 ss eplesidered
+- 2 ss ferdig sennep
 - 2 ts brunt sukker
-- 2 ts dill weed
+- 2 ts dill.
 
 ## Fremgangsmåte
 
-1. Rør together mel, salt and pepper and coat cutlets.
-2. In a large skillet over medium-high varm, melt smør to sizzling and tilsett cutlets.
-3. Saute til gyllen brown on one side; turn cutlets and tilsett remaining ingredients to skillet.
-4. bring til kokepunktet, lower varm and cover. la småkoke for 10-12 minutter, til svinekjøtt is cooked through.
-5. Remove cutlets to a warm platter, kok and rør pan juices til thickened; servér cutlets with pan sauce.
+1 . Bland mel, salt og pepper, og vend kjøttkaker i blandingen.
+ 2 . I en stor stekepanne over middels varme, smelt smøret til det freser, og legg kjøttkakene i pannen.
+ 3 . Stek kjøttkakene til de er gyllenbrune på den ene siden; vend dem, og tilsett resten av ingrediensene i pannen.
+ 4 . Kok opp, senk varmen og sett på lokk. La det småkoke i 10 - 12 minutter, til kjøttet er gjennomstekt.
+ 5 . Legg kjøttkakene over på et varmt fat, kok opp pannen med kraften, og rør til den tykner; server kjøttkakene med pannesausen.
 
 ## Info
 

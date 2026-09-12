@@ -2,31 +2,29 @@
 created: 2026-05-05
 ---
 
-# Bow Ties with Asian Chicken
-
 ## Ingredienser
 
-- 1 lb Bow Ties, Mostaccioli or other medium pasta shape, uncooked
-- 4 Tbs low-sodium soy sauce
-- 2 Tbs honey
-- 2 Tbs lime juice
-- 3 tsp Dijon mustard with seeds
-- 1 lb boneless, skinless chicken breasts, cut into 1/2-inch cubes
-- 1/2 cup chicken broth or pasta cooking liquid *
-- 2 small red bell peppers, cored, seeded and thinly sliced lengthwise
-- 6 scallions, trimmed and thinly sliced
-- Freshly ground pepper
-- 4 Tbs chopped fresh parsley
+- 455 g sløyfer, penne, eller annen pastaform av middels størrelse, ukokt.
+- 4 ss soyasaus med redusert saltinnhold.
+- 2 ss honning.
+- 2 ss limesaft.
+- 3 ts dijonsennep med frø.
+- 455 g kyllingbryst uten bein og skinn, skjært i 1/2 cm store terninger.
+- 1,2 dl kyllingkraft eller pastavann *.
+- 2 små røde paprikaer, uten kjernehus og frø, og i tynne skiver på langs.
+- 6 vårløk, trimmet og i tynne skiver.
+- Nymalt pepper.
+- 4 ss hakket fersk persille.
 
 ## Fremgangsmåte
 
-1. Stir the soy sauce, honey, lime juice and mustard in a small bowl until the honey is dissolved. Add the chicken pieces and turn until coated with the marinade. Refrigerate for 30 minutes.
-2. Transfer the chicken and marinade to a large, non-stick skillet. Cook over medium heat until chicken is cooked through, about 4 minutes. Remove from the heat and pour in the chicken broth.
-3. Prepare pasta according to package directions. Drain thoroughly in a colander. Return the pasta to the pot, add the contents of the skillet, the red peppers and the scallions. Heat to simmering over low heat. Toss the pasta once or twice, add the pepper to taste and divide among serving bowls. Sprinkle each serving with chopped fresh parsley.
+1. Rør sammen soyasaus, honning, limesaft og sennep i en liten bolle til honningen er oppløst. Tilsett kyllingbitene og vend dem slik at de er dekket av marinaden. Sett i kjøleskapet i 30 minutter.
+2. Overfør kyllingen og marinaden til en stor, stekepanne med slippbelegg. Stek over middels varme til kyllingen er gjennomstekt, ca. 4 minutter. Fjern fra varmen og hell i kyllingkraften.
+3. Kok pastaen etter anvisningene på pakken. Hell av vannet grundig i et dørslag. Ha pastaen tilbake i kjelen, tilsett innholdet fra stekepannen, rødløken og vårløken. Varm opp til det småkoker over svak varme. Bland pastaen forsiktig et par ganger, smak til med pepper og fordel i serveringsskåler. Dryss over hakket, fersk persille på hver servering.
 
 ## Tips
 
-- If you do not have chicken broth, ladle off and reserve 1/2 cup pasta cooking liquid just before draining the pasta.
+- Hvis du ikke har kyllingkraft, hell av og sett til side 1,2 desiliter av vannet pastaen har kokt i, rett før du siler pastaen.
 
 ## Info
 

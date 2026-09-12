@@ -2,29 +2,27 @@
 created: 2026-05-05
 ---
 
-# Buffalo kalkunvinger
-
 ## Ingredienser
 
-- 4-1/2 lbs kalkun wings
-- 3/4 dl alle-purpose mel
+- 4-225 g kalkunvinger
+- 3/4 dl universalmel
 - 1/2 ts salt
-- 1 ts cayenne pepper
-- Som needed vegetarolje
-- 1/3 dl unsalted smør smeltet
-- 2 ss distilled white eddiksyre
-- 2 ss hot rød pepper Saus
-- 18 selleri sticks
-- Som needed blue ost dressing
+- 1 ts cayennepepper
+- Etter behov, vegetabilsk olje
+- 1/3 dl usaltet smør, smeltet
+- 2 ss eddik
+- 2 ss sterk, rød peppersaus
+- 18 selleristenger
+- Etter behov, blåmuggostdressing
 
 ## Fremgangsmåte
 
-1. Kutt off wing tips og reserve for en annen bruk. Kutt resterende wings inn i 2 pieces på joint.
-2. Kombiner mel, salt og cayenne pepper på en fett. Dryss wings i mel blanding, shaking off excess.
-3. Varm 1-1/2 cm av olje i en stor tung stekepanne over Medium varm. Tilsett wings i en single lag lag og fritt for 10 minutter, vending en gang, til brun. Tapp på paper towels. Repeat med resterende wings.
-4. Kombiner smør, eddiksyre og hot pepper Saus i en liten bolle. Plasser wings i en stor baking panne; drypper Saus over wings.
-5. Bak wings i en 375 grader F. ovn for 1 time, vending en gang og pensling occasionally med Saus, til wings are brun.
-6. Servér med selleri sticks og blue ost dressing.
+1. Kutt av vingespissene og sett til side for senere bruk. Kutt resten av vingene i 2 biter ved leddene.
+2. Bland mel, salt og cayennepepper i en bolle. Vend vingene i melblandingen og rist av overflødig mel.
+3. Varm 1 – 1/2 cm olje i en stor, tykk stekepanne over middels varme. Legg vingene i ett lag i pannen og stek i 10 minutter, snu en gang, til de er gyllenbrune. Legg dem på et papirhåndkle. Gjenta med resten av vingene.
+4. Bland smør, eddik og sterk peppersaus i en liten bolle. Legg vingene i en stor, ildfast form; dryss sausen over vingene.
+5. Stek vingene i en ovn på 375 grader Fahrenheit i 1 time, snu dem en gang og pensle dem av og til med saus, til de er gyllenbrune.
+6. Server med selleristenger og blåmuggostdressing.
 
 ## Info
 

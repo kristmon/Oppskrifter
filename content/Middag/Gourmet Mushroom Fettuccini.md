@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Gourmet Mushroom Fettuccini
-
 ## Ingredienser
 
 - 0,5 kg Fettuccini
-- 4 oz Specialty sopp ( Crimini, Shiitake, Enoki, Oyster)
-- 3 ss Extra Virgin olivenolje
-- 3 cloves hvitløk, minced
-- 1,2 dl Pine nuts
-- 3 oz Sun Dried tomater, softened and minced
+- 113 g Spesialsopp (Crimini, Shiitake, Enoki, Østerssopp)
+- 3 ss Extra virgin olivenolje
+- 3 fedd hvitløk, finhakket
+- 1,2 dl Pinjekjerner
+- 85 g Soltørkede tomater, myknet og finhakket
 
 ## Fremgangsmåte
 
-1. Kok fettuccini according to package directions. Meanwhile, in medium sauce pan, varm olje and saute remaining ingredients 2-3 minutter.
-2. ta av varmen; toss with hot cooked fettuccini. Top with fresh grated Parmesan ost.
+1. Kok fettuccini etter anvisningene på pakken. I mellomtiden, i en middels stor kjele, varm olje og stek resten av ingrediensene i 2-3 minutter.
+2. Ta kjelen av varmen; bland med den varme, kokte fettuccini. Topp med ferskrivet parmesanost.
 
 ## Info
 

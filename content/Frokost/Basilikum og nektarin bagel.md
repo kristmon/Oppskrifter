@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Basilikum og nektarin bagel
-
 ## Ingredienser
 
 - 1 tynnt skjært fersk California nektarin
@@ -15,9 +13,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Rist bagels og spread med fløtepakke (1,5 ss per bagel halvdel).
-2. Top med basilikumblader og nektarin skiver.
-3. Strø med pepper og/eller chili flak.
+1. Rist bagelsene og smør med kremost (1,5 ss per bagelhalvdel).
+2. Topp med basilikumblader og skiver av nektarin.
+3. Strø over pepper og/eller chiliflak.
 
 ## Info
 

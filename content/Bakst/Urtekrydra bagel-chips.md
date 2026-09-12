@@ -2,11 +2,9 @@
 created: 2026-05-05
 ---
 
-# Urtekrydra bagel-chips
-
 ## Ingredienser
 
-- 9 (30 g) frosen mini-bagels, optint
+- 9 (30 g) frossen mini-bagels, optint
 - smørsmakende vegetatmat-matspray
 - 2,5 ml italiensk krydder
 - 1,25 ml løk-pulver

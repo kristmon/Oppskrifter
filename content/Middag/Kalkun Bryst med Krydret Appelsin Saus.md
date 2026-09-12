@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Kalkun Bryst med Krydret Appelsin Saus
-
 ## Ingredienser
 
 - 120 ml appelsin marmelade
@@ -12,8 +10,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I liten kasserolle, over medium-høy varme, kombinerer du marmelade og pepperrot; varm til varmt.
-2. Serveres saus over kalkun.
+1. I en liten kjele, over middels høy varme, blander du syltetøy og pepperrot; varm opp til den er varm.
+2. Server sausen over kalkun.
 
 ## Info
 

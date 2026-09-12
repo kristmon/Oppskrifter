@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# honning Nut Turkey Ham Rull-Ups
-
 ## Ingredienser
 
 - 1 8-g container honning nut flavored fløte ost
@@ -14,14 +12,14 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Med en dinner kniv eller kitchen spreader, del container av fløte ost inn i 8 equal kiler.
-2. Plasser en tortilla på en time på cutting Brett. Hold annen tortillas i pakke so they skal ikke dry out.
-3. Smør en fløte ost wedge over tortilla.
-4. Plasser en salat leaf over fløte ost med frilly kant facing outer kant av tortilla.
-5. Unfold omtrent 4 slices av kalkun skinke; arrange over salat around kant av tortilla.
-6. Rull up filled tortilla som tightly som du hermetikk, keeping kalkun inside tortilla.
-7. Repeat med hver resterende tortilla. Til help rolls stay closed, tightly wrap hver i piece av plastic wrap.
-8. Store uneaten rolls i refrigerator til klar til bruk. forberedelse tips: Dette oppskrift kan også være used til lag appetizers. Simply store den wraps i den refrigerator over natt. Skjær i skiver wraps inn i 1-cm pieces og plasser på platter, kutt side up, når klar til servér.
+1. Med en smørkniv eller et smøreverktøy, del beholderen med kremost i 8 like store trekantede stykker.
+2. Legg en tortilla på et skjærebrett. Hold den andre tortillaen i emballasjen for å hindre at den tørker ut.
+3. Smør et kremoststykke over tortillaen.
+4. Legg et salatblad over kremosten, med den frilly kanten vendt utover mot kanten av tortillaen.
+5. Brett ut omtrent 4 skiver kalkunskinke; arranger dem over salaten rundt kanten av tortillaen.
+6. Rull sammen den fylte tortillaen så tett som mulig, og sørg for at kalkunen holder seg inni tortillaen.
+7. Gjenta med hver gjenværende tortilla. For å hjelpe med å holde rollene lukket, pakk hver enkelt tett inn i et stykke plastfolie.
+8. Oppbevar ubrukte rollene i kjøleskapet til de er klare til bruk. Forberedelsestips: Denne oppskriften kan også brukes til å lage små kanapeer. Oppbevar wrapsene i kjøleskapet over natten. Skjær wrapsene i 1-cm tykke skiver og legg dem på et fat, med kuttflaten opp, når de skal serveres.
 
 ## Info
 

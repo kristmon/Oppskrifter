@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Barbecue Pulled Pork
-
 ## Ingredienser
 
 - 450 g bennløs svinekjøtt kjøttsylte

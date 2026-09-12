@@ -7,17 +7,17 @@ Lett crock-pot-suppe med kylling, parmesan og pasta — en klassisk rett gjenfor
 
 God, veldig kraftig. Brukte en hel pakke pasta, hadde ikke trengt så mye. Vilt mye rester.
 
-**Porsjoner**: 8 (8 plus)  
-**Tid**: 275 min (5 prep + 270 cook)  
-**Kilde**: [bakedbyrachel.com](https://www.bakedbyrachel.com/slow-cooker-chicken-parm-soup/)  
+**Porsjoner**: 8 (8 plus)
+**Tid**: 275 min (5 prep + 270 cook)
+**Kilde**: [bakedbyrachel.com](https://www.bakedbyrachel.com/slow-cooker-chicken-parm-soup/)
 **Plan to Eat-tag**: Crock Pot
 
 ## Ingredienser
 
 - 450 g kyllingbryst
-- 2,4 dl løk, hakket
+- 2,4 dl løk, finhakket
 - 3 fedd hvitløk, finhakket
-- 700 g hakkede tomater på boks
+- 700 g hermetiske, hakkede tomater
 - 425 g tomatsaus
 - 1½ ts salt
 - ½ ts malt sort pepper

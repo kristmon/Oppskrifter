@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Linguine med sterk thai-rekeglace
-
 ## Ingredienser
 
-- 340 g Linguine, ukokt
-- 340 g fersk medium reke, skajet og rensket, eller 340 g små frosne reker, tiløyst
-- 3 røde paprikaer, frø og stilker fjernet, skåret i bitmål, tynne strimler
-- 3 grønn løk, tynt skåret (kvit del og topp av grøn del)
-- 30 ml glatt jordnøtsmør
+- 340 g linguine, ukokt
+- 340 g fersk middels stor reke, skrellet og renset, eller 340 g små, frosne reker, tint
+- 3 røde paprikaer, uten frø og stilker, skjært i små biter, tynne strimler
+- 3 stilker vårløk, tynt skåret (kun den hvite delen og toppen av den grønne delen)
+- 30 ml glatt peanøttsmør
 - 15 ml sesamolje
-- 120 ml lavt natriumkjøttbolje eller vann
+- 120 ml magert kjøttkraft eller vann
 - 1/2 ts knust rød chili
-- 1 jalapeño-pepper, stilk fjernet, frø og tynt skåret
+- 1 jalapeño, uten stilk, frø fjernet og tynt skåret
 - 1/2 ts malt ingefær
-- 15 ml lavt natriumsojakilde
-- 15 ml mild kvit eddik
+- 15 ml mager soyasaus
+- 15 ml mild hvit eddik
 
 ## Fremgangsmåte
 
-1. Kok linguinen etter pakningsinstruksjonene. Medan nudlene koker, kombiner gjenværande ingrediensar i ei kjel og plasser over lav varme. Dekk og simrer til sausen er glatt og rekene er gjennomstekt, omtrent 2 minutter.
-2. Når linguinen er ferdig, avløp godt og flytt til ei stor bolle. Tilsett saus og blan varsamt til det er godt blandt. Server umiddelbart.
+1. Kok linguinen etter anvisningene på pakken. Mens pastaen koker, bland de resterende ingrediensene i en kjele og sett på svak varme. Dekk til og la det småkoke til sausen er jevn og rekene er gjennomkokte, vanligvis i omtrent 2 minutter.
+2. Når pastaen er ferdig, hell av vannet godt og overfør den til en stor bolle. Tilsett sausen og bland forsiktig til alt er godt blandet. Server umiddelbart.
 
 ## Info
 

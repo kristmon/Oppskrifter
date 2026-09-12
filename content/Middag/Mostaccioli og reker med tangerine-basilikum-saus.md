@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Mostaccioli og reker med tangerine-basilikum-saus
-
 ## Ingredienser
 
-- 450 g Mostaccioli, Ziti eller annan mellanstørrel pastaform, ukokt
-- 1,3 liter tangerine- eller appelsinskjuice, delt
-- 1 stor gul løk, finhakket
-- 15 ml finhakket, frø fjernet jalapeño-pepper
-- 2 laurbærblad
-- 30 ml finhakket hvitløk, delt
-- 15 ml olivenolje eller vegetarolje
-- 1 medium rød løk, tynt skåret
-- 450 g medium reker, skajet og rensket
-- Salt og fersk malt pepper etter smak
-- 2,5 dl hakket Brie-ost (omtrent 115 g)
-- 30 ml tynt skåret basilikum-blad
-- 2,5 dl tangerine- eller appelsin-segment
-- 80 ml silvra mandlar, lett rostad
+- 450 g mostaccioli, ziti eller annen pastaform av middels størrelse, ukokt.
+- 1,3 liter tangerin- eller appelsinjuice, delt.
+- 1 stor gul løk, finhakket.
+- 15 ml finhakket jalapeño-pepper, uten frø.
+- 2 laurbærblad.
+- 30 ml finhakket hvitløk, delt.
+- 15 ml olivenolje eller vegetabilsk olje.
+- 1 medium rød løk, tynt skåret.
+- 450 g medium store reker, skrellet og renset.
+- Salt og ferskmalen pepper etter smak.
+- 2,5 dl hakket Brie-ost (omtrent 115 g).
+- 30 ml tyntskåret basilikum.
+- 2,5 dl tangerin- eller appelsinsegmenter.
+- 80 ml silvermandler, lett ristet.
 
 ## Fremgangsmåte
 
-1. Kombiner 1,2 liter av tangerine- eller appelsinskjuice, den gule løken, jalapeño-en, laurbærblanda og 15 ml hvitløk i ei medium gryte. Bring til kokepunktet og kok til væsken er redusert med to-tredjedelar. Fjern laurbærblanda. La kjøle. Flytt juiceblandinga til ein blender og bland til glatt. Tillsett salt og pepper etter smak og set til side.
-2. Kok pastaen etter pakningsinstruksjonane. Medan pastaen koker, tillsett oljen, rød løk og rekene til ei medium panne. Braisér 1 minutt. Tillsett dei gjenværande 120 ml tangerine- eller appelsinskjuice til pannen og kok over lav varme.
-3. Avløp pastaen, kom ho tilbake til gryten og tillsett den reservert appelsin-sausen og rekeblandinga. Kok over lav varme 1 minutt. Rør inn Brie-osten og basilikummet. Rør til Brie-osten smelter. Flytt til ei serveringsbolle. Pynt med appelsin-segment og rostad mandlar. Server umiddelbart.
+1. Ha 1,2 liter mandarin- eller appelsinjuice, gul løk, jalapeño, laurbærblad og 15 ml hvitløk i en middels stor kjele. Kok opp og reduser væsken med en tredjedel. Fjern laurbærbladene og avkjøl blandingen litt. Kjør den glatt med stavmikser eller i en blender. Smak til med salt og pepper og sett sausen til side.
+2. Kok pastaen etter anvisningen på pakken. Fres olje, rødløk og reker i en middels stor stekepanne i 1 minutt. Tilsett resten av juicen og la det småkoke.
+3. Hell av pastaen og ha den tilbake i kjelen sammen med sausen og rekeblandingen. La småkoke i 1 minutt. Rør inn brie og basilikum til osten er smeltet. Ha retten i en serveringsbolle og pynt med appelsinbåter og ristede mandler. Server straks.
 
 ## Info
 

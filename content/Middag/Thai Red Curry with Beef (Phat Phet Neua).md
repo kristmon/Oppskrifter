@@ -3,9 +3,9 @@ created: 2020-04-28
 ---
 
 ![[Bilder/Thai Red Curry with Beef (Phat Phet Neua).png|300]]
-Denne er sterk. Kan dempes med melkeprodukter.
+Denne er kraftig. Kan reduseres med meieriprodukter.
 
-Les over beskrivelsen — det er noen ingredienser som ikke står i listen.
+Les nøye gjennom beskrivelsen – det er noen ingredienser som ikke er oppført.
 
 **Porsjoner**: 4
 
@@ -36,12 +36,12 @@ Les over beskrivelsen — det er noen ingredienser som ikke står i listen.
 - 1 ts rekepasta
 - 1 ss korianderfrø
 - ½ ts spisskummenfrø
-- 15 tørkede chili, frø fjernet og lagt i bløt i lunkent vann
-- 1 stilk sitrongress, hvit del, finhakket
-- 2 ts hakket sjalottløk
+- 15 tørkede chili, uten frø og bløtlagt i lunkent vann
+- 1 stilk sitrongress, kun den hvite delen, finhakket
+- 2 ss hakket sjalottløk
 - 1 fedd hvitløk, finhakket
 - 1 ts revet galangal
-- 1 ss nykvernet sort pepper
+- 1 ss nykvernet svart pepper
 - 2 kaffirlimeblader, finhakket
 - 1 ts revet kaffirlimeskall
 - 1 ts salt

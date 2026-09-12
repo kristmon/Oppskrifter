@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Oransje pekannøtt cream cheese
-
 ## Ingredienser
 
 - 75 ml pekannøtter, fint hakket
@@ -13,8 +11,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Bland ingrediensene over og pisk til det er glatt og av påleggskonsistens.
-2. Kjøl til du er klar til å bruke.
+1. Bland ingrediensene godt og visp til blandingen er jevn og har konsistens som smøreost.
+2. Avkjøl til du skal bruke den.
 
 ## Info
 

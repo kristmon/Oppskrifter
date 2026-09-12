@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Portabella Høst Pita
-
 ## Ingredienser
 
 - 4 medium (ca. 85 g hver) portabella soppkapsler, gill fjernet
@@ -17,8 +15,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Over medium varme varmer du en grillpanne eller 30 cm stekepanne. Pensl generøst begge sider av sopp med vinaigrette. Grill sopp til mørt og væske fordamper, ca. 10 minutter, vend en gang; dren på papirservietter og skjær.
-2. I en medium bolle kombinerer du spinat og gulrot; tøff med 3 ss vinaigrette. Klipp av 1/3 av hver pita; åpne med fingrene. Skje spinat-gulrot blandingen, sopp, cheddar, eple og gresskarfrø inn i pita lommer, dele jevnt.
+1 . Grillpannen eller stekepannen varmes opp til middels varme, ca. 30 cm. Pensl begge sider av soppen generøst med vinaigrette. Grill soppen til den er myk og væsken fordamper, ca. 10 minutter, snu en gang. Legg den over på kjøkkenpapir og skjær den opp.
+ 2 . I en middels stor bolle blander du spinat og gulrot; vend inn 3 ss vinaigrette. Klipp av 1/3 cm fra hver pita; åpne dem forsiktig med fingrene. Fordel spinat- og gulrotblandingen, soppen, cheddar, eple og gresskarfrø i pitaene, og fordel det jevnt.
 
 ## Info
 

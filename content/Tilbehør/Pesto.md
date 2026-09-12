@@ -5,8 +5,8 @@ created: 2020-10-02
 ![[Bilder/Pesto.jpg|300]]
 Basic pesto med basilikum, olivenolje, pinjekjerner og parmesan. Avviker fra klassisk oppskrift med litt persille i tillegg. Tilsett gjerne litt ekstra parmesan om ønskelig.
 
-**Porsjoner**: 16  
-**Tid**: 5 min  
+**Porsjoner**: 16
+**Tid**: 5 min
 **Kilde**: [allrecipes.com](https://www.allrecipes.com/recipe/13937/pesto/?internalSource=hub%20recipe&referringContentType=Search)
 
 ## Ingredienser

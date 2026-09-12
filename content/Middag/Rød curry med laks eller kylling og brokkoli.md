@@ -7,8 +7,8 @@ Gjorde store endringer i originaloppskriften.
 
 Sausen kan reduseres. Det er ikke nødvendig å bruke 600 gram laks.
 
-**Porsjoner**: 4 (4 porsjoner)  
-**Kilde**: [trinesmatblogg.no](https://trinesmatblogg.no/recipe/gronn-curry-med-torsk-brokkolini/)  
+**Porsjoner**: 4 (4 porsjoner)
+**Kilde**: [trinesmatblogg.no](https://trinesmatblogg.no/recipe/gronn-curry-med-torsk-brokkolini/)
 **Plan to Eat-tag**: Fisk, Fjærkre, Svin
 
 ## Ingredienser
@@ -30,13 +30,13 @@ Sausen kan reduseres. Det er ikke nødvendig å bruke 600 gram laks.
 
 ## Fremgangsmåte
 
-1. Skjær opp grønnsakene som angitt. Skjær opp fisken i jevnstore biter, ca. 2 x 2 cm. Dersom skinn, kan den stekes litt så man får fjernet det.
-2. Finn frem en vid gryte eller en stekepanne med høye kanter, og stek løken (ikke vårløk!) i litt nøytral olje til den er blank og myk. La hvitløken steke med de siste minuttene. Tilsett rød karripasta og la det surre med et par minutter, og tilsett deretter kokosmelken. La det småkoke i ca. 5 minutter. Smak eventuelt til med mer karripasta, limesaft, fiskesaus og brunt sukker til du får en fin balanse mellom smakene. Vær forsiktig med fiskesaus; den gir markant smak. Brukte også litt salt og karripulver.
-3. Ha fiskebiter og vårløk i sausen (øs sausen over fisken). La det stå og trekke i 3–5 minutter, til fisken er gjennomkokt.
-4. Kok nudlene etter anvisningen på pakken. Kok også brokkoli i 3-4 minutter, til de er møre og fine (kok dem gjerne i kjelen sammen med nudlene).
-5. Server curryen umiddelbart sammen med risnudler og brokkolini, og topp det hele med frisk koriander, cashewnøtter og eventuelt chiliflak.
-6. TIPS
-7. Varier med annen type fisk, for eksempel laks og sei. Bruk gjerne frossen fisk, som du tiner i kjøleskapet over natten.
-8. Bruk det du har av grønnsaker, for eksempel gulrøtter (i tynne staver), paprika og spinat. Grønn karripasta kan gjerne erstattes med rød karripasta, hvis du heller foretrekker det.
-9. Alle curryoppskriftene på bloggen finner du samlet her.
-10. VELBEKOMME!
+1 . Kutt grønnsakene som angitt. Kutt fisken i jevnstore biter, ca. 2 x 2 cm. Hvis det er skinn, kan du steke den litt for å fjerne det.
+ 2 . Finn frem en vid kjele eller en stekepanne med høye kanter, og stek løken (ikke vårløk!) i litt nøytral olje til den er blank og myk. La hvitløken steke med de siste minuttene. Tilsett rød karripasta og la det surre et par minutter, og tilsett deretter kokosmelken. La det småkoke i ca. 5 minutter. Smak eventuelt til med mer karripasta, limesaft, fiskesaus og brunt sukker til du får en fin balanse mellom smakene. Vær forsiktig med fiskesaus; den gir en tydelig smak. Brukte også litt salt og karripulver.
+ 3 . Ha fiskebitene og vårløken i sausen (hell sausen over fisken). La det stå og trekke i 3 – 5 minutter, til fisken er gjennomvarm.
+ 4 . Kok nudlene etter anvisningen på pakken. Kok også brokkoli i 3 - 4 minutter, til den er mør og fin (kok den gjerne i kjelen sammen med nudlene).
+ 5 . Server curryen umiddelbart sammen med risnudler og brokkolini, og topp det hele med frisk koriander, cashewnøtter og eventuelt chiliflak.
+ 6 . TIPS
+ 7 . Varier med annen type fisk, for eksempel laks og sei. Bruk gjerne frossen fisk, som du tiner i kjøleskapet over natten.
+ 8 . Bruk det du har av grønnsaker, for eksempel gulrøtter (i tynne strimler), paprika og spinat. Grønn karripasta kan gjerne erstattes med rød karripasta, hvis du heller foretrekker det.
+ 9 . Alle curryoppskriftene på bloggen finner du samlet her.
+ 10 . VELBEKOMME!

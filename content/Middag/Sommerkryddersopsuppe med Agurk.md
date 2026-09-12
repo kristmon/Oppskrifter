@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Sommerkryddersopsuppe med Agurk
-
 ## Ingredienser
 
-- 115 g av en hvilken som helst liten pastafasong, slik som Acine di Pepe, Orzo, Ditalini eller Alfabeter, ukokt
-- 3 medium agurker, skaltet, kjernet og kuttet i biter
-- 5 dl lavt-saltkartet kyllingbuljong
-- 5 dl vanlig lavfett yoghurt eller lett fløtekrem
-- 2 hvitløkfedd, finhákkete
-- 2 ss finhákkete dill
-- 2 ss snitt gressløk
-- 2 ss finhákkete flat-blade persille
-- 2 ss finhákkete mynte
-- Salt og hvit pepper etter smak
-**Garnering**
-- Agurk, tynnt skåret
-- Urtespirer
-- Snitt gressløk
+- 115 g av en hvilken som helst liten pastatype, for eksempel Acine di Pepe, Orzo, Ditalini eller Alfabetpasta, tørrvekt.
+- 3 mellomstore agurker, skrelt, uten kjerner og i biter.
+- 5 dl lettsaltet kyllingkraft.
+- 5 dl vanlig yoghurt med lavt fettinnhold eller lett fløtekrem.
+- 2 fedd hvitløk, finhakket.
+- 2 ss finhakket dill.
+- 2 ss finhakket gressløk.
+- 2 ss finhakket persille (flatbladet).
+- 2 ss finhakket mynte.
+- Salt og hvit pepper etter smak.
+**Til pynt:**
+- Agurk i tynne skiver.
+- Urtespirer.
+- Finhakket gressløk.
 
 ## Fremgangsmåte
 

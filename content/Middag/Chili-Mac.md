@@ -2,31 +2,29 @@
 created: 2026-05-05
 ---
 
-# Chili-Mac
-
 ## Ingredienser
 
-- 0,5 kg Elbow Macaroni, Rotini or other medium pasta shape, uncooked
-- 0,5 kg lean hakket storfekjøtt
-- 3 ss olive or vegetarolje
-- 1 28-oz. can tomater with juice
-- 1 quart tomat juice
-- 5 dl chopped løk
-- 3 cloves hvitløk
+- 0,5 kg albuepasta, rotini eller annen middels stor pastatype, ukokt
+- 0,5 kg magert kjøttdeig
+- 3 ss olje eller vegetabilsk olje
+- 1 28-oz. boks tomater i saus
+- 1 liter tomatjuice
+- 5 dl finhakket løk
+- 3 fedd hvitløk
 - 1 ts salt
-- 1 ss chilipodd
-- 1 ts ground kommen
-- 1/2 ts dried oregano
+- 1 ss chilipulver
+- 1 ts malt spisskummen
+- 1/2 ts tørket oregano
 - 1/2 ts pepper
-- 1 lauberblad
-- 1 20-oz. can red røde bønner, drained
+- 1 laurbærblad
+- 1 20-oz. boks røde bønner, avrent
 
 ## Fremgangsmåte
 
-1. Kok pasta according to package directions; tøm.
-2. In a Dutch ovn or large skillet, brown storfekjøtt in olje, stirring frequently. tilsett undrained tomater, tomat juice, løk, hvitløk, salt and remaining seasonings. Cover and la småkoke for 45 minutter.
-3. Rør in røde bønner. kok for an additional 30 minutter. Remove lauberblad.
-4. Meanwhile, gradually tilsett kokt pasta to the chili. servér in bowls.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet.
+2. I en jerngryte eller stor stekepanne, brun kjøttdeig i olje, og rør ofte. Tilsett tomater (uten å helle av), tomatjuice, løk, hvitløk, salt og resten av krydderne. Dekk til og la det småkoke i 45 minutter.
+3. Rør inn røde bønner. La det koke i ytterligere 30 minutter. Fjern laurbærbladet.
+4. I mellomtiden, tilsett gradvis kokt pasta til chili. Server i skåler.
 
 ## Info
 

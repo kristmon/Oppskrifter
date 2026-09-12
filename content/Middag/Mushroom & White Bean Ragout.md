@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Mushroom & White Bean Ragout
-
 ## Ingredienser
 
-- 1 1/1 kg fresh white sopp
+- 1 1/1 kg fersk, hvit sopp
 - 3 ss olje
-- 2,5 dl diced løk
-- 1 1/2 ts Italian seasoning
+- 2,5 dl finhakket løk
+- 1 1/2 ts italiensk krydderblanding
 - 3/4 ts salt
-- 1 can (15 to 19 ounces) white bønner (cannellini), rinsed and drained
-- 1 can (14.5 ounces) stewed tomater, lightly crushed
-- 0,6 dl Parmesan ost
+- 1 boks (15 til 539 g) hvite bønner (cannellini), skylt og avrent
+- 1 boks (411 g) kokte tomater, lett knust
+- 0,6 dl parmesanost
 
 ## Fremgangsmåte
 
-1. If sopp are large cut in halves. In a large skillet over medium varm, varm olje til hot. tilsett sopp, løk, Italian seasoning and salt; kok til sopp are tender, stirring iblant, about 6 minutter.
-2. Tilsett stewed tomater and white bønner to skillet; varm through. rør in Parmesan ost.
+1. Hvis soppen er stor, skjær den i to. I en stor stekepanne over middels varme, varm oljen til den er varm. Tilsett sopp, løk, italiensk krydderblanding og salt; stek til soppen er mør, rør av og til, i omtrent 6 minutter.
+ 2. Tilsett hermetiske tomater og hvite bønner i stekepannen; varm opp. Rør inn parmesanost.
 
 ## Info
 

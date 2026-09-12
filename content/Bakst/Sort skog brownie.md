@@ -2,16 +2,14 @@
 created: 2026-05-05
 ---
 
-# Sort skog brownie
-
 *Need en quick, delicious Dessert for den sjokolade lovers i Din Familie. Dette en er en winner!*
 
 ## Ingredienser
 
-- 1 pkg. (18 g.) NESTLÉ® TOLL HOUSE® Refrigerated Brownie eller Walnut Brownie Bar Dough
-- 1 container (21 g.) kirsebær pie filling, warmed
+- 1 pakke (18 g) kjøle-brownie eller valnøtt-brownie deig
+- 1 beger (21 g) kirsebærpai-fyll, varmet
 - pisket fløte
-- 1 bar (2 g. total) NESTLÉ® TOLL HOUSE® Semi-Sweet Chocolate baking Bar, revnet
+- 1 plate (2 g total) kokesjokolade, revet
 
 ## Fremgangsmåte
 

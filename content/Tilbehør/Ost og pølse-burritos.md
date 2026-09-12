@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Ost og pølse-burritos
-
 ## Ingredienser
 
 - 8 15 cm mel-tortillas
@@ -14,8 +12,7 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Varm pølser som angitt på pakken. Varm tortillas (se tortilla-tilberedelses-tips på side 2). Plasser 1 varm pølse på nedre tredjedel av hver tortilla. Strø hver pølse med 50 ml av osten, ca. 15 ml grønn løk og ca. 15 ml taco-saus. Fold inn sider og rull opp.
-2. Varm pølser som angitt på pakken. Varm tortillas (se tortilla-tilberedelses-tips på side 2). Plasser 1 varm pølse på nedre tredjedel av hver tortilla. Strø hver pølse med 50 ml av osten, ca. 15 ml grønn løk og ca. 15 ml taco-saus. Fold inn sider og rull opp.
+1. Varm pølsene og tortillaene som angitt på pakkene. Legg én varm pølse nederst på hver tortilla. Strø over 0,5 dl ost, ca. 1 ss vårløk og ca. 1 ss tacosaus. Brett inn sidene og rull sammen.
 3. Grill på aluminiumsfolie-kledde rist over medium varme i 2-3 minutter eller til ost er smeltet. Serv umiddelbar med ekstra taco-saus.
 
 ## Info

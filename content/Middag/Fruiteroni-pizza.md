@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Fruiteroni-pizza
-
 ## Ingredienser
 
 - 1 30 cm fordbakt tynn pizzabunn ELLER 30 cm vanlig pizzabunn

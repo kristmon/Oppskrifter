@@ -2,37 +2,38 @@
 created: 2026-05-05
 ---
 
-# Dijon-Blackened Chicken Salad
-
 ## Ingredienser
 
-- 4 skinless, boneless chicken breast halves (4 oz. each)
-- 4 Tbs Dijon mustard
-- 3/4 cup oat bran
-- 1/4 cup Parmesan cheese, grated
-- 1 tsp dried thyme
-- Non-stick cooking spray
-**Salad**
-- 4 cups Medium Shells, uncooked
-- 4 cups salad greens, torn
-- 1 red bell pepper, cut into chunks
-- 1 green bell pepper, cut into chunks
-- 1 cup canned corn, drained
-- 1/2 cup sliced red onions
-**Dressing**
-- 1/4 cup frozen apple juice concentrate, thawed
-- 2 Tbs balsamic vinegar
-- 2 Tbs Dijon mustard
-- 4 tsp fresh apple, grated
-- 1/4 cup cilantro, chopped
-- 1 tsp sugar
-- 1/4 tsp cayenne pepper
+**Ingredienser:**
+- 4 kyllingbrystfileter uten skinn og bein (ca. 113 g hver)
+- 4 ss Dijonsennep
+- 1,8 dl havrekli
+- 0,6 dl revet parmesanost
+- 1 ts tørket timian
+- formfett til steking
+
+**Salat:**
+- 9,6 dl Medium Shells pasta, tørrvekt
+- 9,6 dl salat, grovhakket
+- 1 rød paprika, kuttet i biter
+- 1 grønn paprika, kuttet i biter
+- 2,4 dl hermetisk mais, avrent
+- 1,2 dl skivede rødløker
+
+**Dressing:**
+- 0,6 dl eplejuicekonsentrat, tint
+- 2 ss balsamicoeddik
+- 2 ss Dijonsennep
+- 4 ts fersken eple, revet
+- 0,6 dl koriander, finhakket
+- 1 ts sukker
+- 1/4 ts cayennepepper
 
 ## Fremgangsmåte
 
-1. Cook pasta according to package directions; drain and rinse under cold water; drain again and set aside. When pasta is cool, toss with other salad ingredients in a large bowl and set aside.
-2. Set oven to broil. Pound chicken between wax paper sheets until 1/4-inch thick. Spread mustard evenly over chicken. Combine oat bran, cheese and thyme. Lightly coat chicken with oat bran mixture. Spray bottom of roasting pan with cooking spray. Place coated chicken in roasting pan and cook approximately 5 inches below broiler for about 3 minutes on each side or until meat turns white. Cut chicken breasts into strips and set aside.
-3. Blend dressing ingredients together at high speed in food processor or blender. Toss pasta salad with dressing, top with chicken strips and serve.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet og skyll med kaldt vann; hell av vannet igjen og sett til side. Når pastaen er avkjølt, bland den med de andre salatingrediensene i en stor bolle og sett til side.
+2. Sett ovnen på høy varme (grill). Bank kyllingen flat mellom to ark med bakepapir til den er omtrent 6 mm tykk. Smør sennep jevnt over kyllingen. Bland havrekli, ost og timian. Dekk kyllingen lett med blandingen av havrekli. Spray bunnen av ildfast form med matolje. Legg den panerte kyllingen i formen og stek den under grillen, omtrent 3 cm under, i ca. 3 minutter på hver side, eller til kjøttet er hvitt. Skjær kyllingbrystene i strimler og sett til side.
+3. Kjør ingrediensene til dressingen sammen i en kjøkkenmaskin eller blender. Vend dressingen inn i pastasalaten, legg kyllingstrimlene over og server.
 
 ## Info
 

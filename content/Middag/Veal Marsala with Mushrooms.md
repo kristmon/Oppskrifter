@@ -2,29 +2,27 @@
 created: 2026-05-05
 ---
 
-# Veal Marsala with Mushrooms
-
 ## Ingredienser
 
-- 0,5 kg fresh sopp
-- 1 kg boneless Leg of Veal, cut 1/4" thick
-- 0,6 dl løk, minced
-- 2,5 dl Dry Marsala
+- 0,5 kg fersk sopp
+- 1 kg uten bein, kalvelår, i skiver på 1/4 cm
+- 0,6 dl løk, finhakket
+- 2,5 dl tørr Marsala
 - 2,5 dl storfekjøttbuljong
-- 3,8 dl tomater, peeled, seeded and diced
-- 6 ss olje, divided
-- 8 ss smør or margarine, divided
-- 0,6 dl lemon Juice
+- 3,8 dl tomater, skrelt, uten kjerner og i terninger
+- 6 ss olje, fordelt
+- 8 ss smør eller margarin, fordelt
+- 0,6 dl sitronsaft
 - 1 1/2 ts salt
-- 1/4 ts ground black pepper
-- 1 ts tarragon leaves, crushed
+- 1/4 ts malt svart pepper
+- 1 ts tarragonblader, knust
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 350 grader. Rinse, pat dry and skjær i skiver fresh sopp (makes about 5 ½ cups); set aside. Pound veal between 2 pieces waxed paper til thin. bland sammen lemon juice, salt and black pepper. Brush on both sides of veal. Dredge meat with mel, carefully shaking off excess. In a large skillet varm 2 T. of the olje and 2 T. of the smør.
-2. Tilsett veal, a few pieces at a time. kok over moderate varm til brown, about 3 minutter on each side. As the meat browns place in a shallow ovenproof casserole. tilsett additional olje and smør to skillet as needed, reserving 4 T. of the smør to be added when all the meat is browned.
-3. To the hot smør rør in reserved sopp and løk; sauté til gyllen, about 5 minutter. Remove sopp and løk to a bowl. rør Marsala and broth into skillet; bring to the boiling point. reduser varmen and la småkoke, uncovered, for 2 minutter, stirring to loosen particles on bottom of pan.
-4. Tilsett tomater, tarragon and reserved sopp mixture; la småkoke for 2 minutter. ta av varmen; season with additional salt and pepper if necessary. hell over meat. Cover. bak for 20 to 30 minutter. To servér, arrange meat down center of hot serving platter. Spoon sauce over meat.
+1. Forvarm ovnen til 350 grader. Skyll, tørk og skjær opp fersk sopp (ca. 2,6 liter); sett til side. Bank kjøttet flatt mellom to ark med bakepapir. Bland sammen sitronsaft, salt og svart pepper. Pensle kjøttet på begge sider. Vend kjøttet i mel, og rist forsiktig av overflødig mel. I en stor stekepanne, varm 2 ss olje og 2 ss smør.
+2. Tilsett kjøtt, litt om gangen. Brun kjøttet over moderat varme, ca. 3 minutter på hver side. Etter hvert som kjøttet brunes, legg det i en ovnsikker form. Tilsett mer olje og smør i stekepannen ved behov, men sett av 4 ss av smøret, som skal tilsettes når alt kjøttet er brunt.
+3. Tilsett den reserverte soppen og løken i den varme pannen med smør. Stek til de er gyllen, ca. 5 minutter. Fjern soppen og løken over i en bolle. Hell Marsala og kraft i pannen; kok opp. Senk varmen og la det småkoke, uten lokk, i 2 minutter, rør for å løsne eventuelle partikler som har festet seg i bunnen av pannen.
+4. Tilsett tomater, tarragon og den reserverte soppblandingen; la det småkoke i 2 minutter. Ta bort varmen; smak til med eventuelt mer salt og pepper. Hell over kjøttet. Dekk til. Stek i 20 til 30 minutter. Ved servering, legg kjøttet i midten av et varmt serveringsfat. Øs sausen over kjøttet.
 
 ## Info
 

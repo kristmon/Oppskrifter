@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning-sitrus trøstdrikk
-
 ## Ingredienser
 
 - 3 teposer (grønn eller svart)

@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# Fiesta Lasagne
-
 ## Ingredienser
 
-- 9 pieces Lasagne, uncooked
-- 2 4-oz. cans diced green chilies
-- 2 cups low-fat cottage cheese
-- 1/2 tsp ground cumin
-- 1 tsp chili powder
-- 1 18-oz. can tomato sauce
-- 12 oz lean ground beef, browned and drained
-- 1 8-oz. jar picante sauce
-- 1 cup frozen corn, thawed
-- 1 bunch scallions, sliced
-- 2 cups grated low-fat sharp Cheddar cheese, 1/2 cup reserved for the top
-- 1 cup low-fat sour cream or 1 cup plain, low-fat yogurt, reserved for the top
-- 1/3 cup green olives
+- 9 lasagneplater, ubehandlet
+- 2 4 bokser med hakket grønn chili
+- 4,8 dl mager cottage cheese
+- 1/2 ts malt spisskummen
+- 1 ts chilipulver
+- 1 18 boks med tomatsaus
+- 34 g magert kjøttdeig, brunet og avrent
+- 1 8 glass med picante saus
+- 2,4 dl frossen mais, tint
+- 1 bunt vårløk, i skiver
+- 4,8 dl revet mager cheddarost, 1,2 dl reservert til topping
+- 2,4 dl mager rømme eller 2,4 dl naturell, mager yoghurt, reservert til topping
+- 0,8 dl grønne oliven
 
 ## Fremgangsmåte
 
-1. Prepare lasagne according to package directions; drain. Stir the diced chilies into the cottage cheese.
-2. Preheat oven to 350-o F. In a medium bowl, mix cumin, chili powder, tomato sauce and picante sauce. Spread 1/2 to 1 cup of the tomato sauce mixture over the bottom of a 9 x 13 x 2-inch baking dish. Place three pieces of lasagne on top of sauce. Spread half of the cottage cheese on the lasagne and sprinkle half each of the ground beef, corn, scallions and Cheddar cheese. Repeat layering, beginning with sauce. Place a layer of lasagne on top. Pour remaining sauce over lasagne. Cover with aluminum foil and bake for 30 minutes. Uncover, top with sour cream, Cheddar cheese and olives. Re-cover and continue baking for 15 minutes. Let stand 15 minutes before serving.
+1. Tilbered lasagnen etter anvisningene på pakken; hell av vannet. Bland inn hakket chili i cottage cheese (eller hytteost).
+2. Forvarm ovnen til 175 °C. I en middels stor bolle, bland spisskummen, chilipulver, tomatsaus og sterk saus. Fordel 1,2 til 2,4 desiliter av tomatsausblandingen jevnt over bunnen av en ildfast form som er 23 x 33 x 5 cm. Legg tre lasagneplater over sausen. Fordel halvparten av cottage cheese over lasagneplatene, og dryss over halvparten av kjøttdeigen, mais, vårløk og cheddarost. Gjenta lagene, og begynn med saus. Legg et lag med lasagneplater på toppen. Hell resten av sausen over lasagneplatene. Dekk formen med aluminiumsfolie og stek i 30 minutter. Fjern folien, og dryss over rømme, cheddarost og oliven. Dekk til igjen og fortsett å steke i 15 minutter. La retten hvile i 15 minutter før servering.
 
 ## Tips
 
-- If you prefer not to cook lasagne, add 1 cup water to tomato sauce and continue as above. When lasagne is assembled, cover and refrigerate at least six hours before baking.
+- Hvis du foretrekker å ikke lage lasagne, tilsett 2,4 dl vann til tomatsausen og fortsett som beskrevet ovenfor. Når lasagnen er satt sammen, dekk den til og sett den i kjøleskapet i minst seks timer før steking.
 
 ## Info
 

@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Macaroni and Cheese with Tomatoes
-
 ## Ingredienser
 
-- 8 oz Elbow Macaroni, uncooked
-- 2 ripe tomater, sliced
-- 2 ss smør or margarine
+- 227 g albuepasta, ukokt
+- 2 modne tomater, i skiver
+- 2 ss smør eller margarin
 - 1 ss mel
-- 1/4 ts dry sennep
+- 1/4 ts tørr sennep
 - 1/2 ts salt
-- 5 dl skim melk
-- 5 dl grated hard ost (such as Cheddar)
-- 1,2 dl fresh bread crumbs
+- 5 dl mager melk
+- 5 dl revet hard ost (for eksempel cheddar)
+- 1,2 dl ferske brødsmuler
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; tøm in colander. forvarm ovn to 375° F.
-2. skjær i skiver the tomater into 1/2-inch thick slices. Set aside on a small plate.
-3. Crumble the bread crumbs with your fingertips. Set aside on another small plate.
-4. Into a 2-quart saucepan over medium varm, melt the smør or margarine. tilsett the mel, dry sennep and salt, then kok together for 2 to 3 minutter. tilsett the melk little by little and continue stirring til mixture thickens. tilsett ost and rør til melted.
-5. Place two slices of tomat in bottom of pan, then half the pasta. Place another two slices of tomat, the remainder of the pasta, and hell the sauce over all.
-6. Arrange three slices of tomat on top and sprinkle with bread crumbs. bak for 20 minutter. servér immediately.
+1. Kok pastaen etter anvisningene på pakken; hell den over i en sil. Forvarm ovnen til 191 °C.
+2. Skjær tomatene i skiver som er omtrent 1/2 centimeter tykke. Legg dem til side på en liten tallerken.
+3. Smuldre brødsmulene med fingrene. Legg dem til side på en annen liten tallerken.
+4. I en kjele på omtrent 2 liter, smelt smøret eller margarinen over middels varme. Tilsett mel, tørr sennep og salt, og la det koke sammen i 2 til 3 minutter. Tilsett melken gradvis, mens du rører, til blandingen tykner. Tilsett ost og rør til den er smeltet.
+5. Legg to skiver tomat i bunnen av kjelen, og legg deretter halvparten av pastaen oppi. Legg på to skiver tomat til, resten av pastaen, og hell sausen over alt.
+6. Legg tre skiver tomat på toppen og dryss over brødsmulene. Stek i 20 minutter. Server umiddelbart.
 
 ## Info
 

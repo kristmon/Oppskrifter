@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# Whipped Honey Butter
-
 ## Ingredienser
 
-- 1 cup (12 ounces) whipped or creamed honey, softened if necessary
-- 1/2 lb (2 sticks) butter, softened
+- 2,4 dl (34 g) pisket eller kremet honning, eventuelt myknet.
+- 225 g (2 pakker) smør, myknet.
 
 ## Fremgangsmåte
 
-1. In a medium bowl, mix together honey and butter.
-2. Spoon into jars with tight-fitting lids. Store in refrigerator.
+1. I en middels stor bolle, bland honning og smør.
+2. Fordel blandingen i glass med tette lokk. Oppbevar i kjøleskap.
 
 ## Info
 
-- **Porsjoner**: 32 Yield: 2 cups
+- **Porsjoner**: 32 Yield: 4,8 dl
 - **Kilde**: National Honey Board, www.honey.com

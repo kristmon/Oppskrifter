@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Rotini med Svin og Brokkoli
-
 ## Ingredienser
 
 - 450 g Rotini, Twists eller Spirals, ukokt
@@ -20,10 +18,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Tilbered pasta etter pakningens anvisning; hell av og sett til side. Kutt svinekjøttet i 1 cm striper og sett til side.
-2. Varm oljen i en stor stekepanne over medium-høy varme. Sauté svinekjøttet til det er gjennomkokt, fjern og sett til side. Tilsett løk og hvitløk og rør til løken er visnet og lett gyllenbrun, ca. 4 minutter. Tilsett brokkoli, gulrøtter og svin, sauté til grønnsakene er sprø og mørkent, ca. ett til to minutter.
-3. Kombiner soyasaus, melasse og vann og tilsett til stekepannen. Varm til kokende.
-4. Tilsett pasta til svin-brykkoliblandingen og rør til pastaen er godt blandet. Server umiddelbart. Garnér med hakket jordnøtter.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet og sett til side. Skjær svinekjøttet i ca. 1 cm brede strimler og sett til side.
+2. Varm olje i en stor stekepanne over middelhøy varme. Stek svinekjøttet til det er gjennomstekt, fjern fra pannen og sett til side. Tilsett løk og hvitløk og stek til løken er myk og lett gyllen, ca. 4 minutter. Tilsett brokkoli, gulrøtter og svinekjøtt, og stek videre til grønnsakene er sprø og møre, ca. ett til to minutter.
+3. Bland soyasaus, melasse og vann, og tilsett blandingen i stekepannen. Varm opp til kokepunktet.
+4. Tilsett pastaen i pannen med svine- og brokkoliblandingen, og rør godt. Server umiddelbart. Pynt med hakkede peanøtter.
 
 ## Info
 

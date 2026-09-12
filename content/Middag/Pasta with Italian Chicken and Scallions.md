@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Pasta with Italian Chicken and Scallions
-
 ## Ingredienser
 
-- 12 oz Fettuccine, uncooked
-- 12 oz boneless, skinless chicken breasts
-- 2 cups non-fat Italian salad dressing
-- 2 cups water, divided
-- 2 bunches scallions or spring onions, chopped
-- 1 chicken bouillon cube
-- 2 tsp margarine
-- Freshly ground black pepper to taste
-- 1 tsp vegetable oil
-- 1 red bell pepper, seeds and ribs removed, chopped
-- Chopped parsley for garnish
+- 34 g fettuccine, ukokt
+- 34 g kyllingbryst, uten bein og skinn
+- 4,8 dl italiensk salatdressing, lett
+- 4,8 dl vann, delt
+- 2 bunt vårsløk, hakket
+- 1 kyllingbuljongterning
+- 2 ts margarin
+- Nymalt svart pepper, etter smak
+- 1 ts vegetabilsk olje
+- 1 rød paprika, uten kjerner og støttevev, hakket
+- Hakket persille, til pynt
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions; drain.
-2. In a large skillet, cook chicken in Italian dressing and water over medium-high heat until cooked through. Remove from pan and allow to cool slightly. Cut into bite-sized pieces.
-3. In a medium saucepan, bring 1 cup of water to a boil. Add the onions and bouillon cube. Cook until onions are soft, about 3 minutes. Drain and reserve liquid. Puree the onions with margarine and 1/2 cup of the reserved liquid in a food processor or blender until smooth. Season with freshly ground black pepper to taste. Toss with pasta.
-4. In a medium non-stick saute pan, heat oil over medium-high heat. Add bell pepper and saute until tender, about 3 to 4 minutes. Arrange pasta on a platter and top with chicken and bell pepper. Toss lightly. Garnish with parsley and serve.
+1. Kok pastaen etter anvisningene på pakken; sil av vannet.
+2. I en stor stekepanne, stek kylling i italiensk dressing og vann over middelhøy varme til den er gjennomstekt. Ta kyllingen ut av pannen og la den avkjøles litt. Skjær den i mindre biter.
+3. I en middels stor kjele, kok opp 2,4 dl vann. Tilsett løk og buljongterning. Kok til løken er myk, ca. 3 minutter. Sil av vannet og sett det til side. Kjør løken med margarin og 1,2 dl av det avsatte vannet i en kjøkkenmaskin eller blender til den er glatt. Smak til med nykvernet svart pepper. Bland med pastaen.
+4. I en middels stor stekepanne med slippbelegg, varm olje over middelhøy varme. Tilsett paprika og stek til den er mør, ca. 3 til 4 minutter. Legg pastaen på et fat og topp med kylling og paprika. Bland forsiktig. Pynt med persille og server.
 
 ## Info
 

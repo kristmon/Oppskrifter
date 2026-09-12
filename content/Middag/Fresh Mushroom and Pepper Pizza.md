@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Fresh Mushroom and Pepper Pizza
-
 ## Ingredienser
 
-- 8 oz fresh white sopp
-- 1 large sweet red paprika
-- 3,8 dl shredded fontina ost, divided
-- 1 prebaked (16 ounce) pizza shell
-- 0,6 dl grated Parmesan ost
-- 3 ss Italian salad dressing
+- 227 g fersk, hvit sopp
+- 1 stor, rød paprika
+- 3,8 dl revet fontina ost, fordelt
+- 1 forstekt pizzabunn (454 g)
+- 0,6 dl revet parmesan ost
+- 3 ss italiensk salatdressing
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 450 grader. Trim sopp; cut into thin slices (makes about 3 cups). Cut paprika in thin strips. Sprinkle 1/2 cup fontina over pizza shell. In a large bowl, bland sammen sopp, pepper strips, Parmesan and salad dressing til well blended; scatter over pizza shell.
-2. Sprinkle with remaining 1 cup fontina. bak til sopp are tender and ost has melted, 10 to 12 minutter. Top with chopped parsley, if desired. Variations: In addition to or in place of the red paprika, use 1/2 cup thinly sliced plum tomater, green løk or pepperoni.
+1. Forvarm ovnen til 450 grader. Klargjør soppen; skjær den i tynne skiver (omtrent 7,2 dl). Skjær paprikaen i tynne strimler. Strø 1,2 dl fontina over pizzabunnen. I en stor bolle, bland sopp, papirstrimler, parmesan og salatdressing godt sammen; fordel blandingen over pizzabunnen.
+2. Dryss med resten av 2,4 dl fontina. Stek til soppen er mør og osten er smeltet, i 10 til 12 minutter. Dryss eventuelt over hakket persille. Variasjoner: I tillegg til, eller i stedet for, rød paprika, kan du bruke 1,2 dl tyntskivet plommetomat, vårløk eller pepperoni.
 
 ## Info
 

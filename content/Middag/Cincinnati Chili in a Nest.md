@@ -2,36 +2,34 @@
 created: 2026-05-05
 ---
 
-# Cincinnati Chili in a Nest
-
 ## Ingredienser
 
 - 0,5 kg hakket kalkun
-- 2,5 dl løk chopped
-- 1,2 dl selleri chopped
-- 2 ts hvitløk minced
-- 1 ss chilipodd
-- 1 ss lemon juice
+- 2,5 dl løk, finhakket
+- 1,2 dl selleri, finhakket
+- 2 ts hvitløk, finhakket
+- 1 ts chilipulver
+- 1 ts sitronsaft
 - 1-1/2 ts sukker
 - 1 ts kanel
 - 1/2 ts pepper
 - 1/2 ts kommen
 - 1/4 ts salt
-- 1/4 ts allspice
-- 1/8 ts ground cloves
-- 2 bay leaves
-- 2 cup vann
-- 1 Can (15-1/2 ounces) røde bønner rinsed and drained
-- 1 Can (15 ounces) tomatsaus
-- 8 oz spaghetti cooked according to package instructions, drained
-- 1,2 dl shredded non-fat cheddarost
-- 1,2 dl løk chopped
+- 1/4 ts allehånde
+- 1/8 ts malt nellik
+- 2 laurbærblader
+- 4,8 dl vann
+- 1 Boks (15-14 g) røde bønner, skylt og avrent
+- 1 Boks (425 g) tomatsaus
+- 227 g spaghetti, kokt etter anvisning på pakken, avrent
+- 1,2 dl revet mager cheddarost
+- 1,2 dl løk, finhakket
 
 ## Fremgangsmåte
 
-1. In large non-stick skillet, over medium-high varm, saute hakket kalkun, løk, selleri, and hvitløk til meat is no longer pink. tøm and return mixture to skillet.
-2. Rør in chilipodd, lemon juice, sukker, kanel, pepper, kommen, salt, allspice, cloves, bay leaves, vann, røde bønner, and tomatoe sauce. bring til kokepunktet.
-3. reduser varmen and la småkoke 30 minutter eller til thickened; remove and discard bay leaves. servér over spaghetti, garnished with ost and løk.
+1 . I en stor stekepanne med slippbelegg, over middels varme, stek hakket kalkun, løk, selleri og hvitløk til kjøttet ikke lenger er rosa. Hell blandingen over i pannen igjen.
+ 2 . Tilsett chilipulver, sitronsaft, sukker, kanel, pepper, kommen, salt, allehånde, nellik, laurbærblad og vann. Tilsett også bønner og tomatsaus. Kok opp.
+ 3 . Reduser varmen og la det småkoke i 30 minutter, eller til sausen tykner. Fjern og kast laurbærbladene. Server over spaghetti, pyntet med ost og løk.
 
 ## Info
 

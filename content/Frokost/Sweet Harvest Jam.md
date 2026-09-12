@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Sweet Harvest Jam
-
 ## Ingredienser
 
-**Ingredients**
-- 4 cups crushed fruit or berries
-- 2 cups honey
-- 1 box
-- 1-3/4 oz powdered pectin
-- 2 Tbs fresh lemon juice
+**Ingredienser**
+- 9,6 dl knust frukt eller bær
+- 4,8 dl honning
+- 1 eske
+- 1-21 g tørket pektin
+- 2 ss fersk sitronsaft
 
 ## Fremgangsmåte
 
-1. Combine crushed fruit and pectin in a 5-quart saucepan. Bring to a full rolling boil over medium heat. Boil hard 1 minute, stirring constantly.
-2. Add honey and lemon juice. Return to a full rolling boil. Boil hard 5 minutes, stirring constantly. Remove from heat. Skim off foam.
-3. Ladle into clean hot canning jars. Seal according to manufacturer's directions.
-4. Place jars on rack in canner.
-5. Process 10 minutes in boiling water bath with boiling water 2 inches above jar tops.
-6. Remove jars from canner. Place on a thick cloth or wire rack; cool away from drafts.
-7. After 12 hours test lids for proper seal; remove rings from sealed jars.
-8. ·* Peaches, nectarines, sweet cherries, strawberries, raspberries or blackberries may be used.
+1. Bland knuste frukter og pektin i en kjele på 5 liter. Kok opp under middels varme. Kok kraftig i 1 minutter, rør hele tiden.
+2. Tilsett honning og sitronsaft. Kok opp igjen. Kok kraftig i 5 minutter, rør hele tiden. Fjern kjelen fra varmen. Skum av eventuelt skum.
+3. Øs blandingen i rene, varme glass. Forsegl glassene i henhold til produsentens anvisninger.
+4. Plasser glassene på en rist i kokeren.
+5. Kok glassene i 10 minutter i et kokende vannbad, med vann som er 5,1 cm over glassenes toppkanter.
+6. Ta glassene ut av kokeren. Plasser dem på et tykt håndkle eller en rist; avkjøl vekk fra trekk.
+7. Etter 12 timer, sjekk lokkene for å sikre at de er ordentlig forseglet; fjern ringene fra de forseglede glassene.
+8. ·* Fersken, nektariner, søte kirsebær, jordbær, bringebær eller bjørnebær kan brukes.
 
 ## Info
 

@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Frokost kalkun pølse gobble sandwich
-
 ## Ingredienser
 
-- 225 g kalkun frokost pølse kuttet inn i 9 x 0,6 cm stykker
-- 1 Pakke (225 g) fryst egg erstatning tine etter pakke
-- 1 ss grønn løk tynnt skjært
-- 1 ss pimientos hakket
-- 1/4 ts pepper
-- Vegetarolje matlaging spray
-- 2 skiver lavfett amerikansk ost kuttet i halvdeler
-- 8 skiver fullkorns brød lett ristede
+- 225 g kalkunpølse, kuttet i 9 stykker på 0,6 cm hver.
+- 1 pakke (225 g) frosset egg erstatning, tint etter anvisning.
+- 1 ss finhakket vårløk.
+- 1 ss finhakkede pimientos.
+- 1/4 ts pepper.
+- Vegetabilsk olje, spray for tilberedning.
+- 2 skiver mager amerikansk ost, delt i to.
+- 8 skiver fullkornbrød, lett ristet.
 
 ## Fremgangsmåte
 
-1. I medium ikke-klart stekepanne over medium varme, frityren biter i 3 minutter på hver side til brun, men ikke kokt helt gjennomsnitt.
-2. I liten bolle kombiner egg erstatning, grønn løk, pimientos og pepper. Hell egg blanding inn i 1-liter gryte, kappe med ikke-klebrende vegetarolje matlaging spray. Ordne delvis kokte biter over egg blanding. Dekk med ventilert plast wrap. Mikrobølge på MEDIUM (50% kraft) 5,5-6,5 minutter, vending dish 1/4 vend hvert minutt eller til egg blanding er nesten satt i sentrum. Fjern fra ovn. Plasser halv ost skive over topp av hver biete. Gjenåpne og la stå i 5 minutter for å sette egg.
-3. For å servere, kutt kalkun og egg blanding inn i 4 firkanter og plasser mellom toast.
+1. I en middels stor, ikke-overflatisk stekepanne over middels varme, stek bitene i 3 minutter på hver side, til de er brunet, men ikke helt gjennomstekte.
+2. I en liten bolle, bland eggeerstatning, vårløk, pimientos og pepper. Hell eggeblandingen i en 1-liters gryte, og smør med en ikke-klebende vegetabilsk oljespray. Legg de delvis stekte bitene over eggeblandingen. Dekk med plastfolie med hull. Varm i mikrobølgeovn på MEDIUM (50 % effekt) i 5,5 – 6,5 minutter, og snu retten 1/4 ganger hvert minutt, eller til eggeblandingen nesten er stivnet i midten. Ta ut av mikrobølgeovnen. Legg en halv osteskive over hver bit. Dekk til og la stå i 5 minutter for å la egget stivne.
+3. For servering, skjær kalkun og eggeblandingen i 4 firkanter og legg mellom to brødskiver.
 
 ## Info
 

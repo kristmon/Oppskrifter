@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Onion Beer Bread
-
-*Onion lovers will love this bread!*
+Et smakfullt brød for alle som liker løk.
 
 ## Ingredienser
 
-- 3 cups self-rising flour
-- 1 tsp sugar
-- 1/2 tsp salt
-- 10 oz room-temperature beer
-- 2 eggs, beaten
-- 3/4 cup minced onion
-- Nonstick cooking spray, as needed
+- 7,2 dl selvhevet mel
+- 1 ts sukker
+- 1/2 ts salt
+- 284 g øl, romtemperert
+- 2 egg, pisket
+- 1,8 dl finhakket løk
+- formfett, etter behov
 
 ## Fremgangsmåte
 
-1. Preheat the oven to 350 degrees. Combine all ingredients. Pour into a lightly sprayed 9-inch loaf pan and bake for 50 minutes until a toothpick comes out clean.
+1. Forvarm ovnen til 175 °C. Bland alle ingrediensene. Hell røren i en lett smurt brødform på ca. 23 cm, og stek i 50 minutter, eller til en kakepinne kommer ut ren.
 
 ## Info
 

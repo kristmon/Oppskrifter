@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Langkok frokost
-
 ## Ingredienser
 
 - 1,25 dl kortkorn brunt ris

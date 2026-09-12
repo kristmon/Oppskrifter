@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Blackened Chicken Salad
-
 ## Ingredienser
 
-- 1 lb Radiatore, Medium Shells, or other medium pasta shape, uncooked
-- 1 lb boneless, skinless chicken breasts
-- 1-2 tbsp. spicy Creole seasoning
-- 1 tsp vegetable oil
-- 1 1/2 cups fat-free mayonnaise
-- 3 Tbs minced fresh parsley
-- 2 Tbs chopped fresh chives
-- 2 Tbs lemon juice
-- 2 Tbs Dijon mustard
-- 2 tsp capers, drained (optional)
-- 1 tsp anchovy paste (optional)
-- 1 cup chopped tomatoes
-- 1/2 cup sliced green onions
-- 1/2 cup chopped green pepper
+- 455 g Radiatore, Medium Shells, eller annen pastaform av middels størrelse, uten tilberedning.
+- 455 g kyllingbryst, uten bein og uten skinn.
+- 1–2 ss krydderblanding med creole-smak.
+- 1 ts vegetabilsk olje.
+- 3,6 dl mager majones.
+- 3 ss finhakket fersk persille.
+- 2 ss finhakket fersk gressløk.
+- 2 ss sitronsaft.
+- 2 ss Dijon-sennep.
+- 2 ts syltede kaprer, avrent (valgfritt).
+- 1 ts ansjos-pasta (valgfritt).
+- 2,4 dl hakkede tomater.
+- 1,2 dl skivede vårløk.
+- 1,2 dl hakket grønn paprika.
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions. Drain and rinse under cold water; drain again.
-2. Rub chicken with Creole seasoning. Coat a large, heavy skillet with cooking spray. Add oil and place over medium-high heat until hot. Add chicken and cook 5 to 7 minutes on each side or until chicken is done. Remove chicken from skillet, and let cool. Cut chicken into 1/2-inch pieces and set aside.
-3. Combine mayonnaise, parsley, chives, lemon juice, mustard, capers and anchovy paste; mix well. In a large bowl, combine pasta, chicken, mayonnaise mixture, tomatoes, onions, and pepper. Cover and chill thoroughly.
+1. Kok pastaen i henhold til instruksjonene på pakken. Hell av vannet og skyll under kaldt vann; hell av igjen.
+ 2. Gni kyllingen med krydderblanding. Smør en stor, tykk stekepanne med matolje. Tilsett olje og sett over middelhøy varme til den er varm. Legg kyllingen i pannen og stek 5 i 7 minutter på hver side, eller til kyllingen er gjennomstekt. Ta kyllingen ut av pannen og la den avkjøles. Skjær kyllingen i 1/2-tommers biter og sett til side.
+ 3. Bland majones, persille, gressløk, sitronsaft, sennep, sylteagurk og ansjosmasse; bland godt. I en stor bolle, bland pasta, kylling, majonesblandingen, tomater, løk og pepper. Dekk til og sett i kjøleskapet for å bli godt avkjølt.
 
 ## Info
 

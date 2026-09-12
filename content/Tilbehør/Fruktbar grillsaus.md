@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Fruktbar grillsaus
-
 ## Ingredienser
 
 - 1,2 dl appelsin- eller uvettet ananassaft
@@ -15,8 +13,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Bland appelsinsjuice, honning, ingefær og grillsaus i en liten kasserolle. Bland limejuice og kartoffelstivelse til det blir glatt; tilsett det til sausen.
-2. Kok og rør over medium varme til det blir tykkere; reduser varmen og la det småkoke 10 minutter.
+1. Bland appelsinjuice, honning, ingefær og grillsaus i en liten kjele. Bland limesaft og potetmel til det blir glatt; tilsett det i sausen.
+2. Kok opp og rør over middels varme til den tykner; reduser varmen og la den småkoke i 10 minutter.
 
 ## Info
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Mandel frukt smoothie
-
 ## Ingredienser
 
 - 2,5 dl appelsinjuice
@@ -13,7 +11,7 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Tilsett juice i elektrisk blender, deretter de øvrige ingrediensene. Blend til glatt.
+1. Tilsett juice i blenderen, deretter de andre ingrediensene. Kjør blenderen til blandingen er jevn.
 
 ## Info
 

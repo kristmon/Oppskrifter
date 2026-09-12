@@ -2,35 +2,33 @@
 created: 2026-05-05
 ---
 
-# Gresskar valnøtt muffins
-
 ## Ingredienser
 
-- 1 stikk (120 ml) usalt smør
+- 1 stikk (120 ml) usaltet smør
 - 175 ml hermetisk gresskar
-- 60 ml godt rystet kulturmelk
+- 60 ml godt ristet kulturmelk
 - 2 store egg
 - 45 ml usulfurert melasse
-- 5 ml vanilje
+- 5 ml vaniljeekstrakt
 - 240 ml mel
-- 240 ml hvitt hele mel eller mel
+- 240 ml hvetemel
 - 7 ml bakepulver
 - 5 ml malt kanel
 - 2 ml malt ingefær
 - 1 ml malt nellik
-- 0,5 ml frisk revet muskatnøtt
+- 0,5 ml fersk revet muskatnøtt
 - 2 ml salt
-- 1 ml bakesoda
+- 1 ml natron
 - 175 ml pakket brunt sukker
-- 175 ml hakket steinløse dadler (ca. 115 g)
-- 175 ml fint hakket valnøtter (ca. 85 g)
+- 175 ml hakkede, steinløse dadler (ca. 115 g)
+- 175 ml fint hakkede valnøtter (ca. 85 g)
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 200 °C og smør tolv 120 ml muffin-former.
-2. Smelter smør og kjøl litt. I en bolle pisker du sammen smør, gresskar, kulturmelk, egg, melasse og vanilje.
-3. I en stor bolle siler du sammen mel, bakepulver, krydringer, salt og bakesoda og pisker inn brunt sukker. Lag en grop i midten av mel-blandingen og tilsett gresskar-blandingen, rør bare til det er blandet. Rør inn dadler og fordel røren mellom formene.
-4. Strø valnøtter jevnt over røren i hver form og bak muffins i midten av ovnen 20–25 minutter, eller til det er puffig og en tannpirker kommer ut ren. Kjøl muffins i formene 5 minutter og vend ut på en rist. Server muffins varme eller ved romtemperatur.
+1. Forvarm ovnen til 200 °C og smør tolv muffinsformer, hver på 120 ml.
+2. Smelt smøret og la det avkjøles litt. I en bolle piskes smør, gresskar, kefir, egg, melasse og vanilje sammen.
+3. I en stor bolle siles mel, bakepulver, krydder, salt og natron sammen, og pisk inn brunt sukker. Lag en grop i midten av melblandingen og tilsett gresskarblandingen. Bland forsiktig til alt er blandet. Rør inn dadler og fordel røren i formene.
+4. Strø valnøtter jevnt over røren i hver form. Bak muffinsene i midten av ovnen i 20–25 minutter, eller til de er hevet og en tannpirker kommer ut ren når den stikkes inn. La muffinsene avkjøles i formene i 5 minutter, før du snur dem ut på en rist. Server muffinsene varme eller ved romtemperatur.
 
 ## Info
 

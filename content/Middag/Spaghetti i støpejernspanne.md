@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Spaghetti i støpejernspanne
-
 ## Ingredienser
 
 - 450 g Spaghetti eller Linguine, ukokt

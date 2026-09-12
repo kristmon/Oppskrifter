@@ -3,7 +3,7 @@ created: 2020-08-28
 ---
 
 ![[Bilder/Omelett med skinke og ost.jpg|300]]
-**Porsjoner**: 1  
+**Porsjoner**: 1
 **Tid**: 15 min
 
 ## Ingredienser

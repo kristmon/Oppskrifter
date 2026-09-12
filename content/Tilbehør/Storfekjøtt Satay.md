@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Storfekjøtt Satay
-
 ## Ingredienser
 
 - 1 kg storfekjøtt strips, skåret i skiver
@@ -14,9 +12,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Trim den fett fra storfekjøtt strips og kutt inn i 1'' x 4'' strips, ingen mer enn 1/4'' thick. Kombiner turmeric, salt, og kokosnøtt melk. Tilsett den storfekjøtt strips, dekk, og Kjøl for 1 time.
-2. Soak bamboo skewers i cold vann. Tapp den storfekjøtt og så thread på den skewers.
-3. Kok over en hot grill til bare kokt gjennom, omtrent 2 minutter per side. marinere mens cooking med den kokosnøtt Saus.
+1. Skjær bort overflødig fett fra biffstrimlene, og skjær dem i strimler på omtrent 1 x 4 centimeter, ikke tykkere enn 1/4 centimeter. Bland gurkemeie, salt og kokosmelk. Tilsett biffstrimlene, dekk til og sett i kjøleskapet i 1 timer.
+ 2. Legg bambuspinner i kaldt vann. Tre biffstrimlene på pinnene.
+ 3. Grill over høy varme til kjøttet er gjennomstekt, ca. 2 minutter per side. Pensle med kokossaus under grillingen.
 
 ## Info
 

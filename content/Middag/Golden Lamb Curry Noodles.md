@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Golden Lamb Curry Noodles
-
 ## Ingredienser
 
-- 12 oz Wide Egg Noodles, uncooked
-- 3 Tbs all-purpose flour
-- 1 Tbs curry powder
-- 1/2 tsp salt
-- 1/4 tsp cayenne pepper
-- 1/8 tsp cinnamon
-- 1 1/2 lbs well-trimmed boneless leg of lamb, cut into 1-inch pieces
-- 1 1/2 Tbs olive or vegetable oil, divided
-- 2 medium carrots, thinly sliced
-- 1 small sweet or yellow onion, chopped
-- 4 cloves garlic, minced
-- 1 14.5-oz. can low-sodium chicken broth
-- 1/2 cup golden raisins
-- 1/4 cup chopped fresh mint or parsley
+- 34 Bred eggnudler, ukokt
+- 3 ss hvetemel
+- 1 ss karripulver
+- 1/2 ts salt
+- 1/4 ts cayennepepper
+- 1/8 ts kanel
+- 680 g ribbe av lammekjøtt, uten bein og med godt fjernet overflødig fett, skjært i 1-cm store biter
+- 1 1/2 ss olivenolje eller vegetabilsk olje, fordelt
+- 2 mellomstore gulrøtter, i tynne skiver
+- 1 liten søt eller gul løk, finhakket
+- 4 fedd hvitløk, finhakket
+- 1 14.5-dl kyllingkraft med lavt saltinnhold
+- 1,2 dl gyldne rosiner
+- 0,6 dl fersk mynte eller persille, hakket
 
 ## Fremgangsmåte
 
-1. Cook noodles according to package directions. Meanwhile, combine flour, curry powder, salt, cayenne pepper and cinnamon in a plastic or paper bag. Add lamb; shake to coat.
-2. Heat 1 tablespoon oil in large non-stick skillet over medium-high heat until hot. Add lamb, reserving any remaining flour mixture in bag. Cook 5 to 6 minutes, or until lamb is well-browned. Transfer lamb to plate or bowl; set aside.
-3. Heat remaining 1/2 tablespoon oil in same skillet over medium-low heat. Add carrots and onion; cook 5 minutes, stirring occasionally. Add garlic and reserved flour mixture; cook 1 minute, stirring occasionally. Add broth and raisins; bring to a simmer. Simmer uncovered 8 to 10 minutes or until carrots are tender. Stir in lamb; simmer 4 to 5 minutes or until lamb is heated through and sauce thickens. Drain noodles; top with lamb mixture and sprinkle with mint or parsley.
+1. Kok pastaen etter anvisningene på pakken. I mellomtiden, bland mel, karripulver, salt, cayennepepper og kanel i en plast- eller papirpose. Tilsett lam; rist posen slik at lammet blir dekket.
+2. Varm 1 ss olje i en stor stekepanne med slippbelegg over middelhøy varme til oljen er varm. Tilsett lammet, og sett til side eventuelt melblanding som er igjen i posen. Stek i 5 til 6 minutter, eller til lammet er godt brunet. Overfør lammet til et fat eller en bolle; sett til side.
+3. Varm resten av 1/2 ss olje i samme stekepanne over lav varme. Tilsett gulrøtter og løk; stek i 5 minutter, rør av og til. Tilsett hvitløk og den reserverte melblandingen; stek i 1 minutt, rør av og til. Tilsett kraft og rosiner; kok opp. La det småkoke uten lokk i 8 til 10 minutter, eller til gulrøttene er møre. Rør inn lammet; la det småkoke i 4 til 5 minutter, eller til lammet er gjennomvarmt og sausen tykner. Sil pastaen; legg lammeblandingen over, og dryss over mynte eller persille.
 
 ## Info
 

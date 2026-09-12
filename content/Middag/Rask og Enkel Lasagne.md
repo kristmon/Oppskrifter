@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Rask og Enkel Lasagne
-
 ## Ingredienser
 
 - 340 g malt biff
 - 600 ml spaghettisaus
-- 6 lasagnestrenger
+- 6 lasagneplater
 - 375 ml cottage cheese
 - 375 ml revet mozarellaost (170 g)
 - 2 ss revet parmesanrost (valgfritt)
 
 ## Fremgangsmåte
 
-1. Stekk kjøtt i stor stekepanne over medium-høy varme til ingen rosa farge gjenstår i kjøttet, rør av og til med treske og bryt opp kjøttet. Ta stekepannen fra varmen. Plasser sil over bolle. Skje kjøtt inn i sil og la fett drenere i bolle. Returner kjøtt til stekepanne. Legg fett i beholder som skal kastes.
-2. Skje 250 ml spaghettisaus i bunnen av 2-liters rektangulær bakefat. Rør gjenværende spaghettisaus inn i kjøtt i stekepanne. Stekk over medium varme til varmt, rør av og til med treske. Ta kjøttblandingen fra varmen.
-3. Plasser 2 ukjøkte strenger på saus i bunnen av fat. Spred en tredjedel av kjøttblandingen over strenger. Spred 180 ml av cottage cheese over kjøtt. Strø 120 ml mozarellaost over cottage cheese. Legg til et annet lag på 2 ukjøkte strenger, en tredjedel av kjøttblandingen, resten av cottage cheese og 120 ml mozarellaost. Lag gjenværende ukjøkte strenger, kjøttblandingen og mozarellaost. Til slutt strør du parmesanrost over toppen, hvis du vil.
-4. Dekk bakefatet med folie. Bak i 175°C ovn i 1 time. Ta fra ovn og la stå på kjølekratt med folie på plass i 15 minutter. Forsiktig fjern folie fra fat slik at damp rømmer bort fra deg.
+1. Brun kjøttdeigen i en stor stekepanne på middels høy varme. Del den opp underveis og hell av overflødig fett.
+2. Fordel 2,5 dl spagettisaus i bunnen av en rektangulær form på ca. 2 liter. Rør resten av sausen inn i kjøttdeigen og varm opp.
+3. Legg to ukokte lasagneplater over sausen i formen. Fordel en tredjedel av kjøttsausen, 1,8 dl cottage cheese og 1,2 dl mozzarella over. Gjenta laget. Avslutt med de siste platene, resten av kjøttsausen og mozzarellaen. Strø eventuelt parmesan over.
+4. Dekk formen med folie og stek ved 175 °C i 1 time. La lasagnen hvile under folien i 15 minutter før servering.
 
 ## Info
 

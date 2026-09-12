@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Karamell-eple puddingkake
-
 *Når du ikke kan bestemme deg for hva slags dessert du skal servere, vil denne dobbelt deilige puddingkaken behage alle. Servert varm med et snøtupplag med kanel-is, er det fullkomment.*
 
 ## Ingredienser

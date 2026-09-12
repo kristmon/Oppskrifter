@@ -7,7 +7,7 @@ Det somaliske kjøkken var ikke et jeg hadde mye kunnskap om, men har funnet ut 
 
 Siden somalisk mat var neste oppgave i matprosjektet vårt, fant jeg denne nydelige tomatsausen. Den serveres gjerne sammen med et somalisk brød som heter Muufo. Dette brødet kommer i flere forskjellige varianter. Vi valgte også å ha en enkel salat til, men jeg må si at jeg aner ikke hvorvidt det er vanlig i Somalia eller ei.
 
-Er du interessert i å prøve å lage denne retten, eller rettere sagt, er du interessert i å prøve å lage dette brødet, Muufo, så vær klar over at brødet har veldig lang hevingstid, gjerne opp til 6 timer. Så ikke kjøp inn og gjør klart til å lage dette når du kommer hjem fra jobb og er sulten.
+Er du interessert i å prøve å lage denne retten, eller mer presist, dette brødet, Muufo, bør du være forberedt på at hevetiden kan være veldig lang, gjerne opp til 6 timer. Så ikke kjøp inn ingredienser og begynn forberedelsene når du kommer hjem fra jobb og er sulten.
 
 Maraq Bilaash
 
@@ -21,7 +21,7 @@ Maraq Bilaash
 - salt
 - 5-6 basilikumblader
 
-Varm oljen i en gryte eller stor panne. Ha i løk og sauter. Ha så i tomatene, jalapeño og okra, og la tomatene varmes til de sprekker av seg selv. Du må gjerne røre litt forsiktig for å snu dem litt i blant. Når tomatene er sprukket (etter ca 20 minutter), blander du inn hvitløk, sitronsaft og salt, og rører godt. Ha i basilikum, legg på lokk, og la det stå i noen minutter til.
+Varm oljen i en gryte eller stor panne. Ha i løk og sauter. Ha så i tomatene, jalapeño og okra, og la tomatene varmes til de sprekker av seg selv. Du må gjerne røre litt forsiktig for å snu dem litt i blant. Når tomatene er sprukket (etter ca. 20 minutter), blander du inn hvitløk, sitronsaft og salt, og rører godt. Ha i basilikum, legg på lokk, og la det stå i noen minutter til.
 
 Muufo Baraawe
 

@@ -2,15 +2,13 @@
 created: 2026-05-05
 ---
 
-# Potet brød
-
 ## Ingredienser
 
-- 1 liten Maine potet, riven
-- 120 ml oranssjejuice-konsentrat
+- 1 liten Maine-potet, revet
+- 120 ml appelsinjuicekonsentrat
 - 60 ml vann
-- 75 ml oransje marmelat
-- 60 ml vegetarolje
+- 75 ml appelsinmarmelade
+- 60 ml vegetabilsk olje
 - 1 egg, pisket
 - 700 ml mel
 - 120 ml sukker
@@ -19,10 +17,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok den rivne poteten i akkurat nok vann til å dekke den, i 10 minutter. Kjøl og sil av.
-2. Bland avkjølet og avsilt potet med oranssjejuice-konsentrat, vann, marmelat, olje og egg.
-3. I en stor bolle rører du sammen mel, sukker, bakepulver og salt. Tilsett de flytende ingrediensene og rør bare til det er blandet.
-4. Hell røren i 3 smurte mini brødformer og bak ved 175 °C i 30–35 minutter eller til en tannpirker kommer ut ren. Kjøl i formene i 10 minutter, ta deretter ut fra formen og la kjøle.
+1. Kok den delte poteten i akkurat nok vann til å dekke den, i 10 minutter. Avkjøl og sil av.
+2. Bland den avkjølte og silte poteten med appelsinjuicekonsentrat, vann, marmelade, olje og egg.
+3. I en stor bolle, bland mel, sukker, bakepulver og salt. Tilsett de våte ingrediensene og bland bare til det er godt blandet.
+4. Hell røren i 3 smurte mini-brødformer og stek ved 175 °C i 30–35 minutter, eller til en kakepinne kommer ut ren. La avkjøles i formene i 10 minutter, før du tar dem ut og lar dem avkjøles helt.
 
 ## Info
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Apple Crisp
-
 ## Ingredienser
 
 - 4 store kakeepler, skalert, skåret

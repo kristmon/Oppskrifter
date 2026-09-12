@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Syrlig Oliven Salsa
-
 ## Ingredienser
 
-- 250 ml tomater skalett, sejet og terninget
-- 80 ml frisk persille
-- 60 ml gul paprika hakket
-- 2 ss greske oliven steinet
-- 2 ss frisk limejuice
-- 1,5 ss kapris drena
+- 250 ml tomater, skrelt, grovt hakket og i terninger
+- 80 ml fersk persille
+- 60 ml gul paprika, finhakket
+- 2 ss greske oliven med stein
+- 2 ss fersk limejuice
+- 1,5 ss kapers, avrent
 - 1,5 ss olivenolje
-- 1,5 ts frisk basilikum hakket
-- 1 ts balsamico eddik
-- strimmel cayenne pepper
-- strimmel sort pepper
+- 1,5 ts fersk basilikum, finhakket
+- 1 ts balsamicoeddik
+- en klype cayennepepper
+- en klype svart pepper
 
 ## Fremgangsmåte
 

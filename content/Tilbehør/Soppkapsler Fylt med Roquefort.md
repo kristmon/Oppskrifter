@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Soppkapsler Fylt med Roquefort
-
 ## Ingredienser
 
 - 115 g Roquefort-ost, i romtemperatur
@@ -14,7 +12,7 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Skum Roquefort, smør og tørt sennep til det er glatt; legg til side. Fyll sopper med Roquefort-blandingen og strø over finhakket oliven.
+1. Visp sammen Roquefort, smør og tørr sennep til det er jevnt; sett til side. Fyll soppene med Roquefort-blandingen og dryss over finhakkede oliven.
 
 ## Info
 

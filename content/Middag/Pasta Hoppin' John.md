@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Pasta Hoppin' John
-
 ## Ingredienser
 
-- 450 g sløyfepasta, vognhjul eller annan mellanstørrel pastaform, ukokt
-- 15 ml vegetarolje
-- 1 medium løk, hakket
-- 1 jalapeño-pepper, frø fjernet og hakket eller 1/2 ts tørka jalapeño-flak
-- 3 hvitløksfedd, hakket
-- 1 grønn paprika, frø fjernet og hakket
-- 1 boks (800 g) knust tomat
-- 1 pakke (280 g) fryst svartøygd-erter, tilbereidt etter instruksjonane, eller 1 boks (450 g) svartøygd-erter, skyllt og avløpt
-- 15 ml sidereddik
-- 45 ml hakket fersk koriander, eller 15 ml tørka koriander
-- Salt og svart pepper etter smak
+- 450 g sløyfepasta, vognhjul eller annen pastaform i middels størrelse, ukokt
+- 15 ml vegetabilsk olje
+- 1 middels løk, finhakket
+- 1 jalapeño-chili, uten frø og finhakket, eller 1/2 ts tørkede jalapeño-flak
+- 3 fedd hvitløk, finhakket
+- 1 grønn paprika, uten frø og finhakket
+- 1 boks (800 g) knuste tomater
+- 1 pakke (280 g) frosne svarte bønner, tilberedt etter anvisning, eller 1 boks (450 g) svarte bønner, skylt og avrent
+- 15 ml eplecidereddik
+- 45 ml finhakket frisk koriander, eller 15 ml tørket koriander
+- Salt og svart pepper etter smak.
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonane; avløp. I stor braiséerpanne, varm olje over medium varme. Braisér løken, jalapeño-en, hvitløken og paprika-en til dei er myke, omtrent tre minutter. Tillsett tomatar. Simrer i 10 minutter delvis dekka. Rør av og til. Tillsett dei svartøygd-ertene, eddiken og korianderen. Dekk og simrer i ytterlegare 10 minutter. Krydre med salt og svart pepper. Blan forsiktig med tilbereidt pasta og server umiddelbart.
+1. Kok pastaen etter anvisningene på pakken; sil av. I en stor stekepanne, varm oljen over middels varme. Stek løk, jalapeño, hvitløk og paprika til de er myke, ca. tre minutter. Tilsett tomater. La det småkoke i 10 minutter, delvis dekket. Rør av og til. Tilsett svarte bønner, eddik og koriander. Dekk til og la det småkoke i ytterligere 10 minutter. Smak til med salt og pepper. Bland forsiktig med den kokte pastaen og server umiddelbart.
 
 ## Info
 

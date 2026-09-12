@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Peanut Butter Cookies
-
 ## Ingredienser
 
-- 1/4 cup low-calorie margarine
-- 1/4 cup creamy peanut butter
-- 2 Tbs brown sugar substitute
-- 1 egg substitute equivalent
-- 1/4 cup water
-- 1 tsp vanilla
-- 1 1/2 cups flour
-- 1 tsp baking soda
-- 1/2 tsp baking powder
+- 0,6 dl lettmargarin
+- 0,6 dl kremet peanøttsmør
+- 2 ss sukkererstatning
+- 1 eggesubstitutt, tilsvarende
+- 0,6 dl vann
+- 1 ts vanilje
+- 3,6 dl mel
+- 1 ts natron
+- 1/2 ts bakepulver
 
 ## Fremgangsmåte
 
-1. In a food processor or by hand, cream together the margarine, peanut butter, and sugar substitute. Add the egg, water, and vanilla and continue to mix until well blended.
-2. Combine the flour, baking soda, and baking powder in a sifter; sift dry ingredients into creamed mixture and mix until completely blended. Refrigerate overnight.
-3. Lightly spray cookie sheets with nonstick cooking spray. Drop teaspoonfuls onto cookies sheets and press with the tines of a fork to flatten each cookie. (Use cookie cutters to create decorative cookies if you prefer.) Bake the cookies at 375 degrees for 12 to 15 minutes, remove from the oven, and let them cool on racks.
+1 . I en kjøkkenmaskin eller for hånd, pisk sammen margarinen, peanøttsmøret og sukkererstatningen. Tilsett egget, vannet og vaniljeekstrakten, og fortsett å røre til alt er godt blandet.
+ 2 . Bland sammen mel, natron og bakepulver i en sikt. Sikt de tørre ingrediensene i blandingen, og rør til alt er godt blandet. Sett i kjøleskapet over natten.
+ 3 . Spray stekebrettene lett med formfett. Fordel teskjeer med deig på stekebrettene, og press dem forsiktig ned med en gaffel for å flate ut hver kake. (Hvis du ønsker, kan du bruke kakeutstikere for å lage dekorative kaker.) Stek kakene ved  375  grader i  12  til  15  minutter. Ta dem ut av ovnen, og la dem avkjøles på rist.
 
 ## Info
 

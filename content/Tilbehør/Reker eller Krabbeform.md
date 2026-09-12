@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Reker eller Krabbeform
-
 ## Ingredienser
 
 - 1 (305 g) boks fløtekrem av soppsuppe
@@ -20,7 +18,7 @@ created: 2026-05-05
 ## Fremgangsmåte
 
 1. Varm suppen, udilbert, og bland inn fløtekrem. Rør inn bløtgjort gelatin og bland godt.
-2. Fold inn gjenværende ingrediensene og hell i en lett-oljet form.
+2. Vend inn resten av ingrediensene og hell blandingen i en lett smurt form.
 3. Kjøl til fast og serveres med dine favoritt kjeks.
 
 ## Info

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Tyttebær-urt-saus
-
 ## Ingredienser
 
 - 2 små løk, terningsnitt
@@ -22,11 +20,11 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok og rør løk og hvitkløk i oljen i en stor kasserolle over medium varme til løken blir myk. Tilsett tyttebær, vann, vin, honning, buljong, timian, laurbærblader, Worcestershiresaus, rosmarin og rød pepper. Varm til det koker.
-2. Reduser varmen til lav og la det småkoke omkring 1 time eller til blandingen reduseres med halvparten, og rør ofte.
-3. Fjern og kastes laurbærbladene.
-4. Purér sausen i blender eller matprosessor eller pres gjennom sil. (Sausen vil ha konsistensen av en tykk gravy.) Serv med fjærkre, lam eller svin.
-5. Også god over pålegg eller søtpoteter.
+1. Varm olje i en stor kjele over middels varme. Tilsett løk og hvitløk, og stek til løken er myk. Tilsett deretter tyttebær, vann, vin, honning, kraft, timian, laurbærblader, Worcestersaus, rosmarin og rød pepper. Kok opp.
+ 2. Senk varmen til lav og la sausen småkoke i omtrent 1 timer, eller til den er redusert til halvparten, og rør ofte.
+ 3. Fjern og kast laurbærbladene.
+ 4. Kjør sausen glatt i en blender eller food processor, eller sil den. (Sausen vil ha konsistensen av en tykk, brun saus.) Server med fjærkre, lam eller svin.
+ 5. Smaker også godt over pålegg eller søtpoteter.
 
 ## Info
 

@@ -2,7 +2,7 @@
 created: 2026-05-05
 ---
 
-# Peanøtsmør "Play-dough"
+Peanøttsmør "Play-Doh"
 
 *Denne deilige snacken kan rulles og formes som dens leketøy-motstykke -- men det er sikkert og deilig å spise når du er ferdig. Vær sikker på å dekke lekeplassen din først og vaske hendene før og etter.*
 

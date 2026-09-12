@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Linguine stekt med grønne bønner og hvitløk
-
 ## Ingredienser
 
 - 450 g Linguine, Spaghetti eller tynt spaghetti, ukokt
@@ -17,8 +15,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonene; avløp.
-2. I en stor ikke-klebrig wok eller panne, varm 5 ml av vegetaroljen over høy varme. Tilsett kyllingen og stekk til den er fast og ugjennomskinnelig, omtrent 4 minutter. Fjern kyllingen og sett den til side. Tilsett den andre 5 ml olje i pannen. Tilsett grønne bønner, reduser varmen til medium, dekk og kok i 7 minutter. Fjern lokket, tilsett rød paprika, rør godt og kok ytterligere 5 minutter. Tilsett hvitløken og stekk i 30 sekunder. Rør inn teriyakisaus og kjøttboljene. Varm til simmring og blan deretter med kyllingen og pastaen. Server umiddelbart.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet.
+2. I en stor, ikke-klebrig wok eller stekepanne, varm 5 ml vegetabilsk olje på høy varme. Tilsett kyllingen og stek til den er gjennomstekt og fast, ca. 4 minutter. Fjern kyllingen og sett den til side. Tilsett de resterende 5 ml oljen i pannen. Tilsett grønne bønner, reduser varmen til middels, dekk til og la det koke i 7 minutter. Fjern lokket, tilsett rød paprika, rør godt og la det koke ytterligere 5 minutter. Tilsett hvitløk og stek i 30 sekunder. Rør inn teriyakisaus og kjøttboller. Varm opp til kokepunktet og bland deretter med kyllingen og pastaen. Server umiddelbart.
 
 ## Info
 

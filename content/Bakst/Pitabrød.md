@@ -5,7 +5,7 @@ created: 2021-11-26
 ![[Bilder/Pitabrød.jpg|300]]
 Hvorfor kjøpe pitabrød når du enkelt kan lage dem hjemme på ditt eget kjøkken? Pitabrød trenger ikke heve lenge og skal stekes i svært varm ovn slik at brødene blåser opp og danner en lomme. Lommen kan du fylle med salat, kylling, falafal, kebab, laks, ja - nesten alt mulig rart! Hjemmelagde pitabrød passer også fint å servere som kuvertbrød ved siden av salater eller supper.
 
-**Porsjoner**: 8  
+**Porsjoner**: 8
 **Kilde**: [tine.no](https://www.tine.no/oppskrifter/bakst/brod-og-rundstykker/pitabr%C3%B8d)
 
 ## Ingredienser

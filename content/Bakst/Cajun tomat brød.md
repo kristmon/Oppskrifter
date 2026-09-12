@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Cajun tomat brød
-
 *Den subtle smak av dette brød lager it en perfect accompaniment for storfekjøtt stew eller vegetable suppe.*
 
 ## Ingredienser

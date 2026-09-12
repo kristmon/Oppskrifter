@@ -2,33 +2,31 @@
 created: 2026-05-05
 ---
 
-# Lemon Chiffon Cake
-
-*This versatile cake may be dressed up with a low-fat frosting for celebrations and parties or served on its own as the finale for a family meal.*
+Denne allsidige kaken kan pyntes med en lett frosting til feiringer og festlige anledninger, eller serveres alene som avslutning på et familiemåltid.
 
 ## Ingredienser
 
-- 1 cup sifted cake and pastry flour
-- 2/3 cup granulated sugar
-- 2 tsp baking powder
-- 1/2 tsp salt
-- 1/4 cup canola oil
-- 2 Tbs lemon juice
-- 2 Tbs water
-- 2 tsp grated lemon rind
-- 2 egg yolks
-- 4 egg whites
-- 1/4 tsp cream of tartar
+- 2,4 dl hvetemel, egnet for kaker og bakverk
+- 1,6 dl granulert sukker
+- 2 ts bakepulver
+- 1/2 ts salt
+- 0,6 dl rapsolje
+- 2 ss sitronsaft
+- 2 ss vann
+- 2 ts revet sitronskall
+- 2 eggeplommer
+- 4 eggehviter
+- 1/4 ts sitronsyre
 
 ## Fremgangsmåte
 
-1. Line bottom only of 8-inch cake pan with waxed paper cut to fit. Or, alternatively, have 10-inch tube pan ready.
-2. In medium bowl, combine flour, 1/3 cup sugar, baking powder, and salt; mix well. Pour in oil, lemon juice, water, lemon rind, and egg yolks. Beat for 1 minute or until very smooth. Wash beaters.
-3. In large bowl, and with clean beaters, beat egg whites and cream of tartar until soft peaks form. Add remaining sugar and beat until stiff peaks form.
-4. Pour egg yolk mixture evenly over stiffly beaten egg whites. Fold in until blended and evenly colored.
-5. Pour into prepared pan. With knife, cut through batter to remove air bubbles. Smooth top.
-6. Bake in 350 degree oven for 40 minutes or until tester inserted in center comes out clean.
-7. Cool on wire rack. (Or, if tube pan is used, invert pan and allow to hang upside down on its own rack or funnel.) Loosen around edge of cake; invert onto cake plate. Remove waxed paper.
+1 . Kle bunnen av en 8 -tommers kakeform med bakepapir som er tilpasset størrelsen. Alternativt kan du forberede en 10 -tommers rundform.
+ 2 . I en middels stor bolle, bland mel, 0,8 dl sukker, bakepulver og salt; bland godt. Hell i olje, sitronsaft, vann, sitronskall og eggeplommer. Visp i 1 minutter, eller til blandingen er veldig jevn. Vask visper.
+ 3 . I en stor bolle, og med rene visper, pisk eggehviter og tartar til myke topper dannes. Tilsett resten av sukkeret og pisk til stive topper dannes.
+ 4 . Hell eggeplommeblandingen jevnt over de stivpiskede eggehvitene. Vend forsiktig inn til alt er blandet og fargen er jevn.
+ 5 . Hell blandingen i den forberedte formen. Bruk en kniv til å skjære gjennom røren for å fjerne eventuelle luftbobler. Glatt ut overflaten.
+ 6 . Stek i en 350 graders ovn i 40 minutter, eller til en testpinne stukket i midten kommer ut ren.
+ 7 . Avkjøl på en rist. (Hvis du brukte en rundform, snu formen opp ned og la den henge opp ned på en rist eller trakt.) Løsne kaken fra formen; snu den over på et kakefat. Fjern bakepapiret.
 
 ## Info
 

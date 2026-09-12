@@ -16,6 +16,6 @@ created: 2021-11-05
 
 ## Fremgangsmåte
 
-1. Varm olje i en kjele eller sauteringspanne, på litt over middels varme. Brun risen i noen minutter, tilsett løk og hvitløk og sauter til løken er blitt myk. Ha i resten av ingrediensene.
+1. Varm olje i en kjele eller stekepanne, på litt over middels varme. Brun risen i noen minutter, tilsett løk og hvitløk, og stek til løken er blitt myk. Ha i resten av ingrediensene.
 2. Husk å røre!
-3. Kok opp, og reduser deretter varmen. La det koke under lokk i ca 25 minutter (koketid kan variere etter type ris). Spansk ris er godt som tilbehør til de fleste mexicanske retter, som enchiladas, fajitas, burritos m.m.
+3. Kok opp, og reduser deretter varmen. La det koke under lokk i ca. 25 minutter (koketiden kan variere avhengig av ris type). Spansk ris er godt som tilbehør til de fleste meksikanske retter, som enchiladas, fajitas, burritos og lignende.

@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Princess Cruise Lines Fettuccine Alfredo
-
-*This Fettuccine Alfredo is one of several turkey dishes featured on the Princess Cruise ships. Additionally, this appetizer is prepared by Maitre d'Hotel Lorenzo Tarini during the Culinary Arts Demonstrations on the Pacific Princess during the European cruises.*
+Denne Fettuccine Alfredo er en av flere retter med kalkun som serveres på Princess Cruises sine skip. I tillegg tilberedes denne forretten av Maitre d'Hotel Lorenzo Tarini under kokkedemonstrasjonene på Pacific Princess under cruiseene i Europa.
 
 ## Ingredienser
 
 - 0,5 kg fettuccine
-- 6 egg yolks lightly beaten
-- 1 pint Half and Half fløte
-- 2 oz smør
-- 1/1 kg white kalkun cooked and julienne cut
-- black pepper freshly ground, to taste
-- salt, to taste
-- 4 oz Parmesan ost freshly grated
+- 6 eggeplommer, lett pisket
+- 1 liter fløte
+- 57 g smør
+- 1/1 kg kokt kalkun, skjært i tynne strimler
+- svart pepper, nymalt, etter smak
+- salt, etter smak
+- 113 g parmesanost, ferskrivet
 
 ## Fremgangsmåte
 
-1. Kok fettuccine in boiling salted vann til mør. tøm.
-2. In a medium bowl, bland egg yolks and fløte together.
-3. Place smør in a saute pan and melt, tilsett kalkun strips and brown lightly. tilsett cooked fettuccine and varm through.
-4. Tilsett the egg/fløte mixture and forsiktig fold in til all the liquid is used.
-5. Season to taste with pepper and salt. tilsett grated Parmesan.
+1. Kok fettuccine i kokende, saltet vann til de er myke. Hell av vannet.
+2. I en middels stor bolle, bland eggeplommer og fløte godt sammen.
+3. Smelt smøret i en stekepanne. Tilsett strimlet kalkun og brun lett. Tilsett den kokte fettuccinen og varm gjennom.
+4. Tilsett egge-/fløteblandingen og vend forsiktig inn til all væsken er brukt.
+5. Smak til med pepper og salt. Tilsett revet parmesan.
 
 ## Info
 

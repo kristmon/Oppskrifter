@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Ginger Peach Smoothie
-
 ## Ingredienser
 
-- 1 cup boiling water
-- 1 piece (about 2-inches) fresh ginger, peeled and crushed
-- 1/4 cup honey
-- 2 peaches, pitted and chopped
-- 1 pint peach sorbet
-- 1 Tbs lime juice
+- 2,4 dl kokende vann
+- 1 bit (omtrent 2 centimeter) fersk ingefær, skrelt og knust
+- 0,6 dl honning
+- 2 fersken, uten stein og hakket
+- 1 liter (eller en halv liter) ferskensorbet
+- 1 ss limesaft
 
 ## Fremgangsmåte
 
-1. In a small, heat-proof bowl, pour boiling water over ginger.
-2. Stir in honey; cool.
-3. Remove and discard ginger. In a blender or food processor, combine peaches, sorbet and lime juice. Process peach mixture, while adding honey-ginger syrup in a slow, steady stream.
-4. Process until smooth.
+1 . I en liten, varmebestandig bolle, hell kokende vann over ingefæren.
+ 2 . Rør inn honning; avkjøl.
+ 3 . Fjern og kast ingefæren. I en blender eller kjøkkenmaskin, bland fersken, sorbet og limesaft. Kjør ferskenblandingen, og tilsett honning-ingefærsirupen gradvis.
+ 4 . Kjør til blandingen er glatt.
 
 ## Info
 

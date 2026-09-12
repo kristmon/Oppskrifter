@@ -2,33 +2,31 @@
 created: 2026-05-05
 ---
 
-# Sherry-saus
-
 ## Ingredienser
 
-- 1 pakke nakke, hjerte, kryp fra kalkun-slakteavfall
-- 1 medium gulrot tykk skivde
-- 1 medium løk tykk skivde
-- 1 medium bleikrot-stengel tykk skivde
-- 2,5 ml salt
-- 1 kalkun-lever
-- 45 ml fett fra fjørfe-dripp
-- 45 ml universalmel
-- 2,5 ml salt
-- 75 ml sherry
-- salt etter smak
-- pepper etter smak
+- 1 pakke med nakke, hjerte og innmat fra kalkun, hentet fra slakteavfall.
+- 1 middels stor gulrot, i tykke skiver.
+- 1 middels stor løk, i tykke skiver.
+- 1 middels stor selleristang, i tykke skiver.
+- 2,5 ml salt.
+- 1 kalkunlever.
+- 45 ml fett fra fjørfe.
+- 45 ml universalmel.
+- 2,5 ml salt.
+- 75 ml sherry.
+- Salt etter smak.
+- Pepper etter smak.
 
 ## Fremgangsmåte
 
-1. I 750 ml gryte, over høy varme, plasser nakke, hjerte, kryp, grønnsaker, og salt i nok vann til å dekke. Varm til kooking. Reduser varmen til lav; dekk til og småkok 45 minutter.
-2. Tilsett lever og kok 15 minutter lenger. Sil buljong inn i stor bolle; dekk til og reserver buljong i kjøleskapet.
-3. For å lage sausen, fjern kokt kalkun og stekk-rist fra stekk-pannen. Hell fjørfe-dripp gjennom sil inn i 1000 ml målekopp.
-4. Tilsett 250 ml kryp-buljong til stekk-pannen og rør til de krusten brunne bitene er løsnet; hell den deglaserte væsken/buljong inn i 1000 ml målet. La blandingen stå noen minutter, til fetten stiger til toppen.
-5. Over medium varme, skje 45 ml fett fra fjørfe-dripp inn i 500 ml gryte. Pisk mel og salt inn i oppvarmet fett og fortsett å kok og rør til melen blir gullbrun.
-6. I mellomtiden, skim og forkast noen fett som gjenstår på toppen av fjørfe-dripp. Tilsett gjenværende buljong og nok vann til fjørfe-dripp til lik 875 ml.
-7. Gradvis pisk inn varm fjørfe-dripp/buljong-blanding.
-8. Tilsett sherry. Smak til med salt og pepper og varm til småkok-punkt. Serv varm i varm saus-båt.
+1 . I en  750  ml gryte, ved høy varme, ha i bryst, hjerte, krås, grønnsaker og salt. Tilsett nok vann til å dekke. Varm opp til kokepunktet. Reduser varmen til lav, dekk til og la det småkoke i  45  minutter.
+ 2 . Tilsett leveren og kok i ytterligere  15  minutter. Sil kraften over i en stor bolle; dekk til og sett kraften til side i kjøleskapet.
+ 3 . For å lage sausen, fjern kokt kalkun og krås fra stekepannen. Hell kraften gjennom en sil over i en  1000  ml målekanne.
+ 4 . Tilsett  250  ml kråsekraft til stekepannen og rør til de brunede bitene løsner. Hell den deglaserte væsken/kraften over i  1000  ml målekanne. La blandingen stå noen minutter, til fettet stiger til overflaten.
+ 5 . Ved middels varme, hell  45  ml fett fra kraften over i en  500  ml gryte. Rør inn mel og salt i det varme fettet, og fortsett å koke og røre til melet blir gyllenbrunt.
+ 6 . I mellomtiden, skum av og kast eventuelt fett som gjenstår på toppen av kraften. Tilsett resten av kraften og nok vann til kraften tilsammen utgjør  875  ml.
+ 7 . Pisk gradvis inn den varme kraft-/buljongblandingen.
+ 8 . Tilsett sherry. Smak til med salt og pepper, og varm opp til småkokepunktet. Server varmt i en forvarmet sausestett.
 
 ## Info
 

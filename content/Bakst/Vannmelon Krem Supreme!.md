@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Vannmelon Krem Supreme!
-
 ## Ingredienser
 
-- 1 beholdning (225 g) sitron lavfett yoghurt
-- 180 ml skummet melk
-- 1 pakke (95 g) øyeblikkelig fransk vanilj puddingmiks
-- 1 beholdning (225 g) fettfritt fryst ikke-meieriprodukter pisket topping, optinet og delt
-- 1 pakke (300 g) redusert fett pund kake, optinet
-- 1250 ml kubisert vannmelon (cirka 2,5 cm), frø fjernet eller kullørfritt
+- 1 beger (225 g) sitron-naturell yoghurt
+- 180 ml lettmelk
+- 1 pakke (95 g) instant vanilje-puddingpulver
+- 1 beger (225 g) fettfri, fryst topping uten melkeprodukter, optinet og delt
+- 1 pakke (300 g) fiberrik kake, optinet
+- 1250 ml vannmelon i terninger (ca. 2,5 cm), frø fjernet eller uten frø.
 
 ## Fremgangsmåte
 
-1. Slå yoghurt, melk og pudding miks i medium bolle til tykk.
-2. Reserver 250 ml pisket topping til garnering. Fold gjenværende pisket topping inn i pudding blanding.
-3. Kutt kaken i 1,25 cm tykk skiver.
-4. Spred halvparten av pudding blandingen på bunnen av stor glassbolle. Top med halvparten av kake skiver; arrangér halvparten av vannmelon kuber over kaken.
-5. Gjenta lag av pudding blanding, kake og vannmelon.
-6. Garnér med reservert pisket topping.
-7. Kjøl, dekket, minst 2 timer før servering.
+1.  Visp yoghurt, melk og puddingblandingen i en middels stor bolle til den er tykk.
+2.  Reserver 250 ml krem til pynt. Vend den resterende kremen inn i puddingblandingen.
+3.  Skjær kaken i skiver som er 1,25 cm tykke.
+4.  Fordel halvparten av puddingblandingen i bunnen av en stor glassbolle. Legg halvparten av kakeskivene over; arranger halvparten av vannmelonbiter over kaken.
+5.  Gjenta lagene med puddingblanding, kake og vannmelon.
+6.  Pynt med den reserverte kremen.
+7.  Avkjøl, dekket, i minst 2 timer før servering.
 
 ## Info
 

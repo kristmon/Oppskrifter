@@ -2,32 +2,30 @@
 created: 2026-05-05
 ---
 
-# Honey BBQ Shredded Pork
-
 *National Honey Board's Beekeepers' Favorite Recipe Contest Winner*
 
 ## Ingredienser
 
-- 1 svinekjøtt shoulder or picnic roast (remove visible fat) or 3 to 4 pounds kalkun legs
-- 1-1/10 dl ketchup
-- 1,2 dl vann
-- 1,2 dl honning
-- 2,5 dl chopped selleri
-- 2,5 dl chopped løk
-- 2 ss lemon juice
-- 3 ss white eddiksyre
-- 3 ss worcestershiresaus
-- 2 ss dry sennep
-- 1 ts salt
-- 1/2 ts ground black pepper
-- 8-10 crusty rolls or mel tortillas
+- 1 svinekjøtt, bog eller stek, (fjern synlig fett) eller 3 til 1,8 kg kalkunlår.
+- 1–1/10 dl ketchup.
+- 1,2 dl vann.
+- 1,2 dl honning.
+- 2,5 dl hakket selleri.
+- 2,5 dl hakket løk.
+- 2 ss sitronsaft.
+- 3 ss hvit eddik.
+- 3 ss worcestershiresaus.
+- 2 ss tørr sennep.
+- 1 ts salt.
+- 1/2 ts malt svart pepper.
+- 8–10 grove rundstykker eller tortillalefser.
 
 ## Fremgangsmåte
 
-1. In 9x13-inch pan, bland sammen all ingredients.
-2. Cover with foil and roast at 300 grader F ovn for 3 to 3-1/2 timer.
-3. Shred meat using two forks, removing all bones and skin. rør with sauce.
-4. servér in crusty rolls or warmed mel tortillas.
+1. I en 9x13-stor stekepanne, bland alle ingrediensene.
+2. Dekk til med aluminiumsfolie og stek i ovnen på 300 grader Fahrenheit i 3 til 3-1/2 timer.
+3. Riv kjøttet med to gafler, og fjern alle bein og skinn. Bland med sausen.
+4. Server i sprø rundstykker eller varmet tortillalefser.
 
 ## Info
 

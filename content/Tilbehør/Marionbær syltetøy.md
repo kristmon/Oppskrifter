@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Marionbær syltetøy
-
 ## Ingredienser
 
 - 950 ml malt marionbær
@@ -12,8 +10,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Bland malt bær og sukker i en stor gryte. Rør godt. Sett over høy varme og bring til en full, vellende kok under konstant omrøring. Kok hardt i ett minutt.
-2. Ta av varmen, rør inn flytende pektin, og rør og skumm i 5 minutter. Hell i varme steriliserte glass, dekk og steriliser i kokende vannbad i fem minutter.
+1. Bland malte bær og sukker i en stor kjele. Rør godt. Sett på høy varme og kok opp under konstant omrøring, til den fosskoker. Kok kraftig i ett minutt.
+2. Ta kjelen av varmen, rør inn flytende pektin, og rør og skum i 5 minutter. Hell blandingen i varme, steriliserte glass, dekk med lokk og steriliser i et kokende vannbad i fem minutter.
 
 ## Info
 

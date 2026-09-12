@@ -2,30 +2,28 @@
 created: 2026-05-05
 ---
 
-# Cheesy Turkey Ham, Spinach and Noodles
-
 ## Ingredienser
 
-- vegetable spray
-- 1 ts minced hvitløk
-- 0,5 kg 1/2" slices deli-cut kalkun skinke cut into 1/2" cubes
-- 1 10-ounce package frozen chopped spinat defrosted and drained
-- 2,5 dl nonfat cottage ost
-- 2 ss dried parsley flakes
-- 1 ts dried Italian seasoning
-- 1/2 ts salt
-- 1/2 ts pepper
-- 0,8 dl vann
-- 1 6-ounce package no yolk egg nudler cooked
-- 6 ss grated Parmesan ost
+- grønnsakspray
+- 1 finhakket hvitløk
+- 0,5 kg 1/2 skiver av kalkunskinke, skjært i 1/2 kuber
+- 1 10 gram frosset, hakket spinat, tint og drenert
+- 2,5 desiliter mager cottage ost
+- 2 teskje tørkede persilleflak
+- 1 teskje italiensk krydderblanding
+- 1/2 teskje salt
+- 1/2 teskje pepper
+- 0,8 desiliter vann
+- 1 6 gram pakke uten eggeplomme nudler, kokt
+- 6 ss revet parmesan ost
 
 ## Fremgangsmåte
 
-1. In 12" nonstick skillet sprayed with vegetable spray over medium high varm, saute hvitløk for 30 seconds.
-2. Toss in kalkun skinke cubes and saute for about 2 minutter. tilsett spinat, separating to bland sammen.
-3. reduser varmen to medium; rør in cottage ost, parsley flakes, Italian seasoning, salt and pepper.
-4. Tilsett nudler; kok til hot, about 2 to 3 minutter.
-5. servér immediately, topping each serving with a tablespoon of Parmesan ost.
+1. I 12, en stekepanne med slippbelegg som er sprayet med vegetabilsk olje, varmes opp på middels høy varme. Fres hvitløk i 30 sekunder.
+2. Tilsett terninger av kalkunskinke og fres i omtrent 2 minutter. Tilsett spinat og bland godt.
+3. Senk varmen til middels; rør inn cottage cheese, tørket persille, italiensk krydderblanding, salt og pepper.
+4. Tilsett nudler; kok til de er varme, i omtrent 2 til 3 minutter.
+5. Server umiddelbart, og topp hver porsjon med en liten mengde parmesanost.
 
 ## Info
 

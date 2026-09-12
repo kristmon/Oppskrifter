@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Whipped Carnation Evaporated Milk Topping
-
-*Sweeten evaporated milk with powdered sugar and vanilla before whipping it into a foamy topping.*
+Visp sammen kondensert melk, tilsatt melis og vanilje, til den blir en luftig topping.
 
 ## Ingredienser
 
-- 2,5 dl NESTLÉ CARNATION Evaporated melk
+- 2,5 dl usøtet kondensert melk
 - 1/4 to 1,2 dl powdered sukker
 - 1 ts vaniljeekstrakt
 
 ## Fremgangsmåte
 
-1. hell evaporated melk into small mixer bowl; place beaters into mixture. Freeze for about 30 minutter eller til ice crystals form around edge of bowl.
-2. Beat on high speed for 1 minutt eller til very frothy. Gradually tilsett sukker and vaniljeekstrakt; continue beating for 2 minutter eller til mixture is stiff. servér immediately spooned over fresh fruit or your favorite dessert.
+1. Hell den avkjølte melken i en liten miksebolle; sett visperne i blandingen. Sett i fryseren i omtrent 30 minutter, eller til iskrystaller begynner å dannes rundt kanten av bollen.
+2. Visp på høy hastighet i 1 minutt, eller til blandingen er veldig skummende. Tilsett gradvis sukker og vaniljeekstrakt; fortsett å vispe i 2 minutter, eller til blandingen er stiv. Server umiddelbart, over frisk frukt eller din favorittdessert.
 
 ## Info
 
-- **Porsjoner**: 16 Yield: 4 1/2 cups
-- **Preparation Time**: 30 minutes
-- **Cooking Time**: 2 minutes
+- **Porsjoner**: 16 Yield: 10,8 dl
+- **Forberedelsestid**: 30 minutter
+- **Tilberedningstid**: 2 minutter
 - **Type**: Dessert
 - **Kilde**: Nestlé, www.verybestbaking.com

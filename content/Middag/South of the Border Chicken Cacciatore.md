@@ -2,34 +2,32 @@
 created: 2026-05-05
 ---
 
-# South of the Border Chicken Cacciatore
-
 ## Ingredienser
 
-- 4 kylling breasts, bone-in
-- 4 clove hvitløk, chopped
-- 1 (14-oz.) jar pizza sauce
-- 1 (8-oz.) jar Ortega® Medium Taco Sauce
-- 1 medium løk, cut into wedges
-- 1 red paprika, thinly sliced
-- 1 green paprika, thinly sliced
-- 2,5 dl frozen mais
+- 4 kyllingbryst, med bein
+- 4 fedd hvitløk, finhakket
+- 1 (14-oz.) glass pizza saus
+- 1 (8-oz.) glass medium tacosaus
+- 1 middels stor løk, skjært i spiser
+- 1 rød paprika, i tynne skiver
+- 1 grønn paprika, i tynne skiver
+- 2,5 dl frossen mais
 - 1,2 dl vann
 - 2 ss olivenolje
-- 2 ts chopped fresh parsley
+- 2 ts hakket, fersk persille
 - 1/8 ts salt
-- 1/8 ts freshly ground black pepper
+- 1/8 ts ferskmalt svart pepper
 
 ## Fremgangsmåte
 
-1. Sprinkle kylling breasts with salt and pepper. In large, deep skillet over medium-high varm, warm olje. tilsett kylling breasts and saute til browned on all sides, about 3 minutter per side. Remove kylling and set aside.
-2. reduser varmen to medium-low and hell off all but 1 tablespoon olje. tilsett løk, hvitløk and bell peppers; kok, stirring often, til softened, about 6 minutter. rør in pizza and taco sauces; tilsett vann and parsley. Return kylling to skillet; bring sauce to la småkoke. reduser varmen to low; cover and la småkoke for 20 minutter, turning kylling after 10 minutter.
-3. Rør in mais, turning kylling again; continue to la småkoke uncovered for another 10 minutter. Spoon into serving dish, sprinkle with mais stuffing. servér over ris or pasta.
+1 . Dryss kyllingfilet med salt og pepper. Varm olje i en stor, dyp stekepanne over middels varme. Legg kyllingfilet i pannen og stek til den er brunet på alle sider, ca. 3 minutter per side. Ta kyllingen ut av pannen og sett til side.
+ 2 . Senk varmen til lav til middels og hell av nesten all oljen, men la 1 ss være igjen. Tilsett løk, hvitløk og paprika; stek under omrøring til det er mykt, ca. 6 minutter. Rør inn pizzasaus og tacosaus; tilsett vann og persille. Legg kyllingen tilbake i pannen; kok opp sausen. Senk varmen til lav, dekk til og la sausen småkoke i 20 minutter, snu kyllingen etter 10 minutter.
+ 3 . Rør inn mais, snu kyllingen igjen; fortsett å la sausen småkoke uten lokk i ytterligere 10 minutter. Fordel i serveringsfat, dryss over maisdressing. Server med ris eller pasta.
 
 ## Info
 
 - **Porsjoner**: 4
-- **Preparation Time**: 25 minutes
-- **Cooking Time**: 52 minutes
+- **Forberedelsestid**: 25 minutter
+- **Tilberedningstid**: 52 minutter
 - **Type**: Main Dish, Poultry
 - **Kilde**: Nestlé, www.verybestmeals.com

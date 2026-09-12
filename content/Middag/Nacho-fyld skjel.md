@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Nacho-fyld skjel
-
 ## Ingredienser
 
 - 32 til 36 jättar-skjel (340 g pakke), ukokt
@@ -26,10 +24,10 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonane. Medan pastaen koker, braisér kjøttet i ei stor panne til det er brunt; avløp godt. Tillsett taco-krydderblandinga og vatn; simrer i 5 minutter eller til det er tjukt. Rør inn bønnene og osten. Kok til det er glatt og godt blandet. Når pastaen er ferdig, avløp godt. Fyll skjelen med kjøtblandinga (15-30 ml per skjel).
-2. Kombiner picante-saus og tomat-saus i ei kjel. Kok til det er varmt, rør av og til.
-3. Forvarm ovnen til 175 °C. Spread 120 ml saus over botn av ei 23 x 33 cm bakingform som er dekka med matlagingsspray. Plasser fylt skjel side ved side på toppen av saus; hell resten av sausen jamnt over skjela. Strø med oliver. Dekk med aluminiumsfolie; bak 35 til 40 minutter eller til det er grundig varmt. Strø med grønn løk. Dekk og la stå i 5 minutter før servering. Server umiddelbart.
-4. Pynt etter ønske.
+1. Kok pastaen etter pakningsinstruksjonene. Mens pastaen koker, brun kjøttet i en stor panne; hell av fettet. Tilsett tacokrydderblandingen og vann; la det småkoke i 5 minutter, eller til sausen tykner. Rør inn bønner og ost. Kok til det er jevnt og godt blandet. Når pastaen er ferdig, hell av vannet. Fyll skallene med kjøttblandingen (15-30 ml per skall).
+2. Bland picante-saus og tomatsaus i en kjele. Kok opp, rør av og til.
+3. Forvarm ovnen til 175 °C. Fordel 120 ml saus over bunnen av en 23 x 33 cm ildfast form som er sprayet med matlagningsspray. Plasser de fylte skallene side om side på toppen av sausen; hell resten av sausen jevnt over skallene. Dryss over oliven. Dekk med aluminiumsfolie; stek i 35 til 40 minutter, eller til det er gjennomvarmt. Dryss over vårløk. Dekk til og la stå i 5 minutter før servering. Server umiddelbart.
+4. Pynt etter smak.
 
 ## Info
 

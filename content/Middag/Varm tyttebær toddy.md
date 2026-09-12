@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Varm tyttebær toddy
-
 *Den rike duften av krydder vil fylle luften hvis du, etter matlaging, lar kasseroljen være avdekket i et minutt eller to før du overfører drikken til en kanne for servering.*
 
 ## Ingredienser

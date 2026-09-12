@@ -2,37 +2,36 @@
 created: 2026-05-05
 ---
 
-# Butterscotch Apple Crisp
-
-*Bring the fun of caramel apples into your kitchen with this Butterscotch Apple Crisp. Chopped nuts and oatmeal make for a chewy and delicious baked dessert perfect for crisp Fall nights.*
+Ta med deg gleden fra karamelliserte epler inn på kjøkkenet med denne butterscotch-eplekaken. Hakkede nøtter og havregryn gir en deilig og smaksrik bakt dessert, perfekt for kjølige høstkvelder.
 
 ## Ingredienser
 
-**Apple Layer**
-- 2 1/1 kg (about 6 medium) tart apples, peeled and thinly sliced
-- 1 2/7,5 dl (11-ounce package) NESTLÉ® TOLL HOUSE® Butterscotch Flavored Morsels
-- 0,6 dl packed brunt sukker
-- 0,6 dl all-purpose mel
-- 1/2 ts ground kanel
+**Eplesjikt**
+- Cirka 2 1/1 kg (omtrent 6 mellomstore) syrlige epler, skrelt og i tynne skiver.
+- 1 2/7, 5 dl (en 11-pakke) Butterscotch-smak.
+- 0,6 dl presset brunt sukker.
+- 0,6 dl hvetemel.
+- 1/2 ts malt kanel.
+
 **Topping**
-- 1,2 dl all-purpose mel
-- 0,6 dl packed brunt sukker
-- 0,6 dl (1/2 stick) smør or margarine (we recommend LAND O LAKES® smør)
-- 2,5 dl chopped nuts
-- 1,9 dl quick or old-fashioned oats
-- Ice fløte or whipped fløte (optional)
+- 1,2 dl hvetemel.
+- 0,6 dl presset brunt sukker.
+- 0,6 dl (en 1/2) smør eller margarin.
+- 2,5 dl hakkede nøtter.
+- 1,9 dl raske eller tradisjonelle havregryn.
+- Iskremfløte eller pisket fløte (valgfritt).
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 375° F.
-2. Arrange apples in 13 x 9-inch baking pan. bland sammen morsels, sukker, mel and kanel in small bowl; sprinkle over apples. bak for 20 minutter; remove from ovn.
-3. bland sammen mel and sukker in medium bowl. Cut in smør with pastry blender or two knives til crumbly. rør in nuts and oats; sprinkle over apple layer.
-4. bak for additional 30 to 40 minutter eller til apples are tender and topping is lightly browned. Cool slightly. servér warm with ice fløte.
+1. Forvarm ovnen til 190 °C.
+2. Legg eplene i en ildfast form på ca. 33 × 23 cm. Bland smørkaramellbiter, sukker, mel og kanel i en liten bolle, og dryss blandingen over eplene. Stek i 20 minutter og ta formen ut av ovnen.
+3. Bland mel og sukker i en middels stor bolle. Smuldre inn smøret med en deigkutter eller to kniver, til blandingen blir smuldrete. Rør inn nøtter og havregryn; strø over eplesjiktet.
+4. Stek videre i 30–40 minutter, til eplene er møre og toppingen er lett brunet. Avkjøl litt og server varm, gjerne med iskrem eller pisket krem.
 
 ## Info
 
 - **Porsjoner**: 10
-- **Preparation Time**: 15 minutes
-- **Cooking Time**: 50 minutes
+- **Forberedelsestid**: 15 minutter
+- **Tilberedningstid**: 50 minutter
 - **Type**: Dessert
 - **Kilde**: Nestlé, www.verybestbaking.com

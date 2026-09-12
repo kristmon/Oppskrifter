@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Røykig honning-peparkorn-glasur for fjørfe
-
 ## Ingredienser
 
 - 75 ml honning
@@ -16,9 +14,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I liten bolle, kombiner alle ingredienser unntatt kylling til godt blandet.
-2. Plasser kylling i stekk-panne; pensl med glasur.
-3. Stekt ved 175°C, pensl med ekstra glasur hver 15. minutt til kylling er dyp-gullbrun og kylling-væsker løp klart, 1 time til 1 time og 15 minutter.
+1. I en liten bolle, kombiner alle ingrediensene unntatt kyllingen til en godt blandet masse.
+2. Legg kyllingen i en stekepanne; pensl med glasur.
+3. Stek ved 175°C, pensl med ekstra glasur hvert 15. minutt til kyllingen er jevnt gyllenbrun og kyllingsaften renner klart, i 1 time til 1 time og 15 minutter.
 
 ## Info
 

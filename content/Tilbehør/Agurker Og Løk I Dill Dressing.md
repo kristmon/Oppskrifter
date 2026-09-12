@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Agurker Og Løk I Dill Dressing
-
 ## Ingredienser
 
 - 2 store agurker, skalert, og tynnt skåret
@@ -17,8 +15,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kombiner agurker og løk i et serveringsfat. I en separat bolle, visp sammen majones, eddik, dill og søtningsstoff.
-2. Hell dressing over grønnsakene og bland for å dekke. Dekk salatene og kjøl ned i 30 minutter for beste smak.
+1. Bland agurker og løk i et serveringsfat. I en separat bolle, visp sammen majones, eddik, dill og søtning.
+2. Hell dressingen over grønnsakene og bland godt, slik at de blir dekket. Dekk salatene og sett dem i kjøleskapet i 30 minutter for best smak.
 
 ## Info
 

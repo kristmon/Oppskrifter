@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# Fettuccine Alfredo
-
 ## Ingredienser
 
-- 8 oz Fettuccine
-- 1 cup butter or margarine
-- 1 cup heavy cream
-- 1 cup freshly grated Parmesan cheese
-- salt and freshly ground black pepper to taste
+- 227 g fettuccine
+- 2,4 dl smør eller margarin
+- 2,4 dl fløte
+- 2,4 dl ferskost revet parmesan
+- salt og ferskmalt svart pepper etter smak
 
 ## Fremgangsmåte
 
-1. Prepare pasta according to package directions, drain. In a medium saucepan, melt butter or margarine over low heat. Blend in cream and cheese and cook over low heat to reduce mixture slightly and melt cheese. Sauce should not boil. Remove from heat, season to taste with salt and pepper, toss with pasta and serve immediately.
+1. Kok pastaen etter anvisningene på pakken, og hell av vannet. I en middels stor kjele, smelt smør eller margarin over svak varme. Rør inn fløte og ost, og varm opp over svak varme for å redusere blandingen litt og smelte osten. Sausen skal ikke koke. Ta kjelen av varmen, smak til med salt og pepper, bland med pastaen og server umiddelbart.
 
 ## Info
 

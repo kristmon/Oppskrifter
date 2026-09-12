@@ -5,8 +5,8 @@ created: 2024-03-29
 ![[Bilder/Meksikansk gryte.jpg|300]]
 I en hektisk hverdag er det ekstra kjærkomment med middager som tilberedes i en og samme gryte, slik at oppvasken den ettermiddagen blir minimal. Dette er en slik gryte, som minner om barndommens meksikanske gryte på pose, bare mye, mye bedre. I gryta får kjøtt og ris kose seg med tomater, deilige krydder, paprika, mais og sorte bønner - en deilig tex-mex-rett som gjerne kan nytes til hverdags.
 
-**Porsjoner**: 4 (4 porsjoner)  
-**Kilde**: [trinesmatblogg.no](https://trinesmatblogg.no/recipe/meksikansk-gryte-med-ris/)  
+**Porsjoner**: 4 (4 porsjoner)
+**Kilde**: [trinesmatblogg.no](https://trinesmatblogg.no/recipe/meksikansk-gryte-med-ris/)
 **Plan to Eat-tag**: Kjøttdeig
 
 ## Ingredienser
@@ -36,10 +36,10 @@ I en hektisk hverdag er det ekstra kjærkomment med middager som tilberedes i en
 
 ## Fremgangsmåte
 
-1. Skjær opp alle grønnsakene som angitt. Finn frem måleskje, mål opp krydderet, ha det i en liten skål og rør det godt sammen.
-2. Finn frem en vid gryte eller en stekepanne med høye kanter, og stek karbonadedeigen i litt nøytral olje på litt over middels varme. Tilsett løk og hvitløk og la den surre med i noen minutter før du tilsetter mesteparten av krydderet (alt etter hvor “spicy” du ønsker retten) og tomatpureen. Rør godt sammen og la det stå å surre under omrøring et par minutter. Tilsett risen (rå), rør godt sammen og tilsett deretter hermetiske tomater, kjøttkraft og paprika. Rør det hele godt sammen, kok opp og la det stå å småkoke under lokk til risen er nesten ferdigkokt. Rør av og til, slik at risen ikke setter seg fast i bunnen. Hvis retten virker litt “suppete” kan du ta av lokket mot slutten av koketiden slik at noe av væsken får anledning til å fordampe. Koketiden vil variere etter hva slags ris du benytter. Smak til med sukker, salt og eventuelt litt mer av krydderblandingen. Ha i sorte bønner og mais og la det stå å trekke i ca. 5 minutter uten lokk, til risen er ferdigkokt.
-3. Server gryteretten sammen med litt frisk chili, lime og frisk koriander, samt tortillachips eller godt brød. Dersom du synes retten er litt “spicy” kan du ha tilsette en klatt rømme når du forsyner deg, for en litt mildere smak.
+1. Kutt opp alle grønnsakene som angitt. Finn frem måleskje, mål opp krydderet, ha det i en liten skål og rør det godt sammen.
+2. Finn frem en vid gryte eller en stekepanne med høye kanter, og stek karbonadedeigen i litt nøytral olje på litt over middels varme. Tilsett løk og hvitløk og la det surre med i noen minutter før du tilsetter mesteparten av krydderet (alt etter hvor "sterk" du ønsker retten) og tomatpuré. Rør godt sammen og la det surre under omrøring et par minutter. Tilsett risen (uten skall), rør godt sammen og tilsett deretter hermetiske tomater, kraft og paprika. Rør det hele godt sammen, kok opp og la det småkoke under lokk til risen er nesten ferdigkokt. Rør av og til, slik at risen ikke setter seg fast i bunnen. Hvis retten virker litt "tynn", kan du ta av lokket mot slutten av koketiden slik at noe av væsken får anledning til å fordampe. Koketiden vil variere etter hva slags ris du benytter. Smak til med sukker, salt og eventuelt litt mer av krydderblandingen. Ha i sorte bønner og mais og la det trekke i ca. 5 minutter uten lokk, til risen er ferdigkokt.
+3. Server gryteretten sammen med litt frisk chili, lime og frisk koriander, samt tortillachips eller godt brød. Dersom du synes retten er litt "sterk", kan du ha i en klatt rømme når du serverer, for en litt mildere smak.
 4. TIPS
 5. Lag gjerne hjemmelaget tortillachips, se oppskrift her.
-6. Dersom du ønsker å lage en vegetarisk gryterett kan du bytte ut kjøttdeigen med kidneybønner og/eller linser og litt mer av grønnsakene. Kjøttkraften erstattes av grønnsakskraft/buljong.
-7. Gryteretten kan gjerne “preppes” nesten ferdig et par dager i forkant og koke i 10-15 minutter, for deretter å kokes ferdig rett før servering. Vent med å tilsette bønner og mais til du varmer opp retten.
+6. Dersom du ønsker å lage en vegetarisk gryterett, kan du bytte ut kjøttdeigen med kidneybønner og/eller linser og litt mer av grønnsakene. Kraften erstattes av grønnsaksbuljong.
+7. Gryteretten kan gjerne "forberedes" nesten ferdig et par dager i forkant og kokes i 10 - 15 minutter, for deretter å kokes ferdig rett før servering. Vent med å tilsette bønner og mais til du varmer opp retten.

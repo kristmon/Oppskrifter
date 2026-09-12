@@ -2,22 +2,20 @@
 created: 2026-05-05
 ---
 
-# Fruit Smoothie
-
 ## Ingredienser
 
-- 1 pint fresh strawberries, stemmed and sliced or 2 cups frozen strawberries, slightly thawed
-- 1 cup 1% milk
-- 1 cup (8 ounces) plain or vanilla low-fat yogurt
-- 1/2 cup honey
-- 1 tsp vanilla extract
-- 1 cup crushed ice (5-6 cubes)
+- 4,8 dl ferske jordbær, renset og delt, eller 4,8 dl frosne jordbær, lett tint.
+- 2,4 dl 1% milk
+- 2,4 dl (227 g) plain or vanilla low-fat yogurt
+- 1,2 dl honey
+- 1 ts vanilla extract
+- 2,4 dl crushed ice (5-6 cubes)
 
 ## Fremgangsmåte
 
-1. In a blender or food processor container, combine all ingredients; process until smooth.
-2. Serve immediately.
-3. For variety, use 2 cups any fresh or frozen fruit or combination of fruits such as sliced strawberries and bananas or sliced peaches and whole raspberries.
+1. I en blender eller kjøkkenmaskin, bland alle ingrediensene; kjør til blandingen er jevn.
+2. Server umiddelbart.
+3. For variasjon, kan du bruke 4,8 dl av hvilken som helst fersk eller frossen frukt, eller en kombinasjon av frukter, for eksempel skivede jordbær og banan, eller skivede frukter og hele bringebær.
 
 ## Info
 

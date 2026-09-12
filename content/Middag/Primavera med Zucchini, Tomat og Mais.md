@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Primavera med Zucchini, Tomat og Mais
-
 ## Ingredienser
 
-- 450 g Mostaccioli, Medium Shells eller annen medium pastafasong, ukokt
-- 1 ss vegetarolje
-- 1 hvitløkfedd, finhákkete
-- 1 medium rød løk, hakket
-- 5 dl hakket zucchini
-- 5 dl hakket frisk tomat
-- 2,5 dl frisk mais eller 2,5 dl frosset mais, tint
-- 1/2 ts varme røde chiliflak
-- 2,5 dl skummet melk
-- 1 dl nylig reven Parmesanost
-- 0,5 dl finhákkete italiensk persille
-- Salt og fersk malt pepper etter smak
-- Ekstra nylig reven Parmesanost (valgfritt garnering)
+- 450 g mostaccioli, medium skall eller annen medium pastaform, ukokt
+- 1 ss vegetabilsk olje
+- 1 fedd hvitløk, finhakket
+- 1 medium rødløk, hakket
+- 5 dl hakket squash
+- 5 dl hakket, fersk tomat
+- 2,5 dl fersk mais eller 2,5 dl frosset mais, tint
+- 1/2 ts chiliflak
+- 2,5 dl lettmelk
+- 1 dl ferskrivet parmesanost
+- 0,5 dl finhakket italiensk persille
+- Salt og ferskmalen pepper etter smak
+- Ekstra ferskrivet parmesanost (valgfritt, til pynt)
 
 ## Fremgangsmåte
 
-1. Tilbered pasta etter pakningens anvisning; hell av.
-2. Varm oljen i en stor stekepanne. Tilsett hvitløken, rød løk og zucchini og kok over medium-høy varme til hvitløken og løken er gyllne. Reduser varmen til medium og tilsett tomaten, maisen, de røde chiliflakene, skummet melk og Parmesanost. Rør til osten er smeltet og grønnsakene er varme. Tilsett pastaen og persillien og bland grundig. Smak til med salt og pepper etter smak.
+1. Kok pastaen etter anvisningene på pakken; hell av vannet.
+2. Varm oljen i en stor stekepanne. Tilsett hvitløk, rødløk og squash, og stek over middels høy varme til hvitløken og løken er gyllen. Senk varmen til middels og tilsett tomat, mais, chiliflak, fløte og parmesan. Rør til osten er smeltet og grønnsakene er gjennomstekte. Tilsett pastaen og persille, og bland godt. Smak til med salt og pepper etter behov.
 
 ## Info
 

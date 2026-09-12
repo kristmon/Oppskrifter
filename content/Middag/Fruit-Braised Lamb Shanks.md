@@ -2,36 +2,34 @@
 created: 2026-05-05
 ---
 
-# Fruit-Braised Lamb Shanks
-
 ## Ingredienser
 
 - 1 ss smør
-- 1 ss vegetarolje
-- 2 lamb shanks, about 1 1/2 to 2 pounds
-- 1/2 løk, minced
-- 1 clove hvitløk, minced
-- 1 fresh or 1/2 dry lauberblad
-- 1 ts fresh timian leaves
+- 1 ss vegetabilsk olje
+- 2 lammelår, ca. 1 1/2 til 905 g
+- 1/2 løk, finhakket
+- 1 fedd hvitløk, finhakket
+- 1 laurbærblad (frisk eller 1/2 tørket)
+- 1 ts frisk timian
 - 1 ss mel
-- 1 ss turmeric
-- 1/2 ts dried chili flakes
-- 1,9 dl dry hvitvini, such as Chardonay or Sauvignon Blanc
+- 1 ss gurkemei
+- 1/2 ts tørkede chiliflak
+- 1,9 dl tørr hvitvin, for eksempel Chardonnay eller Sauvignon Blanc
 - 5 dl kyllingbuljong
-- 2 peaches, peeled, pitted and coarsely chopped
-- 2 nectarines, pitted and coarsely chopped
-- 2 plums, pitted and coarsely chopped
+- 2 fersken, skrelt, uten stein og grovhakket
+- 2 nektariner, uten stein og grovhakket
+- 2 plommer, uten stein og grovhakket
 
 ## Fremgangsmåte
 
-1. In a medium skillet with a lid, melt the smør over medium varm and tilsett the olje.
-2. Tilsett the shanks and sauté them for 3 to 4 minutter on each side. Remove the shanks and set aside. Discard all but 2 tablespoon of fat from the pan. rør konstant for 2 to 3 minutter to release any bits stuck to the pan.
-3. Return to medium varm and tilsett the løk and hvitløk. Sauté 1 to 2 minutter, then tilsett the lauberblad and timian and sprinkle with the mel, turmeric and chili flakes. rør for 1 to 2 minutter, then tilsett the wine.
-4. Tilsett 1 1/2 cups of the kyllingbuljong and return the shanks to the pan. Reduce the varm to low and cover.
-5. la småkoke for 1 1/2 timer, then tilsett the fruit and continue to kok for another 45 minutter to 1 time, til the meat is tender and can be pulled away from the bone. rør iblant while cooking, basting the shanks with the sauce.
-6. As the sauce thickens, the sukker in the fruit will cause it to stick to the pan, so rør more frequently. tilsett more broth if necessary.
-7. When the shanks are done, remove them from the pan and pull away or cut off the meat. Discard the bone. Skim the surface fat from the sauce.
-8. Return the meat to the sauce and kok over low varm for 3 to 4 minutter, just enough to varm the meat through. servér immediately.
+1. I en middels stor stekepanne med lokk, smelt smøret over middels varme og tilsett oljen.
+2. Tilsett kjøttkakene og stek dem i 3 til 4 minutter på hver side. Ta kjøttkakene ut av pannen og sett dem til side. Fjern alt fett fra pannen, men behold 2 ss. Rør konstant i 2 til 3 minutter for å løsne eventuelle rester som sitter fast i pannen.
+3. Sett varmen tilbake på middels og tilsett løk og hvitløk. Stek i 1 til 2 minutter, og tilsett deretter laurbærblad og timian. Dryss over mel, gurkemei og chiliflak. Rør i 1 til 2 minutter, og tilsett deretter vinen.
+4. Tilsett 3,6 dl kyllingbuljong og legg kjøttkakene tilbake i pannen. Reduser varmen til lav og sett på lokket.
+5. La det småkoke i 1 1/2 time, og tilsett deretter frukten. Fortsett å koke i ytterligere 45 minutter til 1 time, til kjøttet er mørt og kan trekkes fra beinet. Rør av og til underveis, og pensle kjøttkakene med sausen.
+6. Etter hvert som sausen tykner, vil sukkeret i frukten kunne få den til å sette seg fast i pannen, så rør oftere. Tilsett mer buljong om nødvendig.
+7. Når kjøttkakene er ferdige, ta dem ut av pannen og dra eller skjær av kjøttet. Kast beina. Skum av overflødig fett fra sausen.
+8. Ha kjøttet tilbake i sausen og varm det opp over svak varme i 3 til 4 minutter, bare for å varme kjøttet gjennom. Server umiddelbart.
 
 ## Info
 

@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Estragon-krem-saus
-
 ## Ingredienser
 
 - 2 ss smør

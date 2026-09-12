@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Stekt rød paprika-saus
-
 ## Ingredienser
 
 - Vegetarolje-stekespray
@@ -15,9 +13,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en liten ikke-tettende stekepanne, sprayed med vegetarolje-stekespray, over medium varme, steik løk 2–3 minutter eller til lett brunt. Tilsett hvitkløk og rør 30 sekunder. La det avkjøles omkring 4–5 minutter.
-2. I en matprosessor med metallblad, purér løk-blandingen, paprika og salt. Mens motoren går, tilsett pocherings-væsken sakte til rød paprika-blandingen til sausen blir glatt.
-3. Hell sausen i et 0,5 l glassmålekrus og varm i mikrobølgeovnen på HØY (100 % kraft) 30 sekunder eller til det er varmt.
+1 . I en liten stekepanne som ikke fester, sprayet med vegetabilsk olje, stekes løk over middels varme i 2 – 3 minutter, eller til den er lett brun. Tilsett hvitløk og rør i 30 sekunder. La blandingen avkjøles i omtrent 4 – 5 minutter.
+ 2 . I en kjøkkenmaskin med metallkniv, kjøres løkblandingen, paprika og salt til en puré. Mens maskinen går, tilsettes pocheringsvæsken gradvis til paprikaen til sausen er glatt.
+ 3 . Hell sausen over i et 0,5 liters målebeger og varm den i mikrobølgeovnen på høyeste effekt ( 100 %) i 30 sekunder, eller til den er varm.
 
 ## Info
 

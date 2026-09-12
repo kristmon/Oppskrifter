@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Quiche Lorraine
-
-*Denne enkle, elegante quichen lager en deilig brunch, lunsj eller middag servert med en frisk fruktsalat. Quiche Lorraine kan forberedes 2–4 timer før steking. Kjøl til du er klar til å bake.*
+Denne enkle, elegante quichen er perfekt som en deilig brunch, lunsj eller middag, servert med en frisk fruktsalat. Quiche Lorraine kan forberedes 2–4 timer før steking. Avkjøl den til du er klar til å sette den i ovnen.
 
 ## Ingredienser
 
-- 1 ubakt 23 cm (1 liter) dyp pieskål
-- 6 baconstriper, hakket
-- 120 ml hakket løk
-- 350 g (170 g) riven sveitsisk ost
-- 350 ml (355 ml dåse) kondensert melk
-- 3 store egg, godt pisket
+- 1 ubehandlet, 23 cm (1 liter) dyp paiform
+- 6 baconstrimler, hakket
+- 120 ml finhakket løk
+- 350 g (170 g) revet sveitserost
+- 350 ml (355 ml boks) kondensert melk
+- 3 store egg, godt vispet
 - 1 ml salt
 - 0,5 ml malt svart pepper
-- 0,5 ml malt muskatnøtt
+- 0,5 ml malt muskat
 
 ## Fremgangsmåte
 
 1. Forvarm ovnen til 175 °C.
-2. Kok bacon i en stor stekepanne på medium varme. Når bacon begynner å bli brun, tilsett løk. Kok til bacon er sprøtt. Sil av. Strø ost i bunnen av pieskålen. Top med bacon-blandingen. Bland kondensert melk, egg, salt, pepper og muskatnøtt i en liten bolle til det er blandet. Hell inn i pieskålen.
-3. Bak i 30–35 minutter eller til en kniv stukket halvveis mellom sentrum og kant kommer ut ren. Kjøl 5 minutter på stekebrett før servering.
+2. Stek bacon i en stor stekepanne på middels varme. Når baconet begynner å bli brunt, tilsetter du løk. Stek til baconet er sprøtt. Hell av fettet. Strø ost i bunnen av paiformen. Fordel baconblandingen over. Bland kondensert melk, egg, salt, pepper og muskat i en liten bolle til alt er godt blandet. Hell blandingen over i paiformen.
+3. Stek i 30–35 minutter, eller til en kniv stukket halvveis mellom midten og kanten kommer ut ren. La den avkjøles på et stekebrett i 5 minutter før servering.
 
 ## Info
 

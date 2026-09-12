@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Stekt Amerikansk Spaghetti
-
 ## Ingredienser
 
 - 225 g Spaghetti, Linguine eller Tynn Spaghetti, ukjørt
@@ -19,8 +17,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I stor stekepanne, kok løk, hvitløk og kjøttdeig på medium varme til kjøttet blir brunt; avslå. Tilsett tomater, tomatsaus, 250 ml vann, italiensk krydder og salt. La småkoke i 5 minutter, rørende av og til.
-2. Mens kjøttblandingen småkoker, bryt spaghettistrendene i tre deler. Plasser i ovnsikker gratingeringsform. Tilsett ytterligere 125 ml vann og bland. Tilsett kjøttblanding og bland alle ingredienser. Dekk gratineringsformen med aluminiumsfolie og bak på 175°C i 40 minutter. Fjern deksel fra gratineringsformen og bak i ytterligere 10 minutter.
+1. I en stor stekepanne, stek løk, hvitløk og kjøttdeig på middels varme til kjøttet er brunt; sett til side. Tilsett tomater, tomatsaus, 250 ml vann, italiensk krydder og salt. La det småkoke i 5 minutter, rør av og til.
+2. Mens kjøttblandingen småkoker, del spaghettistrængene i tre deler. Legg dem i en ovnsfast form. Tilsett ytterligere 125 ml vann og bland. Tilsett kjøttblandingen og bland alle ingrediensene godt. Dekk formen med aluminiumsfolie og stek i ovnen på 175°C i 40 minutter. Fjern folien og stek videre i 10 minutter.
 
 ## Info
 

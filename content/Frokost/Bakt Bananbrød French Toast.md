@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Bakt Bananbrød French Toast
-
 ## Ingredienser
 
 - 5 dl ubleket hvetemel
@@ -24,11 +22,11 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Forvarm ovnen til 175°C. Kombiner mel, bakepulver, bakesoda, kanel og muskatnøtt i en medium bolle.
-2. Bland egg, eplemos og olje i en stor bolle og slå godt. Tilsett honning, bananer og vanilj. Tilsett melblanding sakte til banan-blandingen. Bland godt, men ikke slå for mye. Hell blandingen i et stekekaret. Bak til en tannstikker som stikkes inn i senteret kommer ren ut, ca. 35 til 45 minutter.
-3. La bananbrødet avkjøles i 10 minutter i stekkeret. Fjern brødet fra stekkeret og la det avkjøles helt, deretter skjæres i 2,5 cm tykke skiver. La bananbrødet tørke ut over natten.
-4. Neste dag, slå sammen eggeerstatning, melk og kanel. Plasser bananbrødskivene i et stekekaret. Hell eggblandingen over bananbrødskivene og plasser i kjøleskapet i flere timer.
-5. Dryss smør over bananbrødet. Bak bananbrødskivene til gyllen brun, ca. 15 til 17 minutter.
+1. Forvarm ovnen til 175 °C. Bland mel, bakepulver, natron, kanel og muskat i en middels stor bolle.
+2. I en stor bolle, visp sammen egg, eplemos og olje. Tilsett honning, bananer og vanilje. Tilsett melblandingen gradvis til bananblandingen. Bland godt, men ikke overarbeid deigen. Hell blandingen i en smurt form. Stek til en tannpirker stukket i midten kommer ut ren, vanligvis i 35 til 45 minutter.
+3. La bananbrødet avkjøles i formen i 10 minutter. Fjern brødet fra formen og la det avkjøles helt før du skjærer det i skiver på ca. 2,5 cm tykkelse. La bananbrødet tørke over natten.
+4. Neste dag, bland eggeerstatning, melk og kanel. Legg bananbrødskivene i en form. Hell eggeblandingen over bananbrødskivene og sett formen i kjøleskapet i flere timer.
+5. Dryss smør over bananbrødet. Stek bananbrødskivene til de er gyllenbrune, vanligvis i 15 til 17 minutter.
 
 ## Info
 

@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Chocolate-Covered Cherries
-
 ## Ingredienser
 
-- 2 1/5 dl confectioners' sukker
-- 0,6 dl smør or margarine, softened
+- 2 1/5 dl melis
+- 0,6 dl smør eller margarin, myknet
 - 1 ss melk
-- 1/2 ts almond extract
-- 2 (8 oz. each) jars maraschino cherries with stems, well drained
-- 5 dl semisweet sjokolade chips
-- 2 ss shortening
+- 1/2 ts mandelekstrakt
+- 2 (à 227 g) glass med cocktailfrukter med stilker, godt avrent
+- 5 dl kokesjokoladebiter
+- 2 ss kokefett
 
 ## Fremgangsmåte
 
-1. In mixing bowl, bland sammen sukker, smør, melk, and extract; bland well. Knead into large ball. Roll into 1 inch balls and flatten each into 2 inch circle. Wrap around cherries and lightly roll in hands.
-2. Place with stem up on waxed paper-lined baking sheet. Cover loosely and refrigerate 4 timer or over night. Melt the sjokolade chips and shortening in a double-boiler or microwave-safe bowl.
-3. Holding onto stem, dip cherries into sjokolade; set on waxed paper to harden. Store in a covered container. Refrigerate 1-2 weeks before serving. The longer the candies sit the juicier the center will be.
+1. I en blandebolle, bland sammen sukker, smør, melk og aroma; rør godt. Kna deigen til en stor ball. Rull ut små kuler, ca. 1 centimeter i diameter, og press hver ut til en sirkel på ca. 2 centimeter. Legg et kirsebær i midten og rull forsiktig i hendene.
+2. Plasser dem med stilken opp på et stekebrett dekket med bakepapir. Dekk løst til og sett i kjøleskapet i 4 timer eller over natten. Smelt sjokoladebiter og margarin i et vannbad eller i en mikrobølgeovnsikker bolle.
+3. Hold i stilken og dypp kirsebærene i sjokolade; legg dem på bakepapir for å stivne. Oppbevar i en lufttett beholder. Sett i kjøleskapet i 1 - 2 uker før servering. Jo lenger godteriene står, desto saftigere blir fyllet.
 
 ## Info
 

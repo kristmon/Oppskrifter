@@ -2,18 +2,16 @@
 created: 2026-05-05
 ---
 
-# Combo Burgere
-
 ## Ingredienser
 
-- 675 g kombinasjon av magert hakket sidesjef, magert hakket svinekjøtt og magert hakket kalvekjøtt
-- 2 ss iskald vann
-- 1/2 dl malt havregryn
-- 1/2 dl flasket chili saus
+- 675 g blanding av magert kjøttdeig (okse, svin og kalv)
+- 2 ss iskaldt vann
+- 1/2 dl finvalsede havregryn
+- 1/2 dl flaskechilisaus
 - 1 liten løk, finhakket
 - 2 ts Worcestershire saus
 - Salt, etter smak
-- Ferskmalte svart pepper, etter smak
+- Nymalt svart pepper, etter smak
 
 ## Fremgangsmåte
 

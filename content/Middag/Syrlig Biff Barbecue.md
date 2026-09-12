@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Syrlig Biff Barbecue
-
 ## Ingredienser
 
-- 450 g biff top round steak, kuttet 2 cm tykk
-- 1 medium løk, tynt skåret og separert i ringer
+- 450 g storfekjøtt, gjerne "top round", i skiver på ca. 2 cm tykkelse
+- 1 middels stor løk, skjært i tynne skiver og delt i ringer
 - 80 ml ketchup
-- 2 ss pakket brunt sukker
-- 1 ss eplesidra eddik
-- 1 ts maisstivelse
-- 1 ts tørt sennep
-- 1 ts varm peppersaus
+- 2 ss presset brunt sukker
+- 1 ss eplesidereddik
+- 1 ts maisenna
+- 1 ts tørr sennep
+- 1 ts chilisaus
 - 1/2 ts salt
-- 4 mais muffins, del i firedelar
+- 4 maiskjeks, delt i fire.
 
 ## Fremgangsmåte
 
-1. Kutt biff top round steak i 3 mm strimler.
-2. Plasser løk i enkelt lag over bunnen av 30x19 cm mikrobølgesikker fat. Dekk med voksepapir; mikrobølg på høy 2 minutter.
-3. Arrangement biff strimler over løk. Mikrobølg, dekket, på medium 5 minutter. Hell av drypping.
-4. I mellomtiden kombinerer du ketchup, brunt sukker, eddik, maisstivelse, tørt sennep, varm peppersaus og salt, blanding grundig. Rør inn i biffslandingen; mikrobølg, dekket, på medium 8 minutter, røring etter 4 minutter.
-5. Arrangement muffins på 4 individuelle tallerken. Rør biffslandingen; skje en lik portion over hver muffin
+1 . Kutt biff, gjerne ytrefilet, i 3 mm brede strimler.
+2 . Legg løk i et enkelt lag over bunnen av en form som tåler mikrobølgeovn, på 30x19 cm. Dekk med bakepapir og mikrobølge på høy effekt i 2 minutter.
+3 . Fordel biffstrimlene over løken. Mikrobølge, dekket, på middels effekt i 5 minutter. Hell av eventuell kraft.
+4 . I mellomtiden, bland ketchup, brunt sukker, eddik, maisstivelse, sennepspulver, chilisaus og salt, og rør godt. Bland dette med biffblandingen; mikrobølge, dekket, på middels effekt i 8 minutter, og rør etter 4 minutter.
+5 . Legg muffins på 4 individuelle tallerkener. Rør biffblandingen; fordel en passende mengde over hver muffin.
 
 ## Info
 

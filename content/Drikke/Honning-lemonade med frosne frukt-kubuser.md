@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning-lemonade med frosne frukt-kubuser
-
 ## Ingredienser
 
 - 3,5 dl sitronsaft

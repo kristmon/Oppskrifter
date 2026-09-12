@@ -2,27 +2,25 @@
 created: 2026-05-05
 ---
 
-# Gingered Rios and Honey Compote
-
 ## Ingredienser
 
 - 2 Texas Red Grapefruit
-- 1 cup cantaloupe balls
-- 2 medium kiwifruit
-- 1 cup sliced strawberries
-- 1 Tbs chopped crystallized ginger
-- 1/3 cup water
-- 1/3 cup honey
-- mint springs
+- 2,4 dl melonkuler (cantaloupe)
+- 2 mellomstore kiwi
+- 2,4 dl skivede jordbær
+- 1 ss finhakket kandisert ingefær
+- 0,8 dl vann
+- 0,8 dl honning
+- mynteblader
 
 ## Fremgangsmåte
 
-1. Grate enough grapefruit peel to equal 1 teaspoon. Peel and section 1 grapefruit and place in a medium bowl.
-2. Squeeze juice from remaining grapefruit; measure 1/2 cup juice and pour into a medium saucepan. Add the grated peel, water, honey and ginger to the juice in the saucepan. Bring mixture to a boil and cook over medium heat about 15 minutes until slightly thickened; remove from heat
-3. Combine melon balls with grapefruit. Drain remaining juice from sections and save for another use. Pour ginger mixture over the fruit; toss gently to coat. Cover and chill for at least 1 hour.
-4. At serving time, peel and slice kiwis. Stir sliced kiwi and strawberries into fruit mixture.
-5. Spoon fruit and the gingered syrup into 4 dessert dishes or compotes.
-6. Garnish with thin slices of grapefruit and a sprig of mint.
+1. Riv av nok sitronpeel tilsvarende 1 teskjeer. Skrell og del 1 grapefrukt, og ha i en middels stor bolle.
+2. Press ut saften fra resten av grapefruktene; mål opp 1,2 desiliter saft og hell den i en middels stor kjele. Tilsett revet skall, vann, honning og ingefær i saften i kjelen. Kok opp blandingen og kok over middels varme i omtrent 15 minutter, til den tykner litt; fjern fra varmen.
+3. Bland melonkuler med grapefrukt. Hell av eventuell saft fra grapefruktdelene og sett til side for senere bruk. Hell ingefærblandingen over frukten; vend forsiktig for å dekke. Dekk til og sett i kjøleskapet i minst 1 time.
+4. Ved servering, skrell og skjær kiwi. Bland kiwi- og jordbærskiver inn i frukten.
+5. Fordel frukt og ingefærsirup i 4 dessertskåler eller glass.
+6. Pynt med tynne skiver sitron og en kvist mynte.
 
 ## Info
 

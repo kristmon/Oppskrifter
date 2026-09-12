@@ -4,25 +4,25 @@ created: 2026-05-05
 
 # Beer Brat Pasta
 
-*One of NPA's Top 10 Favorites from the "Great States of Pasta" Recipe Contest Winners!*
+En av NPA's ti favoritter fra konkurransen "De store pastastatene", blant vinnerne!
 
 ## Ingredienser
 
-- 1 lbs Rigatoni or other medium pasta shape
-- 15 oz fresh bratwurst
-- 1/2 cup beer
-- 1-1/2 cups low-fat cheddar cheese
-- 2 sweet red peppers, coarsely chopped
-- 1 cup onions, coarsely chopped
-- 4 garlic cloves, chopped
-- 1/2 cup fresh basil
-- 1 Tbs olive oil
+- 455 g rigatoni eller annen pastaform, middels størrelse
+- 425 g fersk bratwurst
+- 1,2 dl øl
+- 1-1,2 dl mager cheddarost
+- 2 røde paprika, grovhakket
+- 2,4 dl løk, grovhakket
+- 4 fedd hvitløk, finhakket
+- 1,2 dl fersk basilikum
+- 1 ss olivenolje
 
 ## Fremgangsmåte
 
-1. Preheat oven to 425°F. Mix red pepper, onions, and garlic with 1 Tbsp. of olive oil in 9 x 13 baking dish and roast in oven for 25 minutes; stirring occasionally.
-2. While vegetables roast, remove casing from bratwurst, crumble and brown in a skillet over medium heat until they are no longer pink and well brown. Remove bratwurst and drain on paper towel. Pour fat from skillet. Add bratwurst and beer to skillet and simmer. Cook pasta according to package directions and drain, reserving 1/2 cup of pasta water.
-3. Remove roasted vegetables from oven, immediately add bratwurst from skillet, add basil, pasta, 1 cup of cheese and toss to mix thoroughly. If mixture seems too dry, add some of the pasta water to moisten. Sprinkle remaining cheese over top and serve.
+1. Forvarm ovnen til 218 °C. Bland rød paprika, løk og hvitløk med 1 ss olivenolje i en ildfast form (ca. 23 x 33 cm), og stek i ovnen i 25 minutter, rør av og til.
+2. Mens grønnsakene steker, fjern skinnet fra bratwurstpølsene, smuldre dem opp og brun dem i en stekepanne over middels varme til de ikke lenger er rosa og er godt brunet. Ta pølsene ut av pannen og legg dem på et kjøkkenpapir. Hell fettet fra pannen. Tilsett pølsene og øl i pannen og la det småkoke. Kok pastaen etter anvisningene på pakken, og sil den av, men reserver 1,2 dl av pastavannet.
+3. Ta de stekte grønnsakene ut av ovnen, tilsett umiddelbart bratwurst fra stekepannen, samt basilikum, pasta, 2,4 dl ost og bland godt. Hvis blandingen virker for tørr, tilsett litt av pastavannet for å fukte den. Strø over resten av osten og server.
 
 ## Info
 

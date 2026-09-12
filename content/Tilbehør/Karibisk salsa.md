@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Karibisk salsa
-
 ## Ingredienser
 
-- 2 dl mango skalett og kutt inn i 1/4-cm kuber
-- 1/2 dl agurk skalett, frøtatt og kutt inn i 1/4-cm kuber
-- 1/4 dl frisk koriander hakket
-- 2 ss green løk finely hakket
-- 1/2 jalapeño frøtatt og finely hakket
-- 3 ss frisk lime saft
-- 1-1/2 ts brunt sukker
-- 1 ts frisk ingefær skalett og hakket
-- dash pepper
+- 2 dl mango, skrellet og kuttet i 1/4 cm store terninger.
+- 1/2 dl agurk, skrellet, uten frø og kuttet i 1/4 cm store terninger.
+- 1/4 dl frisk koriander, finhakket.
+- 2 ss vårløk, finhakket.
+- 1/2 jalapeño, uten frø og finhakket.
+- 3 ss fersk limesaft.
+- 1 1/2 ts brunt sukker.
+- 1 ts fersk ingefær, skrellet og hakket.
+- En klype pepper.
 
 ## Fremgangsmåte
 
-1. I Medium-size bolle kombiner mango, agurk, koriander, green løk, jalapeno, lime saft, brunt sukker, ingefær og pepper. Dekk og Kjøl på least en time til tillate flavors til bland.
+1. I en middels stor bolle, bland mango, agurk, koriander, vårløk, jalapeno, limesaft, brunt sukker, ingefær og pepper. Dekk til og sett i kjøleskapet i minst én time for å la smakene blande seg.
 
 ## Info
 

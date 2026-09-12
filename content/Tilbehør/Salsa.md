@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Salsa
-
 ## Ingredienser
 
 - 500 ml hakket vannmelon, frø fjernet eller kullsefritt

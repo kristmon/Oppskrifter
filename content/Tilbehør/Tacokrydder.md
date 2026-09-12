@@ -1,7 +1,7 @@
 ---
 created: 2025-08-08
 ---
-**Porsjoner**: 4  
+**Porsjoner**: 4
 **Tid**: 5 min
 
 ## Ingredienser
@@ -15,7 +15,7 @@ created: 2025-08-08
 - 0,5 ts oregano, tørket
 - 0,5 ts salt
 - 0,25 ts pepper
-- 0,25 ts cayennepepper, valgfritt for ekstra styrke
+- 0,25 ts cayennepepper, valgfritt for ekstra hete.
 
 ## Fremgangsmåte
 

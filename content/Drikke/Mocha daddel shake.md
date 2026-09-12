@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Mocha daddel shake
-
 ## Ingredienser
 
 - 120 ml hele, steinløse dadler
@@ -13,8 +11,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Bland alle ingrediensene bortsett fra iskrem i blender og blendr til dadlene er fint hakket.
-2. Tilsett iskrem og blend til det bare er blandet.
+1. Bland alle ingrediensene, unntatt iskremen, i en blender, og kjør til dadlene er finhakket.
+2. Tilsett iskrem og kjør til alt er godt blandet.
 
 ## Info
 

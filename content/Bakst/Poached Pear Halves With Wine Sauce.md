@@ -2,28 +2,26 @@
 created: 2026-05-05
 ---
 
-# Poached Pear Halves With Wine Sauce
-
-*Whole nutmeg and cinnamon sticks add punch to these pears.*
+Hele muskatnøtter og kanelstenger gir ekstra smak til disse pærene.
 
 ## Ingredienser
 
-- 2 cups blush wine
-- 1 cup apple juice
-- 2 cinnamon sticks
-- 1 whole nutmeg
-- 3 whole cloves
-- 6 d'Anjou pears, peeled, cored, and cut in half
-- 2 Tbs cornstarch or arrowroot powder
-- 1/4 cup cold water
-- 1/4 cup sugar
-- Mint sprigs, for garnish
+- 4,8 dl blushvin
+- 2,4 dl eplejuice
+- 2 kanelstenger
+- 1 hel muskatnøtt
+- 3 hele nelliker
+- 6 Anjou-pærer, skrelt, uten kjernehus og delt i to
+- 2 ss maisstivelse eller potetmel
+- 0,6 dl kaldt vann
+- 0,6 dl sukker
+- Noen myntekvister, til pynt.
 
 ## Fremgangsmåte
 
-1. Combine the wine, apple juice, cinnamon sticks, nutmeg, and cloves in a large skillet and heat to simmering. Add the pears, cut-sides down. Simmer, covered, for 10 to 15 minutes until the pears are tender. Carefully remove the pears and place them on serving dishes. Discard the spices.
-2. Heat the wine mixture to boiling. Mix the cornstarch or arrowroot powder with water and add to the wine. Boil, stirring constantly, until thickened.
-3. Remove the sauce from the heat and let stand for 2 to 3 minutes. Stir in the sugar. Spoon the sauce over the pears. Garnish with mint to serve.
+1. Bland vinen, eplejuice, kanelstenger, muskatnøtt og nellik i en stor stekepanne og varm opp til det småkoker. Legg deretter i pærene, med snittene ned. La det småkoke under lokk i 10 til 15 minutter, til pærene er møre. Fjern forsiktig pærene og legg dem på serveringsfat. Kast krydderne.
+2. Varm vinblandingen opp til kokepunktet. Bland maisstivelse eller potetmel med vann og tilsett i vinen. Kok opp, rør hele tiden, til sausen tykner.
+3. Ta sausen av varmen og la den stå i 2 til 3 minutter. Rør inn sukker. Hell sausen over pærene. Pynt med mynte før servering.
 
 ## Info
 

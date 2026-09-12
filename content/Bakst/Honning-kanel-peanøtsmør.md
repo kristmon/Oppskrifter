@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning-kanel-peanøtsmør
-
 *En sikker suksess med barn og de unge i hjertet.*
 
 ## Ingredienser
@@ -18,6 +16,6 @@ created: 2026-05-05
 
 ## Info
 
-- **Porsjoner**: 8 utbytte: Ca 2,5 dl
+- **Porsjoner**: 8 utbytte: ca. 2,5 dl
 - **Type**: Brød, Frokost, Brunch
 - **Kilde**: National Honey Board, www.honey.com

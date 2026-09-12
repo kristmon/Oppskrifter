@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# 15-minutters muslingesupppe
-
 ## Ingredienser
 
-- 2 hermetikk skjell, tappet
-- 2 selleri stengel, hakket
-- 2 ss tørket løk
-- 1 hermetikk fløte av selleri suppe
-- 1 hermetikk fløte av sopp suppe
-- 1 hermetikk fløte av potet suppe
-- 1 dl fløte og melk eller melk
+- 2 bokser hakkede muslinger, avrent; ta vare på kraften
+- 2 selleristenger, hakket.
+- 2 ss tørket løk.
+- 1 boks kremet sellerisuppe.
+- 1 boks kremet soppsuppe.
+- 1 boks kremet potetsuppe.
+- Fløte og melk, eller bare melk, til ønsket konsistens
 
 ## Fremgangsmåte
 
-1. Tapp saft fra skjell inn i panne og kok selleri og løk i saft til mørt; omtrent 10 minutter. Tilsett den 3 hermetikk av suppe og fortynn med fløte og melk eller melk til ønsket konsistens. Bring til en kok; tilsett skjell men gjør ikke kok igjen.
+1. Hell muslingkraften i en kjele og kok selleri og løk i kraften til de er møre, omtrent 10 minutter. Tilsett de tre suppene og spe med fløte og melk til ønsket konsistens. Kok opp, tilsett muslingene og varm forsiktig uten å koke på nytt.
 
 ## Info
 

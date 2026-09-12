@@ -2,23 +2,21 @@
 created: 2026-05-05
 ---
 
-# Grapefrukt parfait
-
 ## Ingredienser
 
-- 2 Medium Texas Red Grapefruit
+- 2 middels store røde grapefrukter
 - 1 dl granola (med mandler)
-- 2 (6 g) cartons av Din favoritt lav-fett yogurt
-- (We recommend vanilje, banana, eller jordbær yogurt.)
+- 2 beger lett yoghurt, ca. 150 g hver
+- Vanilje-, banan- eller jordbæryoghurt passer godt.
 
 ## Fremgangsmåte
 
-1. Section grapefruit.
-2. Til assemble parfaits, plasser omtrent 3 ss grapefruit i hver av 4 parfait glasses.
-3. Så skje omtrent 1 til 1 1/2 ss yogurt over grapefruit.
-4. Strø 2 ss granola over den yogurt.
-5. Repeat layering til parfait glass er full.
-6. Servér immediately.
+1. Skrell grapefruktene og del fruktkjøttet i biter.
+2. Fordel omtrent 3 ss grapefrukt i hvert av fire dessertglass.
+3. Legg 1–1½ ss yoghurt over grapefrukten.
+4. Strø 2 ss granola over yoghurten.
+5. Fortsett lagvis til glassene er fulle.
+6. Server straks.
 
 ## Info
 

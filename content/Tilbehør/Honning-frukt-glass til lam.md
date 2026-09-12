@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning-frukt-glass til lam
-
 ## Ingredienser
 
 - 0,6 dl ananassaft
@@ -12,8 +10,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en liten bolle, bland alle ingrediensene til de er godt blandet.
-2. Pensl over lammelskiver 2–3 ganger under tilberedningen.
+1. I en liten bolle, bland alle ingrediensene godt sammen.
+2. Pensl lammeskivene med blandingen 2 – 3 – flere ganger under tilberedningen.
 
 ## Info
 

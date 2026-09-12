@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Cajun kalkun trekanter
-
 ## Ingredienser
 
 - 1 kg malt kalkun
@@ -18,11 +16,11 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I stor non-stick stekepanne, over Medium høy varm, saute kalkun, løk, paprika, selleri og hvitløk 4 til 5 minutter eller til kalkun er ingen longer pink.
-2. Tilsett Creole krydring, rød pepper flakes og tomater; la småkooke, uncovered, 8 til 10 minutter eller til mest av liquid er absorbed.
-3. Unroll pastry, separating hver pakke inn i 4 squares. Plasser på en greased 10x15x1-cm jellyroll panne. Stretch pastry litt til shape squares.
-4. Plasser 1/3 dl filling på en corner av hver square. fold opposite corner av dough over filling til forme en triangle; press kanter med gaffel til seal. Kutt 3 (1/2-cm) slits i topp av hver triangle til tillate steam til escape.
-5. Bak på 375 grader F. 12 til 15 minutter eller til gyllent brun. Fjern triangles fra panne og kjøl ned litt på en wire rack. Servér warm
+1 . I en stor stekepanne med slippbelegg, over middels høy varme, surrer du kalkun, løk, paprika, selleri og hvitløk 4 til 5 minutter, eller til kalkunen ikke lenger er rosa.
+ 2 . Tilsett Creole-krydder, chiliflak og tomater; la det småkoke, uten lokk, 8 til 10 minutter, eller til det meste av væsken er absorbert.
+ 3 . Rull ut deigen, og del hver pakke i 4 firkanter. Legg dem i en smurt 10x15x1-cm form. Strekk deigen litt for å forme firkanter.
+ 4 . Fordel 1/3 dl fyll på et hjørne av hver firkant. Brett det motsatte hjørnet av deigen over fyllet for å forme en trekant; press kantene sammen med en gaffel for å forsegle. Lag 3 ( 1/2 -cm) snitt i toppen av hver trekant for å la dampen slippe ut.
+ 5 . Stek i 375 grader. 12 til 15 minutter, eller til de er gyllenbrune. Ta trekantene ut av formen og la dem avkjøles litt på en rist. Server varme.
 
 ## Info
 

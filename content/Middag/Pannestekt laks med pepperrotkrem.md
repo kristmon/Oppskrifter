@@ -5,15 +5,15 @@ created: 2020-09-24
 ![[Bilder/Pannestekt laks med pepperrotkrem.jpg|300]]
 Meget god! Følg rekkefølgen når du lager middagen. Grillet laksen uten olje.
 
-**Porsjoner**: 4  
+**Porsjoner**: 4
 **Plan to Eat-tag**: Fisk
 
 ## Ingredienser
 
 - Pepperrotkrem:
-- 160 gram philadelphia naturell
+- 160 gram Philadelphia naturell
 - 140 gram lettrømme
-- 25 gram sjalottløk, finhakket. Jeg brukte std løk
+- 25 gram sjalottløk, finhakket. Jeg brukte vanlig løk.
 - 20 gram pepperrot, finrevet
 - 3 ss sitronsaft
 - salt og pepper

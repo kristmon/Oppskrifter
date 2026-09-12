@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Honning-hvitløk focaccia med rosmarin og ristet paprika
-
 ## Ingredienser
 
 - 625-750 ml universalmel

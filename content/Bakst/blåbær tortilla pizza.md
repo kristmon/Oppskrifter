@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# blåbær tortilla pizza
-
 ## Ingredienser
 
 - 1/2 dl ricotta eller pisket fløte ost

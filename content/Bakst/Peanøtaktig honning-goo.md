@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Peanøtaktig honning-goo
-
 ## Ingredienser
 
 - 2,5 dl naturlig peanøtsmør

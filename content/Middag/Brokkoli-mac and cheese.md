@@ -17,7 +17,7 @@ created: 2009-11-09
 
 ## Fremgangsmåte
 
-1. Kok makaroni etter pakkeanvisningen. Ha i brokkolibukettene de siste 2 minuttene, og la dem koke med. Hell av vannet og sett til side. Visp sammen melk, buljong og mel. Kok opp mens du rører godt. Senk varmen, og rør inn osten til den er helt smeltet. Bland makaroni og brokkoli med ostesausen, og smak til med salt og pepper.
+1. Kok makaroni etter anvisningene på pakken. Tilsett brokkolibukettene de siste 2 minuttene, og la dem koke med. Hell av vannet og sett til side. Visp sammen melk, buljong og mel. Kok opp under omrøring. Senk varmen, og rør inn osten til den er helt smeltet. Bland makaroni og brokkoli med ostesausen, og smak til med salt og pepper.
 
 ## Info
 

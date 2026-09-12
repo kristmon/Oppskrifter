@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Bow Ties Alle Portofino
-
 ## Ingredienser
 
-- 1 lb Bow Ties, Radiatore or other medium pasta shape, uncooked
-- 1 lb medium fresh shrimp, peeled and deveined, or 1 pound small frozen shrimp, thawed
-- 12 sun-dried tomatoes, drained and cut into strips
-- 8 fresh plum tomatoes, cut into small cubes
-- 2 bunches arugula, cleaned and torn into bite-sized pieces
-- 6 sprigs fresh Italian parsley, coarsely chopped
-- 1/2 small bunch fresh basil, leaves picked and coarsely chopped
-- 1/4 cup olive or vegetable oil
-- Juice of one lemon
-- Salt and freshly ground black pepper to taste
+- 455 g sløyfepasta, radiatore eller annen pastaform av middels størrelse, uten tilberedning.
+- 455 g middels store, ferske reker, skrellet og uten tarmer, eller 455 g små, frosne reker, tint.
+- 12 soltørkede tomater, avrent og skjært i strimler.
+- 8 ferske plommetomater, skjært i små terninger.
+- 2 poser ruccola, skylt og revet i biter.
+- 6 stilker fersk italiensk persille, grovhakket.
+- 1/2 pose fersk basilikum, bladene plukket og grovhakket.
+- 0,6 dl olivenolje eller vegetabilsk olje.
+- Saften av en sitron.
+- Salt og ferskmalt svart pepper etter smak.
 
 ## Fremgangsmåte
 
-1. Cook pasta according to package directions. While pasta is cooking, steam the shrimp until the shrimp are no longer translucent. Put shrimp in mixing bowl. Add sun-dried tomatoes, fresh tomatoes, arugula, parsley and basil.
-2. When pasta is done, drain well and immediately add to the mixing bowl. Add oil, lemon juice and salt and pepper to taste. Toss quickly and very well, and serve immediately.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, damp rekene til de ikke lenger er gjennomsiktige. Ha rekene i en blandebolle. Tilsett soltørkede tomater, ferske tomater, rucola, persille og basilikum.
+2. Når pastaen er ferdig, hell av vannet godt og ha den umiddelbart i blandebollen. Tilsett olje, sitronsaft, salt og pepper etter smak. Bland raskt og godt, og server umiddelbart.
 
 ## Info
 

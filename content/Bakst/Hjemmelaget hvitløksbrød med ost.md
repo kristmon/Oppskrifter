@@ -5,8 +5,8 @@ created: 2020-09-29
 ![[Bilder/Hjemmelaget hvitløksbrød med ost.jpg|300]]
 Hjemmelaget hvitløksbrød fra bunnen av — egen deig, fersk hvitløk, ekte smør og din favorittost.
 
-**Porsjoner**: 5  
-**Tid**: 45 min (30 prep + 15 cook)  
+**Porsjoner**: 5
+**Tid**: 45 min (30 prep + 15 cook)
 **Kilde**: [budgetbytes.com](https://www.budgetbytes.com/homemade-cheesy-garlic-bread/)
 
 ## Ingredienser

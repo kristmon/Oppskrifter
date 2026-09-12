@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Rask Røkt Kylling Mexicansk Pizza
-
 *Røkt kylling og ristet hvitløk salsa gjør for en eksepsjonell smak kombinasjon. Dette er sikker til å glede pizza kjærlingene i familien din. Legg til et høyt glass perrier og din favorittkantinen salat for et raskt men tilfredsstillende måltid.*
 
 ## Ingredienser

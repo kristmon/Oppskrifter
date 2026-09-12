@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Steak Marinade
-
 ## Ingredienser
 
-- 1 ts grated lemon peel
-- 1,2 dl lemon juice
-- 0,8 dl cooking olje
-- 2 ss green løk w/tops, sliced
-- 1 clove hvitløk, minced
+- 1 ts revet sitronskall
+- 1,2 dl sitronsaft
+- 0,8 dl matolje
+- 2 ss grønn løk med topp, i skiver
+- 1 fedd hvitløk, finhakket
 - 4 ts sukker
 - 1 1/2 ts salt
 - 1 ts worcestershiresaus
-- 1 ts prepared sennep
+- 1 ts ferdig sennep
 - 1/8 ts pepper
 
 ## Fremgangsmåte
 
-1. bland sammen all the marinade ingredients. hell over steaks. Marinate 3-4 timer or overnight in the refrigerator, turning steaks several times.
-2. Broil steaks to the degree of doneness you prefer.
+1. Bland alle ingrediensene til marinaden sammen. Hell blandingen over kjøttet. Mariner kjøttet i 3-4 timer, eller over natten i kjøleskapet, og snu kjøttet flere ganger.
+2. Grill kjøttet til ønsket stekingegrad.
 
 ## Info
 

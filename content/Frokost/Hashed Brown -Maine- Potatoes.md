@@ -2,19 +2,19 @@
 created: 2026-05-05
 ---
 
-# Hashed Brown "Maine" Potatoes
+# Hashed poteter "Maine"-stil
 
 ## Ingredienser
 
-- 15 lbs Maine potatoes
-- 2 Tbs salt
-- 2 1/2 cups salt pork fat melted or other fat
+- 6,8 kg Maine-poteter
+- 2 ss salt
+- 6 dl saltet fårefett, smeltet, eller annen fettkilde
 
 ## Fremgangsmåte
 
-1. Chop the potatoes adding salt. Heat the fat in large flat pans on top of the stove.
-2. Put the potatoes in and keep turning until well-browned, or bake in the oven.
-3. When browned, turn like an omelet
+1. Skjær potetene i biter og tilsett salt. Varm fettet i store, flate stekepanner på komfyren.
+2. Legg potetene i pannen og vend dem ofte til de er godt brunet, eller stek dem i ovnen.
+3. Når de er brunet, vend dem som en omelett.
 
 ## Info
 

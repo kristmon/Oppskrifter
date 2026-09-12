@@ -2,13 +2,11 @@
 created: 2026-05-05
 ---
 
-# Bakeskjell med kylling og sopp
-
-*Serv med fersk frukt garnert med mynte og Nestle-brownies til dessert. Prøv slørsopp for et mer elegant utseende.*
+*Serv med fersk frukt garnert med mynte og sjokoladebrownies til dessert. Prøv slørsopp for et mer elegant utseende.*
 
 ## Ingredienser
 
-- 2 (300 g) beholder Buitoni® kjølt Mushroom Alfredo-saus
+- 2 (300 g) beholder kjølt sopp- og Alfredosaus
 - 500 g medium skalskjell-pasta, tilberedt etter pakningsleiing
 - 500 ml kokt hakket kylling
 - 250 ml frossen erter, optint

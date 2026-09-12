@@ -2,38 +2,36 @@
 created: 2026-05-05
 ---
 
-# Apple Upside Down Coffee Cake
-
-*A delicious coffee cake ideal for breakfast or brunch. Served with a warm apple topping this delicious treat is sure to please!*
+En deilig kake, perfekt til frokost eller brunsj. Servert med en varm epletopping, er denne fantastiske kaken garantert en smaksopplevelse!
 
 ## Ingredienser
 
-- 0,8 dl packed brunt sukker
-- 0,8 dl chopped pecans, toasted
-- 3 ss all-purpose mel
-- 2 ss smør or margarine, melted (we recommend LAND O LAKES® smør)
-- 5 dl all-purpose baking bland
-- 1,2 dl granulated sukker
-- 2 ts ground kanel
-- 1,6 dl NESTLÉ CARNATION COFFEE-MATE Liquid Coffee Creamer
-- 0,6 dl vegetarolje
-- 1 large egg, lightly beaten
-- 2 ss hot vann
-- 1 ss TASTER’S CHOICE 100% Pure Instant Coffee
+- 0,8 dl pakket brunt sukker
+- 0,8 dl hakkede pekannøtter, ristet
+- 3 ss hvetemel
+- 2 ss smør eller margarin, smeltet
+- 5 dl bakemiks
+- 1,2 dl hvitt sukker
+- 2 ts malt kanel
+- 1,6 dl kaffefløtepulver
+- 0,6 dl vegetabilsk olje
+- 1 stort egg, lett pisket
+- 2 ss varmt vann
+- 1 ss pulverkaffe
 - 1 ts vaniljeekstrakt
-- Apple Topping (recipe follows)
+- Epletopping (oppskrift følger)
 
 ## Fremgangsmåte
 
-1. forvarm ovn to 350° F. Lightly grease 9-inch-round cake pan.
-2. bland sammen brunt sukker, nuts, mel and smør in small bowl; bland well. Sprinkle over bottom of prepared cake pan. rør together baking bland, granulated sukker and kanel in medium bowl. bland sammen Coffee-mate, vegetarolje, egg, vann, Taster’s Choice and vaniljeekstrakt in small bowl; rør into baking bland mixture. hell over nut mixture in cake pan.
-3. bak for 30 to 35 minutter eller til wooden pick inserted in center comes out clean. Cool in pan on wire rack for 10 minutter. Run knife around edge to loosen side; invert onto serving platter. Top with Apple Topping.
-4. bland sammen 2 cups STOUFFER’S frozen Escalloped Apples, thawed, 1/4 cup packed brunt sukker, 1/4 cup toasted chopped pecans and 2 tablespoons smør or margarine in medium skillet. kok over medium varm til warm.
+1. Forvarm ovnen til 177 °C. Smør en rund kakeform på 23 cm i diameter lett.
+2. Bland brunt sukker, nøtter, mel og smør i en liten bolle; bland godt. Strø over bunnen av den forberedte kakeformen. Rør sammen bakemiks, sukker og kanel i en middels stor bolle. Bland sammen kaffefløtepulver, vegetabilsk olje, egg, vann, pulverkaffe og vaniljeekstrakt i en liten bolle; rør inn i bakemiksingen. Hell blandingen over nøtteblandingen i kakeformen.
+3. Stek i 30–35 minutter, til en kakepinne stukket i midten kommer ut ren. Avkjøl i formen på rist i 10 minutter. Løsne kanten med en kniv, hvelv kaken over på et serveringsfat og legg på epletoppingen.
+4. Bland sammen 4,8 dl frosne, opptintet epleskiver, 0,6 dl pakket brunt sukker, 0,6 dl grovhakkede, ristede pekannøtter og 2 ss smør eller margarin i en middels stor stekepanne. Kok opp på middels varme til det er varmt.
 
 ## Info
 
 - **Porsjoner**: 8
-- **Preparation Time**: 15 minutes
-- **Cooking Time**: 30 minutes
+- **Forberedelsestid**: 15 minutter
+- **Tilberedningstid**: 30 minutter
 - **Type**: Dessert
 - **Kilde**: Nestlé, www.verybestbaking.com

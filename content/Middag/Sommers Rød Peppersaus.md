@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Sommers Rød Peppersaus
-
 ## Ingredienser
 
 - 450 g pasta
-- 2 ss olivolje
-- 2,5 dl hakket løk
-- 3 store hvitløkfedd, hakket
-- 1 boks (390 g) ristete paprika, avhelt og hakket (2 store paprika)
-- 1 dl avhelt hele konserverte tomater
+- 2 ss olivenolje
+- 2,5 dl finhakket løk
+- 3 store fedd hvitløk, finhakket
+- 1 boks (390 g) ristet paprika, uten kjerner og finhakket (2 store paprika)
+- 1 dl hakkede, hermetiske tomater
 - 0,75 dl ricotta salata
-- 6 ansjoser, skjølte og pattet tørr
-- 1 ss hakket frisk persille
-- Salt og fersk malt pepper, etter smak
-- Reven Parmesanost, til å strø på toppen
+- 6 ansjosfileter, skylt og tørket
+- 1 ss finhakket frisk persille
+- Salt og ferskmalt pepper, etter smak
+- Revet parmesanost, til å strø over.
 
 ## Fremgangsmåte
 
-1. Varm oljen i en stekepanne over medium varme. Tilsett løken og hvitløken og sauté 5 minutter, til de er mørknet. Overføring løk og hvitløk til matprosessorbollen og tilsett de ristete paprikakene, tomatene, ricotta salata og ansjoser. Prosess til pusjert. Rør inn persillien og smak til med salt og pepper.
-2. Bland med varm pasta, og rør inn 0,5 dl av pastavannet, og server umiddelbart, send Parmesan separat.
+1. Varm oljen i en stekepanne over middels varme. Tilsett løken og hvitløken og stek i 5 minutter, til de er gyllenbrune. Ha løk og hvitløk over i en kjøkkenmaskin, og tilsett de ristede paprikaene, tomatene, ricotta salata og ansjosene. Kjør til en jevn masse. Rør inn persillen og smak til med salt og pepper.
+2. Bland med varm pasta, og rør inn 0,5 desiliter av pastavannet, og server umiddelbart. Server parmesan ved siden av.
 
 ## Info
 

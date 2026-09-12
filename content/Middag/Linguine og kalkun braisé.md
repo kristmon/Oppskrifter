@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Linguine og kalkun braisé
-
 ## Ingredienser
 
 - 450 g Linguine eller spaghetti, ukokt
@@ -20,9 +18,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Kok pastaen etter pakningsinstruksjonene. To minutter før pastaen er ferdig, tilsett brokkolibukettene til vann. Kok to minutter; avløp pastaen og brokkolien i et sil.
-2. I en stor panne, varm margarinen over medium varme. Tilsett løken, gulrøttene og selleriet og braisér tre minutter. Rør inn hvetefløten. Tilsett kjøttboljene og salvien og rør inn kalkunen. Rør til sausen begynner å simre. Simrer i 1 minutt.
-3. Hell kalkun-braiséen over pastaen. Strø fyll-blanding på toppen og server umiddelbart.
+1. Kok pastaen etter anvisningene på pakken. To minutter før pastaen er ferdig, tilsett brokkolibukettene i vannet. Kok i to minutter; hell av pastaen og brokkolien i et sil.
+2. I en stor stekepanne, varm smøret over middels varme. Tilsett løk, gulrøtter og selleri, og stek i tre minutter. Rør inn hvetemel. Tilsett kjøttbollene og salvien, og rør inn kalkun. Rør til sausen begynner å småkoke. Småkok i 1 minutt.
+3. Hell kalkunraguen over pastaen. Strø over fyllblandingen og server straks.
 
 ## Info
 

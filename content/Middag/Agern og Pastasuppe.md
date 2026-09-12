@@ -2,12 +2,10 @@
 created: 2026-05-05
 ---
 
-# Agern og Pastasuppe
-
 ## Ingredienser
 
 - 225 g Acine di Pepe, Ditalini eller små Shells, ukjørt
-- 2 mellomstore agern (ca 700 g hver), splittet, skallertet, frøet ut og kvartert
+- 2 mellomstore agern (ca. 700 g hver), splittet, skallertet, frøet ut og kvartert
 - 2 ss margarin
 - 1 stor løk, hakket
 - 3/4 ts muskatnøtt eller grunnmuskatt
@@ -15,7 +13,7 @@ created: 2026-05-05
 - 1/2 ts kanel
 - 250 ml raadet morot
 - 1 1/2 ts brunt sukker
-- 3 bokser (ca 400 ml hver) fettredusert kyllingbuljong (ca 1,5 liter)
+- 3 bokser (ca. 400 ml hver) fettredusert kyllingbuljong (ca. 1,5 liter)
 **Topping**
 - 250 ml fettfri rømme
 - 1 ss sukker

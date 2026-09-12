@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Røkt Kalkun Cocktail Biter
-
 ## Ingredienser
 
 - 250 ml røkt kalkun malt i matprosessor
@@ -16,8 +14,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I medium størrelse bolle kombinerer du kalkun, mayo, løk, selleri salt, persille og varm peppersaus. Bland godt, dekk over og kjøl.
-2. Form inn i små munnstor biter; rull i nøtter. Dekk over og kjøl til servering.
+1. I en middels stor bolle blander du kalkun, majones, løk, selleri, salt, persille og varm peppersaus. Bland godt, dekk til og sett i kjøleskapet.
+2. Form ut små, håndterlige biter; vend dem i nøtter. Dekk til og sett i kjøleskapet til servering.
 
 ## Info
 

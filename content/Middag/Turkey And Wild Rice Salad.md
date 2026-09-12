@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Turkey And Wild Rice Salad
-
 ## Ingredienser
 
-**Salad**
-- 3 cups diced cooked turkey (preferably white meat)
-- 2 cups leftover cooked wild rice
-- 1/2 cup rehydrated cranberries, drained
-- 1/4 cup diced red onion
-- 1/4 cup diced yellow pepper
+**Salat**
+- 7,2 dl kokt kalkun, i terninger (helst hvitt kjøtt)
+- 4,8 dl rester av kokt villris
+- 1,2 dl tørkede tranebær, avrent
+- 0,6 dl rødløk, i terninger
+- 0,6 dl gul paprika, i terninger
 **Dressing**
-- 1/2 cup raspberry vinegar
-- 2 Tbs olive oil
-- 2 Tbs minced fresh parsley
-- 1 Tbs minced scallions
-- Freshly-ground black pepper, to taste
+- 1,2 dl bringebærvin
+- 2 ss olivenolje
+- 2 ss finhakket frisk persille
+- 1 ss finhakket vårløk
+- Nymalt svart pepper, etter smak
 
 ## Fremgangsmåte
 
-1. Combine all salad ingredients. In a blender, combine all dressing ingredients. Pour the dressing over the salad and toss well. Serve at room temperature.
+1. Kombiner alle salatingrediensene. I en blender, bland alle ingrediensene til dressingen. Hell dressingen over salaten og bland godt. Server ved romtemperatur.
 
 ## Info
 

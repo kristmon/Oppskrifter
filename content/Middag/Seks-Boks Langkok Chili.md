@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Seks-Boks Langkok Chili
-
 ## Ingredienser
 
 - 60 ml maismel
@@ -17,8 +15,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I 3,5-4 liter langkoker kombinerer du alle ingrediensene; bland godt.
-2. Dekk over; kok på HØY i 2-4 eller til grundig varmt. Eller dekk over og kok på LAV i 8-9 timer.
+1. I 3,5 - 4, kombinerer du alle ingrediensene; bland godt.
+2. Dekk til; kok på høy varme i 2 - 4, eller til det er gjennomvarmt. Eller dekk til og kok på lav varme i 8 - 9 timer.
 
 ## Info
 

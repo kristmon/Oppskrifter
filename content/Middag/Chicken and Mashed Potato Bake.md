@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Chicken and Mashed Potato Bake
-
 ## Ingredienser
 
-- 3 (1-oz.) packages kylling gravy bland
-- 7,5 dl cubed, cooked kylling breast
-- 7,5 dl frozen mixed vegetables
-- 10 dl frozen or packaged mashed poteter, prepared according to package directions
+- 3 (1-oz.) pakker med kyllingsausblanding.
+- 7,5 dl terninger av kokt kyllingbryst.
+- 7,5 dl frosne grønnsaker.
+- 10 dl frosne eller ferdigpakkede poteter, tilberedt i henhold til anvisningene på pakken.
 
 ## Fremgangsmåte
 
-1. Prepare gravy bland according package directions in skillet. tilsett kylling and frozen vegetables and return to kok. reduser varmen, cover and la småkoke 10 minutter.
-2. hell hot stew into 4-quart baking dish. Spoon or pipe poteter onto hot mixture using pastry bag and large tip. bak at 375°F for 12 to 15 minutter eller til potato topping is lightly browned.
+1. Tilbered sausen i en stekepanne etter instruksjonene på pakken. Tilsett kylling og frosne grønnsaker, og sett tilbake på varmen. Reduser varmen, dekk til og la det småkoke i 10 minutter.
+2. Hell den varme gryteretten i en 4-liters ildfast form. Fordel potetene over den varme blandingen, eventuelt ved hjelp av en sprøytepose og en stor dyse. Stek i ovnen ved 191 °C i 12 til 15 minutter, eller til potetlokket er lett gyllen.
 
 ## Info
 
 - **Porsjoner**: 6
-- **Preparation Time**: 5 minutes
-- **Cooking Time**: 22 minutes
+- **Forberedelsestid**: 5 minutter
+- **Tilberedningstid**: 22 minutter
 - **Type**: Main Dish, Poultry
 - **Kilde**: Nestlé, www.verybestmeals.com

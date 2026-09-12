@@ -13,4 +13,4 @@ created: 2020-09-27
 
 ## Fremgangsmåte
 
-1. Tilsett all væske og halvparten av frukten i blenderen. Blend til alt er godt mikset. Tilsett resten av frukten og miks til ønsket konsistens. Spe eventuelt på med mer væske.
+1. Tilsett all væske og halvparten av frukten i blenderen. Kjør blenderen til alt er godt blandet. Tilsett resten av frukten og kjør til du oppnår ønsket konsistens. Spe eventuelt på med mer væske.

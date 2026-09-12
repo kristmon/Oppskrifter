@@ -2,20 +2,18 @@
 created: 2026-05-05
 ---
 
-# Sprøtt Mais Brød
-
 *En veldig vanlig måltid i Søren er grønnsaker, boujon (klaret, vanligvis smakt med kjøtt) og mais brød. Du kan ikke få mye mer sørlig enn det!*
 
 ## Ingredienser
 
-- 1 dl gult maismjøl
-- 1 ss fuldkornsmel
-- 1/2 dl ubearbeidet ukostet hvete kli
-- 1 ts bakesoda
+- 1 dl gult maismel
+- 1 ss fullkornsmel
+- 1/2 dl uraffinert hvetekli
+- 1 ts natron
 - 1 ts salt
-- 1 dl lavfett kjernemelk
+- 1 dl mager melk
 - 1 egg
-- 3 ss mais olje
+- 3 ss maisolje
 
 ## Fremgangsmåte
 

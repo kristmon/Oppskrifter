@@ -2,11 +2,9 @@
 created: 2026-05-05
 ---
 
-# Grillet Kylling Med Sennep Tomat Saus
-
 ## Ingredienser
 
-- Fettfritt kokesprayek, etter behov
+- Fettfritt formfett, etter behov
 - 1 kylling - (1,4 kg), kuttet i stykker, og skinnet fjernet
 - 1 ss smør
 - 1 løk, hakket
@@ -19,8 +17,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Varm grillen eller grillflaten. Sprayek ristet. Sprayek kyllingbiter. Grill i 30 minutter, vend ofte, og sprayek igjen ved hver vending.
-2. Varm smør i kjelen. Tilsett løk og svill til den blir myk. Strø over med mel og kok, rørende, i 2 til 3 minutter. Fjern fra varmen og tilsett kokende buljong, slå kraftig med visp for å unngå klumper. Sett tilbake på varmen og kok, rørende, til det blir glatt og tykt.
+1. Varm grillen eller grilloverflaten. Pensle kjøttet med olje. Pensle kyllingbitene. Grill i 30 minutter, snu ofte, og pensle igjen ved hver vending.
+2. Varm smør i en kjele. Tilsett løk og stek til den er myk. Strø over mel og kok, rør om, i 2 til 3 minutter. Fjern fra varmen og tilsett kokende kraft, visp kraftig for å unngå klumper. Sett tilbake på varmen og kok, rør om, til den er glatt og tykk.
 3. Rør inn tomatkonsentrat, Worcestershire saus, sukker og sennep. Server over grillet kylling.
 
 ## Info

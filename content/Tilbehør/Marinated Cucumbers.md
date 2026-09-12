@@ -2,24 +2,22 @@
 created: 2026-05-05
 ---
 
-# Marinated Cucumbers
-
-*This dish is always great to serve at picnics.  Because it is low in calories, you can offset some of the richer foods on the table by including it!*
+Denne retten er alltid en fin ting å servere på piknik. Siden den har få kalorier, kan den bidra til å balansere de mer mettende rettene på bordet!
 
 ## Ingredienser
 
-- 4 cups thinly sliced cucumbers
-- 1 large onion, thinly sliced, and separated into rings
-- 1 cup water
-- 1 cup vinegar, plain or flavored
-- 1 tsp celery seed
-- 1/2 tsp garlic powder (or 1 tbspn chopped fresh garlic)
-- 1/2 tsp salt
+- 9,6 dl agurk, i svært tynne skiver
+- 1 stor løk, i tynne skiver, og delt i ringer
+- 2,4 dl vann
+- 2,4 dl eddik, vanlig eller smaksatt
+- 1 ts sellerifrø
+- 1/2 ts hvitløkpulver (eller 1 ss finhakket fersk hvitløk)
+- 1/2 ts salt
 
 ## Fremgangsmåte
 
-1. If the cucumbers are waxed, peel them before slicing. If they are not waxed and are chemical-free, leave the skin on. With a fork, score the sides of each cucumber, creating a ruffled edge. Slice thinly.
-2. Layer the sliced cucumbers and onion in a large bowl. Combine the remaining ingredients and blend thoroughly. Pour the dressing over the cucumbers. Cover and chill at least 2 hours. Use a slotted spoon to serve.
+1 . Hvis agurkene er ru, bør du skrelle dem før du skjærer dem i skiver. Hvis de ikke er ru og er fri for kjemikalier, kan du la skallet være på. Bruk en gaffel til å lage små hakk i sidene på hver agurk, og skap en lett bølgete kant. Skjær dem i tynne skiver.
+ 2 . Legg de skivede agurkene og løken i en stor bolle. Bland de resterende ingrediensene godt. Hell dressingen over agurkene. Dekk til og sett i kjøleskapet i minst 2 timer. Bruk en hullsleiv for å servere.
 
 ## Info
 

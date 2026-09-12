@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Beef Brisket Oven Roast Recipe
-
 ## Ingredienser
 
 - 1,6 dl soyas
@@ -17,8 +15,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Marinate 3 to 5 lb. brisket roast overnight. Remove from marinade, wrap in foil and bak at 300°F for 3 1/2 to 4 timer. When cooked, la avkjøle and skjær i skiver.
-2. Before serving, re-varm for 30 minutter in some of the marinade and storfekjøtt stock.
+1. Marinér 3 til 2,3 kg brisketstykke over natten. Ta ut av marinaden, pakk inn i aluminiumsfolie og stek ved 149 °C i 3 1/2 til 4 timer. Når kjøttet er ferdig, la det avkjøles og skjær det i skiver.
+2. Før servering, varm opp igjen i 30 minutter i litt av marinaden og oksekjøttkraft.
 
 ## Info
 

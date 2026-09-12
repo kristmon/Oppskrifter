@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Soloppgang pålegg
-
 ## Ingredienser
 
 - 700 ml terningskåret frisk kalifornisk fersken og plommer

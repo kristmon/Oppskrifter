@@ -2,36 +2,34 @@
 created: 2026-05-05
 ---
 
-# Roasted Pork, Fennel, and Onions
-
-*Great for big feasts! Olive oil can be substituted for butter, if you'd rather eat olive oil than butter.*
+Flott for store festmåltider! Olivenolje kan erstattes med smør, hvis du foretrekker olivenolje fremfor smør.
 
 ## Ingredienser
 
-- 2 Tbs butter
-- 1 cup fresh sage
-- 1 1/2 Tbs whole black peppercorns
-- 2 tsp cumin seeds
-- 3 lbs fat-trimmed loin roast, rolled and tied with bone
-- 4 red onions, halved
-- 3 bulbs fennel, untrimmed
-- 2 Tbs olive oil
-- 1 1/2 cups orange juice
-- 1/2 cup chicken stock
-- 1 Tbs balsamic vinegar
-- salt to taste
+- 2 ss smør
+- 2,4 dl fersk salvie
+- 1 1/2 ss hele, svarte pepperkorn
+- 2 ts spisskummenfrø
+- 1,4 kg ytrefilet, uten fett, rullet og bundet med bein
+- 4 rødløker, delt i to
+- 3 fennikelkuler, med skall
+- 2 ss olivenolje
+- 3,6 dl appelsinjuice
+- 1,2 dl kyllingkraft
+- 1 ss balsamicoeddik
+- salt etter smak
 
 ## Fremgangsmåte
 
-1. Melt butter in frying pan over medium high heat. Add 1/2 cup sage and stir until leaves are slightly darker green and crisp, about 1 minute. Transfer with slotted spoon to towels to drain. When leaves are cool, wrap in towels and seal in plastic bag. Save butter.
-2. Finely grind peppercorns and cumin in a spice grinder.
-3. Rinse pork and pat dry; rub pepper mixture all over the meat. Tuck remaining sage leaves equally under the strings on the smooth (fattiest) side of the roast. Set the pork, herb side up, on a rack in a 10x15-inch pan.
-4. Cut onions in half crosswise; don't peel. Trim off feathery fennel tops and reserve. Trim any bruises or dark spots from fennel. Rinse, then slice each vertically to make 3 or 4 equal slices.
-5. Pour 2 tablespoons olive oil into a 10x12x15-inch rimmed pan and tilt to coat. Turn onions cut side down in pan. Turn fennel slices in pan to coat with oil.
-6. Put roast on middle rack in 400 degree F (205 degrees C) oven. Drizzle fennel with 3/4 cup orange juice. Set vegetables on rack beneath pork. Bake until fennel slices are browned lightly on the bottom, about 35 minutes, then turn slices. Continue to cook with onions until both vegetables are browned on the bottom, about 20 minutes longer. If drippings in the pan get dark enough to scorch, pour a couple tablespoons of water onto them and tilt pan to distribute moisture. Bake pork until thermometer inserted in the center reaches 145 degrees F, about 45 minutes.
-7. Transfer meat to large platter and keep warm; let stand at least 10 minutes. Add 2 tablespoons water to vegetables and tilt pan to distribute moisture; leave in pan and keep warm.
-8. Remove rack and discard fat, then add reserved butter, remaining 3/4 cup orange juice, broth, and vinegar to roast pan. Boil on high heat, stirring to release browned drippings, until reduced to about 1/2 cup, about 10 minutes. Drain juices from pork into pan.
-9. Arrange onions and fennel with pork. If desired, add some of the feathery greens from fennel tops. Sprinkle with the fried sage leaves. Slice roast and serve with vegetables and sauce. Add salt to taste.
+1. Smelt smør i en stekepanne over middelhøy varme. Tilsett 1,2 dl salvie og rør til bladene er litt mørkere grønne og sprøe, omtrent 1 minutt. Overfør dem med en hullsleiv til et håndkle for å renne av. Når bladene er avkjølte, pakk dem i håndklær og ha dem i en plastpose. Ta vare på smøret.
+2. Finmal pepperkorn og spisskummenfrø i en krydderkvern eller morter.
+3. Skyll kjøttet og tørk det. Gni hele kjøttet inn med krydermiksen. Legg resten av salviebladene jevnt under snorene på den glatte (feteste) siden av steken. Plasser steken, med urtesiden opp, på et rist i en form som er 25x38 cm.
+4. Del løkene på tvers uten å skrelle dem. Skjær av og ta vare på fennikeltoppene. Fjern skadde eller mørke partier, skyll fenniklene og skjær hver av dem på langs i tre eller fire like skiver.
+5. Hell 2 ss olivenolje i en langpanne (ca. 25x38x38 cm) og vri den slik at bunnen blir dekket. Legg løk i pannen med snittflaten ned. Vend fennikelskivene i pannen for å dekke dem med olje.
+6. Sett stekken på midterste rille i ovnen, som er forvarmet til 205 grader Celsius. Dryss fennikkel med 1,8 desiliter appelsinjuice. Legg grønnsakene på risten under kjøttet. Stek til fennikelskivene er lett brunet i bunnen, ca. 35 minutter, og snu deretter skivene. Fortsett å steke med løk til begge grønnsakene er brunet i bunnen, ca. 20 minutter til. Hvis væsken i pannen blir for mørk, hell et par spiseskjeer med vann over og hell pannen for å fordele fuktigheten. Stek kjøttet til termometeret, stukket inn i midten, viser 63 grader Celsius, ca. 45 minutter.
+7. Legg kjøttet på et stort fat, dekk det til og la det hvile i minst 10 minutter. Tilsett 2 ss vann i grønnsakene og vipp pannen slik at væsken fordeles. Hold grønnsakene varme.
+8. Fjern risten og kast fettet, deretter tilsett reservert smør, resten av 1,8 dl appelsinjuice, kraft og eddik i stekepannen. Kok opp på høy varme, rør for å løsne de brunede restene, til sausen er redusert til omtrent 1,2 dl, i ca. 10 minutter. Hell saften fra svinekjøttet over i pannen.
+9. Legg løk og fennikel sammen med kjøttet. Hvis du ønsker det, kan du tilsette litt av de fine bladene fra fennikeltoppene. Dryss over de fritterte salviebladene. Skjær kjøttet i skiver og server med grønnsaker og saus. Smak til med salt.
 
 ## Info
 

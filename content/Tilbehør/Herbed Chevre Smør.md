@@ -2,19 +2,17 @@
 created: 2026-05-05
 ---
 
-# Herbed Chevre Smør
-
 ## Ingredienser
 
-- 6 g goat ost
-- 8 g non-fett fløte ost
-- 1/4 dl non-fett plain yogurt
-- 1 hvitløk nellik, knust
-- 1/2 ts dried timian
-- 1 ss hakket chives
-- En dash av cayenne pepper (valgfritt)
-- Salte etter smak
-- Freshly malt sort pepper etter smak
+- 6 g geitost
+- 8 g mager kremost
+- 1/4 dl naturell yoghurt uten fett
+- 1 fedd hvitløk, knust
+- 1/2 ts tørket timian
+- 1 ss hakket gressløk
+- En klype cayennepepper (valgfritt)
+- Salt etter smak
+- Nymalt svart pepper etter smak
 
 ## Fremgangsmåte
 

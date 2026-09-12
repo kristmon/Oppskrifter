@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Åpne vindu kirsebær lønn puff pannekake
-
 ## Ingredienser
 
 - 240 ml fryst sur kirsebær
@@ -20,12 +18,12 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Tint kirsebær og oppbevar juicen. Mål juicen; du trenger 60 ml. Hvis det ikke er nok juice, tilsett vann til du har 60 ml.
-2. Legg 15 ml smør i hver av 6 individuelle gratinformer eller store custard-kopper.
-3. Bland kirsebær-juice, oranssjejuice, maisstivelse og sukker i en liten gryte. Bland godt. Kok over medium varme, rør konstant til det er tykt og klart. Ta av varmen. Tilsett kirsebær, lønn-sirup og matfargestoff hvis ønsket. Sett til side.
-4. Bland egg, melk, mel og oransjeskal i en elektrisk blender eller matprosessor. Blend på høy hastighet i 30 sekunder.
-5. Legg 60 ml sauce i hver av de forberedte formene eller koppene. Hold eventuell gjenværende sauce varm. Fordel røren jevnt over sauce i hver kopp.
-6. Bak i forvarmmet 200 °C ovn i 25 minutter, eller til det er puffig og gyllent. Server med gjenværende kirsebær-sauce eller lønn-sirup.
+1 . Press kirsebær og oppbevar juicen. Mål opp juicen; du trenger 60 ml. Hvis det ikke er nok juice, tilsett vann til du har 60 ml.
+ 2 . Fordel 15 ml smør i hver av 6 individuelle gratinformer eller store serveringsglass.
+ 3 . Bland kirsebærjuice, appelsinjuice, maisstivelse og sukker i en liten kjele. Rør godt. Kok opp på middels varme, rør kontinuerlig til blandingen tykner og blir klar. Ta kjelen av varmen. Tilsett kirsebær, lønnssirup og eventuelt farge. Sett til side.
+ 4 . Bland egg, melk, mel og appelsinskall i en elektrisk blender eller kjøkkenmaskin. Kjør på høy hastighet i 30 sekunder.
+ 5 . Fordel 60 ml saus i hver av de forberedte formene eller glassene. Hold eventuell gjenværende saus varm. Fordel røren jevnt over sausen i hvert glass.
+ 6 . Stek i forvarmet ovn ved 200 °C i 25 minutter, eller til den er hevet og gyllen. Server med eventuell gjenværende kirsebærsaus eller lønnssirup.
 
 ## Info
 

@@ -2,26 +2,24 @@
 created: 2026-05-05
 ---
 
-# Mushroom Shrimp Sukiyaki
-
 ## Ingredienser
 
-- 3/4 kg Fresh sopp
-- 0,6 dl Salad olje
-- 5 dl selleri, sliced
-- 2 large Green Peppers, sliced
-- 2 large løk, sliced
-- 1,2 dl soyas
+- 3/4 kg fersk sopp
+- 0,6 dl salatolje
+- 5 dl selleri, i skiver
+- 2 store grønne paprikaer, i skiver
+- 2 store løk, i skiver
+- 1,2 dl soyasaus
 - 2 ss sukker
-- 1 ss Dry Sherry
-- 0,5 kg Frozen Shrimp, peeled & deveined
-- 1,2 dl storfekjøttbuljong or vann
-- 6 servings Hot kokt ris
+- 1 ss tørr sherry
+- 0,5 kg frosne reker, skrellet og uten skall
+- 1,2 dl storfekjøttkraft eller vann
+- 6 porsjoner ferdigkokt ris
 
 ## Fremgangsmåte
 
-1. Rinse, pat dry and skjær i skiver fresh sopp (makes 3 ¾ cups). Set aside. In a large skillet varm olje. tilsett selleri, green peppers and løk. Sauté for 5 minutter eller til løk are pale gold. bland sammen broth, soyas, sukker and sherry.
-2. Gradually tilsett to sautéed vegetables. Bring to boiling point. tilsett reserved sopp and shrimp. Return to kok; reduser varmen and la småkoke 8 to 10 minutter longer eller til shrimp turn pink. If desired, thicken sauce with 1 T. cornstarch blended with 1 T. vann. bland into mixture and kok til clear and slightly thickened, stirring often.
+1. Skyll, tørk og skjær fersk sopp i skiver (gir ca. 3 ¾ desiliter). Sett til side. I en stor stekepanne, varm olje. Tilsett selleri, grønn paprika og løk. Surr i 5 minutter, eller til løken er blekegul. Bland sammen kraft, soyasaus, sukker og sherry.
+2. Tilsett gradvis de surrede grønnsakene. Kok opp. Tilsett reservert sopp og reker. Kok opp igjen, reduser varmen og la småkoke i ytterligere 8 til 10 minutter, eller til rekene har blitt rosa. Hvis ønskelig, jevn sausen med 1 spiseskje maisenna blandet med 1 spiseskje vann. Rør inn i blandingen og kok til den er klar og lett tyknet, rør ofte.
 
 ## Info
 

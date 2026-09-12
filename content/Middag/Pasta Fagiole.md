@@ -2,21 +2,19 @@
 created: 2026-05-05
 ---
 
-# Pasta Fagiole
-
 ## Ingredienser
 
-- 450 g Ditalini eller annan liten pastaform
+- 450 g ditalini eller annen liten pastaform
 - 60 ml olivenolje
-- 1 hvitløksfedd, finhakket
-- 2 store grøne paprikaer, hakka
-- 2,5 dl hakka løk
-- 2,5 dl hakka selleri
-- 1 boks (450 g) tomatpure
-- 1 boks vatn
-- salt og fersk malt svart pepper etter smak
-- dash tørka persille
-- 2 bokser (hver 340 g) kvite cannelini-bønner
+- 1 fedd hvitløk, finhakket
+- 2 store, grønne paprikaer, hakket
+- 2,5 dl hakket løk
+- 2,5 dl hakket selleri
+- 1 boks (450 g) tomatpuré
+- 1 boks vann
+- salt og ferskmalt svart pepper etter smak
+- en klype tørket persille
+- 2 bokser (hver 340 g) hvite cannellinibønner
 
 ## Fremgangsmåte
 

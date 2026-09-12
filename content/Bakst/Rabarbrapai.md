@@ -14,6 +14,6 @@ Bland mel, sukker og bakepulver med smeltet smør. La deigen avkjøles noe, og r
 
 I bunnen av paiformen legges rabarbra, litt ekstra sukker, og vaniljekrem.
 
-Legg paideigen som et lokk over og stek på 200 grader til paien ser ferdig ut (20-30 min).
+Legg paideigen over som et lokk, og stek ved 200 grader til paien ser ferdig ut (omtrent 20–30 minutter).
 
 Serveres varm eller kald med vaniljeis.

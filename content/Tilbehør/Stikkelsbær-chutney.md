@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Stikkelsbær-chutney
-
 ## Ingredienser
 
 - 0,8 dl rød stikkelsbær-gelé
@@ -13,8 +11,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en liten kasserolle, over medium varme, smelt gelén. Rør inn chutney, saft og sherry. Kok til det er varmt gjennom.
-2. Serv varmt med kalkun-fondue.
+1. I en liten kjele, over middels varme, smelter du gelen. Rør inn chutney, saft og sherry. Kok opp til den er gjennomvarm.
+2. Server varmt med kalkunfondue.
 
 ## Info
 

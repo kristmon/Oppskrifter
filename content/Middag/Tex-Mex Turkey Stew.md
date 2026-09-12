@@ -2,35 +2,33 @@
 created: 2026-05-05
 ---
 
-# Tex-Mex Turkey Stew
-
 ## Ingredienser
 
 - 1 ss olje
 - 0,5 kg hakket kalkun
-- 1 1-3/4 oz Package taco seasoning
-- 2,5 dl canned diced tomater with juices
-- 2,5 dl whole kernel mais
-- 1 Small green chili pepper seeded and chopped
+- 1 pose (1-21 g) tacakrydder
+- 2,5 dl hermetiske, hakkede tomater med saft
+- 2,5 dl mais, hele korn
+- 1 liten grønn chilipepper, uten frø og finhakket
 - 1,2 dl vann
-- 5 dl red, yellow, orange or green peppers chopped
-- 2,5 dl cubed poteter cooked
-- 2,5 dl dark red røde bønner rinsed and drained well
+- 5 dl paprika, i rødt, gult, oransje eller grønt, i biter
+- 2,5 dl poteter i terninger, kokt
+- 2,5 dl mørkerøde kidneybønner, skylt og godt drenert
 - 1/4 ts salt
 - 1/2 ts pepper
-- 6 Medium to Large red, yellow, orange or green peppers halved and seeded
-- 2,5 dl dried bread crumbs buttered
-- 1,2 dl Monterey Jack ost shredded
+- 6 mellomstore til store paprikaer i rødt, gult, oransje eller grønt, delt på midten og uten frø
+- 2,5 dl tørket brødrasp, smurt med smør
+- 1,2 dl Monterey Jack ost, revet
 
 ## Fremgangsmåte
 
-1. Over medium varm, varm olje in a large stekk pan. tilsett kalkun and lightly brown, breaking kalkun into medium size chunks.
-2. Rør in taco seasoning bland and bland well.
-3. Tilsett next 4 ingredients; rør and kok for 5 minutter.
-4. Tilsett chopped peppers and poteter; la småkoke covered for 3 minutter. rør in drained røde bønner. Cover and reduser varmen to warm.
-5. Microwave pepper halves for 7 minutter, turning halfway through.
-6. Fill pepper shells with kalkun mixture, top with bread crumbs and ost.
-7. Broil about 4 inches from the varm source for 5 minutter to brown bread crumbs and melt ost.
+1 . Varm oljen på middels varme i en stor stekepanne. Tilsett kalkun og brun lett, og del kalkunen i mellomstore biter.
+ 2 . Bland inn tacakrydder og rør godt.
+ 3 . Tilsett de neste ingrediensene ( 4 ); rør og kok i  5  minutter.
+ 4 . Tilsett hakket paprika og poteter; la det småkoke under lokk i  3  minutter. Rør inn avrente svarte bønner. Sett på lokket og reduser varmen til lav.
+ 5 . Varm paprikahalvdelene i mikrobølgeovnen i  7  minutter, snu dem halvveis.
+ 6 . Fyll paprikaskallene med kalkunblandingen, dryss over brødsmuler og ost.
+ 7 . Gratiner på høy varme, ca.  10,2  cm fra varmeelementet, i  5  minutter, til brødsmulene er gyllenbrune og osten er smeltet.
 
 ## Info
 

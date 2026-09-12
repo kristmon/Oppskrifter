@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Soya-sitron-penslingsaus
-
 ## Ingredienser
 
 - 1 ss brunt sukker

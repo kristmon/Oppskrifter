@@ -8,11 +8,11 @@ created: 2009-12-19
 
 - 1 ss olje
 - 1 fedd hvitløk, presset
-- 1 boks bønner (pinto, sorte eller røde bønner)
+- 1 boks bønner (pinto, svarte eller røde)
 - salt
 - pepper
 - 1/2 - 1 ts spisskummen (etter smak)
-- evt litt vann
+- eventuelt litt vann
 
 ## Fremgangsmåte
 

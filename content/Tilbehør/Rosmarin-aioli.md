@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Rosmarin-aioli
-
 *Aioli er en fransk betegnelse for hvitkløks-smakende majones.*
 
 ## Ingredienser

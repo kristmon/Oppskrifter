@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Grillet sopp, skinke og basilikum-spyd
-
 ## Ingredienser
 
-- 450 g fersk hvit sopp
-- 75 ml ekstra jomfruelig olivenolje
-- 75 ml rødvin-eddik
-- 85 g skivet røykt skinke eller kanadisk bacon, kuttet i 2,5 cm strimler
-- 1 medium rød eller grønn paprika, kuttet i 2,5 cm biter
-- 16 fersk basilikum-blad
+- 450 g fersk, hvit sopp
+- 75 ml ekstra virgin olivenolje
+- 75 ml rødvinsekstrakt
+- 85 g skivet, røkt skinke eller kanadisk bacon, kuttet i 2,5 cm strimler
+- 1 middels stor rød eller grønn paprika, kuttet i 2,5 cm biter
+- 16 friske basilikumblader
 - salt etter smak
 - pepper, etter smak
-- 30 ml hakket petersilie
+- 30 ml hakket persille
 
 ## Fremgangsmåte
 
-1. Forvarm grill eller stekeovn. Med liten børste, rens sopp; sett til side. I liten bolle, kombiner olje og eddik; sett til side.
-2. På 4 store eller 8 mindre spyd, trå vekslende sopp, skinke eller bacon, paprika og basilikum-blad. Pensl generøst med olje-eddik-blanding; strø over salt og pepper.
-3. Grill eller bak 10-12 cm fra varmekilde til soppen er gullbrun, snu av og til, ca. 6-7 minutter. Plasser spyd på fat, pensl med noen gjenværende olje-eddik-blanding. Strø over petersilie.
+1. Forvarm grillen eller stekeovnen. Bruk en liten børste til å rengjøre soppen; sett til side. I en liten bolle, bland olje og eddik; sett til side.
+2. Tre sopp, skinke eller bacon, paprika og basilikumblader vekselvis på 4 store eller 8 mindre spyd. Pensle generøst med olje- og eddikblandingen; dryss over salt og pepper.
+3. Grill eller stek på 10-12 cm avstand fra varmekilden til soppen er gyllenbrun, snu av og til, i ca. 6-7 minutter. Legg spydene på et fat, pensl med eventuelt resterende olje- og eddikblanding. Dryss over persille.
 
 ## Info
 

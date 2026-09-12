@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Tre ostesaus Alfredo kaos
-
 ## Ingredienser
 
 - 2 ss smør
@@ -18,9 +16,9 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Hakk prosciutto og kok i olivenolje omkring ett minutt. Tilsett smøret.
-2. Når smøret er smeltet, tilsett den tykke piskekrmen. Når kremen begynner å koke, tilsett mascarpone. Når det smelter, tilsett fontina. Rør over svært lav varme til fontina er smeltet.
-3. Smak til med muskatnøtt og pepper. Hell over pasta og topp med gnidd asiago.
+1 . Skjær spekeskinke i biter og stek i olivenolje i omtrent ett minutt. Tilsett smør.
+ 2 . Når smøret er smeltet, tilsett fløtekrim. Når kremen begynner å koke, tilsett mascarpone. Når mascarponen er smeltet, tilsett fontina. Rør over svært svak varme til fontinaen er smeltet.
+ 3 . Smak til med muskat og pepper. Hell over pastaen og topp med revet asiago.
 
 ## Info
 

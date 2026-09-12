@@ -2,34 +2,32 @@
 created: 2026-05-05
 ---
 
-# Turkey Potpie a La Greco
-
 ## Ingredienser
 
-- 1 kg kalkun thighs, skinned, boned cut into 1/2-inch cubes
-- 0,6 dl mel
-- 1/2 ts kanel
-- 2 ss vegetarolje
-- 2,5 dl rødvin
-- 1 Can (8 ounces) tomatsaus
-- 2 ss brunt sukker
-- 2 ss raisins
-- 3 ss red vineddiksyre
-- 3 Cloves minced hvitløk
-- 2,5 dl frozen whole løk
-- 2 ts mixed whole pickling spice
-- 2,5 dl frozen peas
-- 1 Can (8 ounces) refrigerated crescent dinner rolls
-- 2 oz Feta ost
+- 1 kg kalkunlår, uten skinn og ben, skjært i 1/2-centimeter store terninger.
+- 0,6 desiliter mel.
+- 1/2 teskje kanel.
+- 2 spiseskje vegetabilsk olje.
+- 2,5 desiliter rødvin.
+- 1 boks (227 gram) tomatsaus.
+- 2 spiseskje brunt sukker.
+- 2 spiseskje rosiner.
+- 3 spiseskje rød eddik.
+- 3 Hakket hvitløk og nellik.
+- 2,5 desiliter frosne, hele løk.
+- 2 teskje ferdigblandet krydderblanding for sylting.
+- 2,5 desiliter frosne erter.
+- 1 boks (227 gram) kjølte, ferdige crescent-rundstykker.
+- 57 gram fetaost.
 
 ## Fremgangsmåte
 
-1. In a plastic bag, bland sammen mel and kanel. tilsett meat cubes and shake to evenly coat each piece.
-2. Varm olje in a medium skillet over medium-high varm. Saute meat cubes a few at a time til evenly browned on all sides. Transfer meat to a 2- quart casserole dish.
-3. Rør wine, tomatsaus, brunt sukker, raisins, eddiksyre and hvitløk into meat drippings remaining in the skillet. bring til kokepunktet. hell the hot mixture over the meat. rør in the løk. Tie pickling spices in a cheesecloth bag and submerge in the meat mixture.
-4. Cover the casserole and bak in a 350 degree F. ovn 45 minutter. Remove the whole spice bag and rør in the peas. Cover and increase the ovn temperature to 400 grader F. and continue baking the casserole for 5 minutter eller til the mixture is bubbly.
-5. Remove crescent dough from can and separate into 8 triangles. At the wide end of each triangle, place 1 teaspoon feta ost. Roll end toward the point of the triangle (like a jelly roll) to encase the ost in the dough.
-6. Arrange ost filled crescents on top of the hot casserole (wheel-spoke fashion) with the points meeting in the center. Return to 400 degree F. ovn. bak, uncovered, 10 to 15 minutter eller til crescent rolls are golden brown.
+1 . I en plastpose, bland mel og kanel. Tilsett kjøttbiter og rist posen slik at hver bit er jevnt dekket.
+ 2 . Varm olje i en middels stor stekepanne over middels høy varme. Stek kjøttbitene i små porsjoner om gangen, til de er jevnt brunet på alle sider. Overfør kjøttet til en  2 -liters paiform.
+ 3 . Hell vin, tomatsaus, brunt sukker, rosiner, eddik og hvitløk i stekepannen, i fettet som er igjen etter steking av kjøttet. Kok opp. Hell den varme blandingen over kjøttet. Rør inn løk. Bind krydderblandingen i en osteklutpose og legg den ned i kjøttblandingen.
+ 4 . Dekk paiformen med lokk og stek i en  350  graders ovn i  45  minutter. Fjern hele krydderposen og rør inn ertene. Dekk til og øk ovnstemperaturen til  400  grader, og fortsett å steke paiformen i  5  minutter, eller til blandingen bobler.
+ 5 . Ta ut butterdeigen fra boksen og del den i  8  trekanter. Plasser  1  teskjeer med fetaost på den brede enden av hver trekant. Rull enden mot spissen av trekanten (som en gelédeig), slik at osten er inni deigen.
+ 6 . Plasser de ostefylte butterdeigsformene oppå den varme paiformen (i et hjul- eller eikeformat), med spissene møtende hverandre i midten. Sett tilbake i  400  graders ovn. Stek uten lokk i  10  til  15  minutter, eller til butterdeigsformene er gyllenbrune.
 
 ## Info
 

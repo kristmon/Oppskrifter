@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Rask frukt-lær
-
 ## Ingredienser
 
 - 3 ferske California-ferskener, nektariner ELLER 6 ferske California-plommer
@@ -12,15 +10,15 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. I en blender eller matprosessor, bland frukt og sukker til glatt. Hell frukt-purée inn i mikrobølgesikker bolle og kok på HØY i 8 minutter eller til purée er redusert på halvparten.
-2. Legg et stykke mikrobølgesikker plastlokk på en 25 cm mikrobølgesikker tallerken. Jevnt spred 60 ml frukt-blanding til en 16,5 cm diametersenkel. Sørg for at kantene ikke er for tynne eller de vil brenne av. Hev tallerken på toppen av invertert (opp-ned) mikrobølgesikker skål.
-3. Mikrobølg på MEDIUM (50% effekt) ca 5 minutter eller til lær er ikke lenger klebrig i sentrum. Hvis mer koketid er nødvendig, kok på MEDIUM i 25 sekunders trinn, se nøye på slik at lær ikke brenner.
-4. Forsiktig plasser plastlokk med frukt-lær på tråd-rist for å avkjøle. La stå ved romtemperatur gjennom natten for å tørke. Gjenta med gjenværende frukt-purée.
-5. Rull opp lær i plastlokk. Oppbevar ved romtemperatur i opptil 1 uke.
-6. Følg retningene ovenfor gjennom matlaging frukt-purée i mikrobølgen. La avkjøle.
-7. På plastlokk brett eller bakebrett, spred frukt til en 16,5 cm sirkel eller rektangel 0,6 cm tykk. Dekk pannen med muslinstoff.
-8. Plasser pannen i direkte sollys i 12 til 24 timer til tørr.
-9. Frukt-lær er ferdig når kantene trekker tilbake fra plastlokk og sentrum er ikke klebrig.
+1 . I en blender eller kjøkkenmaskin, bland frukt og sukker til en jevn masse. Hell fruktpuréen i en mikrobølgeovnsikker bolle og varm på høy effekt i 8 minutter, eller til puréen er redusert til halvparten.
+ 2 . Legg et stykke mikrobølgeovnsikker plastlokk på en 25 cm stor, mikrobølgeovnsikker tallerken. Fordel 60 ml fruktblanding jevnt utover lokket, og form den til en sirkel med en diameter på 16,5 cm. Pass på at kantene ikke er for tynne, da de kan brenne. Plasser tallerkenen oppå en invertert (vendt opp-ned) mikrobølgeovnsikker skål.
+ 3 . Varm i mikrobølgeovnen på middels effekt ( 50 % effekt) i ca. 5 minutter, eller til massen ikke lenger er klissete i midten. Hvis mer varmetid er nødvendig, varm på middels effekt i 25 sekunders intervaller, og følg nøye med slik at massen ikke brenner.
+ 4 . Legg forsiktig plastlokket med fruktmassen på en rist for å avkjøles. La den stå ved romtemperatur over natten for å tørke. Gjenta prosessen med resten av fruktpuréen.
+ 5 . Rull fruktmassen sammen i plastlokket. Oppbevar ved romtemperatur i opptil 1 uker.
+ 6 . Følg instruksjonene ovenfor når du varmer fruktpuréen i mikrobølgeovnen. La den avkjøles.
+ 7 . På et plastbrett eller bakebrett, fordel frukt utover i en sirkel eller et rektangel som er 16,5 cm i diameter og 0,6 cm tykk. Dekk formen med et muslinstoff.
+ 8 . Plasser formen i direkte sollys i 12 til 24 timer, til den er tørr.
+ 9 . Fruktmassen er ferdig når kantene trekker seg tilbake fra plastlokket og midten ikke lenger er klissete.
 
 ## Info
 

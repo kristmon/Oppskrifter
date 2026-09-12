@@ -2,25 +2,23 @@
 created: 2026-05-05
 ---
 
-# Honning-oransje Marys
-
 ## Ingredienser
 
 - 950 ml tomatjuice
-- 120 ml oranssjejuice
+- 120 ml appelsinjuice
 - 60 ml honning
-- 10 ml tilberedt pepperrot
-- 2 ml selleriSalt
-- Varm pepperaus, etter smak
-- Worcestershire-sauce, etter smak
-- Nykvern svart pepper, etter smak
-- Selleri, til garnering
+- 10 ml ferdig revet pepperrot
+- 2 ml sellerisalt
+- Varm pepper, etter smak
+- Worcestershire-saus, etter smak
+- Nykvernet svart pepper, etter smak
+- Selleri, til pynt
 
 ## Fremgangsmåte
 
-1. I en stor mugge pisker du sammen tomatjuice, oranssjejuice, honning, pepperrot og sellerisalt til det er godt blandet.
-2. Krydre til smak med varm pepperaus, Worcestershire-sauce og pepper.
-3. Server over is i høye glass, garnert med selleri.
+1. I en stor kanne piskes tomatjuice, appelsinjuice, honning, pepperrot og sellerisalt sammen til alt er godt blandet.
+2. Smak til med sterk chilisaus, Worcestershire-saus og pepper.
+3. Server over is i høye glass, pyntet med selleri.
 
 ## Info
 

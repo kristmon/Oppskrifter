@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Rosmarin aïoli
-
 *Aïoli er en fransk betegnelse som refererer til hvitløk-smakende mayonnaise.*
 
 ## Ingredienser

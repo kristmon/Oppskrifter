@@ -2,8 +2,6 @@
 created: 2026-05-05
 ---
 
-# Penne med Rask Tomatsaus og Ricottaost
-
 ## Ingredienser
 
 - 450 g Penne, Mostaccioli eller annen medium pastafasong, ukokt
@@ -16,8 +14,8 @@ created: 2026-05-05
 
 ## Fremgangsmåte
 
-1. Tilbered pasta etter pakningens anvisning. Mens pastaen koker, kombiner tomatene, basilikumet og hvitløken i en blender eller matprosessor. Blend på lav hastighet til tomatene er helt pusjert. Hell blandingen i en stor gryte. Varm til kokende, reduser varmen og kook sakte i 5 minutter.
-2. Når pastaen er ferdig, hell av grundig. Returner pastaen til kokekastrollen, tilsett tomatsausen og varm over lav varme til sausen simrer og pastaen er belagt med saus. Fjern gryta fra varmen og rør inn ricotta- og Parmesanostene til de er jevnt fordelt. Del mellom serveringskål og topp med hakket frisk basilikum eller persille.
+1. Kok pastaen etter anvisningene på pakken. Mens pastaen koker, bland tomatene, basilikum og hvitløk i en blender eller kjøkkenmaskin. Kjør på lav hastighet til tomatene er helt most. Hell blandingen over i en stor kjele. Varm opp til kokepunktet, reduser varmen og la det småkoke i 5 minutter.
+2. Når pastaen er ferdig, sil den godt. Ha pastaen tilbake i kjelen, tilsett tomatsausen og varm forsiktig opp over svak varme til sausen småkoker og pastaen er dekket av saus. Ta kjelen av varmen og rør inn ricottaen og parmesanosten til de er jevnt fordelt. Fordel mellom serveringsfat og pynt med hakket, frisk basilikum eller persille.
 
 ## Info
 
