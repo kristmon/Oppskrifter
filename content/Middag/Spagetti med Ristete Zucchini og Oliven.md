@@ -1,0 +1,29 @@
+---
+created: 2026-05-05
+---
+
+# Spagetti med Ristete Zucchini og Oliven
+
+## Ingredienser
+
+- 450 g Spagetti, Tynnt Spagetti eller Linguine, ukokt
+- 3 medium zucchini, skåret i 1 cm skiver
+- 1 ts vegetarolje
+- 2 medium løk, hakket
+- 3 hvitløkfedd, finhákkete
+- 1 glass (340 g) ristete paprika, avhelt (væske oppbevart) og hakket
+- 12 svarte oliven, skåret
+- 1/2 ts knust rødt chiliflak
+- Salt og pepper etter smak
+- 0,5 dl mikstet fetaost
+
+## Fremgangsmåte
+
+1. Tilbered pasta etter pakningens anvisning. Hell av og skyll med kaldt vann; hell av igjen.
+2. Forvarm ovnen til 260°C. Spray 2 store kakeplater med vegetarolje kokesprayen. Legg zucchini på platene og spray dem med kokesprayen. Rist zucchini 8-10 minutter, til den er mørkent.
+3. I en medium ikke-klebeende stekepanne, varm vegetaroljen over medium varme. Tilsett løk og hvitløk og sauté til den er lett gyllenbrun, ca. 5 minutter. Tilsett løk og hvitløk til zucchini og rør inn de ristete paprikakene, olivenen, de røde chiliflakene og pastaen. Smak til med salt og pepper og strø med fetaost.
+
+## Info
+
+- **Porsjoner**: 4
+- **Kilde**: National Pasta Association, http://www.ilovepasta.org/recipes.html, Copyright: Copyright © 2007 National Pasta Association

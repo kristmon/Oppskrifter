@@ -1,0 +1,66 @@
+name: Publiser oppskriftssiden
+
+on:
+  push:
+    branches:
+      - v5
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hent repoet
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Sett opp Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Mellomlagre avhengigheter
+        uses: actions/cache@v5
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Installer avhengigheter
+        run: npm ci
+
+      - name: Installer Quartz-utvidelser
+        run: npx quartz plugin install
+
+      - name: Bygg nettsiden
+        run: npx quartz build
+
+      - name: Klargjør GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Last opp nettsiden
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Publiser
+        id: deployment
+        uses: actions/deploy-pages@v4
