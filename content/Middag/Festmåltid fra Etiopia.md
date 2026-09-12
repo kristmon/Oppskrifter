@@ -40,7 +40,7 @@ Tørrstek løken noen minutter i en gryte. Ha i niter kibbeh, hvitløk, ingefær
 - 1/2 ts shah jeera (svart spisskummen, kan ikke erstattes med vanlig spisskummen)
 - salt
 
-Tørrstek løken i noen minutter. Ha i niter kibbeh, hvitløk og ingefær. Bland inn berbere og shah jeera. Ha i linsene, vann, buljong og salt. Rør og kok opp. Senk varmen og la det småkoke i 45 minutter, eller til linsene er møre. Ta gryten av varmen, rør og la den stå i ytterligere 10 minutter.
+Tørrstek løken i noen minutter. Ha i niter kibbeh, hvitløk og ingefær. Bland inn [[Berbere kryddermix]] og shah jeera. Ha i linsene, vann, buljong og salt. Rør og kok opp. Senk varmen og la det småkoke i 45 minutter, eller til linsene er møre. Ta gryten av varmen, rør og la den stå i ytterligere 10 minutter.
 
 Kan gjerne lages en dag i forveien, settes i kjøleskap og varmes opp neste dag.
 
@@ -63,7 +63,7 @@ Når det er omtrent 10 minutter igjen av koketiden, smelter du niter kibbeh i en
 
 - 1 løk, hakket
 - 1 ts hvitløk, presset
-- 1/2 ts berbere
+- 1/2 ts [[Berbere kryddermix]]
 - 1 ss niter kibbeh
 - 2 never brekkbønner
 - 1 gulrot, skivet

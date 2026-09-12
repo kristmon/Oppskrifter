@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Changed
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 30
+    columnSize:
+      file.name: 299

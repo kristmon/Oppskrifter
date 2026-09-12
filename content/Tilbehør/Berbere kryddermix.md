@@ -1,7 +1,7 @@
 ---
 created: 2017-11-08
 ---
-Berbere er en sterk kryddermix som brukes mye i Etiopia og Eritrea.
+Berbere er en sterk kryddermix som brukes mye i [[Festmåltid fra Etiopia|Etiopia]] og Eritrea.
 
 - 1 ss salt
 - 6 ss paprikapulver
