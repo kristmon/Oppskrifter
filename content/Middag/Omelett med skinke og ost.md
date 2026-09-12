@@ -4,13 +4,13 @@ created: 2020-08-28
 
 ![[Bilder/Omelett med skinke og ost.jpg|300]]
 **Porsjoner**: 1  
-**Tid**: 900 min
+**Tid**: 15 min
 
 ## Ingredienser
 
-- 36 g kokt skinke, 3 slices
+- 36 g kokt skinke, 3 skiver
 - 4 egg
-- 30 g hvitost, Norvegia, 4 slices, kortside
+- 30 g hvitost, Norvegia, 4 skiver på kortsiden
 
 ## Fremgangsmåte
 
