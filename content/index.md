@@ -2,7 +2,8 @@
 title: Oppskrifter
 ---
 
-Velkommen til oppskriftsboka vår. En del av innholdet er oversatt eller modifisert av AI, så det er nok enkelte feil omkring. Vi retter det vi finner :)
+Velkommen til outfluencer.no! Nettstedet er primært til egen bruk, men om vi kan **påvirke** andre til å lage god mat, er vi glade for det ;-)
+
 
 Bruk søkefeltet for å finne en rett eller ingrediens, eller bla etter kategori:
 
