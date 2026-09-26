@@ -20,17 +20,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hent repoet
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
       - name: Sett opp Node
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v7
         with:
           node-version: 24
 
       - name: Mellomlagre avhengigheter
-        uses: actions/cache@v5
+        uses: actions/cache@v6
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
@@ -47,10 +47,10 @@ jobs:
         run: npx quartz build
 
       - name: Klargjør GitHub Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Last opp nettsiden
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: public
 
@@ -63,4 +63,4 @@ jobs:
     steps:
       - name: Publiser
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
