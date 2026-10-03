@@ -8,7 +8,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: nb-NO
-  baseUrl: kristmon.github.io/Oppskrifter
+  baseUrl: outfluencer.no
   ignorePatterns:
     - private
     - templates

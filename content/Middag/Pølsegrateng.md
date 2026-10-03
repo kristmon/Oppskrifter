@@ -27,7 +27,7 @@ Ikke la den bade i saus.
 - 0.25 ts muskatnøtt
 - 05 ts salt
 - 0.25 ts hvit pepper
-- Blomkål. Kok litt på forhånd for å få den myk.
+- Blomkål. (når ungene ikke er hos oss). Kok litt på forhånd for å få den myk.
 
 ## Fremgangsmåte
 
